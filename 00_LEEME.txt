@@ -51,8 +51,8 @@ extraccion-documental-sbs)
        git add -A ; git commit -m "S02: E1 lectores" ; git push
 
 CADA SESION NUEVA
-  git switch main
-  git pull
+  git fetch origin
+  git switch sesion-03
   git switch -c trabajo-s03
   ... al terminar la sesion:  git add -A ; git commit -m "S03: mi avance" ; git push mio trabajo-s03
   (los puntos de partida de cada sesion tienen un tag: s02-inicio, s03-inicio, ...)
