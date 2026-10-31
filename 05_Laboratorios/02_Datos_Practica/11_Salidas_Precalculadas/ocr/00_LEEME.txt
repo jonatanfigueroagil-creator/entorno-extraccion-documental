@@ -1,4 +1,4 @@
-Carpeta ocr: salidas precalculadas de S03 (ejecuciones reales del 30/10/2026; nada se inventa).
+Carpeta ocr: salidas calculadas de antemano de S03 (ejecuciones reales del 30/10/2026; nada se inventa).
 
 1) firma_sello_OFI-0001, 0005, 0012, 0015 y 0016 (.json)  ·  ficha E3
    Detección de firma y sello con OpenCV 4.10.0.84 (color en HSV y componentes conectados), sobre la página dibujada a
