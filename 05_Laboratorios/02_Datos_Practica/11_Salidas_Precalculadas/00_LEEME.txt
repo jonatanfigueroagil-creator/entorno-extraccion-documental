@@ -11,6 +11,6 @@ Estructura prevista:
 - llm/   respuestas estructuradas del modelo de lenguaje por documento y por
          prompt (un JSON por documento).
 
-Estado: vacia. Se llenara con las ejecuciones reales en el laboratorio; hasta
-entonces no hay salidas de modelos en esta carpeta. Cada archivo llevara el
+Estado: ocr/ tiene las salidas de S03 (ver ocr/00_LEEME.txt); llm/ sigue vacia y se llenara
+con las ejecuciones reales de S05. Cada archivo llevara el
 identificador del documento (por ejemplo OFI-0001.json).
