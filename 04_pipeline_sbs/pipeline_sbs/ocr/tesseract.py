@@ -31,7 +31,7 @@ def ocr_imagen(ruta: str | Path, idioma: str = "spa") -> str:
         raise FileNotFoundError(f"No existe la imagen: {ruta}")
     if shutil.which(pytesseract.pytesseract.tesseract_cmd) is None:
         raise TesseractNoDisponibleError(
-            "El programa tesseract no está en el PATH: el participante avisa al docente o indica la ruta de tesseract.exe "
+            "Tesseract no está en el PATH: avisa a tu docente o indica la ruta de tesseract.exe "
             "en pytesseract.pytesseract.tesseract_cmd."
         )
     with Image.open(ruta) as imagen:
