@@ -3,6 +3,13 @@
 
 ocr:
   idioma: spa            # código de idioma de Tesseract (datos "spa")
+  tesseract_cmd: ""      # S03: ruta de tesseract.exe; vacío = variable TESSERACT_CMD, PATH o carpeta estándar de Windows
+  lang: spa              # S03: idioma que usa pytesseract
+  oem: 1                 # S03: motor de Tesseract (1 = red neuronal LSTM)
+  psm: 6                 # S03: modo de segmentación; 6 = un bloque uniforme de texto
+  psm_pagina: 3          # S03: modo para páginas con varias columnas o zonas (se compara con psm en el LAB)
+  dpi: 300               # S03: resolución al pasar el PDF a imagen
+  receta: mediana         # S03: receta de limpieza de la imagen (crudo | gris | otsu | adaptativa | mediana)
   paddle:                # PaddleOCR 3.x en CPU (S02 lo prueba con una imagen; S03 lo amplía)
     idioma: es
     modelo_deteccion: PP-OCRv5_mobile_det          # modelos ligeros: ~1 s por imagen frente a ~14 s con los de serie
@@ -22,6 +29,9 @@ ingesta:
   carpeta_cuarentena: cuarentena            # S02: aquí se copian los archivos que fallan (junto con su motivo)
   umbral_ocr_caracteres_por_pagina: 20      # S02: menos caracteres por página => el PDF requiere OCR (se calibra con el corpus)
   hash: sha256                              # S02: huella del contenido para detectar duplicados
+
+calidad:
+  umbral_score: 0.85     # S03: puntaje mínimo para aceptar una lectura sin revisión humana
 
 llm:
   backend: ollama_local  # reservado: se usa desde S05 (ollama_local | servidor_compartido | api_nube)
