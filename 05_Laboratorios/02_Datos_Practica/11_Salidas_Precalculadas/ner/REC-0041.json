@@ -1,0 +1,33 @@
+{
+ "id": "REC-0041",
+ "modelo": "Davlan/xlm-roberta-base-ner-hrl",
+ "revision": null,
+ "version_transformers": "5.22.1",
+ "version_torch": "2.15.0+cu132",
+ "dispositivo": "cuda (NVIDIA GeForce RTX 5070)",
+ "agregacion": "simple",
+ "texto": "remitente + cuerpo del correo + texto del OCR del adjunto (ocr_s04)",
+ "entidades": [
+  {
+   "texto": "Silvia Torres Guerra",
+   "etiqueta": "PER",
+   "score": 0.9998,
+   "inicio": 221,
+   "fin": 241
+  },
+  {
+   "texto": "Banco Costa Norte DEMO S.A",
+   "etiqueta": "ORG",
+   "score": 0.9661,
+   "inicio": 292,
+   "fin": 318
+  },
+  {
+   "texto": "Silvia Torres Guerra",
+   "etiqueta": "PER",
+   "score": 0.9997,
+   "inicio": 367,
+   "fin": 387
+  }
+ ]
+}

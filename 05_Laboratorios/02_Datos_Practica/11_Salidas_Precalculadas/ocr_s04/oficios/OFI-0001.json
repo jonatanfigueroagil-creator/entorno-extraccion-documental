@@ -1,0 +1,17 @@
+{
+ "id": "OFI-0001",
+ "archivo": "OFI-0001.pdf",
+ "ruta": "02_Oficios/OFI-0001.pdf",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "mediana",
+ "psm": 6,
+ "inclinacion": 5.0,
+ "texto": "AUTORIDAD SUPERVISORA DEMO\nIntendencia DEMO de Riesgos Operacionales\nDocumento ficticio con fines de capacitacion\nOFICIO N* 0230-2026-1D/DSF\nLima, 24 de junio de 2026\nSenores\nAseguradora Nueva Aurora DEMO S.A.\nRUC 20992371634\nPresente.-\nAsunto: Solicitud de plan de accion para el cierre de observaciones de la visita de inspeccion\nReferencia: Carta N* 012-2026 de Aseguradora Nueva Aurora DEMO S.A.\nMediante el presente se requiere a su representada remitir la informacion detallada a continuacion, en el\nmarco de las labores de supervision del periodo en curso.\n[ne |Intormacion solicitada 22222222 |\n[1 —[Poiicainterna aprobada y su fecha de vigencia]\n[2 | Cronograma de implementacion de las medidas correctivas\nLa informacion debera ser presentada en un plazo de quince (15) dias habiles contados desde la\nrecepcion del presente oficio, en farmato digital y firmada por el responsable. El incumplimiento sera\nevaluado conforme a los profedimientosigqternos aplicables.\n\"ESA DE PARTES\nAtentamente, D EMO\nRECIBIDO\nRaul Sandoval Mendoza\nJefe de Equipo DEMO",
+ "confianza": 0.8966,
+ "score": 0.948,
+ "invalidos": 0,
+ "decision": "aceptar",
+ "segundos": 0.89,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

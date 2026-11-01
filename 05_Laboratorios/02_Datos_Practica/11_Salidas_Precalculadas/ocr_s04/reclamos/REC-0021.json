@@ -1,0 +1,17 @@
+{
+ "id": "REC-0021",
+ "archivo": "adjunto_REC-0021.pdf",
+ "ruta": "06_Reclamos/REC-0021.eml#adjunto_REC-0021.pdf",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "crudo",
+ "psm": 3,
+ "inclinacion": 0.0,
+ "texto": "Banco Andino DEMO S.A.\nEstado de cuenta - prestamo personal\nCliente: Ricardo Ledesma Nunez DNI 99663754\nFecha Descripcion Importe\n02/05/2026 Interes 145.00\n03/05/2026 Cargo reclamado (cargo duplicado) 2,219.00\n29/04/2026 Compra comercio DEMO 25.00\n26/04/2026 Pago servicio 263.00\n23/04/2026 Interes 121.00",
+ "confianza": 0.9545,
+ "score": 0.977,
+ "invalidos": 0,
+ "decision": "aceptar",
+ "segundos": 0.3,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

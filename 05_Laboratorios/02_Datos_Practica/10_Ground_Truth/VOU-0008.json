@@ -1,0 +1,56 @@
+{
+ "doc_id": "VOU-0008",
+ "tipo": "voucher",
+ "formato": "imagen_png",
+ "campos": {
+  "entidad": "Banco Andino DEMO S.A.",
+  "numero_operacion": "62475387",
+  "fecha": "2026-07-21",
+  "hora": "14:34",
+  "monto": 10005.5,
+  "moneda": "PEN",
+  "cuenta_destino": "999-7048462880",
+  "titular": "Diego Torres Herrera",
+  "depositante": "Elena Quispe Ponce",
+  "dni_depositante": "99004835"
+ },
+ "tablas": [],
+ "regiones": [
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    89,
+    260,
+    152,
+    333
+   ],
+   "unidad": "px",
+   "ancho_px": 288,
+   "alto_px": 448
+  },
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    161,
+    261,
+    226,
+    299
+   ],
+   "unidad": "px",
+   "ancho_px": 288,
+   "alto_px": 448
+  }
+ ],
+ "texto_completo": "Banco Andino DEMO S.A.\nCONSTANCIA DE DEPOSITO\nOperacion:\n62475387\nFecha:\n21/07/2026\nHora:\n14:34\nCuenta:\n999-7048462880\nTitular:\nDiego Torres Herrera\nDepositante:\nElena Quispe Ponce\nDNI:\n99004835\nMONTO S/ 10,005.50",
+ "degradacion": {
+  "rotacion": 5.46,
+  "dpi": 60,
+  "ruido": "gaussiano",
+  "perspectiva": true,
+  "sombra": "inf",
+  "escala": 0.5
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)"
+}

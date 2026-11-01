@@ -1,0 +1,84 @@
+{
+ "doc_id": "OFI-0039",
+ "tipo": "oficio",
+ "formato": "pdf_escaneado",
+ "campos": {
+  "numero_oficio": "0691-2026-ID/DSF",
+  "fecha": "2026-07-21",
+  "entidad": "Edpyme Sol Naciente DEMO S.A.",
+  "ruc": "20994538307",
+  "asunto": "Remision de reportes de tasas de interes y comisiones vigentes",
+  "referencia": "Carta N° 234-2026 de Edpyme Sol Naciente DEMO S.A.",
+  "plazo_dias": 15,
+  "emisor": "Intendencia DEMO de Riesgos Operacionales",
+  "firmante": "Victor Mendoza Valdivia",
+  "cargo": "Intendente DEMO"
+ },
+ "tablas": [
+  {
+   "nombre": "informacion_solicitada",
+   "encabezados": [
+    "N°",
+    "Informacion solicitada"
+   ],
+   "filas": [
+    [
+     "1",
+     "Copia de los contratos suscritos"
+    ],
+    [
+     "2",
+     "Reporte de tasas aplicadas por producto"
+    ],
+    [
+     "3",
+     "Politica interna aprobada y su fecha de vigencia"
+    ]
+   ]
+  }
+ ],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    137,
+    974,
+    393,
+    1073
+   ],
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    341,
+    872,
+    543,
+    1074
+   ],
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  }
+ ],
+ "texto_completo": "AUTORIDAD SUPERVISORA DEMO\nIntendencia DEMO de Riesgos Operacionales\nDocumento ficticio con fines de capacitacion\nOFICIO N° 0691-2026-ID/DSF\nLima, 21 de julio de 2026\nSenores\nEdpyme Sol Naciente DEMO S.A.\nRUC 20994538307\nPresente.-\nAsunto:\nRemision de reportes de tasas de interes y comisiones vigentes\nReferencia:\nCarta N° 234-2026 de Edpyme Sol Naciente DEMO S.A.\nMediante el presente se requiere a su representada remitir la informacion detallada a continuacion, en el\nmarco de las labores de supervision del periodo en curso.\nN°\nInformacion solicitada\n1\nCopia de los contratos suscritos\n2\nReporte de tasas aplicadas por producto\n3\nPolitica interna aprobada y su fecha de vigencia\nLa informacion debera ser presentada en un plazo de quince (15) dias habiles contados desde la\nrecepcion del presente oficio, en formato digital y firmada por el responsable. El incumplimiento sera\nevaluado conforme a los procedimientos internos aplicables.\nAtentamente,\nVictor Mendoza Valdivia\nIntendente DEMO",
+ "degradacion": {
+  "rotacion": -3.26,
+  "ruido": "gaussiano",
+  "ruido_sigma": 9.5,
+  "desenfoque_sigma": 0.6,
+  "sombra": "sup",
+  "perspectiva": false,
+  "jpeg_calidad": 60,
+  "dpi": 150,
+  "paginas": 1
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

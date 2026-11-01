@@ -1,0 +1,17 @@
+{
+ "id": "REC-0014",
+ "archivo": "adjunto_REC-0014.jpg",
+ "ruta": "06_Reclamos/REC-0014.eml#adjunto_REC-0014.jpg",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "crudo",
+ "psm": 3,
+ "inclinacion": 0.0,
+ "texto": "Banco Andino DEMO S.A.\nEstado de cuenta - cuenta de ahorros\nCliente: Silvia Montoya Benavides DNI 99653721\nFecha Descripcion 1 Importe\n22/03/2026 Interes 19.00\n19/03/2026 Compra comercio DEMO, 259.00\n16/03/2026 Interes 251.00\n23/03/2026 Cargo reclamado (tasa distinta) 141.00\n13/03/2026 Pago servicio 79.00",
+ "confianza": 0.8936,
+ "score": 0.947,
+ "invalidos": 0,
+ "decision": "aceptar",
+ "segundos": 0.2,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

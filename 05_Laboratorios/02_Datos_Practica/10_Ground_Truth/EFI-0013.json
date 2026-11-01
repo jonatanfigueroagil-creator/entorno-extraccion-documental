@@ -1,0 +1,219 @@
+{
+ "doc_id": "EFI-0013",
+ "tipo": "estado_financiero",
+ "formato": "pdf_nativo",
+ "campos": {
+  "entidad": "Seguros Tierra Firme DEMO S.A.",
+  "ruc": "20998253889",
+  "periodo": "2026-12-31",
+  "moneda": "PEN",
+  "unidad": "soles",
+  "total_activo": 14214,
+  "total_pasivo": 11500,
+  "total_patrimonio": 2713,
+  "utilidad_neta": 713,
+  "cuadra": false
+ },
+ "tablas": [
+  {
+   "nombre": "balance_general",
+   "encabezados": [
+    "Concepto",
+    "2026",
+    "2025"
+   ],
+   "filas": [
+    [
+     "ACTIVO",
+     "",
+     ""
+    ],
+    [
+     "Disponible",
+     "2,274",
+     "1,610"
+    ],
+    [
+     "Inversiones",
+     "4,263",
+     "292"
+    ],
+    [
+     "Cartera de creditos neta",
+     "852",
+     "3,512"
+    ],
+    [
+     "Cuentas por cobrar",
+     "710",
+     "731"
+    ],
+    [
+     "Inmuebles, mobiliario y equipo",
+     "284",
+     "292"
+    ],
+    [
+     "Otros activos",
+     "5,830",
+     "8,200"
+    ],
+    [
+     "Total activo",
+     "14,214",
+     "14,637"
+    ],
+    [
+     "PASIVO",
+     "",
+     ""
+    ],
+    [
+     "Obligaciones con el publico",
+     "2,200",
+     "2,350"
+    ],
+    [
+     "Adeudos y obligaciones financieras",
+     "3,000",
+     "3,850"
+    ],
+    [
+     "Cuentas por pagar",
+     "3,900",
+     "3,900"
+    ],
+    [
+     "Otros pasivos",
+     "2,400",
+     "2,150"
+    ],
+    [
+     "Total pasivo",
+     "11,500",
+     "12,250"
+    ],
+    [
+     "PATRIMONIO",
+     "",
+     ""
+    ],
+    [
+     "Capital social",
+     "1,500",
+     "1,050"
+    ],
+    [
+     "Reservas",
+     "300",
+     "200"
+    ],
+    [
+     "Resultados acumulados",
+     "200",
+     "300"
+    ],
+    [
+     "Resultado del ejercicio",
+     "713",
+     "837"
+    ],
+    [
+     "Total patrimonio",
+     "2,713",
+     "2,387"
+    ],
+    [
+     "Total pasivo y patrimonio",
+     "14,213",
+     "14,637"
+    ]
+   ],
+   "celdas_combinadas": [],
+   "estilo": "bordes"
+  },
+  {
+   "nombre": "estado_ganancias_perdidas",
+   "encabezados": [
+    "Concepto",
+    "2026",
+    "2025"
+   ],
+   "filas": [
+    [
+     "Ingresos por intereses",
+     "3,500",
+     "3,350"
+    ],
+    [
+     "Gastos por intereses",
+     "1,163",
+     "998"
+    ],
+    [
+     "Margen financiero bruto",
+     "2,337",
+     "2,352"
+    ],
+    [
+     "Provisiones",
+     "417",
+     "393"
+    ],
+    [
+     "Margen financiero neto",
+     "1,920",
+     "1,959"
+    ],
+    [
+     "Ingresos por servicios",
+     "340",
+     "253"
+    ],
+    [
+     "Gastos de administracion",
+     "1,250",
+     "1,026"
+    ],
+    [
+     "Utilidad operativa",
+     "1,010",
+     "1,186"
+    ],
+    [
+     "Impuesto a la renta",
+     "297",
+     "349"
+    ],
+    [
+     "Utilidad neta",
+     "713",
+     "837"
+    ]
+   ],
+   "celdas_combinadas": [],
+   "estilo": "bordes"
+  }
+ ],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 2,
+   "bbox": [
+    42.2,
+    344.4,
+    171.0,
+    386.0
+   ],
+   "unidad": "pt"
+  }
+ ],
+ "texto_completo": "Seguros Tierra Firme DEMO S.A.\nRUC 20998253889\nESTADO DE SITUACION FINANCIERA (BALANCE GENERAL)\nAl 31 de diciembre de 2026 (en soles)\nConcepto\n2026\n2025\nACTIVO\nDisponible\n2,274\n1,610\nInversiones\n4,263\n292\nCartera de creditos neta\n852\n3,512\nCuentas por cobrar\n710\n731\nInmuebles, mobiliario y equipo\n284\n292\nOtros activos\n5,830\n8,200\nTotal activo\n14,214\n14,637\nPASIVO\nObligaciones con el publico\n2,200\n2,350\nAdeudos y obligaciones financieras\n3,000\n3,850\nCuentas por pagar\n3,900\n3,900\nOtros pasivos\n2,400\n2,150\nTotal pasivo\n11,500\n12,250\nPATRIMONIO\nCapital social\n1,500\n1,050\nReservas\n300\n200\nResultados acumulados\n200\n300\nResultado del ejercicio\n713\n837\nTotal patrimonio\n2,713\n2,387\nTotal pasivo y patrimonio\n14,213\n14,637\nSeguros Tierra Firme DEMO S.A.\nRUC 20998253889\nESTADO DE GANANCIAS Y PERDIDAS\nAl 31 de diciembre de 2026 (en soles)\nConcepto\n2026\n2025\nIngresos por intereses\n3,500\n3,350\nGastos por intereses\n1,163\n998\nMargen financiero bruto\n2,337\n2,352\nProvisiones\n417\n393\nMargen financiero neto\n1,920\n1,959\nIngresos por servicios\n340\n253\nGastos de administracion\n1,250\n1,026\nUtilidad operativa\n1,010\n1,186\nImpuesto a la renta\n297\n349\nUtilidad neta\n713\n837\nRepresentante legal: Rosa Montoya Lazo",
+ "degradacion": {
+  "rotacion": 0,
+  "dpi": null,
+  "ruido": "ninguno"
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

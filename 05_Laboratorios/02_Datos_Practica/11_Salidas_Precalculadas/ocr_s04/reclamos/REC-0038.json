@@ -1,0 +1,17 @@
+{
+ "id": "REC-0038",
+ "archivo": "adjunto_REC-0038.jpg",
+ "ruta": "06_Reclamos/REC-0038.eml#adjunto_REC-0038.jpg",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "crudo",
+ "psm": 3,
+ "inclinacion": 0.0,
+ "texto": "Financiera Pampa Azul Di\nEstado de cuenta - tarjeta de debito\nEMO S.A.\nCliente: Victor Condori Peralta DNI 99043172\nFecha Descripcion Importe\n25/07/2026 Compra comercio DEMO 141.00\n22/07/2026 Retiro cajero 298.00\n19/07/2026 Pago servicio 142.00\n26/07/2026 Cargo reclamado (cobro indebido) 2,966.00\n16/07/2026 Retiro cajero 95.00",
+ "confianza": 0.9202,
+ "score": 0.96,
+ "invalidos": 0,
+ "decision": "aceptar",
+ "segundos": 0.2,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

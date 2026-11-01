@@ -1,0 +1,84 @@
+{
+ "doc_id": "OFI-0015",
+ "tipo": "oficio",
+ "formato": "pdf_escaneado",
+ "campos": {
+  "numero_oficio": "0199-2026-ID/DSF",
+  "fecha": "2026-01-25",
+  "entidad": "Banco del Sur Austral DEMO S.A.",
+  "ruc": "20993132544",
+  "asunto": "Requerimiento de informacion sobre la cartera de creditos al 30 de junio de 2026",
+  "referencia": "Carta N° 105-2026 de Banco del Sur Austral DEMO S.A.",
+  "plazo_dias": 15,
+  "emisor": "Intendencia DEMO de Riesgos Operacionales",
+  "firmante": "Miguel Nunez Soto",
+  "cargo": "Intendente DEMO Adjunto"
+ },
+ "tablas": [
+  {
+   "nombre": "informacion_solicitada",
+   "encabezados": [
+    "N°",
+    "Informacion solicitada"
+   ],
+   "filas": [
+    [
+     "1",
+     "Detalle de comisiones cobradas"
+    ],
+    [
+     "2",
+     "Politica interna aprobada y su fecha de vigencia"
+    ],
+    [
+     "3",
+     "Relacion de operaciones vigentes con saldo y estado"
+    ]
+   ]
+  }
+ ],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    253,
+    1941,
+    772,
+    2143
+   ],
+   "unidad": "px",
+   "dpi": 300,
+   "ancho_px": 2481,
+   "alto_px": 3508
+  },
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    681,
+    1743,
+    1087,
+    2148
+   ],
+   "unidad": "px",
+   "dpi": 300,
+   "ancho_px": 2481,
+   "alto_px": 3508
+  }
+ ],
+ "texto_completo": "AUTORIDAD SUPERVISORA DEMO\nIntendencia DEMO de Riesgos Operacionales\nDocumento ficticio con fines de capacitacion\nOFICIO N° 0199-2026-ID/DSF\nLima, 25 de enero de 2026\nSenores\nBanco del Sur Austral DEMO S.A.\nRUC 20993132544\nPresente.-\nAsunto:\nRequerimiento de informacion sobre la cartera de creditos al 30 de junio de 2026\nReferencia:\nCarta N° 105-2026 de Banco del Sur Austral DEMO S.A.\nMediante el presente se requiere a su representada remitir la informacion detallada a continuacion, en el\nmarco de las labores de supervision del periodo en curso.\nN°\nInformacion solicitada\n1\nDetalle de comisiones cobradas\n2\nPolitica interna aprobada y su fecha de vigencia\n3\nRelacion de operaciones vigentes con saldo y estado\nLa informacion debera ser presentada en un plazo de quince (15) dias habiles contados desde la\nrecepcion del presente oficio, en formato digital y firmada por el responsable. El incumplimiento sera\nevaluado conforme a los procedimientos internos aplicables.\nAtentamente,\nMiguel Nunez Soto\nIntendente DEMO Adjunto",
+ "degradacion": {
+  "rotacion": -3.44,
+  "ruido": "sal_pimienta",
+  "ruido_sigma": 12.1,
+  "desenfoque_sigma": 1.0,
+  "sombra": "inf",
+  "perspectiva": false,
+  "jpeg_calidad": 70,
+  "dpi": 300,
+  "paginas": 1
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

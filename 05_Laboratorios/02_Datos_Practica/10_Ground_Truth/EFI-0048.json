@@ -1,0 +1,228 @@
+{
+ "doc_id": "EFI-0048",
+ "tipo": "estado_financiero",
+ "formato": "pdf_escaneado",
+ "campos": {
+  "entidad": "Financiera Altiplano DEMO S.A.",
+  "ruc": "20990944050",
+  "periodo": "2026-12-31",
+  "moneda": "PEN",
+  "unidad": "soles",
+  "total_activo": 12765,
+  "total_pasivo": 11150,
+  "total_patrimonio": 1615,
+  "utilidad_neta": 665,
+  "cuadra": true
+ },
+ "tablas": [
+  {
+   "nombre": "balance_general",
+   "encabezados": [
+    "Concepto",
+    "2026",
+    "2025"
+   ],
+   "filas": [
+    [
+     "ACTIVO",
+     "",
+     ""
+    ],
+    [
+     "Disponible",
+     "3,446",
+     "2,082"
+    ],
+    [
+     "Inversiones",
+     "765",
+     "1,785"
+    ],
+    [
+     "Cartera de creditos neta",
+     "1,659",
+     "2,528"
+    ],
+    [
+     "Cuentas por cobrar",
+     "127",
+     "595"
+    ],
+    [
+     "Inmuebles, mobiliario y equipo",
+     "510",
+     "148"
+    ],
+    [
+     "Otros activos",
+     "6,258",
+     "7,738"
+    ],
+    [
+     "Total activo",
+     "12,765",
+     "14,876"
+    ],
+    [
+     "PASIVO",
+     "",
+     ""
+    ],
+    [
+     "Obligaciones con el publico",
+     "2,700",
+     "3,200"
+    ],
+    [
+     "Adeudos y obligaciones financieras",
+     "2,100",
+     "3,350"
+    ],
+    [
+     "Cuentas por pagar",
+     "2,050",
+     "3,600"
+    ],
+    [
+     "Otros pasivos",
+     "4,300",
+     "2,050"
+    ],
+    [
+     "Total pasivo",
+     "11,150",
+     "12,200"
+    ],
+    [
+     "PATRIMONIO",
+     "",
+     ""
+    ],
+    [
+     "Capital social",
+     "750",
+     "1,100"
+    ],
+    [
+     "Reservas",
+     "150",
+     "300"
+    ],
+    [
+     "Resultados acumulados",
+     "50",
+     "100"
+    ],
+    [
+     "Resultado del ejercicio",
+     "665",
+     "1,176"
+    ],
+    [
+     "Total patrimonio",
+     "1,615",
+     "2,676"
+    ],
+    [
+     "Total pasivo y patrimonio",
+     "12,765",
+     "14,876"
+    ]
+   ],
+   "celdas_combinadas": [],
+   "estilo": "sin_bordes"
+  },
+  {
+   "nombre": "estado_ganancias_perdidas",
+   "encabezados": [
+    "Concepto",
+    "2026",
+    "2025"
+   ],
+   "filas": [
+    [
+     "Ingresos por intereses",
+     "3,250",
+     "5,850"
+    ],
+    [
+     "Gastos por intereses",
+     "882",
+     "1,778"
+    ],
+    [
+     "Margen financiero bruto",
+     "2,368",
+     "4,072"
+    ],
+    [
+     "Provisiones",
+     "224",
+     "557"
+    ],
+    [
+     "Margen financiero neto",
+     "2,144",
+     "3,515"
+    ],
+    [
+     "Ingresos por servicios",
+     "178",
+     "674"
+    ],
+    [
+     "Gastos de administracion",
+     "1,380",
+     "2,522"
+    ],
+    [
+     "Utilidad operativa",
+     "942",
+     "1,667"
+    ],
+    [
+     "Impuesto a la renta",
+     "277",
+     "491"
+    ],
+    [
+     "Utilidad neta",
+     "665",
+     "1,176"
+    ]
+   ],
+   "celdas_combinadas": [],
+   "estilo": "sin_bordes"
+  }
+ ],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 2,
+   "bbox": [
+    139,
+    903,
+    496,
+    1046
+   ],
+   "unidad": "px",
+   "dpi": 200,
+   "ancho_px": 1654,
+   "alto_px": 2339
+  }
+ ],
+ "texto_completo": "Financiera Altiplano DEMO S.A.\nRUC 20990944050\nESTADO DE SITUACION FINANCIERA (BALANCE GENERAL)\nAl 31 de diciembre de 2026 (en soles)\nConcepto\n2026\n2025\nACTIVO\nDisponible\n3,446\n2,082\nInversiones\n765\n1,785\nCartera de creditos neta\n1,659\n2,528\nCuentas por cobrar\n127\n595\nInmuebles, mobiliario y equipo\n510\n148\nOtros activos\n6,258\n7,738\nTotal activo\n12,765\n14,876\nPASIVO\nObligaciones con el publico\n2,700\n3,200\nAdeudos y obligaciones financieras\n2,100\n3,350\nCuentas por pagar\n2,050\n3,600\nOtros pasivos\n4,300\n2,050\nTotal pasivo\n11,150\n12,200\nPATRIMONIO\nCapital social\n750\n1,100\nReservas\n150\n300\nResultados acumulados\n50\n100\nResultado del ejercicio\n665\n1,176\nTotal patrimonio\n1,615\n2,676\nTotal pasivo y patrimonio\n12,765\n14,876\nFinanciera Altiplano DEMO S.A.\nRUC 20990944050\nESTADO DE GANANCIAS Y PERDIDAS\nAl 31 de diciembre de 2026 (en soles)\nConcepto\n2026\n2025\nIngresos por intereses\n3,250\n5,850\nGastos por intereses\n882\n1,778\nMargen financiero bruto\n2,368\n4,072\nProvisiones\n224\n557\nMargen financiero neto\n2,144\n3,515\nIngresos por servicios\n178\n674\nGastos de administracion\n1,380\n2,522\nUtilidad operativa\n942\n1,667\nImpuesto a la renta\n277\n491\nUtilidad neta\n665\n1,176\nRepresentante legal: Carmen Medina Olivera",
+ "degradacion": {
+  "rotacion": 1.97,
+  "ruido": "sal_pimienta",
+  "ruido_sigma": 8.6,
+  "desenfoque_sigma": 0.0,
+  "sombra": "inf",
+  "perspectiva": false,
+  "jpeg_calidad": 60,
+  "dpi": 200,
+  "paginas": 2
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

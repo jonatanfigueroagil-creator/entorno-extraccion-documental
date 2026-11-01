@@ -1,0 +1,88 @@
+{
+ "doc_id": "OFI-0002",
+ "tipo": "oficio",
+ "formato": "pdf_escaneado",
+ "campos": {
+  "numero_oficio": "0955-2026-ID/DSF",
+  "fecha": "2026-03-18",
+  "entidad": "Seguros Vicuna DEMO S.A.",
+  "ruc": "20995524318",
+  "asunto": "Remision de reportes de tasas de interes y comisiones vigentes",
+  "referencia": "Carta N° 099-2026 de Seguros Vicuna DEMO S.A.",
+  "plazo_dias": 7,
+  "emisor": "Intendencia DEMO de Riesgos Operacionales",
+  "firmante": "Paola Palacios Rojas",
+  "cargo": "Intendente DEMO"
+ },
+ "tablas": [
+  {
+   "nombre": "informacion_solicitada",
+   "encabezados": [
+    "N°",
+    "Informacion solicitada"
+   ],
+   "filas": [
+    [
+     "1",
+     "Reporte de tasas aplicadas por producto"
+    ],
+    [
+     "2",
+     "Relacion de operaciones vigentes con saldo y estado"
+    ],
+    [
+     "3",
+     "Politica interna aprobada y su fecha de vigencia"
+    ],
+    [
+     "4",
+     "Informe de atencion de reclamos del periodo"
+    ]
+   ]
+  }
+ ],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    313,
+    2125,
+    826,
+    2292
+   ],
+   "unidad": "px",
+   "dpi": 300,
+   "ancho_px": 2481,
+   "alto_px": 3508
+  },
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    710,
+    1850,
+    1115,
+    2255
+   ],
+   "unidad": "px",
+   "dpi": 300,
+   "ancho_px": 2481,
+   "alto_px": 3508
+  }
+ ],
+ "texto_completo": "AUTORIDAD SUPERVISORA DEMO\nIntendencia DEMO de Riesgos Operacionales\nDocumento ficticio con fines de capacitacion\nOFICIO N° 0955-2026-ID/DSF\nLima, 18 de marzo de 2026\nSenores\nSeguros Vicuna DEMO S.A.\nRUC 20995524318\nPresente.-\nAsunto:\nRemision de reportes de tasas de interes y comisiones vigentes\nReferencia:\nCarta N° 099-2026 de Seguros Vicuna DEMO S.A.\nMediante el presente se requiere a su representada remitir la informacion detallada a continuacion, en el\nmarco de las labores de supervision del periodo en curso.\nN°\nInformacion solicitada\n1\nReporte de tasas aplicadas por producto\n2\nRelacion de operaciones vigentes con saldo y estado\n3\nPolitica interna aprobada y su fecha de vigencia\n4\nInforme de atencion de reclamos del periodo\nLa informacion debera ser presentada en un plazo de siete (7) dias habiles contados desde la recepcion\ndel presente oficio, en formato digital y firmada por el responsable. El incumplimiento sera evaluado\nconforme a los procedimientos internos aplicables.\nAtentamente,\nPaola Palacios Rojas\nIntendente DEMO",
+ "degradacion": {
+  "rotacion": 3.33,
+  "ruido": "gaussiano",
+  "ruido_sigma": 12.5,
+  "desenfoque_sigma": 0.6,
+  "sombra": "der",
+  "perspectiva": false,
+  "jpeg_calidad": 60,
+  "dpi": 300,
+  "paginas": 1
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

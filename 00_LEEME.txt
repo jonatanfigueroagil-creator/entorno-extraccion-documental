@@ -1,0 +1,76 @@
+ENTORNO DEL CURSO - EXTRACCION DOCUMENTAL
+=========================================
+
+Este repositorio deja lista una maquina virtual Windows del curso y entrega el paquete
+pipeline_sbs de cada sesion. Contiene el codigo del curso, los documentos ficticios de practica y,
+en 02_Datos_Practica\14_Publico_Real, un lote de documentos publicos reales de la SMV (sin modificar).
+
+QUE CONTIENE
+  01_instalar_vm.ps1        Instala Python 3.12, Git, Java, Tesseract (espanol),
+                            el entorno virtual y las librerias. Se puede repetir sin riesgo:
+                            lo que ya esta instalado se omite.
+                            Ollama y su modelo se instalan solo desde la sesion 5, con la opcion -ConOllama.
+  02_requirements.txt       Librerias del curso con versiones fijas.
+  03_verificar_entorno.py   Revisa que todo este bien. Debe terminar en 0 errores.
+  04_pipeline_sbs/          El paquete pipeline_sbs con que empieza la sesion.
+  05_Laboratorios/          El laboratorio (cuaderno) de cada sesion. Se abre desde aqui, se
+                            trabaja y se guarda con tu commit en tu repositorio de GitHub.
+                            Incluye 02_Datos_Practica/, los documentos ficticios de los LAB y el lote
+                            publico real (14_Publico_Real, con sus fichas y enlaces de origen).
+  06_traer_datos.ps1        Deja esos documentos tambien en C:\curso\datos (el lote real queda en
+                            C:\curso\datos\14_Publico_Real, la ruta que usa el codigo del curso; el
+                            instalador lo llama solo; se puede ejecutar aparte).
+
+DOS REPOSITORIOS, DOS USOS
+  Este repositorio (el del docente, publico) sirve para TRAER los programas a tu VM: solo se
+  clona y se hace "git pull". No necesita cuenta de GitHub.
+  Tu repositorio (privado, en tu cuenta) sirve para GUARDAR lo que haces en cada ejercicio.
+  Necesita tu cuenta de GitHub, que se crea en clase.
+
+PARTE A - TRAER LOS PROGRAMAS (PowerShell; no pide cuenta ni contrasena)
+  1. Clonar el repositorio:
+       cd C:\curso\trabajo
+       git clone https://github.com/jonatanfigueroagil-creator/entorno-extraccion-documental.git
+       cd entorno-extraccion-documental
+  2. Crear tu rama de trabajo (cambia el numero segun la sesion):
+       git switch -c trabajo-s02
+  3. Instalar el paquete en el entorno del curso:
+       C:\curso\venv\Scripts\python.exe -m pip install -e .\04_pipeline_sbs
+  4. Probarlo:
+       C:\curso\venv\Scripts\python.exe -m pytest .\04_pipeline_sbs -q
+
+ABRIR EL LABORATORIO
+  Abre en JupyterLab o VS Code el cuaderno de la sesion desde la carpeta clonada:
+       05_Laboratorios\01_LAB_S02_Ingesta.ipynb
+  Guardalo (Ctrl+S) antes de cada commit: tu cuaderno completado queda en tu GitHub.
+
+PARTE B - TU REPOSITORIO (con tu cuenta de GitHub y un repositorio privado vacio llamado
+extraccion-documental-sbs)
+  Primera vez:
+       git remote add mio https://github.com/TU-USUARIO/extraccion-documental-sbs.git
+       git push -u mio trabajo-s02
+       (la primera vez se abre una ventana del navegador para iniciar sesion en GitHub)
+  Despues de cada ejercicio del laboratorio (Ctrl+S en el cuaderno y luego):
+       git add -A ; git commit -m "S02: E1 lectores" ; git push
+
+CADA SESION NUEVA
+  git fetch origin
+  git switch sesion-03
+  git switch -c trabajo-s03
+  ... al terminar la sesion:  git add -A ; git commit -m "S03: mi avance" ; git push mio trabajo-s03
+  (los puntos de partida de cada sesion tienen un tag: s02-inicio, s03-inicio, ...)
+
+PASOS EN UNA VM NUEVA (PowerShell como administrador; tarda varios minutos)
+  powershell -NoProfile -ExecutionPolicy Bypass -File .\01_instalar_vm.ps1
+  C:\curso\venv\Scripts\python.exe .\03_verificar_entorno.py
+  El resumen final debe decir 0 errores. Los avisos son aceptables.
+
+SI ALGO FALLA
+  - El registro del instalador queda en C:\curso\trabajo\instalacion.log
+  - El de las librerias, en C:\curso\trabajo\pip_requirements.log
+  - Se necesita salida a Internet (python.org, github.com, pypi.org, ollama.com).
+  - Las versiones de las librerias no se actualizan por cuenta propia: algunas dependen entre si.
+  - Si git pull se queja por archivos modificados: git status, y guarda tu trabajo con git stash.
+
+Los datos de practica del curso son ficticios, salvo la carpeta 14_Publico_Real: documentos publicos reales de la SMV,
+entregados sin modificar y solo para practicar. No se suben a servicios de IA en la nube ni se redistribuyen fuera del curso.

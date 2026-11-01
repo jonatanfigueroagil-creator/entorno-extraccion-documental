@@ -1,0 +1,12 @@
+Carpeta zero_shot: salidas calculadas de antemano de la clasificación del motivo sin entrenamiento (S04), un archivo por reclamo.
+
+Modelo: MoritzLaurer/mDeBERTa-v3-base-mnli-xnli, plantilla de hipótesis "Este reclamo trata de {}.", seis etiquetas de motivo.
+Versiones: transformers 5.22.1, torch 2.15.0 (cu132). Dispositivo: GPU NVIDIA GeForce RTX 5070 de 12 GB (no es la T4 de la VM).
+Texto de entrada: solo el cuerpo del correo (el asunto trae la clase y no se usa).
+Cada archivo trae: id, modelo, revisión, versiones, dispositivo, plantilla, etiquetas ordenadas de mayor a menor y sus scores.
+
+Uso: zero_shot(textos, etiquetas, precalculado=[<archivos>]) lee estas salidas cuando la máquina no tiene GPU.
+Tiempo de referencia: 60 correos en unos 12 s en GPU; en CPU de 24 hilos, unos 7 minutos (73 s con 10 textos, proyectados a 60: 7,3 minutos).
+Resultado frente a las respuestas correctas: F1 macro 0,53 y exactitud 0,58; el clasificador TF-IDF con regresión logística llega a 0,87.
+Los tiempos se remiden en la VM (T4, 4 vCPU).
+Generado con una corrida real en la máquina del docente.

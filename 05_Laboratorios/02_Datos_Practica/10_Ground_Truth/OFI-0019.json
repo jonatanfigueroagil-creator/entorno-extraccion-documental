@@ -1,0 +1,62 @@
+{
+ "doc_id": "OFI-0019",
+ "tipo": "oficio",
+ "formato": "pdf_escaneado",
+ "campos": {
+  "numero_oficio": "0027-2026-ID/DRO",
+  "fecha": "2026-02-08",
+  "entidad": "Caja Rural Valle Verde DEMO S.A.",
+  "ruc": "20996964281",
+  "asunto": "Requerimiento de informacion sobre contratos de credito de consumo",
+  "referencia": "Carta N° 199-2026 de Caja Rural Valle Verde DEMO S.A.",
+  "plazo_dias": 10,
+  "emisor": "Intendencia DEMO de Supervision Financiera",
+  "firmante": "Milagros Sandoval Ccori",
+  "cargo": "Intendente DEMO Adjunto"
+ },
+ "tablas": [],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    183,
+    1120,
+    544,
+    1248
+   ],
+   "unidad": "px",
+   "dpi": 200,
+   "ancho_px": 1654,
+   "alto_px": 2339
+  },
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    462,
+    965,
+    727,
+    1229
+   ],
+   "unidad": "px",
+   "dpi": 200,
+   "ancho_px": 1654,
+   "alto_px": 2339
+  }
+ ],
+ "texto_completo": "AUTORIDAD SUPERVISORA DEMO\nIntendencia DEMO de Supervision Financiera\nDocumento ficticio con fines de capacitacion\nOFICIO N° 0027-2026-ID/DRO\nLima, 8 de febrero de 2026\nSenores\nCaja Rural Valle Verde DEMO S.A.\nRUC 20996964281\nPresente.-\nAsunto:\nRequerimiento de informacion sobre contratos de credito de consumo\nReferencia:\nCarta N° 199-2026 de Caja Rural Valle Verde DEMO S.A.\nMediante el presente se requiere a su representada remitir la informacion detallada a continuacion, en el\nmarco de las labores de supervision del periodo en curso.\nLa informacion debera ser presentada en un plazo de diez (10) dias habiles contados desde la recepcion\ndel presente oficio, en formato digital y firmada por el responsable. El incumplimiento sera evaluado\nconforme a los procedimientos internos aplicables.\nAtentamente,\nMilagros Sandoval Ccori\nIntendente DEMO Adjunto",
+ "degradacion": {
+  "rotacion": 2.02,
+  "ruido": "gaussiano",
+  "ruido_sigma": 10.4,
+  "desenfoque_sigma": 1.0,
+  "sombra": "inf",
+  "perspectiva": false,
+  "jpeg_calidad": 80,
+  "dpi": 200,
+  "paginas": 1
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

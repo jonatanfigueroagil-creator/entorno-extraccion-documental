@@ -1,0 +1,56 @@
+{
+ "doc_id": "VOU-0005",
+ "tipo": "voucher",
+ "formato": "imagen_png",
+ "campos": {
+  "entidad": "Banco del Sur Austral DEMO S.A.",
+  "numero_operacion": "13213746",
+  "fecha": "2026-09-22",
+  "hora": "09:05",
+  "monto": 3148.5,
+  "moneda": "PEN",
+  "cuenta_destino": "999-2790763962",
+  "titular": "Mario Mendoza Rojas",
+  "depositante": "Raul Huaman Medina",
+  "dni_depositante": "99302712"
+ },
+ "tablas": [],
+ "regiones": [
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    94,
+    374,
+    196,
+    479
+   ],
+   "unidad": "px",
+   "ancho_px": 432,
+   "alto_px": 672
+  },
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    203,
+    424,
+    324,
+    473
+   ],
+   "unidad": "px",
+   "ancho_px": 432,
+   "alto_px": 672
+  }
+ ],
+ "texto_completo": "Banco del Sur Austral DEMO S.A.\nCONSTANCIA DE DEPOSITO\nOperacion:\n13213746\nFecha:\n22/09/2026\nHora:\n09:05\nCuenta:\n999-2790763962\nTitular:\nMario Mendoza Rojas\nDepositante:\nRaul Huaman Medina\nDNI:\n99302712\nMONTO S/ 3,148.50",
+ "degradacion": {
+  "rotacion": -6.74,
+  "dpi": 90,
+  "ruido": "gaussiano",
+  "perspectiva": true,
+  "sombra": "sup",
+  "escala": 0.6
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)"
+}

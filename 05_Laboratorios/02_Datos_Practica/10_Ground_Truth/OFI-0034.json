@@ -1,0 +1,76 @@
+{
+ "doc_id": "OFI-0034",
+ "tipo": "oficio",
+ "formato": "pdf_escaneado",
+ "campos": {
+  "numero_oficio": "0958-2026-ID/DRO",
+  "fecha": "2026-08-07",
+  "entidad": "Seguros Tierra Firme DEMO S.A.",
+  "ruc": "20998253889",
+  "asunto": "Requerimiento de informacion sobre la cartera de creditos al 30 de junio de 2026",
+  "referencia": "Carta N° 118-2026 de Seguros Tierra Firme DEMO S.A.",
+  "plazo_dias": 10,
+  "emisor": "Intendencia DEMO de Conducta de Mercado",
+  "firmante": "Victor Vargas Medina",
+  "cargo": "Intendente DEMO Adjunto"
+ },
+ "tablas": [
+  {
+   "nombre": "informacion_solicitada",
+   "encabezados": [
+    "N°",
+    "Informacion solicitada"
+   ],
+   "filas": [
+    [
+     "1",
+     "Detalle de comisiones cobradas"
+    ]
+   ]
+  }
+ ],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    278,
+    1823,
+    818,
+    2013
+   ],
+   "unidad": "px",
+   "dpi": 300,
+   "ancho_px": 2481,
+   "alto_px": 3508
+  },
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    690,
+    1611,
+    1094,
+    2016
+   ],
+   "unidad": "px",
+   "dpi": 300,
+   "ancho_px": 2481,
+   "alto_px": 3508
+  }
+ ],
+ "texto_completo": "AUTORIDAD SUPERVISORA DEMO\nIntendencia DEMO de Conducta de Mercado\nDocumento ficticio con fines de capacitacion\nOFICIO N° 0958-2026-ID/DRO\nLima, 7 de agosto de 2026\nSenores\nSeguros Tierra Firme DEMO S.A.\nRUC 20998253889\nPresente.-\nAsunto:\nRequerimiento de informacion sobre la cartera de creditos al 30 de junio de 2026\nReferencia:\nCarta N° 118-2026 de Seguros Tierra Firme DEMO S.A.\nMediante el presente se requiere a su representada remitir la informacion detallada a continuacion, en el\nmarco de las labores de supervision del periodo en curso.\nN°\nInformacion solicitada\n1\nDetalle de comisiones cobradas\nLa informacion debera ser presentada en un plazo de diez (10) dias habiles contados desde la recepcion\ndel presente oficio, en formato digital y firmada por el responsable. El incumplimiento sera evaluado\nconforme a los procedimientos internos aplicables.\nAtentamente,\nVictor Vargas Medina\nIntendente DEMO Adjunto",
+ "degradacion": {
+  "rotacion": -3.27,
+  "ruido": "gaussiano",
+  "ruido_sigma": 10.7,
+  "desenfoque_sigma": 1.0,
+  "sombra": "der",
+  "perspectiva": false,
+  "jpeg_calidad": 80,
+  "dpi": 300,
+  "paginas": 1
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

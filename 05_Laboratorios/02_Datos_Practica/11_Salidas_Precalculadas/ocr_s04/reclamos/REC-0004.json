@@ -1,0 +1,17 @@
+{
+ "id": "REC-0004",
+ "archivo": "adjunto_REC-0004.jpg",
+ "ruta": "06_Reclamos/REC-0004.eml#adjunto_REC-0004.jpg",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "crudo",
+ "psm": 3,
+ "inclinacion": 0.0,
+ "texto": "Edpyme Sol Naciente DEMO S.A.\nEstado de cuenta - prestamo personal.\nCliente: Marta Chavez Paredes DNI 99596435\nFecha Descripcion |. Iinporte\n29/05/2026 Cardo reclamado (cargo duplicado) 548.00\n28/05/2028 Retiro cajero 21,00\n25/05/2026 Compracomerció DEMO 94.00\n22/05/2026 Retiró cajero 166.00\n19/05/2026 Retiro cajero 253.00.|",
+ "confianza": 0.7777,
+ "score": 0.839,
+ "invalidos": 1,
+ "decision": "revisar",
+ "segundos": 0.17,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

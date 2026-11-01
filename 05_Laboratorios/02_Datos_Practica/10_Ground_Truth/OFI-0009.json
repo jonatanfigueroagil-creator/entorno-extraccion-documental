@@ -1,0 +1,80 @@
+{
+ "doc_id": "OFI-0009",
+ "tipo": "oficio",
+ "formato": "pdf_escaneado",
+ "campos": {
+  "numero_oficio": "0845-2026-ID/DCM",
+  "fecha": "2026-09-14",
+  "entidad": "Caja Rural Valle Verde DEMO S.A.",
+  "ruc": "20996964281",
+  "asunto": "Requerimiento de informacion sobre contratos de credito de consumo",
+  "referencia": "Carta N° 274-2026 de Caja Rural Valle Verde DEMO S.A.",
+  "plazo_dias": 15,
+  "emisor": "Intendencia DEMO de Conducta de Mercado",
+  "firmante": "Carlos Ortega Herrera",
+  "cargo": "Jefe de Equipo DEMO"
+ },
+ "tablas": [
+  {
+   "nombre": "informacion_solicitada",
+   "encabezados": [
+    "N°",
+    "Informacion solicitada"
+   ],
+   "filas": [
+    [
+     "1",
+     "Reporte de tasas aplicadas por producto"
+    ],
+    [
+     "2",
+     "Estados financieros al cierre del periodo"
+    ]
+   ]
+  }
+ ],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    202,
+    1306,
+    549,
+    1438
+   ],
+   "unidad": "px",
+   "dpi": 200,
+   "ancho_px": 1654,
+   "alto_px": 2339
+  },
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    468,
+    1145,
+    738,
+    1414
+   ],
+   "unidad": "px",
+   "dpi": 200,
+   "ancho_px": 1654,
+   "alto_px": 2339
+  }
+ ],
+ "texto_completo": "AUTORIDAD SUPERVISORA DEMO\nIntendencia DEMO de Conducta de Mercado\nDocumento ficticio con fines de capacitacion\nOFICIO N° 0845-2026-ID/DCM\nLima, 14 de setiembre de 2026\nSenores\nCaja Rural Valle Verde DEMO S.A.\nRUC 20996964281\nPresente.-\nAsunto:\nRequerimiento de informacion sobre contratos de credito de consumo\nReferencia:\nCarta N° 274-2026 de Caja Rural Valle Verde DEMO S.A.\nMediante el presente se requiere a su representada remitir la informacion detallada a continuacion, en el\nmarco de las labores de supervision del periodo en curso.\nN°\nInformacion solicitada\n1\nReporte de tasas aplicadas por producto\n2\nEstados financieros al cierre del periodo\nLa informacion debera ser presentada en un plazo de quince (15) dias habiles contados desde la\nrecepcion del presente oficio, en formato digital y firmada por el responsable. El incumplimiento sera\nevaluado conforme a los procedimientos internos aplicables.\nAtentamente,\nCarlos Ortega Herrera\nJefe de Equipo DEMO",
+ "degradacion": {
+  "rotacion": 3.21,
+  "ruido": "gaussiano",
+  "ruido_sigma": 10.5,
+  "desenfoque_sigma": 1.0,
+  "sombra": "sup",
+  "perspectiva": false,
+  "jpeg_calidad": 60,
+  "dpi": 200,
+  "paginas": 1
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

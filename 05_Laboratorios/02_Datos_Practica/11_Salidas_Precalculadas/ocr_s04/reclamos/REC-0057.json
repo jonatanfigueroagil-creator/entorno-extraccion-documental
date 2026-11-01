@@ -1,0 +1,17 @@
+{
+ "id": "REC-0057",
+ "archivo": "adjunto_REC-0057.pdf",
+ "ruta": "06_Reclamos/REC-0057.eml#adjunto_REC-0057.pdf",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "crudo",
+ "psm": 3,
+ "inclinacion": 0.0,
+ "texto": "Banco Costa Norte DEMO S.A.\nEstado de cuenta - tarjeta de debito\nCliente: Gladys Zevallos Huaman DNI 99870221\nFecha Descripcion Importe\n14/06/2026 Compra comercio DEMO 224.00\n15/06/2026 Cargo reclamado (demora en entrega) 1,111.00\n11/06/2026 Compra comercio DEMO 58.00\n08/06/2026 Interes 296.00\n05/06/2026 Compra comercio DEMO 12.00",
+ "confianza": 0.9535,
+ "score": 0.977,
+ "invalidos": 0,
+ "decision": "aceptar",
+ "segundos": 0.3,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

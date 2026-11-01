@@ -1,0 +1,53 @@
+{
+ "doc_id": "POL-0005",
+ "tipo": "poliza",
+ "formato": "pdf_nativo",
+ "campos": {
+  "numero_poliza": "PZ-2026-062911",
+  "aseguradora": "Seguros Tierra Firme DEMO S.A.",
+  "ruc": "20998253889",
+  "asegurado": "Mario Lazo Nunez",
+  "dni": "99921449",
+  "ramo": "Vida",
+  "suma_asegurada": 71000.0,
+  "prima_anual": 466.56,
+  "moneda": "PEN",
+  "vigencia_desde": "2026-03-03",
+  "vigencia_hasta": "2027-03-03",
+  "beneficiario": "Miguel Caceres Fuentes",
+  "deducible_pct": 10
+ },
+ "tablas": [],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    63.5,
+    716.1,
+    194.6,
+    756.9
+   ],
+   "unidad": "pt"
+  },
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    360,
+    691.9,
+    440,
+    771.9
+   ],
+   "unidad": "pt"
+  }
+ ],
+ "texto_completo": "POLIZA DE SEGURO - CONDICIONES PARTICULARES\nN° de poliza\nPZ-2026-062911\nAseguradora\nSeguros Tierra Firme DEMO S.A.\nRUC\n20998253889\nAsegurado\nMario Lazo Nunez\nDNI\n99921449\nRamo\nVida\nSuma asegurada\nS/ 71,000.00\nPrima anual\nS/ 466.56\nVigencia desde\n3 de marzo de 2026\nVigencia hasta\n3 de marzo de 2027\nBeneficiario\nMiguel Caceres Fuentes\nDeducible\n10%\nLa presente poliza se rige por las condiciones generales entregadas al asegurado. Documento ficticio con fines de capacitacion.",
+ "degradacion": {
+  "rotacion": 0,
+  "dpi": null,
+  "ruido": "ninguno"
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "layout": "B"
+}

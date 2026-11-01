@@ -1,0 +1,76 @@
+{
+ "doc_id": "OFI-0027",
+ "tipo": "oficio",
+ "formato": "pdf_escaneado",
+ "campos": {
+  "numero_oficio": "0207-2026-ID/DCM",
+  "fecha": "2026-03-29",
+  "entidad": "Banco Costa Norte DEMO S.A.",
+  "ruc": "20991892070",
+  "asunto": "Requerimiento de informacion sobre polizas colectivas emitidas en el semestre",
+  "referencia": "Carta N° 143-2026 de Banco Costa Norte DEMO S.A.",
+  "plazo_dias": 5,
+  "emisor": "Intendencia DEMO de Riesgos Operacionales",
+  "firmante": "Sofia Olivera Olivera",
+  "cargo": "Intendente DEMO Adjunto"
+ },
+ "tablas": [
+  {
+   "nombre": "informacion_solicitada",
+   "encabezados": [
+    "N°",
+    "Informacion solicitada"
+   ],
+   "filas": [
+    [
+     "1",
+     "Informe de atencion de reclamos del periodo"
+    ]
+   ]
+  }
+ ],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    141,
+    916,
+    403,
+    1010
+   ],
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    347,
+    810,
+    546,
+    1009
+   ],
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  }
+ ],
+ "texto_completo": "AUTORIDAD SUPERVISORA DEMO\nIntendencia DEMO de Riesgos Operacionales\nDocumento ficticio con fines de capacitacion\nOFICIO N° 0207-2026-ID/DCM\nLima, 29 de marzo de 2026\nSenores\nBanco Costa Norte DEMO S.A.\nRUC 20991892070\nPresente.-\nAsunto:\nRequerimiento de informacion sobre polizas colectivas emitidas en el semestre\nReferencia:\nCarta N° 143-2026 de Banco Costa Norte DEMO S.A.\nMediante el presente se requiere a su representada remitir la informacion detallada a continuacion, en el\nmarco de las labores de supervision del periodo en curso.\nN°\nInformacion solicitada\n1\nInforme de atencion de reclamos del periodo\nLa informacion debera ser presentada en un plazo de cinco (5) dias habiles contados desde la recepcion\ndel presente oficio, en formato digital y firmada por el responsable. El incumplimiento sera evaluado\nconforme a los procedimientos internos aplicables.\nAtentamente,\nSofia Olivera Olivera\nIntendente DEMO Adjunto",
+ "degradacion": {
+  "rotacion": -2.31,
+  "ruido": "gaussiano",
+  "ruido_sigma": 7.6,
+  "desenfoque_sigma": 0.6,
+  "sombra": "der",
+  "perspectiva": false,
+  "jpeg_calidad": 60,
+  "dpi": 150,
+  "paginas": 1
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

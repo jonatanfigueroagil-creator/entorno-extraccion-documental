@@ -1,0 +1,56 @@
+{
+ "doc_id": "VOU-0014",
+ "tipo": "voucher",
+ "formato": "imagen_jpg",
+ "campos": {
+  "entidad": "Financiera Altiplano DEMO S.A.",
+  "numero_operacion": "28550299",
+  "fecha": "2026-07-23",
+  "hora": "14:42",
+  "monto": 4041,
+  "moneda": "PEN",
+  "cuenta_destino": "999-7519549124",
+  "titular": "Miguel Ponce Delgado",
+  "depositante": "Ricardo Ledesma Condori",
+  "dni_depositante": "99610669"
+ },
+ "tablas": [],
+ "regiones": [
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    84,
+    268,
+    144,
+    332
+   ],
+   "unidad": "px",
+   "ancho_px": 288,
+   "alto_px": 448
+  },
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    150,
+    282,
+    211,
+    308
+   ],
+   "unidad": "px",
+   "ancho_px": 288,
+   "alto_px": 448
+  }
+ ],
+ "texto_completo": "Financiera Altiplano DEMO S.A.\nCONSTANCIA DE DEPOSITO\nOperacion:\n28550299\nFecha:\n23/07/2026\nHora:\n14:42\nCuenta:\n999-7519549124\nTitular:\nMiguel Ponce Delgado\nDepositante:\nRicardo Ledesma Condori\nDNI:\n99610669\nMONTO S/ 4,041.00",
+ "degradacion": {
+  "rotacion": 6.94,
+  "dpi": 60,
+  "ruido": "gaussiano",
+  "perspectiva": true,
+  "sombra": "inf",
+  "escala": 0.6
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)"
+}

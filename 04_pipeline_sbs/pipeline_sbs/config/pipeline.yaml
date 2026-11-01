@@ -1,0 +1,22 @@
+# Configuración del pipeline_sbs (se amplía en cada sesión).
+# Sin rutas absolutas ni secretos: las rutas son siempre relativas al lugar de trabajo.
+
+ocr:
+  idioma: spa            # código de idioma de Tesseract (datos "spa")
+
+ingesta:
+  extensiones:           # extensiones que el pipeline acepta en una carpeta de entrada
+    - ".pdf"
+    - ".png"
+    - ".jpg"
+    - ".jpeg"
+    - ".tif"
+    - ".eml"
+    - ".docx"
+    - ".html"
+
+llm:
+  backend: ollama_local  # reservado: se usa desde S05 (ollama_local | servidor_compartido | api_nube)
+
+logging:
+  nivel: INFO            # DEBUG | INFO | WARNING | ERROR

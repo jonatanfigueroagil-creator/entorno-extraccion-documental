@@ -1,0 +1,80 @@
+{
+ "doc_id": "OFI-0023",
+ "tipo": "oficio",
+ "formato": "pdf_escaneado",
+ "campos": {
+  "numero_oficio": "0201-2026-ID/DSF",
+  "fecha": "2026-09-26",
+  "entidad": "Financiera Pampa Azul DEMO S.A.",
+  "ruc": "20997462352",
+  "asunto": "Solicitud de documentacion de respaldo de reclamos atendidos en el segundo trimestre",
+  "referencia": "Carta N° 302-2026 de Financiera Pampa Azul DEMO S.A.",
+  "plazo_dias": 15,
+  "emisor": "Intendencia DEMO de Supervision Financiera",
+  "firmante": "Julia Olivera Olivera",
+  "cargo": "Intendente DEMO"
+ },
+ "tablas": [
+  {
+   "nombre": "informacion_solicitada",
+   "encabezados": [
+    "N°",
+    "Informacion solicitada"
+   ],
+   "filas": [
+    [
+     "1",
+     "Estados financieros al cierre del periodo"
+    ],
+    [
+     "2",
+     "Reporte de tasas aplicadas por producto"
+    ]
+   ]
+  }
+ ],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    142,
+    982,
+    407,
+    1090
+   ],
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    351,
+    860,
+    557,
+    1067
+   ],
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  }
+ ],
+ "texto_completo": "AUTORIDAD SUPERVISORA DEMO\nIntendencia DEMO de Supervision Financiera\nDocumento ficticio con fines de capacitacion\nOFICIO N° 0201-2026-ID/DSF\nLima, 26 de setiembre de 2026\nSenores\nFinanciera Pampa Azul DEMO S.A.\nRUC 20997462352\nPresente.-\nAsunto:\nSolicitud de documentacion de respaldo de reclamos atendidos en el segundo trimestre\nReferencia:\nCarta N° 302-2026 de Financiera Pampa Azul DEMO S.A.\nMediante el presente se requiere a su representada remitir la informacion detallada a continuacion, en el\nmarco de las labores de supervision del periodo en curso.\nN°\nInformacion solicitada\n1\nEstados financieros al cierre del periodo\n2\nReporte de tasas aplicadas por producto\nLa informacion debera ser presentada en un plazo de quince (15) dias habiles contados desde la\nrecepcion del presente oficio, en formato digital y firmada por el responsable. El incumplimiento sera\nevaluado conforme a los procedimientos internos aplicables.\nAtentamente,\nJulia Olivera Olivera\nIntendente DEMO",
+ "degradacion": {
+  "rotacion": 4.54,
+  "ruido": "gaussiano",
+  "ruido_sigma": 8.1,
+  "desenfoque_sigma": 0.6,
+  "sombra": "der",
+  "perspectiva": false,
+  "jpeg_calidad": 60,
+  "dpi": 150,
+  "paginas": 1
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

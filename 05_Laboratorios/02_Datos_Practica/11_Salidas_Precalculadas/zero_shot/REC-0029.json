@@ -1,0 +1,26 @@
+{
+ "id": "REC-0029",
+ "modelo": "MoritzLaurer/mDeBERTa-v3-base-mnli-xnli",
+ "revision": null,
+ "version_transformers": "5.22.1",
+ "version_torch": "2.15.0+cu132",
+ "dispositivo": "cuda (NVIDIA GeForce RTX 5070)",
+ "plantilla": "Este reclamo trata de {}.",
+ "texto": "cuerpo del correo (sin el asunto)",
+ "etiquetas": [
+  "cuenta cerrada",
+  "demora en entrega",
+  "tasa distinta",
+  "consumo no reconocido",
+  "cargo duplicado",
+  "cobro indebido"
+ ],
+ "scores": [
+  0.5698,
+  0.1587,
+  0.1009,
+  0.0829,
+  0.0522,
+  0.0356
+ ]
+}

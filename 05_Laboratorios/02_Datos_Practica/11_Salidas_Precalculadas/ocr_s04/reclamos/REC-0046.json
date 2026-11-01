@@ -1,0 +1,17 @@
+{
+ "id": "REC-0046",
+ "archivo": "adjunto_REC-0046.pdf",
+ "ruta": "06_Reclamos/REC-0046.eml#adjunto_REC-0046.pdf",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "crudo",
+ "psm": 3,
+ "inclinacion": 0.0,
+ "texto": "Banco Costa Norte DEMO S.A.\nEstado de cuenta - tarjeta de credito\nCliente: Pedro Escobar Mendoza DNI 99899119\nFecha Descripcion Importe\n03/04/2026 Cargo reclamado (consumo no reconocido) 56.00\n02/04/2026 Compra comercio DEMO 18.00\n30/03/2026 Pago servicio 176.00\n27/03/2026 Interes 128.00\n24/03/2026 Retiro cajero 106.00",
+ "confianza": 0.9516,
+ "score": 0.976,
+ "invalidos": 0,
+ "decision": "aceptar",
+ "segundos": 0.3,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

@@ -1,0 +1,17 @@
+{
+ "id": "REC-0052",
+ "archivo": "adjunto_REC-0052.jpg",
+ "ruta": "06_Reclamos/REC-0052.eml#adjunto_REC-0052.jpg",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "crudo",
+ "psm": 3,
+ "inclinacion": 0.0,
+ "texto": "Caja Rural Valle Verde DEMO S.A.\nEstado de cuenta - Cuenta de ahorros\nCliente: Jorge Castillo Vargas DNI 99037122\nFecha Descripcion Importe\n17/07/2026 Interes 276.00\n18/07/2026 Cargo rectamado (cuenta cerrada) 2,338.00\n14/07/2026 Retiro cajero 117.00\n11/07/2026 Interes 223.00\n08/07/2026",
+ "confianza": 0.9346,
+ "score": 0.967,
+ "invalidos": 0,
+ "decision": "aceptar",
+ "segundos": 0.2,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

@@ -1,0 +1,17 @@
+{
+ "id": "REC-0013",
+ "archivo": "adjunto_REC-0013.jpg",
+ "ruta": "06_Reclamos/REC-0013.eml#adjunto_REC-0013.jpg",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "crudo",
+ "psm": 3,
+ "inclinacion": 0.0,
+ "texto": "Caja Rural Valle Verde DEMO S.A.\nEstado de cuenta - cuenta sueldo\nCliente: Miguel Mamani Vargas DNI 99062447\nFecha\nDescripcion Importe\n22/09/2026 Compra comercio DEMO 183.00\n23/09/2026 Cargo reclamado (consumo no reconocido) 736.00\n19/09/2026 Retiro cajero 234.00\n16/09/2026 Compra comercio DEMO 264.00\n13/09/2026 Pago servicio 201.00",
+ "confianza": 0.93,
+ "score": 0.965,
+ "invalidos": 0,
+ "decision": "aceptar",
+ "segundos": 0.2,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

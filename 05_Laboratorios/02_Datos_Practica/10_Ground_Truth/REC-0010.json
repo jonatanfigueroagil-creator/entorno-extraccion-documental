@@ -1,0 +1,70 @@
+{
+ "doc_id": "REC-0010",
+ "tipo": "reclamo",
+ "formato": "eml",
+ "campos": {
+  "numero_reclamo": "R-2026-637865",
+  "fecha": "2026-09-02",
+  "nombre": "Sofia Mendoza Lazo",
+  "dni": "99568611",
+  "entidad": "Edpyme Sol Naciente DEMO S.A.",
+  "producto": "cuenta sueldo",
+  "motivo": "consumo no reconocido",
+  "monto_reclamado": 1733.0,
+  "telefono": "999 000 108",
+  "correo": "sofia.mendoza95@ejemplo.pe",
+  "monto_en_texto": false,
+  "canal": "correo",
+  "adjunto": {
+   "nombre": "adjunto_REC-0010.pdf",
+   "tipo": "pdf"
+  }
+ },
+ "tablas": [
+  {
+   "nombre": "movimientos_adjunto",
+   "encabezados": [
+    "Fecha",
+    "Descripcion",
+    "Importe"
+   ],
+   "filas": [
+    [
+     "01/09/2026",
+     "Compra comercio DEMO",
+     "269.00"
+    ],
+    [
+     "29/08/2026",
+     "Interes",
+     "71.00"
+    ],
+    [
+     "26/08/2026",
+     "Compra comercio DEMO",
+     "225.00"
+    ],
+    [
+     "02/09/2026",
+     "Cargo reclamado (consumo no reconocido)",
+     "1,733.00"
+    ],
+    [
+     "23/08/2026",
+     "Interes",
+     "209.00"
+    ]
+   ],
+   "celdas_combinadas": []
+  }
+ ],
+ "regiones": [],
+ "texto_completo": "q tal, soy Sofia Mendoza Lazo. aparece un consumo con mi tarjeta que yo no hice en la cuenta sueldo, como S/ 1,733.00 mas o menos. DNI 99568611. Ya llame 3 veces al call center y nada!!\nEdpyme Sol Naciente DEMO S.A.\nEstado de cuenta - cuenta sueldo\nCliente: Sofia Mendoza Lazo   DNI 99568611\nFecha\nDescripcion\nImporte\n01/09/2026\nCompra comercio DEMO\n269.00\n29/08/2026\nInteres\n71.00\n26/08/2026\nCompra comercio DEMO\n225.00\n02/09/2026\nCargo reclamado (consumo no reconocido)\n1,733.00\n23/08/2026\nInteres\n209.00",
+ "degradacion": {
+  "rotacion": 0,
+  "dpi": null,
+  "ruido": "ninguno"
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

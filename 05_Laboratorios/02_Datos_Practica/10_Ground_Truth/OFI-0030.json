@@ -1,0 +1,84 @@
+{
+ "doc_id": "OFI-0030",
+ "tipo": "oficio",
+ "formato": "pdf_escaneado",
+ "campos": {
+  "numero_oficio": "0199-2026-ID/DCM",
+  "fecha": "2026-07-29",
+  "entidad": "Banco Cordillera DEMO S.A.",
+  "ruc": "20997531206",
+  "asunto": "Remision de reportes de tasas de interes y comisiones vigentes",
+  "referencia": "Carta N° 146-2026 de Banco Cordillera DEMO S.A.",
+  "plazo_dias": 10,
+  "emisor": "Intendencia DEMO de Conducta de Mercado",
+  "firmante": "Andres Castillo Vargas",
+  "cargo": "Intendente DEMO Adjunto"
+ },
+ "tablas": [
+  {
+   "nombre": "informacion_solicitada",
+   "encabezados": [
+    "N°",
+    "Informacion solicitada"
+   ],
+   "filas": [
+    [
+     "1",
+     "Reporte de tasas aplicadas por producto"
+    ],
+    [
+     "2",
+     "Estados financieros al cierre del periodo"
+    ],
+    [
+     "3",
+     "Detalle de comisiones cobradas"
+    ]
+   ]
+  }
+ ],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    274,
+    2023,
+    796,
+    2194
+   ],
+   "unidad": "px",
+   "dpi": 300,
+   "ancho_px": 2481,
+   "alto_px": 3508
+  },
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    705,
+    1779,
+    1097,
+    2171
+   ],
+   "unidad": "px",
+   "dpi": 300,
+   "ancho_px": 2481,
+   "alto_px": 3508
+  }
+ ],
+ "texto_completo": "AUTORIDAD SUPERVISORA DEMO\nIntendencia DEMO de Conducta de Mercado\nDocumento ficticio con fines de capacitacion\nOFICIO N° 0199-2026-ID/DCM\nLima, 29 de julio de 2026\nSenores\nBanco Cordillera DEMO S.A.\nRUC 20997531206\nPresente.-\nAsunto:\nRemision de reportes de tasas de interes y comisiones vigentes\nReferencia:\nCarta N° 146-2026 de Banco Cordillera DEMO S.A.\nMediante el presente se requiere a su representada remitir la informacion detallada a continuacion, en el\nmarco de las labores de supervision del periodo en curso.\nN°\nInformacion solicitada\n1\nReporte de tasas aplicadas por producto\n2\nEstados financieros al cierre del periodo\n3\nDetalle de comisiones cobradas\nLa informacion debera ser presentada en un plazo de diez (10) dias habiles contados desde la recepcion\ndel presente oficio, en formato digital y firmada por el responsable. El incumplimiento sera evaluado\nconforme a los procedimientos internos aplicables.\nAtentamente,\nAndres Castillo Vargas\nIntendente DEMO Adjunto",
+ "degradacion": {
+  "rotacion": 1.39,
+  "ruido": "gaussiano",
+  "ruido_sigma": 13.6,
+  "desenfoque_sigma": 0.0,
+  "sombra": "izq",
+  "perspectiva": false,
+  "jpeg_calidad": 70,
+  "dpi": 300,
+  "paginas": 1
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

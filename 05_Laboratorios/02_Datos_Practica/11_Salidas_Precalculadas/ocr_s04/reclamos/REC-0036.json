@@ -1,0 +1,17 @@
+{
+ "id": "REC-0036",
+ "archivo": "adjunto_REC-0036.pdf",
+ "ruta": "06_Reclamos/REC-0036.eml#adjunto_REC-0036.pdf",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "crudo",
+ "psm": 3,
+ "inclinacion": 0.0,
+ "texto": "Caja Rural Valle Verde DEMO S.A.\nEstado de cuenta - tarjeta de debito\nCliente: Milagros Huaman Chavez DNI 99581590\nFecha Descripcion Importe\n08/04/2026 Pago servicio 77.00\n09/04/2026 Cargo reclamado (consumo no reconocido) 1,917.00\n05/04/2026 Pago servicio 223.00\n02/04/2026 Pago servicio 167.00\n30/03/2026 Interes 195.00",
+ "confianza": 0.9523,
+ "score": 0.976,
+ "invalidos": 0,
+ "decision": "aceptar",
+ "segundos": 0.3,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

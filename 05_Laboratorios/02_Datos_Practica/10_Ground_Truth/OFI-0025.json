@@ -1,0 +1,76 @@
+{
+ "doc_id": "OFI-0025",
+ "tipo": "oficio",
+ "formato": "pdf_escaneado",
+ "campos": {
+  "numero_oficio": "0363-2026-ID/DSF",
+  "fecha": "2026-04-05",
+  "entidad": "Seguros Tierra Firme DEMO S.A.",
+  "ruc": "20998253889",
+  "asunto": "Requerimiento de informacion sobre la cartera de creditos al 30 de junio de 2026",
+  "referencia": "Carta N° 349-2026 de Seguros Tierra Firme DEMO S.A.",
+  "plazo_dias": 5,
+  "emisor": "Intendencia DEMO de Riesgos Operacionales",
+  "firmante": "Teresa Rojas Soto",
+  "cargo": "Jefe de Equipo DEMO"
+ },
+ "tablas": [
+  {
+   "nombre": "informacion_solicitada",
+   "encabezados": [
+    "N°",
+    "Informacion solicitada"
+   ],
+   "filas": [
+    [
+     "1",
+     "Informe de atencion de reclamos del periodo"
+    ]
+   ]
+  }
+ ],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    138,
+    962,
+    409,
+    1060
+   ],
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    348,
+    828,
+    556,
+    1035
+   ],
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  }
+ ],
+ "texto_completo": "AUTORIDAD SUPERVISORA DEMO\nIntendencia DEMO de Riesgos Operacionales\nDocumento ficticio con fines de capacitacion\nOFICIO N° 0363-2026-ID/DSF\nLima, 5 de abril de 2026\nSenores\nSeguros Tierra Firme DEMO S.A.\nRUC 20998253889\nPresente.-\nAsunto:\nRequerimiento de informacion sobre la cartera de creditos al 30 de junio de 2026\nReferencia:\nCarta N° 349-2026 de Seguros Tierra Firme DEMO S.A.\nMediante el presente se requiere a su representada remitir la informacion detallada a continuacion, en el\nmarco de las labores de supervision del periodo en curso.\nN°\nInformacion solicitada\n1\nInforme de atencion de reclamos del periodo\nLa informacion debera ser presentada en un plazo de cinco (5) dias habiles contados desde la recepcion\ndel presente oficio, en formato digital y firmada por el responsable. El incumplimiento sera evaluado\nconforme a los procedimientos internos aplicables.\nAtentamente,\nTeresa Rojas Soto\nJefe de Equipo DEMO",
+ "degradacion": {
+  "rotacion": 4.9,
+  "ruido": "gaussiano",
+  "ruido_sigma": 10.3,
+  "desenfoque_sigma": 1.0,
+  "sombra": "sup",
+  "perspectiva": false,
+  "jpeg_calidad": 80,
+  "dpi": 150,
+  "paginas": 1
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

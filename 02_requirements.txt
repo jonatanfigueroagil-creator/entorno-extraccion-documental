@@ -1,0 +1,59 @@
+# Extracción documental — dependencias del curso (Python 3.12, Windows en la VM del curso)
+# Instalación en un entorno virtual (PowerShell):
+#     py -3.12 -m venv venv           (la VM ya trae el entorno del curso creado y activable: carpeta venv dentro de la carpeta curso)
+#     .\venv\Scripts\Activate.ps1
+#     pip install -r 02_requirements.txt
+# No se actualizan estas versiones: algunas las fija una dependencia de PaddleOCR.
+#
+# Notas para Windows
+#   - tabula-py necesita Java (JRE 11 o superior) en el PATH; se instala aparte del entorno de Python.
+#   - pytesseract necesita el programa Tesseract OCR con los idiomas spa y osd; se instala aparte (instalador de Windows).
+#   - docker es solo el cliente de Python; Docker Desktop requiere WSL2 o Hyper-V y puede no estar disponible en la VM.
+
+# --- Lectura de documentos
+pypdf==6.19.0
+pymupdf==1.28.2
+pdfplumber==0.11.10
+python-docx==1.2.0
+beautifulsoup4==4.15.0
+lxml==6.1.3
+tabula-py==2.10.0      # requiere Java en el PATH
+camelot-py==2.0.0
+
+# --- OCR y visión
+pytesseract==0.3.13     # requiere Tesseract OCR instalado aparte
+pillow==12.3.0
+opencv-python-headless==4.10.0.84
+opencv-contrib-python==4.10.0.84
+numpy==2.3.5
+paddlepaddle==3.3.1
+paddleocr==3.7.0
+
+# --- Datos
+pandas==3.0.6
+pyarrow==26.0.0
+duckdb==1.5.6
+pydantic==2.14.1
+PyYAML==6.0.2
+
+# --- PLN y modelos
+spacy==3.8.16
+transformers==5.19.0
+sentencepiece==0.2.2
+accelerate==1.15.0
+
+# --- LLM local y clientes
+ollama==0.6.3
+openai==3.31.0
+
+# --- Calidad y entorno
+pytest==9.1.1
+docker==7.2.0          # cliente; Docker Desktop puede no estar disponible
+jupyterlab==4.6.4
+nbformat==5.11.1
+
+# --- Se instalan aparte (índice propio):
+#   PyTorch con GPU:   pip install torch==2.14.1 --index-url https://download.pytorch.org/whl/cu126
+#   PaddlePaddle GPU:  pip install paddlepaddle-gpu==3.3.1 -i https://www.paddlepaddle.org.cn/packages/stable/cu126/
+#                      (reemplaza a paddlepaddle; se usa solo un motor por entorno)
+#   spaCy en español (mismo comando en PowerShell):  pip install https://github.com/explosion/spacy-models/releases/download/es_core_news_md-3.8.0/es_core_news_md-3.8.0-py3-none-any.whl

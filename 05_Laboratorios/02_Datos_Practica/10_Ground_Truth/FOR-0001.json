@@ -1,0 +1,180 @@
+{
+ "doc_id": "FOR-0001",
+ "tipo": "formulario",
+ "formato": "imagen_png",
+ "campos": {
+  "nombres": "Diego",
+  "apellido_paterno": "Ccori",
+  "apellido_materno": "Ortega",
+  "dni": "99923010",
+  "fecha_nacimiento": "1964-06-28",
+  "direccion": "Jr. Los Cedros 214, Miraflores",
+  "telefono": "999 000 326",
+  "correo": "diego.ccori21@ejemplo.pe",
+  "fecha_solicitud": "2026-07-22"
+ },
+ "tablas": [],
+ "regiones": [
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    116,
+    222,
+    1148,
+    287
+   ],
+   "campo": "nombres",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    114,
+    330,
+    1146,
+    395
+   ],
+   "campo": "apellido_paterno",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    112,
+    438,
+    1144,
+    504
+   ],
+   "campo": "apellido_materno",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    109,
+    547,
+    1142,
+    612
+   ],
+   "campo": "dni",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    107,
+    655,
+    1140,
+    720
+   ],
+   "campo": "fecha_nacimiento",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    105,
+    763,
+    1138,
+    829
+   ],
+   "campo": "direccion",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    103,
+    871,
+    1136,
+    937
+   ],
+   "campo": "telefono",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    101,
+    980,
+    1134,
+    1045
+   ],
+   "campo": "correo",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    99,
+    1088,
+    1132,
+    1153
+   ],
+   "campo": "fecha_solicitud",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    106,
+    1253,
+    391,
+    1346
+   ],
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  }
+ ],
+ "texto_completo": "Nombres: Diego\nApellido paterno: Ccori\nApellido materno: Ortega\nDNI: 99923010\nFecha de nacimiento: 28/06/1964\nDireccion: Jr. Los Cedros 214, Miraflores\nTelefono: 999 000 326\nCorreo electronico: diego.ccori21@ejemplo.pe\nFecha de solicitud: 22/07/2026",
+ "degradacion": {
+  "rotacion": -1.09,
+  "ruido": "sal_pimienta",
+  "ruido_sigma": 5.0,
+  "desenfoque_sigma": 0.6,
+  "sombra": null,
+  "perspectiva": false,
+  "dpi": 150,
+  "legibilidad_manuscrito": "media"
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)"
+}

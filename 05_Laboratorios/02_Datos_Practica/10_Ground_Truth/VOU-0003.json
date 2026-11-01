@@ -1,0 +1,56 @@
+{
+ "doc_id": "VOU-0003",
+ "tipo": "voucher",
+ "formato": "imagen_png",
+ "campos": {
+  "entidad": "Caja Rural Valle Verde DEMO S.A.",
+  "numero_operacion": "64477772",
+  "fecha": "2026-03-05",
+  "hora": "09:37",
+  "monto": 12533,
+  "moneda": "PEN",
+  "cuenta_destino": "999-8700795758",
+  "titular": "Miguel Ortega Soto",
+  "depositante": "Gladys Flores Nunez",
+  "dni_depositante": "99093169"
+ },
+ "tablas": [],
+ "regiones": [
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    79,
+    252,
+    140,
+    323
+   ],
+   "unidad": "px",
+   "ancho_px": 288,
+   "alto_px": 448
+  },
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    148,
+    268,
+    217,
+    297
+   ],
+   "unidad": "px",
+   "ancho_px": 288,
+   "alto_px": 448
+  }
+ ],
+ "texto_completo": "Caja Rural Valle Verde DEMO S.A.\nCONSTANCIA DE DEPOSITO\nOperacion:\n64477772\nFecha:\n05/03/2026\nHora:\n09:37\nCuenta:\n999-8700795758\nTitular:\nMiguel Ortega Soto\nDepositante:\nGladys Flores Nunez\nDNI:\n99093169\nMONTO S/ 12,533.00",
+ "degradacion": {
+  "rotacion": -3.2,
+  "dpi": 60,
+  "ruido": "gaussiano",
+  "perspectiva": true,
+  "sombra": "der",
+  "escala": 0.5
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)"
+}

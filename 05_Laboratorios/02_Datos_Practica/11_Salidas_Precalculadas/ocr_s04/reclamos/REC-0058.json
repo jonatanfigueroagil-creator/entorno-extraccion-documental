@@ -1,0 +1,17 @@
+{
+ "id": "REC-0058",
+ "archivo": "adjunto_REC-0058.pdf",
+ "ruta": "06_Reclamos/REC-0058.eml#adjunto_REC-0058.pdf",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "crudo",
+ "psm": 3,
+ "inclinacion": 0.0,
+ "texto": "Banco Cordillera DEMO S.A.\nEstado de cuenta - tarjeta de debito\nCliente: Ana Nunez Ponce DNI 99544101\nFecha Descripcion Importe\n16/04/2026 Interes 215.00\n13/04/2026 Retiro cajero 216.00\n10/04/2026 Pago servicio 55.00\n17/04/2026 Cargo reclamado (cuenta cerrada) 2,551.00\n07/04/2026 Compra comercio DEMO 189.00",
+ "confianza": 0.9512,
+ "score": 0.976,
+ "invalidos": 0,
+ "decision": "aceptar",
+ "segundos": 0.29,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

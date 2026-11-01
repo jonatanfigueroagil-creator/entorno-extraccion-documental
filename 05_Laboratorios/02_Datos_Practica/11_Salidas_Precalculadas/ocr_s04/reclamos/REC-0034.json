@@ -1,0 +1,17 @@
+{
+ "id": "REC-0034",
+ "archivo": "adjunto_REC-0034.jpg",
+ "ruta": "06_Reclamos/REC-0034.eml#adjunto_REC-0034.jpg",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "crudo",
+ "psm": 3,
+ "inclinacion": 0.0,
+ "texto": "Banco Cordillera DEMO S.A.\nEstado de cuenta - tarjeta de debito\nCliente: Diego Torres Flores DNI 99766808\nFecha\nDescripcion Importe\n15/06/2026 Interes 148.00\n16/06/2026 Cargo rectámiado (demora en entrega) 509.00\n12/06/2026 Pajgo sérvicio 252.00.\n09/06/2026 Interes 292.00\n06/06/2026 Interes 248.00 |",
+ "confianza": 0.8476,
+ "score": 0.924,
+ "invalidos": 0,
+ "decision": "aceptar",
+ "segundos": 0.18,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

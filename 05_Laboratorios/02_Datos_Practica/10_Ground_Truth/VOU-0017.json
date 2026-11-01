@@ -1,0 +1,56 @@
+{
+ "doc_id": "VOU-0017",
+ "tipo": "voucher",
+ "formato": "imagen_jpg",
+ "campos": {
+  "entidad": "Banco Cordillera DEMO S.A.",
+  "numero_operacion": "38246078",
+  "fecha": "2026-04-22",
+  "hora": "08:00",
+  "monto": 10717,
+  "moneda": "PEN",
+  "cuenta_destino": "999-7054914012",
+  "titular": "Paola Bravo Flores",
+  "depositante": "Gladys Ledesma Ibarra",
+  "dni_depositante": "99969676"
+ },
+ "tablas": [],
+ "regiones": [
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    90,
+    313,
+    161,
+    382
+   ],
+   "unidad": "px",
+   "ancho_px": 345,
+   "alto_px": 537
+  },
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    169,
+    331,
+    249,
+    361
+   ],
+   "unidad": "px",
+   "ancho_px": 345,
+   "alto_px": 537
+  }
+ ],
+ "texto_completo": "Banco Cordillera DEMO S.A.\nCONSTANCIA DE DEPOSITO\nOperacion:\n38246078\nFecha:\n22/04/2026\nHora:\n08:00\nCuenta:\n999-7054914012\nTitular:\nPaola Bravo Flores\nDepositante:\nGladys Ledesma Ibarra\nDNI:\n99969676\nMONTO S/ 10,717.00",
+ "degradacion": {
+  "rotacion": -1.02,
+  "dpi": 72,
+  "ruido": "gaussiano",
+  "perspectiva": true,
+  "sombra": "inf",
+  "escala": 0.6
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)"
+}

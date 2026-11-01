@@ -1,0 +1,98 @@
+{
+ "doc_id": "TAR-0009",
+ "tipo": "tarifario",
+ "formato": "html",
+ "campos": {
+  "entidad": "Aseguradora Condor DEMO S.A.",
+  "ruc": "20997155832",
+  "vigencia": "2026-04-21",
+  "n_productos": 3
+ },
+ "tablas": [
+  {
+   "nombre": "tasas_por_tramo",
+   "encabezados": [
+    "Producto",
+    "Moneda",
+    "Tramo",
+    "TEA",
+    "Comision mensual"
+   ],
+   "filas": [
+    [
+     "Credito hipotecario",
+     "PEN",
+     "hasta S/ 5,000",
+     "8.10",
+     "S/ 6.00"
+    ],
+    [
+     "Credito hipotecario",
+     "PEN",
+     "S/ 5,001 a S/ 20,000",
+     "9.63",
+     "S/ 6.00"
+    ],
+    [
+     "Credito hipotecario",
+     "PEN",
+     "mas de S/ 20,000",
+     "9.30",
+     "S/ 6.00"
+    ],
+    [
+     "Cuenta de ahorros",
+     "PEN",
+     "hasta S/ 5,000",
+     "16.84",
+     "S/ 11.00"
+    ],
+    [
+     "Cuenta de ahorros",
+     "PEN",
+     "S/ 5,001 a S/ 20,000",
+     "18.34",
+     "S/ 11.00"
+    ],
+    [
+     "Cuenta de ahorros",
+     "PEN",
+     "mas de S/ 20,000",
+     "19.93",
+     "S/ 11.00"
+    ],
+    [
+     "Deposito a plazo",
+     "USD",
+     "hasta S/ 5,000",
+     "18.76",
+     "S/ 19.00"
+    ],
+    [
+     "Deposito a plazo",
+     "USD",
+     "S/ 5,001 a S/ 20,000",
+     "20.21",
+     "S/ 19.00"
+    ],
+    [
+     "Deposito a plazo",
+     "USD",
+     "mas de S/ 20,000",
+     "21.62",
+     "S/ 19.00"
+    ]
+   ],
+   "celdas_combinadas": [],
+   "anidada": true
+  }
+ ],
+ "regiones": [],
+ "texto_completo": "Aseguradora Condor DEMO S.A.\nRUC 20997155832\nVigente desde 21/04/2026\nCredito hipotecario | PEN | hasta S/ 5,000 | 8.10 | S/ 6.00\nCredito hipotecario | PEN | S/ 5,001 a S/ 20,000 | 9.63 | S/ 6.00\nCredito hipotecario | PEN | mas de S/ 20,000 | 9.30 | S/ 6.00\nCuenta de ahorros | PEN | hasta S/ 5,000 | 16.84 | S/ 11.00\nCuenta de ahorros | PEN | S/ 5,001 a S/ 20,000 | 18.34 | S/ 11.00\nCuenta de ahorros | PEN | mas de S/ 20,000 | 19.93 | S/ 11.00\nDeposito a plazo | USD | hasta S/ 5,000 | 18.76 | S/ 19.00\nDeposito a plazo | USD | S/ 5,001 a S/ 20,000 | 20.21 | S/ 19.00\nDeposito a plazo | USD | mas de S/ 20,000 | 21.62 | S/ 19.00",
+ "degradacion": {
+  "rotacion": 0,
+  "dpi": null,
+  "ruido": "ninguno"
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)"
+}

@@ -1,0 +1,84 @@
+{
+ "doc_id": "OFI-0008",
+ "tipo": "oficio",
+ "formato": "pdf_escaneado",
+ "campos": {
+  "numero_oficio": "0839-2026-ID/DCM",
+  "fecha": "2026-03-06",
+  "entidad": "Caja Rural Valle Verde DEMO S.A.",
+  "ruc": "20996964281",
+  "asunto": "Requerimiento de informe sobre incidentes de seguridad de la informacion",
+  "referencia": "Carta N° 023-2026 de Caja Rural Valle Verde DEMO S.A.",
+  "plazo_dias": 10,
+  "emisor": "Intendencia DEMO de Riesgos Operacionales",
+  "firmante": "Andres Olivera Ibarra",
+  "cargo": "Intendente DEMO"
+ },
+ "tablas": [
+  {
+   "nombre": "informacion_solicitada",
+   "encabezados": [
+    "N°",
+    "Informacion solicitada"
+   ],
+   "filas": [
+    [
+     "1",
+     "Cronograma de implementacion de las medidas correctivas"
+    ],
+    [
+     "2",
+     "Copia de los contratos suscritos"
+    ],
+    [
+     "3",
+     "Politica interna aprobada y su fecha de vigencia"
+    ]
+   ]
+  }
+ ],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    200,
+    1358,
+    546,
+    1480
+   ],
+   "unidad": "px",
+   "dpi": 200,
+   "ancho_px": 1654,
+   "alto_px": 2339
+  },
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    471,
+    1189,
+    739,
+    1457
+   ],
+   "unidad": "px",
+   "dpi": 200,
+   "ancho_px": 1654,
+   "alto_px": 2339
+  }
+ ],
+ "texto_completo": "AUTORIDAD SUPERVISORA DEMO\nIntendencia DEMO de Riesgos Operacionales\nDocumento ficticio con fines de capacitacion\nOFICIO N° 0839-2026-ID/DCM\nLima, 6 de marzo de 2026\nSenores\nCaja Rural Valle Verde DEMO S.A.\nRUC 20996964281\nPresente.-\nAsunto:\nRequerimiento de informe sobre incidentes de seguridad de la informacion\nReferencia:\nCarta N° 023-2026 de Caja Rural Valle Verde DEMO S.A.\nMediante el presente se requiere a su representada remitir la informacion detallada a continuacion, en el\nmarco de las labores de supervision del periodo en curso.\nN°\nInformacion solicitada\n1\nCronograma de implementacion de las medidas correctivas\n2\nCopia de los contratos suscritos\n3\nPolitica interna aprobada y su fecha de vigencia\nLa informacion debera ser presentada en un plazo de diez (10) dias habiles contados desde la recepcion\ndel presente oficio, en formato digital y firmada por el responsable. El incumplimiento sera evaluado\nconforme a los procedimientos internos aplicables.\nAtentamente,\nAndres Olivera Ibarra\nIntendente DEMO",
+ "degradacion": {
+  "rotacion": 3.01,
+  "ruido": "gaussiano",
+  "ruido_sigma": 7.8,
+  "desenfoque_sigma": 0.0,
+  "sombra": "sup",
+  "perspectiva": false,
+  "jpeg_calidad": 80,
+  "dpi": 200,
+  "paginas": 1
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

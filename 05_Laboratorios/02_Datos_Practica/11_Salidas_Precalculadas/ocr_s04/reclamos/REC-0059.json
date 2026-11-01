@@ -1,0 +1,17 @@
+{
+ "id": "REC-0059",
+ "archivo": "adjunto_REC-0059.pdf",
+ "ruta": "06_Reclamos/REC-0059.eml#adjunto_REC-0059.pdf",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "crudo",
+ "psm": 3,
+ "inclinacion": 0.0,
+ "texto": "Edpyme Sol Naciente DEMO S.A.\nEstado de cuenta - cuenta sueldo\nCliente: Mario Palacios Vargas DNI 99561660\nFecha Descripcion Importe\n12/02/2026 Compra comercio DEMO 294.00\n09/02/2026 Interes 93.00\n13/02/2026 Cargo reclamado (tasa distinta) 1,482.00\n06/02/2026 Compra comercio DEMO 91.00\n03/02/2026 Interes 32.00",
+ "confianza": 0.9543,
+ "score": 0.977,
+ "invalidos": 0,
+ "decision": "aceptar",
+ "segundos": 0.29,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

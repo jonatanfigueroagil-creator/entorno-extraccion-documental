@@ -1,0 +1,56 @@
+{
+ "doc_id": "VOU-0010",
+ "tipo": "voucher",
+ "formato": "imagen_png",
+ "campos": {
+  "entidad": "Caja Rural Valle Verde DEMO S.A.",
+  "numero_operacion": "48303400",
+  "fecha": "2026-07-12",
+  "hora": "18:34",
+  "monto": 19798,
+  "moneda": "PEN",
+  "cuenta_destino": "999-4386908524",
+  "titular": "Jorge Delgado Olivera",
+  "depositante": "Carlos Olivera Nunez",
+  "dni_depositante": "99369039"
+ },
+ "tablas": [],
+ "regiones": [
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    97,
+    327,
+    177,
+    411
+   ],
+   "unidad": "px",
+   "ancho_px": 345,
+   "alto_px": 537
+  },
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    188,
+    346,
+    281,
+    383
+   ],
+   "unidad": "px",
+   "ancho_px": 345,
+   "alto_px": 537
+  }
+ ],
+ "texto_completo": "Caja Rural Valle Verde DEMO S.A.\nCONSTANCIA DE DEPOSITO\nOperacion:\n48303400\nFecha:\n12/07/2026\nHora:\n18:34\nCuenta:\n999-4386908524\nTitular:\nJorge Delgado Olivera\nDepositante:\nCarlos Olivera Nunez\nDNI:\n99369039\nMONTO S/ 19,798.00",
+ "degradacion": {
+  "rotacion": 4.07,
+  "dpi": 72,
+  "ruido": "gaussiano",
+  "perspectiva": true,
+  "sombra": "der",
+  "escala": 0.6
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)"
+}

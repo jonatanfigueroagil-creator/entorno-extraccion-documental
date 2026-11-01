@@ -1,0 +1,210 @@
+{
+ "doc_id": "ACT-0002",
+ "tipo": "acta",
+ "formato": "pdf_nativo",
+ "campos": {
+  "numero_acta": "21-2026",
+  "fecha": "2026-09-18",
+  "entidad": "Cooperativa de Ahorro y Crédito Nueva Esperanza DEMO",
+  "ruc": "20993827968",
+  "organo": "Directorio",
+  "tipo_sesion": "ordinaria",
+  "hora_inicio": "14:30",
+  "hora_fin": "16:45",
+  "quorum": "4 de 7",
+  "quorum_asistentes": 4,
+  "quorum_total": 7,
+  "presidente": "Rocío Oré Herrera",
+  "secretario": "Jesús Quiñones Huamán",
+  "n_acuerdos": 8,
+  "n_paginas": 5
+ },
+ "tablas": [
+  {
+   "nombre": "asistencia",
+   "encabezados": [
+    "N°",
+    "Nombre",
+    "Cargo",
+    "Asistencia"
+   ],
+   "filas": [
+    [
+     "1",
+     "Rocío Oré Herrera",
+     "Presidenta del Directorio",
+     "Presente"
+    ],
+    [
+     "2",
+     "Óscar Rodríguez Céspedes",
+     "Vicepresidente",
+     "Presente"
+    ],
+    [
+     "3",
+     "Jesús Quiñones Huamán",
+     "Secretario",
+     "Presente (virtual)"
+    ],
+    [
+     "4",
+     "Iván Cáceres Ibáñez",
+     "Director",
+     "Ausente"
+    ],
+    [
+     "5",
+     "Lucía Vásquez Bermúdez",
+     "Directora",
+     "Ausente (con licencia)"
+    ],
+    [
+     "6",
+     "Inés Tapia Mamani",
+     "Directora",
+     "Ausente"
+    ],
+    [
+     "7",
+     "Rocío Huamán Domínguez",
+     "Directora",
+     "Presente (virtual)"
+    ]
+   ]
+  },
+  {
+   "nombre": "acuerdos",
+   "encabezados": [
+    "N°",
+    "Descripcion",
+    "Responsable",
+    "Plazo",
+    "Estado",
+    "Referencia"
+   ],
+   "filas": [
+    [
+     "01-2026",
+     "Ratificar la conformación del comité de créditos y sus facultades de aprobación vigentes.",
+     "Secretaría General",
+     "inmediato",
+     "modificado",
+     ""
+    ],
+    [
+     "02-2026",
+     "Disponer que la Gerencia de Riesgos presente un plan de reducción de la morosidad de la cartera de microempresa.",
+     "Gerencia de Riesgos",
+     "10 dias",
+     "vigente",
+     ""
+    ],
+    [
+     "03-2026",
+     "Autorizar la contratación del sistema de gestión documental por el monto cotizado más bajo que cumpla los requisitos técnicos.",
+     "Gerencia de Administración",
+     "60 dias",
+     "vigente",
+     ""
+    ],
+    [
+     "04-2026",
+     "Aprobar los estados financieros con corte a agosto de 2026 y autorizar su presentación a los órganos competentes.",
+     "Contabilidad General",
+     "2026-12-17",
+     "vigente",
+     ""
+    ],
+    [
+     "05-2026",
+     "Aprobar la actualización de la política de gestión del riesgo de liquidez, con vigencia desde la fecha de la presente acta.",
+     "Gerencia de Riesgos",
+     "inmediato",
+     "vigente",
+     ""
+    ],
+    [
+     "06-2026",
+     "Disponer el levantamiento de las observaciones de riesgo alto del informe de auditoría interna y el reporte mensual de avances.",
+     "Auditoría Interna",
+     "45 dias",
+     "vigente",
+     ""
+    ],
+    [
+     "07-2026",
+     "Aprobar la distribución de excedentes del ejercicio conforme a la propuesta presentada y constituir las reservas correspondientes.",
+     "Gerencia de Finanzas",
+     "2026-10-08",
+     "vigente",
+     ""
+    ],
+    [
+     "08-2026",
+     "Modificar el plazo del ACUERDO N.º 01-2026, que queda fijado en cuarenta y cinco (45) días calendario.",
+     "Gerencia General",
+     "inmediato",
+     "vigente",
+     "modifica 01-2026; nuevo plazo 45 dias"
+    ]
+   ],
+   "nota": "Plazo normalizado: 'N dias' (calendario), fecha ISO o 'inmediato'. Estado: vigente/derogado/modificado."
+  }
+ ],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 5,
+   "bbox": [
+    58.9,
+    473.5,
+    197.3,
+    509.4
+   ],
+   "unidad": "pt"
+  },
+  {
+   "tipo": "firma",
+   "pagina": 5,
+   "bbox": [
+    324.7,
+    470.7,
+    467.9,
+    509.4
+   ],
+   "unidad": "pt"
+  },
+  {
+   "tipo": "sello",
+   "pagina": 5,
+   "bbox": [
+    254,
+    472.4,
+    326,
+    544.4
+   ],
+   "unidad": "pt"
+  }
+ ],
+ "texto_completo": "Cooperativa de Ahorro y Crédito Nueva Esperanza DEMO\nRUC 20993827968\nACTA N.º 21-2026 · SESIÓN ORDINARIA DE DIRECTORIO\nCooperativa de Ahorro y Crédito Nueva Esperanza DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 1 de 5\nACTA N.º 21-2026\nSESIÓN ORDINARIA DE DIRECTORIO\nLima, 18 de setiembre de 2026\nSiendo las 14:30 horas, se reunió el Directorio de Cooperativa de Ahorro y Crédito Nueva Esperanza DEMO en\nsu sede institucional, en sesión ordinaria, con la asistencia de cuatro (4) de los siete (7) miembros convocados,\nbajo la presidencia de Rocío Oré Herrera, quien actuó como Presidenta del Directorio, y de Jesús Quiñones\nHuamán, quien actuó como secretario(a).\nI. VERIFICACIÓN DEL QUÓRUM\nSe dejó constancia de la siguiente asistencia. Existiendo quórum reglamentario, el Presidente declaró instalada\nla sesión.\nN°\nNombre\nCargo\nAsistencia\n1\nRocío Oré Herrera\nPresidenta del Directorio\nPresente\n2\nÓscar Rodríguez Céspedes\nVicepresidente\nPresente\n3\nJesús Quiñones Huamán\nSecretario\nPresente (virtual)\n4\nIván Cáceres Ibáñez\nDirector\nAusente\n5\nLucía Vásquez Bermúdez\nDirectora\nAusente (con licencia)\n6\nInés Tapia Mamani\nDirectora\nAusente\n7\nRocío Huamán Domínguez\nDirectora\nPresente (virtual)\nII. AGENDA\nLa agenda de la sesión fue la siguiente: 1) Verificación del quórum; 2) Ratificación del comité de créditos; 3)\nInforme de cartera de créditos y morosidad; 4) Adquisición de un sistema de gestión documental; 5) Aprobación\nde los estados financieros; 6) Política de gestión del riesgo de liquidez; 7) Informe de auditoría interna; 8)\nDistribución de excedentes y constitución de reservas; 9) Revisión de acuerdos adoptados.\nIII. DESARROLLO DE LA SESIÓN\n2. RATIFICACIÓN DEL COMITÉ DE CRÉDITOS\nSe propuso ratificar a los integrantes del comité de créditos por el periodo restante, considerando su\ndesempeño y la rotación del personal.\nEl Presidente recordó los límites de aprobación que corresponden a cada nivel.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. Rocío Oré Herrera pidió que los responsables remitan un informe escrito con el detalle de las\nacciones adoptadas.\nÓscar Rodríguez Céspedes manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello\nen el acta. Luego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable\ny oportuna.\nJesús Quiñones Huamán sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. Rocío Oré Herrera consultó sobre el impacto de la medida en los indicadores de solvencia, y la\ngerencia precisó que se mantendrían dentro de los límites aprobados.\nIván Cáceres Ibáñez manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nacta. Rocío Oré Herrera manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en\nel acta.\nRocío Oré Herrera manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nCooperativa de Ahorro y Crédito Nueva Esperanza DEMO\nRUC 20993827968\nACTA N.º 21-2026 · SESIÓN ORDINARIA DE DIRECTORIO\nCooperativa de Ahorro y Crédito Nueva Esperanza DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 2 de 5\nacta. Rocío Oré Herrera consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados.\nACUERDO N.º 01-2026: Ratificar la conformación del comité de créditos y sus facultades de\naprobación vigentes.\nResponsable: Secretaría General. Plazo: de cumplimiento inmediato.\nAprobado por mayoría, con 3 votos a favor y 1 en contra.\n3. INFORME DE CARTERA DE CRÉDITOS Y MOROSIDAD\nLa Gerencia General informó que la cartera bruta de créditos al cierre de agosto ascendió a S/ 4,900,000.00,\ncon un índice de morosidad de 7,5 %.\nSe precisó que el 62 % de los créditos vencidos corresponde a la línea de microempresa y que se vienen\nejecutando campañas de recuperación.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Jesús Quiñones\nHuamán pidió que los responsables remitan un informe escrito con el detalle de las acciones adoptadas.\nRocío Oré Herrera observó que los plazos propuestos deben guardar coherencia con el calendario institucional,\ny la gerencia tomó nota. Óscar Rodríguez Céspedes consultó sobre el impacto de la medida en los indicadores\nde solvencia, y la gerencia precisó que se mantendrían dentro de los límites aprobados.\nRocío Oré Herrera sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nÓscar Rodríguez Céspedes consultó sobre el impacto de la medida en los indicadores de solvencia, y la\ngerencia precisó que se mantendrían dentro de los límites aprobados.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. Iván Cáceres Ibáñez sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada.\nRocío Oré Herrera observó que los plazos propuestos deben guardar coherencia con el calendario institucional,\ny la gerencia tomó nota. Iván Cáceres Ibáñez pidió que los responsables remitan un informe escrito con el\ndetalle de las acciones adoptadas.\nACUERDO N.º 02-2026: Disponer que la Gerencia de Riesgos presente un plan de reducción de la\nmorosidad de la cartera de microempresa.\nResponsable: Gerencia de Riesgos. Plazo: dentro de un plazo de diez (10) días calendario.\nAprobado por unanimidad de los miembros presentes.\n4. ADQUISICIÓN DE UN SISTEMA DE GESTIÓN DOCUMENTAL\nLa Gerencia de Tecnología sustentó la necesidad de digitalizar los expedientes de crédito y propuso adquirir\nuna solución de gestión documental por S/ 4,900,000.00.\nSe compararon tres cotizaciones y se verificó el cumplimiento de los requisitos de seguridad y conservación de\nla información.\nÓscar Rodríguez Céspedes pidió que los responsables remitan un informe escrito con el detalle de las\nacciones adoptadas. La Presidencia agradeció los aportes de los miembros y sometió el asunto a votación.\nÓscar Rodríguez Céspedes manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello\nen el acta. Jesús Quiñones Huamán pidió que los responsables remitan un informe escrito con el detalle de las\nacciones adoptadas.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Rocío Oré Herrera pidió\nque los responsables remitan un informe escrito con el detalle de las acciones adoptadas.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\nCooperativa de Ahorro y Crédito Nueva Esperanza DEMO\nRUC 20993827968\nACTA N.º 21-2026 · SESIÓN ORDINARIA DE DIRECTORIO\nCooperativa de Ahorro y Crédito Nueva Esperanza DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 3 de 5\noportuna. La Presidencia agradeció los aportes de los miembros y sometió el asunto a votación.\nIván Cáceres Ibáñez consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. Óscar Rodríguez Céspedes sugirió que el\nseguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nACUERDO N.º 03-2026: Autorizar la contratación del sistema de gestión documental por el monto\ncotizado más bajo que cumpla los requisitos técnicos.\nResponsable: Gerencia de Administración. Plazo: dentro de un plazo de sesenta (60) días calendario.\nAprobado por unanimidad de los miembros presentes.\n5. APROBACIÓN DE LOS ESTADOS FINANCIEROS\nLa Contabilidad presentó los estados financieros con corte a agosto, que registran activos por S/ 4,900,000.00\ny una utilidad acumulada de S/ 6,300,000.00.\nLos miembros revisaron las notas explicativas y el dictamen preliminar del auditor externo, sin observaciones\nde fondo.\nJesús Quiñones Huamán pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. La Presidencia agradeció los aportes de los miembros y sometió el asunto a votación.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. La Presidencia\nagradeció los aportes de los miembros y sometió el asunto a votación.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. La Presidencia\nagradeció los aportes de los miembros y sometió el asunto a votación.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Óscar Rodríguez\nCéspedes manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el acta.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. Luego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable\ny oportuna.\nACUERDO N.º 04-2026: Aprobar los estados financieros con corte a agosto de 2026 y autorizar su\npresentación a los órganos competentes.\nResponsable: Contabilidad General. Plazo: hasta el 17 de diciembre de 2026.\nAprobado por mayoría, con 3 votos a favor y 1 en contra.\n6. POLÍTICA DE GESTIÓN DEL RIESGO DE LIQUIDEZ\nLa Gerencia de Riesgos presentó la actualización de la política, con un ratio de liquidez en moneda nacional de\n7,5 % frente a un límite interno de 8,0 %.\nSe explicó la metodología de simulación de escenarios de estrés y el plan de contingencia de fondeo.\nRocío Oré Herrera consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. Rocío Oré Herrera observó que los plazos\npropuestos deben guardar coherencia con el calendario institucional, y la gerencia tomó nota.\nÓscar Rodríguez Céspedes sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. Óscar Rodríguez Céspedes manifestó su conformidad con lo expuesto y solicitó que se deje\nconstancia de ello en el acta.\nÓscar Rodríguez Céspedes sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. Rocío Oré Herrera sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\nCooperativa de Ahorro y Crédito Nueva Esperanza DEMO\nRUC 20993827968\nACTA N.º 21-2026 · SESIÓN ORDINARIA DE DIRECTORIO\nCooperativa de Ahorro y Crédito Nueva Esperanza DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 4 de 5\noportuna. Iván Cáceres Ibáñez consultó sobre el impacto de la medida en los indicadores de solvencia, y la\ngerencia precisó que se mantendrían dentro de los límites aprobados.\nRocío Oré Herrera sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nRocío Oré Herrera pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas.\nACUERDO N.º 05-2026: Aprobar la actualización de la política de gestión del riesgo de liquidez, con\nvigencia desde la fecha de la presente acta.\nResponsable: Gerencia de Riesgos. Plazo: de cumplimiento inmediato.\nAprobado por mayoría, con 3 votos a favor y 1 en contra.\n7. INFORME DE AUDITORÍA INTERNA\nLa Jefatura de Auditoría Interna presentó el informe del trimestre, que contiene 10 observaciones, de las cuales\ndos fueron calificadas de riesgo alto.\nLa Gerencia General se comprometió a presentar los planes de acción por cada observación.\nIván Cáceres Ibáñez manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nacta. Jesús Quiñones Huamán observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. Iván Cáceres Ibáñez consultó sobre el impacto de la medida en los indicadores de solvencia, y la\ngerencia precisó que se mantendrían dentro de los límites aprobados.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. Luego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable\ny oportuna.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. Rocío Oré Herrera pidió que los responsables remitan un informe escrito con el detalle de las\nacciones adoptadas.\nRocío Oré Herrera sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nRocío Oré Herrera pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas.\nACUERDO N.º 06-2026: Disponer el levantamiento de las observaciones de riesgo alto del informe\nde auditoría interna y el reporte mensual de avances.\nResponsable: Auditoría Interna. Plazo: dentro de un plazo de cuarenta y cinco (45) días calendario.\nAprobado por mayoría, con 3 votos a favor y 1 en contra.\n8. DISTRIBUCIÓN DE EXCEDENTES Y CONSTITUCIÓN DE RESERVAS\nEl Comité de Finanzas propuso destinar el 20 % de los excedentes a la reserva cooperativa y el 10 % al fondo\nde educación.\nLos excedentes del ejercicio ascienden a S/ 6,300,000.00 según los estados financieros auditados.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Luego de un breve\ndebate, los miembros presentes coincidieron en que la medida resulta razonable y oportuna.\nRocío Oré Herrera sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nÓscar Rodríguez Céspedes pidió que los responsables remitan un informe escrito con el detalle de las\nacciones adoptadas.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Jesús Quiñones\nCooperativa de Ahorro y Crédito Nueva Esperanza DEMO\nRUC 20993827968\nACTA N.º 21-2026 · SESIÓN ORDINARIA DE DIRECTORIO\nCooperativa de Ahorro y Crédito Nueva Esperanza DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 5 de 5\nHuamán manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el acta.\nIván Cáceres Ibáñez observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. Luego de un breve debate, los miembros presentes coincidieron en que\nla medida resulta razonable y oportuna.\nRocío Oré Herrera pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. Luego de un breve debate, los miembros presentes coincidieron en que la medida resulta\nrazonable y oportuna.\nACUERDO N.º 07-2026: Aprobar la distribución de excedentes del ejercicio conforme a la propuesta\npresentada y constituir las reservas correspondientes.\nResponsable: Gerencia de Finanzas. Plazo: hasta el 8 de octubre de 2026.\nAprobado por mayoría, con 3 votos a favor y 1 en contra.\n9. REVISIÓN DE ACUERDOS ADOPTADOS\nA pedido de Jesús Quiñones Huamán se revisó lo resuelto en esta misma sesión. La gerencia advirtió que el\nplazo del ACUERDO N.º 01-2026 resulta insuficiente por la carga operativa del periodo.\nACUERDO N.º 08-2026: Modificar el plazo del ACUERDO N.º 01-2026, que queda fijado en cuarenta y\ncinco (45) días calendario.\nResponsable: Gerencia General. Plazo: de cumplimiento inmediato.\nAprobado por unanimidad de los miembros presentes.\nIV. CIERRE\nNo habiendo otros asuntos que tratar, siendo las 16:45 horas se levantó la sesión, firmando los presentes en\nseñal de conformidad.\nRocío Oré Herrera\nPresidenta del Directorio\nJesús Quiñones Huamán\nSecretario",
+ "degradacion": {
+  "rotacion": 0,
+  "dpi": null,
+  "ruido": "ninguno"
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "con_modifica_plazo",
+ "origen": "corpus_practica",
+ "trampas": [
+  "tildes_en_nombres",
+  "pie_de_pagina_repetido",
+  "tabla_de_asistencia",
+  "acuerdo_modifica_plazo"
+ ],
+ "campos_ausentes": [],
+ "elementos_repetidos": {
+  "encabezado": "ACTA N.º 21-2026 · SESIÓN ORDINARIA DE DIRECTORIO",
+  "pie": "Cooperativa de Ahorro y Crédito Nueva Esperanza DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)"
+ }
+}

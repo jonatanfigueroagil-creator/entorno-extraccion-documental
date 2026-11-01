@@ -1,0 +1,56 @@
+{
+ "doc_id": "VOU-0020",
+ "tipo": "voucher",
+ "formato": "imagen_png",
+ "campos": {
+  "entidad": "Caja Rural Valle Verde DEMO S.A.",
+  "numero_operacion": "51206895",
+  "fecha": "2026-06-29",
+  "hora": "09:46",
+  "monto": 5267.5,
+  "moneda": "PEN",
+  "cuenta_destino": "999-3694487674",
+  "titular": "Pedro Paredes Sandoval",
+  "depositante": "Miguel Ramos Medina",
+  "dni_depositante": "99754494"
+ },
+ "tablas": [],
+ "regiones": [
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    85,
+    321,
+    158,
+    389
+   ],
+   "unidad": "px",
+   "ancho_px": 345,
+   "alto_px": 537
+  },
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    170,
+    341,
+    264,
+    370
+   ],
+   "unidad": "px",
+   "ancho_px": 345,
+   "alto_px": 537
+  }
+ ],
+ "texto_completo": "Caja Rural Valle Verde DEMO S.A.\nCONSTANCIA DE DEPOSITO\nOperacion:\n51206895\nFecha:\n29/06/2026\nHora:\n09:46\nCuenta:\n999-3694487674\nTitular:\nPedro Paredes Sandoval\nDepositante:\nMiguel Ramos Medina\nDNI:\n99754494\nMONTO S/ 5,267.50",
+ "degradacion": {
+  "rotacion": -0.73,
+  "dpi": 72,
+  "ruido": "gaussiano",
+  "perspectiva": true,
+  "sombra": "sup",
+  "escala": 0.6
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)"
+}

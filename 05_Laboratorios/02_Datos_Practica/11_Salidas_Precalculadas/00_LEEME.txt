@@ -1,0 +1,17 @@
+Salidas precalculadas
+=====================
+
+Esta carpeta contendrá las salidas ya calculadas (en caché) de los pasos que
+requieren GPU o modelos de lenguaje, para que las practicas en modo DEMO se
+puedan analizar y comparar sin volver a ejecutar el modelo.
+
+Estructura prevista:
+
+- ocr/   texto y cajas por documento y por motor de OCR (un JSON por documento).
+- llm/   respuestas estructuradas del modelo de lenguaje por documento y por
+         prompt (un JSON por documento).
+
+Estado: ocr/ tiene las salidas de S03 (ver ocr/00_LEEME.txt); ocr_s04/ trae el texto que leyó el OCR sobre los adjuntos de los
+reclamos y los oficios escaneados (ocr_s04/00_LEEME.txt); ner/ y zero_shot/ traen las salidas de S04 (ver sus 00_LEEME.txt);
+llm/ sigue vacía y se llenará con las ejecuciones reales de S05. Cada archivo llevará el
+identificador del documento (por ejemplo OFI-0001.json).

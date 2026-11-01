@@ -1,0 +1,17 @@
+{
+ "id": "REC-0005",
+ "archivo": "adjunto_REC-0005.jpg",
+ "ruta": "06_Reclamos/REC-0005.eml#adjunto_REC-0005.jpg",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "crudo",
+ "psm": 3,
+ "inclinacion": 0.0,
+ "texto": "Financiera Pampa Azul DEMO S.A.\nEstado de cuenta - tarjeta de credito\nClieñte: Ricardo Montoya Condori. DNi 99510965\nFecha Descripcion Importe\n11/07/2026 Compra comercio DEMO 100.00\n08/07/2026 Interes 45.00\n05/07/2026 Compra comercio DEMO 126.00\n12/07/2026 ¡e Cargo reclamado (tasa distinta)-| 221.00\n02/07/2026 Retiro cajero: 19.00",
+ "confianza": 0.8649,
+ "score": 0.932,
+ "invalidos": 0,
+ "decision": "aceptar",
+ "segundos": 0.19,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

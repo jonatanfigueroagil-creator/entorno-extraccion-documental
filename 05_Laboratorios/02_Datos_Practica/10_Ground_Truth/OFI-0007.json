@@ -1,0 +1,84 @@
+{
+ "doc_id": "OFI-0007",
+ "tipo": "oficio",
+ "formato": "pdf_escaneado",
+ "campos": {
+  "numero_oficio": "0070-2026-ID/DCM",
+  "fecha": "2026-05-13",
+  "entidad": "Seguros Vicuna DEMO S.A.",
+  "ruc": "20995524318",
+  "asunto": "Requerimiento de informacion sobre polizas colectivas emitidas en el semestre",
+  "referencia": "Carta N° 333-2026 de Seguros Vicuna DEMO S.A.",
+  "plazo_dias": 7,
+  "emisor": "Intendencia DEMO de Conducta de Mercado",
+  "firmante": "Milagros Medina Lazo",
+  "cargo": "Jefe de Equipo DEMO"
+ },
+ "tablas": [
+  {
+   "nombre": "informacion_solicitada",
+   "encabezados": [
+    "N°",
+    "Informacion solicitada"
+   ],
+   "filas": [
+    [
+     "1",
+     "Politica interna aprobada y su fecha de vigencia"
+    ],
+    [
+     "2",
+     "Relacion de operaciones vigentes con saldo y estado"
+    ],
+    [
+     "3",
+     "Informe de atencion de reclamos del periodo"
+    ]
+   ]
+  }
+ ],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    202,
+    1398,
+    565,
+    1496
+   ],
+   "unidad": "px",
+   "dpi": 200,
+   "ancho_px": 1654,
+   "alto_px": 2339
+  },
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    472,
+    1191,
+    746,
+    1465
+   ],
+   "unidad": "px",
+   "dpi": 200,
+   "ancho_px": 1654,
+   "alto_px": 2339
+  }
+ ],
+ "texto_completo": "AUTORIDAD SUPERVISORA DEMO\nIntendencia DEMO de Conducta de Mercado\nDocumento ficticio con fines de capacitacion\nOFICIO N° 0070-2026-ID/DCM\nLima, 13 de mayo de 2026\nSenores\nSeguros Vicuna DEMO S.A.\nRUC 20995524318\nPresente.-\nAsunto:\nRequerimiento de informacion sobre polizas colectivas emitidas en el semestre\nReferencia:\nCarta N° 333-2026 de Seguros Vicuna DEMO S.A.\nMediante el presente se requiere a su representada remitir la informacion detallada a continuacion, en el\nmarco de las labores de supervision del periodo en curso.\nN°\nInformacion solicitada\n1\nPolitica interna aprobada y su fecha de vigencia\n2\nRelacion de operaciones vigentes con saldo y estado\n3\nInforme de atencion de reclamos del periodo\nLa informacion debera ser presentada en un plazo de siete (7) dias habiles contados desde la recepcion\ndel presente oficio, en formato digital y firmada por el responsable. El incumplimiento sera evaluado\nconforme a los procedimientos internos aplicables.\nAtentamente,\nMilagros Medina Lazo\nJefe de Equipo DEMO",
+ "degradacion": {
+  "rotacion": 4.39,
+  "ruido": "gaussiano",
+  "ruido_sigma": 13.1,
+  "desenfoque_sigma": 0.6,
+  "sombra": "der",
+  "perspectiva": false,
+  "jpeg_calidad": 80,
+  "dpi": 200,
+  "paginas": 1
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

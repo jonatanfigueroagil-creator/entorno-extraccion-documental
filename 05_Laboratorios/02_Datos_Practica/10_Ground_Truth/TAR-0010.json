@@ -1,0 +1,98 @@
+{
+ "doc_id": "TAR-0010",
+ "tipo": "tarifario",
+ "formato": "html",
+ "campos": {
+  "entidad": "Seguros Tierra Firme DEMO S.A.",
+  "ruc": "20998253889",
+  "vigencia": "2026-07-27",
+  "n_productos": 3
+ },
+ "tablas": [
+  {
+   "nombre": "tasas_por_tramo",
+   "encabezados": [
+    "Producto",
+    "Moneda",
+    "Tramo",
+    "TEA",
+    "Comision mensual"
+   ],
+   "filas": [
+    [
+     "Credito de consumo",
+     "PEN",
+     "hasta S/ 5,000",
+     "22.28",
+     "S/ 2.00"
+    ],
+    [
+     "Credito de consumo",
+     "PEN",
+     "S/ 5,001 a S/ 20,000",
+     "25.13",
+     "S/ 2.00"
+    ],
+    [
+     "Credito de consumo",
+     "PEN",
+     "mas de S/ 20,000",
+     "27.20",
+     "S/ 2.00"
+    ],
+    [
+     "Credito vehicular",
+     "USD",
+     "hasta S/ 5,000",
+     "5.82",
+     "S/ 21.00"
+    ],
+    [
+     "Credito vehicular",
+     "USD",
+     "S/ 5,001 a S/ 20,000",
+     "6.97",
+     "S/ 21.00"
+    ],
+    [
+     "Credito vehicular",
+     "USD",
+     "mas de S/ 20,000",
+     "6.88",
+     "S/ 21.00"
+    ],
+    [
+     "Tarjeta de credito",
+     "USD",
+     "hasta S/ 5,000",
+     "13.32",
+     "S/ 24.00"
+    ],
+    [
+     "Tarjeta de credito",
+     "USD",
+     "S/ 5,001 a S/ 20,000",
+     "16.06",
+     "S/ 24.00"
+    ],
+    [
+     "Tarjeta de credito",
+     "USD",
+     "mas de S/ 20,000",
+     "18.79",
+     "S/ 24.00"
+    ]
+   ],
+   "celdas_combinadas": [],
+   "anidada": true
+  }
+ ],
+ "regiones": [],
+ "texto_completo": "Seguros Tierra Firme DEMO S.A.\nRUC 20998253889\nVigente desde 27/07/2026\nCredito de consumo | PEN | hasta S/ 5,000 | 22.28 | S/ 2.00\nCredito de consumo | PEN | S/ 5,001 a S/ 20,000 | 25.13 | S/ 2.00\nCredito de consumo | PEN | mas de S/ 20,000 | 27.20 | S/ 2.00\nCredito vehicular | USD | hasta S/ 5,000 | 5.82 | S/ 21.00\nCredito vehicular | USD | S/ 5,001 a S/ 20,000 | 6.97 | S/ 21.00\nCredito vehicular | USD | mas de S/ 20,000 | 6.88 | S/ 21.00\nTarjeta de credito | USD | hasta S/ 5,000 | 13.32 | S/ 24.00\nTarjeta de credito | USD | S/ 5,001 a S/ 20,000 | 16.06 | S/ 24.00\nTarjeta de credito | USD | mas de S/ 20,000 | 18.79 | S/ 24.00",
+ "degradacion": {
+  "rotacion": 0,
+  "dpi": null,
+  "ruido": "ninguno"
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)"
+}

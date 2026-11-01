@@ -1,0 +1,221 @@
+{
+ "doc_id": "ACT-0024",
+ "tipo": "acta",
+ "formato": "pdf_escaneado",
+ "campos": {
+  "numero_acta": "13-2026",
+  "fecha": "2026-04-09",
+  "entidad": "Caja de Ahorro Estrella del Norte DEMO S.A.",
+  "ruc": "20991639994",
+  "organo": "Directorio",
+  "tipo_sesion": "extraordinaria",
+  "hora_inicio": "13:00",
+  "hora_fin": "16:00",
+  "quorum": "8 de 9",
+  "quorum_asistentes": 8,
+  "quorum_total": 9,
+  "presidente": "José Huamán Peña",
+  "secretario": "Mónica Vásquez Núñez",
+  "n_acuerdos": 6,
+  "n_paginas": 4
+ },
+ "tablas": [
+  {
+   "nombre": "asistencia",
+   "encabezados": [
+    "N°",
+    "Nombre",
+    "Cargo",
+    "Asistencia"
+   ],
+   "filas": [
+    [
+     "1",
+     "José Huamán Peña",
+     "Presidente del Directorio",
+     "Presente"
+    ],
+    [
+     "2",
+     "Inés Fernández Muñoz",
+     "Vicepresidenta",
+     "Presente (virtual)"
+    ],
+    [
+     "3",
+     "Mónica Vásquez Núñez",
+     "Secretaria",
+     "Presente (virtual)"
+    ],
+    [
+     "4",
+     "Rocío Zúñiga Ríos",
+     "Directora",
+     "Presente"
+    ],
+    [
+     "5",
+     "Nélida Céspedes Rodríguez",
+     "Directora",
+     "Presente"
+    ],
+    [
+     "6",
+     "Raúl Núñez Ríos",
+     "Director",
+     "Presente"
+    ],
+    [
+     "7",
+     "Joaquín Oré Fernández",
+     "Director",
+     "Ausente"
+    ],
+    [
+     "8",
+     "María Esquivel Núñez",
+     "Directora",
+     "Presente"
+    ],
+    [
+     "9",
+     "Raúl Rodríguez Fernández",
+     "Director",
+     "Presente"
+    ]
+   ]
+  },
+  {
+   "nombre": "acuerdos",
+   "encabezados": [
+    "N°",
+    "Descripcion",
+    "Responsable",
+    "Plazo",
+    "Estado",
+    "Referencia"
+   ],
+   "filas": [
+    [
+     "09-2026",
+     "Disponer que el 100 % del personal complete la capacitación en prevención del lavado de activos.",
+     "Gerencia de Recursos Humanos",
+     "90 dias",
+     "vigente",
+     ""
+    ],
+    [
+     "10-2026",
+     "Aprobar la actualización de la política de gestión del riesgo de liquidez, con vigencia desde la fecha de la presente acta.",
+     "Gerencia de Riesgos",
+     "inmediato",
+     "vigente",
+     ""
+    ],
+    [
+     "11-2026",
+     "Designar a la sociedad de auditoría propuesta por el Comité de Auditoría para el ejercicio 2026.",
+     "Comité de Auditoría",
+     "2026-06-08",
+     "vigente",
+     ""
+    ],
+    [
+     "12-2026",
+     "Aprobar los estados financieros con corte a marzo de 2026 y autorizar su presentación a los órganos competentes.",
+     "Contabilidad General",
+     "2026-07-08",
+     "vigente",
+     ""
+    ],
+    [
+     "13-2026",
+     "Disponer que la Gerencia de Riesgos presente un plan de reducción de la morosidad de la cartera de microempresa.",
+     "Gerencia de Créditos",
+     "10 dias",
+     "vigente",
+     ""
+    ],
+    [
+     "14-2026",
+     "Autorizar la contratación del sistema de gestión documental por el monto cotizado más bajo que cumpla los requisitos técnicos.",
+     "Gerencia de Tecnología",
+     "60 dias",
+     "vigente",
+     ""
+    ]
+   ],
+   "nota": "Plazo normalizado: 'N dias' (calendario), fecha ISO o 'inmediato'. Estado: vigente/derogado/modificado."
+  }
+ ],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 4,
+   "bbox": [
+    89,
+    412,
+    302,
+    479
+   ],
+   "unidad": "px",
+   "dpi": 110,
+   "ancho_px": 910,
+   "alto_px": 1287
+  },
+  {
+   "tipo": "firma",
+   "pagina": 4,
+   "bbox": [
+    503,
+    422,
+    717,
+    491
+   ],
+   "unidad": "px",
+   "dpi": 110,
+   "ancho_px": 910,
+   "alto_px": 1287
+  },
+  {
+   "tipo": "sello",
+   "pagina": 4,
+   "bbox": [
+    391,
+    425,
+    504,
+    538
+   ],
+   "unidad": "px",
+   "dpi": 110,
+   "ancho_px": 910,
+   "alto_px": 1287
+  }
+ ],
+ "texto_completo": "Caja de Ahorro Estrella del Norte DEMO S.A.\nRUC 20991639994\nACTA N.º 13-2026 · SESIÓN EXTRAORDINARIA DE DIRECTORIO\nCaja de Ahorro Estrella del Norte DEMO S.A. — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 1 de 4\nACTA N.º 13-2026\nSESIÓN EXTRAORDINARIA DE DIRECTORIO\nLima, 09 de abril de 2026\nSiendo las 13:00 horas, se reunió el Directorio de Caja de Ahorro Estrella del Norte DEMO S.A. en su sede\ninstitucional, en sesión extraordinaria, con la asistencia de ocho (8) de los nueve (9) miembros convocados,\nbajo la presidencia de José Huamán Peña, quien actuó como Presidente del Directorio, y de Mónica Vásquez\nNúñez, quien actuó como secretario(a).\nI. VERIFICACIÓN DEL QUÓRUM\nSe dejó constancia de la siguiente asistencia. Existiendo quórum reglamentario, el Presidente declaró instalada\nla sesión.\nN°\nNombre\nCargo\nAsistencia\n1\nJosé Huamán Peña\nPresidente del Directorio\nPresente\n2\nInés Fernández Muñoz\nVicepresidenta\nPresente (virtual)\n3\nMónica Vásquez Núñez\nSecretaria\nPresente (virtual)\n4\nRocío Zúñiga Ríos\nDirectora\nPresente\n5\nNélida Céspedes Rodríguez\nDirectora\nPresente\n6\nRaúl Núñez Ríos\nDirector\nPresente\n7\nJoaquín Oré Fernández\nDirector\nAusente\n8\nMaría Esquivel Núñez\nDirectora\nPresente\n9\nRaúl Rodríguez Fernández\nDirector\nPresente\nII. AGENDA\nLa agenda de la sesión fue la siguiente: 1) Verificación del quórum; 2) Capacitación en prevención del lavado\nde activos; 3) Política de gestión del riesgo de liquidez; 4) Designación del auditor externo; 5) Aprobación de\nlos estados financieros; 6) Informe de cartera de créditos y morosidad; 7) Adquisición de un sistema de gestión\ndocumental; 8) Revisión de acuerdos adoptados.\nIII. DESARROLLO DE LA SESIÓN\n2. CAPACITACIÓN EN PREVENCIÓN DEL LAVADO DE ACTIVOS\nEl Oficial de Cumplimiento informó que el 7,1 % del personal completó la capacitación anual obligatoria.\nSe acordó reforzar el programa para el personal de nuevas agencias y para los miembros del órgano de\ngobierno.\nRocío Zúñiga Ríos sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nInés Fernández Muñoz pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas.\nMónica Vásquez Núñez consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. La Presidencia agradeció los aportes de los\nmiembros y sometió el asunto a votación.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. Nélida Céspedes Rodríguez observó que los plazos propuestos deben guardar coherencia con el\ncalendario institucional, y la gerencia tomó nota.\nACUERDO N.º 09-2026: Disponer que el 100 % del personal complete la capacitación en prevención\ndel lavado de activos.\nCaja de Ahorro Estrella del Norte DEMO S.A.\nRUC 20991639994\nACTA N.º 13-2026 · SESIÓN EXTRAORDINARIA DE DIRECTORIO\nCaja de Ahorro Estrella del Norte DEMO S.A. — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 2 de 4\nResponsable: Gerencia de Recursos Humanos. Plazo: dentro de un plazo de noventa (90) días calendario.\nAprobado por mayoría, con 7 votos a favor y 1 en contra.\n3. POLÍTICA DE GESTIÓN DEL RIESGO DE LIQUIDEZ\nLa Gerencia de Riesgos presentó la actualización de la política, con un ratio de liquidez en moneda nacional de\n7,1 % frente a un límite interno de 8,0 %.\nSe explicó la metodología de simulación de escenarios de estrés y el plan de contingencia de fondeo.\nInés Fernández Muñoz observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. José Huamán Peña manifestó su conformidad con lo expuesto y solicitó\nque se deje constancia de ello en el acta.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. Mónica Vásquez Núñez manifestó su conformidad con lo expuesto y solicitó que se deje constancia\nde ello en el acta.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. Rocío Zúñiga Ríos sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada.\nSe dejó constancia de que el ACUERDO N.º 38-2025, adoptado en el ejercicio anterior, continúa vigente y no\nse ve afectado por lo aquí tratado.\nACUERDO N.º 10-2026: Aprobar la actualización de la política de gestión del riesgo de liquidez, con\nvigencia desde la fecha de la presente acta.\nResponsable: Gerencia de Riesgos. Plazo: de cumplimiento inmediato.\nAprobado por unanimidad de los miembros presentes.\n4. DESIGNACIÓN DEL AUDITOR EXTERNO\nSe presentaron tres propuestas de firmas auditoras; el Comité de Auditoría recomendó la de menor costo con\nexperiencia comprobada en el sector.\nLos miembros revisaron los criterios de independencia y la rotación del equipo de auditoría.\nJosé Huamán Peña consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. La Presidencia agradeció los aportes de los\nmiembros y sometió el asunto a votación.\nRaúl Núñez Ríos pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. Nélida Céspedes Rodríguez sugirió que el seguimiento se reporte en la próxima sesión, propuesta\nque fue aceptada.\nInés Fernández Muñoz pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. Inés Fernández Muñoz sugirió que el seguimiento se reporte en la próxima sesión, propuesta que\nfue aceptada.\nACUERDO N.º 11-2026: Designar a la sociedad de auditoría propuesta por el Comité de Auditoría\npara el ejercicio 2026.\nResponsable: Comité de Auditoría. Plazo: hasta el 8 de junio de 2026.\nAprobado por unanimidad de los miembros presentes.\n5. APROBACIÓN DE LOS ESTADOS FINANCIEROS\nLa Contabilidad presentó los estados financieros con corte a marzo, que registran activos por S/ 13,300,000.00\ny una utilidad acumulada de S/ 2,500,000.00.\nCaja de Ahorro Estrella del Norte DEMO S.A.\nRUC 20991639994\nACTA N.º 13-2026 · SESIÓN EXTRAORDINARIA DE DIRECTORIO\nCaja de Ahorro Estrella del Norte DEMO S.A. — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 3 de 4\nLos miembros revisaron las notas explicativas y el dictamen preliminar del auditor externo, sin observaciones\nde fondo.\nInés Fernández Muñoz pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. Luego de un breve debate, los miembros presentes coincidieron en que la medida resulta\nrazonable y oportuna.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Mónica Vásquez Núñez\npidió que los responsables remitan un informe escrito con el detalle de las acciones adoptadas.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Luego de un breve\ndebate, los miembros presentes coincidieron en que la medida resulta razonable y oportuna.\nACUERDO N.º 12-2026: Aprobar los estados financieros con corte a marzo de 2026 y autorizar su\npresentación a los órganos competentes.\nResponsable: Contabilidad General. Plazo: hasta el 8 de julio de 2026.\nAprobado por unanimidad de los miembros presentes.\n6. INFORME DE CARTERA DE CRÉDITOS Y MOROSIDAD\nLa Gerencia General informó que la cartera bruta de créditos al cierre de marzo ascendió a S/ 13,300,000.00,\ncon un índice de morosidad de 7,1 %.\nSe precisó que el 62 % de los créditos vencidos corresponde a la línea de microempresa y que se vienen\nejecutando campañas de recuperación.\nInés Fernández Muñoz consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. Luego de un breve debate, los miembros\npresentes coincidieron en que la medida resulta razonable y oportuna.\nRocío Zúñiga Ríos consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. Nélida Céspedes Rodríguez sugirió que el\nseguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nNélida Céspedes Rodríguez pidió que los responsables remitan un informe escrito con el detalle de las\nacciones adoptadas. Luego de un breve debate, los miembros presentes coincidieron en que la medida resulta\nrazonable y oportuna.\nACUERDO N.º 13-2026: Disponer que la Gerencia de Riesgos presente un plan de reducción de la\nmorosidad de la cartera de microempresa.\nResponsable: Gerencia de Créditos. Plazo: dentro de un plazo de diez (10) días calendario.\nAprobado por unanimidad de los miembros presentes.\n7. ADQUISICIÓN DE UN SISTEMA DE GESTIÓN DOCUMENTAL\nLa Gerencia de Tecnología sustentó la necesidad de digitalizar los expedientes de crédito y propuso adquirir\nuna solución de gestión documental por S/ 13,300,000.00.\nSe compararon tres cotizaciones y se verificó el cumplimiento de los requisitos de seguridad y conservación de\nla información.\nInés Fernández Muñoz sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. Joaquín Oré Fernández consultó sobre el impacto de la medida en los indicadores de solvencia, y la\ngerencia precisó que se mantendrían dentro de los límites aprobados.\nJoaquín Oré Fernández sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. Nélida Céspedes Rodríguez pidió que los responsables remitan un informe escrito con el detalle de\nlas acciones adoptadas.\nCaja de Ahorro Estrella del Norte DEMO S.A.\nRUC 20991639994\nACTA N.º 13-2026 · SESIÓN EXTRAORDINARIA DE DIRECTORIO\nCaja de Ahorro Estrella del Norte DEMO S.A. — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 4 de 4\nJosé Huamán Peña sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nMónica Vásquez Núñez consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados.\nACUERDO N.º 14-2026: Autorizar la contratación del sistema de gestión documental por el monto\ncotizado más bajo que cumpla los requisitos técnicos.\nResponsable: Gerencia de Tecnología. Plazo: dentro de un plazo de sesenta (60) días calendario.\nAprobado por unanimidad de los miembros presentes.\nIV. CIERRE\nNo habiendo otros asuntos que tratar, siendo las 16:00 horas se levantó la sesión, firmando los presentes en\nseñal de conformidad.\nJosé Huamán Peña\nPresidente del Directorio\nMónica Vásquez Núñez\nSecretaria",
+ "degradacion": {
+  "rotacion": 1.9,
+  "ruido": "gaussiano",
+  "ruido_sigma": 3.0,
+  "desenfoque_sigma": 0.6,
+  "sombra": "sup",
+  "perspectiva": false,
+  "jpeg_calidad": 45,
+  "dpi": 110,
+  "paginas": 4,
+  "perfil": "normal"
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar",
+ "origen": "corpus_practica",
+ "trampas": [
+  "tildes_en_nombres",
+  "pie_de_pagina_repetido",
+  "tabla_de_asistencia"
+ ],
+ "campos_ausentes": [],
+ "elementos_repetidos": {
+  "encabezado": "ACTA N.º 13-2026 · SESIÓN EXTRAORDINARIA DE DIRECTORIO",
+  "pie": "Caja de Ahorro Estrella del Norte DEMO S.A. — Libro de Actas — Documento ficticio de práctica (DEMO)"
+ }
+}

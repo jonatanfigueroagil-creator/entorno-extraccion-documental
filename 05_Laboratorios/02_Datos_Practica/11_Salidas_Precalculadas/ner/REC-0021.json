@@ -1,0 +1,33 @@
+{
+ "id": "REC-0021",
+ "modelo": "Davlan/xlm-roberta-base-ner-hrl",
+ "revision": null,
+ "version_transformers": "5.22.1",
+ "version_torch": "2.15.0+cu132",
+ "dispositivo": "cuda (NVIDIA GeForce RTX 5070)",
+ "agregacion": "simple",
+ "texto": "remitente + cuerpo del correo + texto del OCR del adjunto (ocr_s04)",
+ "entidades": [
+  {
+   "texto": "Ricardo Ledesma Nunez",
+   "etiqueta": "PER",
+   "score": 0.9996,
+   "inicio": 192,
+   "fin": 213
+  },
+  {
+   "texto": "Banco Andino DEMO S.A",
+   "etiqueta": "ORG",
+   "score": 0.9926,
+   "inicio": 265,
+   "fin": 286
+  },
+  {
+   "texto": "Ricardo Ledesma Nunez",
+   "etiqueta": "PER",
+   "score": 0.9996,
+   "inicio": 334,
+   "fin": 355
+  }
+ ]
+}

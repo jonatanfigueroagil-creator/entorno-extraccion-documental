@@ -1,0 +1,17 @@
+{
+ "id": "OFI-0012",
+ "archivo": "OFI-0012.pdf",
+ "ruta": "02_Oficios/OFI-0012.pdf",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "mediana",
+ "psm": 6,
+ "inclinacion": 4.0,
+ "texto": "=D + Intendencia DEMO de Supervision Financiera 22 2 2\n7 ] Lol 0 Documento ficticio con finos de capacitacion - a o A NN eS\n2 OFICIO N? 0373-2026-1D/DCM a A\n- Banco del Sur Austral DEMO S.A: 20 0\nRU LOBA a\nPresente. O A\nAsunto: - Requerimiento de informacion sobre la cartera de creditos al 30 de junio de 2026\" : .* E ] el o .\n- + Referencia: Carta N? 144-2026 do Banco del Sur Austral DEMO SIA 0\n7 + Mediante el presente se requiere a su representada remitir la información detallada a continuacion, en el ¿0\nmarco de las labores de supervision del periodo en curso. 0. 0\n0 La informacion debera ser presentada en un plazo de quince (15) dias habiles contados desdela. 0 a, o\n1. 7 recepcion del presente oficio, en ato digital y firmada por el responsable. El incumplimiento sera\n2. evaluado conforme a los pr; dimiento] termos aplicables. 1. 00\na O E RARTENN a\nSS TO A E = a A ÓN\nO - Carlos Condori Montoya o o AN TN 5 | - a l 0 . Ds : E\n2 + Íntendente DEMO Adjunto ON",
+ "confianza": 0.5552,
+ "score": 0.778,
+ "invalidos": 0,
+ "decision": "revisar",
+ "segundos": 1.15,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

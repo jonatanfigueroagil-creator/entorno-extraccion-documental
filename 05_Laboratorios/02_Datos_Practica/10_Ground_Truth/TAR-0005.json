@@ -1,0 +1,126 @@
+{
+ "doc_id": "TAR-0005",
+ "tipo": "tarifario",
+ "formato": "html",
+ "campos": {
+  "entidad": "Financiera Altiplano DEMO S.A.",
+  "ruc": "20990944050",
+  "vigencia": "2026-07-04",
+  "n_productos": 5
+ },
+ "tablas": [
+  {
+   "nombre": "tasas_por_tramo",
+   "encabezados": [
+    "Producto",
+    "Moneda",
+    "Tramo",
+    "TEA",
+    "Comision mensual"
+   ],
+   "filas": [
+    [
+     "Deposito a plazo",
+     "PEN",
+     "hasta S/ 5,000",
+     "28.83",
+     "S/ 10.00"
+    ],
+    [
+     "Deposito a plazo",
+     "PEN",
+     "S/ 5,001 a S/ 20,000",
+     "31.76",
+     "S/ 10.00"
+    ],
+    [
+     "Deposito a plazo",
+     "PEN",
+     "mas de S/ 20,000",
+     "33.70",
+     "S/ 10.00"
+    ],
+    [
+     "Tarjeta de credito",
+     "USD",
+     "hasta S/ 5,000",
+     "6.28",
+     "S/ 9.00"
+    ],
+    [
+     "Tarjeta de credito",
+     "USD",
+     "S/ 5,001 a S/ 20,000",
+     "7.38",
+     "S/ 9.00"
+    ],
+    [
+     "Credito hipotecario",
+     "USD",
+     "hasta S/ 5,000",
+     "27.70",
+     "S/ 0.00"
+    ],
+    [
+     "Credito hipotecario",
+     "USD",
+     "S/ 5,001 a S/ 20,000",
+     "29.31",
+     "S/ 0.00"
+    ],
+    [
+     "Credito hipotecario",
+     "USD",
+     "mas de S/ 20,000",
+     "30.99",
+     "S/ 0.00"
+    ],
+    [
+     "Credito de consumo",
+     "PEN",
+     "hasta S/ 5,000",
+     "13.74",
+     "S/ 19.00"
+    ],
+    [
+     "Credito de consumo",
+     "PEN",
+     "S/ 5,001 a S/ 20,000",
+     "15.74",
+     "S/ 19.00"
+    ],
+    [
+     "Credito de consumo",
+     "PEN",
+     "mas de S/ 20,000",
+     "16.60",
+     "S/ 19.00"
+    ],
+    [
+     "Cuenta de ahorros",
+     "USD",
+     "hasta S/ 5,000",
+     "9.70",
+     "S/ 7.00"
+    ],
+    [
+     "Cuenta de ahorros",
+     "USD",
+     "S/ 5,001 a S/ 20,000",
+     "11.87",
+     "S/ 7.00"
+    ]
+   ],
+   "celdas_combinadas": [],
+   "anidada": true
+  }
+ ],
+ "regiones": [],
+ "texto_completo": "Financiera Altiplano DEMO S.A.\nRUC 20990944050\nVigente desde 04/07/2026\nDeposito a plazo | PEN | hasta S/ 5,000 | 28.83 | S/ 10.00\nDeposito a plazo | PEN | S/ 5,001 a S/ 20,000 | 31.76 | S/ 10.00\nDeposito a plazo | PEN | mas de S/ 20,000 | 33.70 | S/ 10.00\nTarjeta de credito | USD | hasta S/ 5,000 | 6.28 | S/ 9.00\nTarjeta de credito | USD | S/ 5,001 a S/ 20,000 | 7.38 | S/ 9.00\nCredito hipotecario | USD | hasta S/ 5,000 | 27.70 | S/ 0.00\nCredito hipotecario | USD | S/ 5,001 a S/ 20,000 | 29.31 | S/ 0.00\nCredito hipotecario | USD | mas de S/ 20,000 | 30.99 | S/ 0.00\nCredito de consumo | PEN | hasta S/ 5,000 | 13.74 | S/ 19.00\nCredito de consumo | PEN | S/ 5,001 a S/ 20,000 | 15.74 | S/ 19.00\nCredito de consumo | PEN | mas de S/ 20,000 | 16.60 | S/ 19.00\nCuenta de ahorros | USD | hasta S/ 5,000 | 9.70 | S/ 7.00\nCuenta de ahorros | USD | S/ 5,001 a S/ 20,000 | 11.87 | S/ 7.00",
+ "degradacion": {
+  "rotacion": 0,
+  "dpi": null,
+  "ruido": "ninguno"
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)"
+}

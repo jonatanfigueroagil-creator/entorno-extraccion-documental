@@ -1,0 +1,326 @@
+{
+ "doc_id": "OFI-0005",
+ "motor": "PaddleOCR texto (PP-OCRv5 mobile)",
+ "paddleocr": "3.7.0",
+ "paddlepaddle": "3.3.1",
+ "dispositivo": "cpu",
+ "python": "3.13.14",
+ "procesador": "Intel64 Family 6 Model 151 Stepping 2, GenuineIntel",
+ "hilos": 24,
+ "segundos_carga_modelo": 8.2,
+ "segundos_prediccion": 21.3,
+ "entrada": "página 1, 300 dpi, enderezada, sin binarizar",
+ "texto": "AUTORIDAD SUPERVISORA DEMO\nIntendencia DEMO de Conducta de Mercado\nDocumento ficticio con fines de capacitacion\nOFICIO N° 0796-2026-ID/DSF\nLima, 20 de setiembre de 2026\nSenores\nBanco Andino DEMO S.A.\nRUC 20996256821\nPresente.-\nAsunto:\nSolicitud de aclaraciones sobre el estado financiero trimestral\nReferencia: Carta N° 088-2026 de Banco Andino DEMO S.A.\nMediante el presente se requiere a su representada remitir la informacion detallada a continuacion, en el\nmarco de las labores de supervision del periodo en curso.\nN°\nInformacion solicitada\n1\nDetalle de comisiones cobradas\n2\nRelacion de operaciones vigentes con saldo y estado\n3\nPolitica interna aprobada y su fecha de vigencia\nLa informacion debera ser presentada en un plazo de siete (7) dias habiles contados desde la recepcion\ndel presente oficio, en formato digital y firmada por el responsable. El incumplimiento sera evaluado\nconforme a los procedimientos internos aplicables.\nMESA DE PARTES\nAtentamente,\nDEMO\nRECIBIDO\nPaola Vargas Flores\nIntendente DEMO",
+ "lineas": [
+  {
+   "texto": "AUTORIDAD SUPERVISORA DEMO",
+   "confianza": 0.9926,
+   "caja": [
+    751,
+    226,
+    1733,
+    283
+   ]
+  },
+  {
+   "texto": "Intendencia DEMO de Conducta de Mercado",
+   "confianza": 0.9949,
+   "caja": [
+    756,
+    310,
+    1722,
+    361
+   ]
+  },
+  {
+   "texto": "Documento ficticio con fines de capacitacion",
+   "confianza": 0.9933,
+   "caja": [
+    913,
+    383,
+    1568,
+    432
+   ]
+  },
+  {
+   "texto": "OFICIO N° 0796-2026-ID/DSF",
+   "confianza": 0.9849,
+   "caja": [
+    252,
+    554,
+    869,
+    600
+   ]
+  },
+  {
+   "texto": "Lima, 20 de setiembre de 2026",
+   "confianza": 0.9985,
+   "caja": [
+    249,
+    629,
+    824,
+    678
+   ]
+  },
+  {
+   "texto": "Senores",
+   "confianza": 0.9999,
+   "caja": [
+    249,
+    747,
+    407,
+    795
+   ]
+  },
+  {
+   "texto": "Banco Andino DEMO S.A.",
+   "confianza": 0.9851,
+   "caja": [
+    250,
+    807,
+    762,
+    849
+   ]
+  },
+  {
+   "texto": "RUC 20996256821",
+   "confianza": 0.9993,
+   "caja": [
+    249,
+    864,
+    604,
+    908
+   ]
+  },
+  {
+   "texto": "Presente.-",
+   "confianza": 0.9999,
+   "caja": [
+    247,
+    923,
+    446,
+    970
+   ]
+  },
+  {
+   "texto": "Asunto:",
+   "confianza": 0.9998,
+   "caja": [
+    252,
+    1033,
+    412,
+    1076
+   ]
+  },
+  {
+   "texto": "Solicitud de aclaraciones sobre el estado financiero trimestral",
+   "confianza": 0.9846,
+   "caja": [
+    499,
+    1032,
+    1634,
+    1078
+   ]
+  },
+  {
+   "texto": "Referencia: Carta N° 088-2026 de Banco Andino DEMO S.A.",
+   "confianza": 0.9803,
+   "caja": [
+    249,
+    1105,
+    1405,
+    1153
+   ]
+  },
+  {
+   "texto": "Mediante el presente se requiere a su representada remitir la informacion detallada a continuacion, en el",
+   "confianza": 0.9962,
+   "caja": [
+    248,
+    1204,
+    2186,
+    1262
+   ]
+  },
+  {
+   "texto": "marco de las labores de supervision del periodo en curso.",
+   "confianza": 0.9957,
+   "caja": [
+    247,
+    1263,
+    1319,
+    1319
+   ]
+  },
+  {
+   "texto": "N°",
+   "confianza": 0.7041,
+   "caja": [
+    301,
+    1393,
+    358,
+    1449
+   ]
+  },
+  {
+   "texto": "Informacion solicitada",
+   "confianza": 0.9998,
+   "caja": [
+    432,
+    1396,
+    796,
+    1445
+   ]
+  },
+  {
+   "texto": "1",
+   "confianza": 0.9999,
+   "caja": [
+    301,
+    1463,
+    335,
+    1512
+   ]
+  },
+  {
+   "texto": "Detalle de comisiones cobradas",
+   "confianza": 0.9976,
+   "caja": [
+    432,
+    1463,
+    964,
+    1512
+   ]
+  },
+  {
+   "texto": "2",
+   "confianza": 0.9998,
+   "caja": [
+    301,
+    1530,
+    335,
+    1579
+   ]
+  },
+  {
+   "texto": "Relacion de operaciones vigentes con saldo y estado",
+   "confianza": 0.9974,
+   "caja": [
+    430,
+    1530,
+    1319,
+    1584
+   ]
+  },
+  {
+   "texto": "3",
+   "confianza": 0.9999,
+   "caja": [
+    294,
+    1595,
+    336,
+    1646
+   ]
+  },
+  {
+   "texto": "Politica interna aprobada y su fecha de vigencia",
+   "confianza": 0.9737,
+   "caja": [
+    428,
+    1595,
+    1231,
+    1648
+   ]
+  },
+  {
+   "texto": "La informacion debera ser presentada en un plazo de siete (7) dias habiles contados desde la recepcion",
+   "confianza": 0.986,
+   "caja": [
+    243,
+    1676,
+    2176,
+    1733
+   ]
+  },
+  {
+   "texto": "del presente oficio, en formato digital y firmada por el responsable. El incumplimiento sera evaluado",
+   "confianza": 0.9913,
+   "caja": [
+    245,
+    1737,
+    2093,
+    1794
+   ]
+  },
+  {
+   "texto": "conforme a los procedimientos internos aplicables.",
+   "confianza": 0.9971,
+   "caja": [
+    246,
+    1794,
+    1190,
+    1852
+   ]
+  },
+  {
+   "texto": "MESA DE PARTES",
+   "confianza": 0.9781,
+   "caja": [
+    740,
+    1849,
+    1042,
+    1902
+   ]
+  },
+  {
+   "texto": "Atentamente,",
+   "confianza": 0.9999,
+   "caja": [
+    249,
+    1898,
+    499,
+    1950
+   ]
+  },
+  {
+   "texto": "DEMO",
+   "confianza": 0.9998,
+   "caja": [
+    769,
+    1923,
+    1021,
+    2004
+   ]
+  },
+  {
+   "texto": "RECIBIDO",
+   "confianza": 0.9998,
+   "caja": [
+    814,
+    2043,
+    981,
+    2088
+   ]
+  },
+  {
+   "texto": "Paola Vargas Flores",
+   "confianza": 0.993,
+   "caja": [
+    285,
+    2170,
+    652,
+    2227
+   ]
+  },
+  {
+   "texto": "Intendente DEMO",
+   "confianza": 0.9775,
+   "caja": [
+    291,
+    2227,
+    592,
+    2269
+   ]
+  }
+ ]
+}

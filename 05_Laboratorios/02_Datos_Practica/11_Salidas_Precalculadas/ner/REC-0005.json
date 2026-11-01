@@ -1,0 +1,40 @@
+{
+ "id": "REC-0005",
+ "modelo": "Davlan/xlm-roberta-base-ner-hrl",
+ "revision": null,
+ "version_transformers": "5.22.1",
+ "version_torch": "2.15.0+cu132",
+ "dispositivo": "cuda (NVIDIA GeForce RTX 5070)",
+ "agregacion": "simple",
+ "texto": "remitente + cuerpo del correo + texto del OCR del adjunto (ocr_s04)",
+ "entidades": [
+  {
+   "texto": "Financiera Pampa Azul DEMO S.A.",
+   "etiqueta": "ORG",
+   "score": 0.9179,
+   "inicio": 44,
+   "fin": 75
+  },
+  {
+   "texto": "Ricardo Montoya Condori",
+   "etiqueta": "PER",
+   "score": 0.9996,
+   "inicio": 239,
+   "fin": 262
+  },
+  {
+   "texto": "Financiera Pampa Azul DEMO S.A.",
+   "etiqueta": "ORG",
+   "score": 0.9565,
+   "inicio": 297,
+   "fin": 328
+  },
+  {
+   "texto": "Ricardo Montoya Condori",
+   "etiqueta": "PER",
+   "score": 0.9993,
+   "inicio": 376,
+   "fin": 399
+  }
+ ]
+}

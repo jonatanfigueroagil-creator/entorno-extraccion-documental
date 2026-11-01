@@ -1,0 +1,62 @@
+{
+ "doc_id": "OFI-0010",
+ "tipo": "oficio",
+ "formato": "pdf_escaneado",
+ "campos": {
+  "numero_oficio": "0836-2026-ID/DRO",
+  "fecha": "2026-06-06",
+  "entidad": "Banco del Sur Austral DEMO S.A.",
+  "ruc": "20993132544",
+  "asunto": "Requerimiento de informacion sobre polizas colectivas emitidas en el semestre",
+  "referencia": "Carta N° 375-2026 de Banco del Sur Austral DEMO S.A.",
+  "plazo_dias": 7,
+  "emisor": "Intendencia DEMO de Conducta de Mercado",
+  "firmante": "Paola Nunez Benavides",
+  "cargo": "Jefe de Equipo DEMO"
+ },
+ "tablas": [],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    265,
+    1680,
+    818,
+    1871
+   ],
+   "unidad": "px",
+   "dpi": 300,
+   "ancho_px": 2481,
+   "alto_px": 3508
+  },
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    694,
+    1447,
+    1090,
+    1843
+   ],
+   "unidad": "px",
+   "dpi": 300,
+   "ancho_px": 2481,
+   "alto_px": 3508
+  }
+ ],
+ "texto_completo": "AUTORIDAD SUPERVISORA DEMO\nIntendencia DEMO de Conducta de Mercado\nDocumento ficticio con fines de capacitacion\nOFICIO N° 0836-2026-ID/DRO\nLima, 6 de junio de 2026\nSenores\nBanco del Sur Austral DEMO S.A.\nRUC 20993132544\nPresente.-\nAsunto:\nRequerimiento de informacion sobre polizas colectivas emitidas en el semestre\nReferencia:\nCarta N° 375-2026 de Banco del Sur Austral DEMO S.A.\nMediante el presente se requiere a su representada remitir la informacion detallada a continuacion, en el\nmarco de las labores de supervision del periodo en curso.\nLa informacion debera ser presentada en un plazo de siete (7) dias habiles contados desde la recepcion\ndel presente oficio, en formato digital y firmada por el responsable. El incumplimiento sera evaluado\nconforme a los procedimientos internos aplicables.\nAtentamente,\nPaola Nunez Benavides\nJefe de Equipo DEMO",
+ "degradacion": {
+  "rotacion": 1.96,
+  "ruido": "sal_pimienta",
+  "ruido_sigma": 6.3,
+  "desenfoque_sigma": 0.6,
+  "sombra": "sup",
+  "perspectiva": false,
+  "jpeg_calidad": 60,
+  "dpi": 300,
+  "paginas": 1
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

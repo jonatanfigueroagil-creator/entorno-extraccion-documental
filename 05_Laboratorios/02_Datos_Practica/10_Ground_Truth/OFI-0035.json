@@ -1,0 +1,62 @@
+{
+ "doc_id": "OFI-0035",
+ "tipo": "oficio",
+ "formato": "pdf_escaneado",
+ "campos": {
+  "numero_oficio": "0443-2026-ID/DSF",
+  "fecha": "2026-04-11",
+  "entidad": "Financiera Pampa Azul DEMO S.A.",
+  "ruc": "20997462352",
+  "asunto": "Remision de reportes de tasas de interes y comisiones vigentes",
+  "referencia": "Carta N° 218-2026 de Financiera Pampa Azul DEMO S.A.",
+  "plazo_dias": 15,
+  "emisor": "Intendencia DEMO de Supervision Financiera",
+  "firmante": "Miguel Zevallos Nunez",
+  "cargo": "Intendente DEMO Adjunto"
+ },
+ "tablas": [],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    133,
+    845,
+    410,
+    943
+   ],
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    345,
+    725,
+    546,
+    926
+   ],
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  }
+ ],
+ "texto_completo": "AUTORIDAD SUPERVISORA DEMO\nIntendencia DEMO de Supervision Financiera\nDocumento ficticio con fines de capacitacion\nOFICIO N° 0443-2026-ID/DSF\nLima, 11 de abril de 2026\nSenores\nFinanciera Pampa Azul DEMO S.A.\nRUC 20997462352\nPresente.-\nAsunto:\nRemision de reportes de tasas de interes y comisiones vigentes\nReferencia:\nCarta N° 218-2026 de Financiera Pampa Azul DEMO S.A.\nMediante el presente se requiere a su representada remitir la informacion detallada a continuacion, en el\nmarco de las labores de supervision del periodo en curso.\nLa informacion debera ser presentada en un plazo de quince (15) dias habiles contados desde la\nrecepcion del presente oficio, en formato digital y firmada por el responsable. El incumplimiento sera\nevaluado conforme a los procedimientos internos aplicables.\nAtentamente,\nMiguel Zevallos Nunez\nIntendente DEMO Adjunto",
+ "degradacion": {
+  "rotacion": 2.85,
+  "ruido": "sal_pimienta",
+  "ruido_sigma": 12.1,
+  "desenfoque_sigma": 1.0,
+  "sombra": "der",
+  "perspectiva": false,
+  "jpeg_calidad": 70,
+  "dpi": 150,
+  "paginas": 1
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

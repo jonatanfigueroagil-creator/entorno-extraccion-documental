@@ -1,0 +1,17 @@
+{
+ "id": "REC-0050",
+ "archivo": "adjunto_REC-0050.jpg",
+ "ruta": "06_Reclamos/REC-0050.eml#adjunto_REC-0050.jpg",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "crudo",
+ "psm": 3,
+ "inclinacion": 0.0,
+ "texto": "Financiera Altiplano DEMO S.A.\nEstado de cuenta - tarjeta de credito\nCliente: Ana Quispe Zevallos DNI 99075645\nFecha Descripcion Importe\n14/04/2026 Compra comercio DEMO. 28.00\n15/04/2026 Cargo reclamado (demora en entrega) 1,591.00\n11/04/2026 Interes 54.00\n08/04/2026 Compra comercio DEMO 212.00\n05/04/2026 60.00 |\nPago servicio",
+ "confianza": 0.9109,
+ "score": 0.955,
+ "invalidos": 0,
+ "decision": "aceptar",
+ "segundos": 0.21,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}
