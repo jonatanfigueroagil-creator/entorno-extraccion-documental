@@ -3,6 +3,11 @@
 
 ocr:
   idioma: spa            # código de idioma de Tesseract (datos "spa")
+  paddle:                # PaddleOCR 3.x en CPU (S02 lo prueba con una imagen; S03 lo amplía)
+    idioma: es
+    modelo_deteccion: PP-OCRv5_mobile_det          # modelos ligeros: ~1 s por imagen frente a ~14 s con los de serie
+    modelo_reconocimiento: latin_PP-OCRv5_mobile_rec
+    enable_mkldnn: false                           # necesario en CPU con paddlepaddle 3.3.1 (si no, falla en la primera predicción)
 
 ingesta:
   extensiones:           # extensiones que el pipeline acepta en una carpeta de entrada
@@ -14,9 +19,13 @@ ingesta:
     - ".eml"
     - ".docx"
     - ".html"
+  carpeta_cuarentena: cuarentena            # S02: aquí se copian los archivos que fallan (junto con su motivo)
+  umbral_ocr_caracteres_por_pagina: 20      # S02: menos caracteres por página => el PDF requiere OCR (se calibra con el corpus)
+  hash: sha256                              # S02: huella del contenido para detectar duplicados
 
 llm:
   backend: ollama_local  # reservado: se usa desde S05 (ollama_local | servidor_compartido | api_nube)
 
 logging:
   nivel: INFO            # DEBUG | INFO | WARNING | ERROR
+  formato: json          # S02: una línea JSON por evento (simple | json)
