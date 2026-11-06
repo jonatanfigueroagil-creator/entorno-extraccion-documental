@@ -155,7 +155,7 @@ def extraer_pdf(ruta: str | Path, biblioteca: str = "pymupdf") -> Extraccion:
     """
     funciones = {"pypdf": extraer_pdf_pypdf, "pdfplumber": extraer_pdf_pdfplumber, "pymupdf": extraer_pdf_pymupdf}
     if biblioteca not in funciones:
-        raise ValueError(f"Biblioteca desconocida: {biblioteca}. Usa una de {BIBLIOTECAS_PDF}")
+        raise ValueError(f"Biblioteca desconocida: {biblioteca}. Las opciones válidas son {BIBLIOTECAS_PDF}")
     return funciones[biblioteca](ruta)
 
 

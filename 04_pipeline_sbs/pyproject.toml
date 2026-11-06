@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pipeline_sbs"
-version = "0.2.0"
+version = "0.3.0"
 description = "Pipeline de extracción documental del curso (proyecto integrador incremental)."
 requires-python = ">=3.11"
 dependencies = [
@@ -17,6 +17,9 @@ dependencies = [
     "pytesseract>=0.3.13",
     "Pillow>=10.1",
     "PyYAML>=6.0",
+    "numpy>=2.3",
+    "opencv-python-headless==4.10.0.84",   # fijada: minAreaRect cambia de convención en 5.x
+    "rapidfuzz>=3.14",
 ]
 
 [project.optional-dependencies]
@@ -32,4 +35,4 @@ pipeline_sbs = ["config/*.yaml"]
 testpaths = ["pipeline_sbs/tests"]
 
 # Las pruebas que usan los documentos de práctica leen la carpeta indicada en la variable de entorno SBS_DATOS_PRACTICA
-# (o la carpeta 02_Datos_Practica más cercana). Sin ella esas pruebas se omiten: 99 passed, 4 skipped.
+# (o la carpeta 02_Datos_Practica más cercana). Sin ella esas pruebas se omiten: 164 passed, 4 skipped con Tesseract (variable TESSERACT_CMD si no está en el PATH); 162 passed, 6 skipped sin él.
