@@ -70,12 +70,27 @@ if ($Rehacer -or -not $nombre -or -not $correo -or -not $hayRemoto) {
     $usuario = Pedir "Usuario de GitHub"
     Ejecutar-Git config --global user.name $nombre
     Ejecutar-Git config --global user.email $correo
-    $url = "https://github.com/$usuario/extraccion-documental-sbs.git"
+    # el usuario va tambien antes de github.com: Git usa la cuenta de ese usuario aunque la maquina guarde otra
+    $url = "https://${usuario}@github.com/$usuario/extraccion-documental-sbs.git"
     if ($hayRemoto) { Ejecutar-Git remote set-url mio $url } else { Ejecutar-Git remote add mio $url }
 } else {
     Write-Host "Datos ya configurados: $nombre <$correo>. Para cambiarlos, se repite el script con -Rehacer."
+    # remoto de una version anterior, sin el usuario antes de github.com: se agrega
+    $actual = "$(& git remote get-url mio 2>$null)"
+    if ($actual -match '^https://github\.com/([^/]+)/extraccion-documental-sbs\.git$') {
+        $u = $Matches[1]
+        Ejecutar-Git remote set-url mio "https://${u}@github.com/${u}/extraccion-documental-sbs.git"
+    }
 }
 Ejecutar-Git remote -v
+# comprobacion: GitHub debe encontrar el repositorio personal con esta cuenta
+Ejecutar-Git ls-remote --heads mio
+$faltaRepo = ($LASTEXITCODE -ne 0)
+if ($faltaRepo) {
+    Write-Host "[FALTA] GitHub no encuentra el repositorio personal con esta cuenta. Se crea en https://github.com/new?name=extraccion-documental-sbs&visibility=private (privado, sin README) o se revisa en el navegador que la sesion abierta sea la de esta cuenta, y se repite el script con -Rehacer." -ForegroundColor Yellow
+} else {
+    Write-Host "[OK] GitHub encuentra el repositorio personal con esta cuenta." -ForegroundColor Green
+}
 
 # ---------------------------------------------------------------- 4. Rama de la sesion
 Titulo "4/6 Rama trabajo-s0$Sesion"
@@ -113,5 +128,6 @@ if ($env:JPY_PARENT_PID) {
     Write-Host "JupyterLab se abre en otra ventana de PowerShell. Esa ventana debe quedar abierta mientras se trabaja."
 }
 Write-Host ""
+if ($faltaRepo) { Write-Host "[FALTA] Repositorio personal: sin el, el avance no se puede subir. Se resuelve como indica el paso 3/6 y se repite el script con -Rehacer." -ForegroundColor Yellow }
 Write-Host "Listo: sesion $Sesion preparada en la rama $rama." -ForegroundColor Green
 exit $codigo
