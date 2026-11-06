@@ -1,0 +1,56 @@
+{
+ "doc_id": "VOU-0006",
+ "tipo": "voucher",
+ "formato": "imagen_jpg",
+ "campos": {
+  "entidad": "Banco del Sur Austral DEMO S.A.",
+  "numero_operacion": "01945522",
+  "fecha": "2026-03-26",
+  "hora": "18:19",
+  "monto": 11146,
+  "moneda": "PEN",
+  "cuenta_destino": "999-0753891389",
+  "titular": "Miguel Cornejo Fuentes",
+  "depositante": "Andres Escobar Cornejo",
+  "dni_depositante": "99786461"
+ },
+ "tablas": [],
+ "regiones": [
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    73,
+    218,
+    129,
+    276
+   ],
+   "unidad": "px",
+   "ancho_px": 240,
+   "alto_px": 373
+  },
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    132,
+    228,
+    190,
+    254
+   ],
+   "unidad": "px",
+   "ancho_px": 240,
+   "alto_px": 373
+  }
+ ],
+ "texto_completo": "Banco del Sur Austral DEMO S.A.\nCONSTANCIA DE DEPOSITO\nOperacion:\n01945522\nFecha:\n26/03/2026\nHora:\n18:19\nCuenta:\n999-0753891389\nTitular:\nMiguel Cornejo Fuentes\nDepositante:\nAndres Escobar Cornejo\nDNI:\n99786461\nMONTO S/ 11,146.00",
+ "degradacion": {
+  "rotacion": 5.6,
+  "dpi": 50,
+  "ruido": "gaussiano",
+  "perspectiva": true,
+  "sombra": "der",
+  "escala": 0.5
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)"
+}

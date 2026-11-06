@@ -1,0 +1,88 @@
+{
+ "doc_id": "OFI-0006",
+ "tipo": "oficio",
+ "formato": "pdf_escaneado",
+ "campos": {
+  "numero_oficio": "0417-2026-ID/DRO",
+  "fecha": "2026-01-23",
+  "entidad": "Aseguradora Nueva Aurora DEMO S.A.",
+  "ruc": "20992371634",
+  "asunto": "Requerimiento de informe sobre incidentes de seguridad de la informacion",
+  "referencia": "Carta N° 023-2026 de Aseguradora Nueva Aurora DEMO S.A.",
+  "plazo_dias": 7,
+  "emisor": "Intendencia DEMO de Conducta de Mercado",
+  "firmante": "Alvaro Bravo Escobar",
+  "cargo": "Jefe de Equipo DEMO"
+ },
+ "tablas": [
+  {
+   "nombre": "informacion_solicitada",
+   "encabezados": [
+    "N°",
+    "Informacion solicitada"
+   ],
+   "filas": [
+    [
+     "1",
+     "Politica interna aprobada y su fecha de vigencia"
+    ],
+    [
+     "2",
+     "Detalle de comisiones cobradas"
+    ],
+    [
+     "3",
+     "Relacion de operaciones vigentes con saldo y estado"
+    ],
+    [
+     "4",
+     "Estados financieros al cierre del periodo"
+    ]
+   ]
+  }
+ ],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    207,
+    1408,
+    576,
+    1545
+   ],
+   "unidad": "px",
+   "dpi": 200,
+   "ancho_px": 1654,
+   "alto_px": 2339
+  },
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    476,
+    1236,
+    752,
+    1513
+   ],
+   "unidad": "px",
+   "dpi": 200,
+   "ancho_px": 1654,
+   "alto_px": 2339
+  }
+ ],
+ "texto_completo": "AUTORIDAD SUPERVISORA DEMO\nIntendencia DEMO de Conducta de Mercado\nDocumento ficticio con fines de capacitacion\nOFICIO N° 0417-2026-ID/DRO\nLima, 23 de enero de 2026\nSenores\nAseguradora Nueva Aurora DEMO S.A.\nRUC 20992371634\nPresente.-\nAsunto:\nRequerimiento de informe sobre incidentes de seguridad de la informacion\nReferencia:\nCarta N° 023-2026 de Aseguradora Nueva Aurora DEMO S.A.\nMediante el presente se requiere a su representada remitir la informacion detallada a continuacion, en el\nmarco de las labores de supervision del periodo en curso.\nN°\nInformacion solicitada\n1\nPolitica interna aprobada y su fecha de vigencia\n2\nDetalle de comisiones cobradas\n3\nRelacion de operaciones vigentes con saldo y estado\n4\nEstados financieros al cierre del periodo\nLa informacion debera ser presentada en un plazo de siete (7) dias habiles contados desde la recepcion\ndel presente oficio, en formato digital y firmada por el responsable. El incumplimiento sera evaluado\nconforme a los procedimientos internos aplicables.\nAtentamente,\nAlvaro Bravo Escobar\nJefe de Equipo DEMO",
+ "degradacion": {
+  "rotacion": 4.92,
+  "ruido": "gaussiano",
+  "ruido_sigma": 8.1,
+  "desenfoque_sigma": 0.0,
+  "sombra": "inf",
+  "perspectiva": false,
+  "jpeg_calidad": 60,
+  "dpi": 200,
+  "paginas": 1
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

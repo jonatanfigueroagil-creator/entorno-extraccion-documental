@@ -1,0 +1,40 @@
+{
+ "id": "REC-0018",
+ "modelo": "Davlan/xlm-roberta-base-ner-hrl",
+ "revision": null,
+ "version_transformers": "5.22.1",
+ "version_torch": "2.15.0+cu132",
+ "dispositivo": "cuda (NVIDIA GeForce RTX 5070)",
+ "agregacion": "simple",
+ "texto": "remitente + cuerpo del correo + texto del OCR del adjunto (ocr_s04)",
+ "entidades": [
+  {
+   "texto": "Carlos Olivera Huaman",
+   "etiqueta": "PER",
+   "score": 0.9998,
+   "inicio": 43,
+   "fin": 64
+  },
+  {
+   "texto": "Edpyme Sol Naciente DEMO S.A.",
+   "etiqueta": "ORG",
+   "score": 0.9985,
+   "inicio": 83,
+   "fin": 112
+  },
+  {
+   "texto": "Edpyme Sol Naciente DEMO S.A.",
+   "etiqueta": "ORG",
+   "score": 0.9972,
+   "inicio": 281,
+   "fin": 310
+  },
+  {
+   "texto": "Carlos Olivera Huaman",
+   "etiqueta": "PER",
+   "score": 0.9997,
+   "inicio": 357,
+   "fin": 378
+  }
+ ]
+}

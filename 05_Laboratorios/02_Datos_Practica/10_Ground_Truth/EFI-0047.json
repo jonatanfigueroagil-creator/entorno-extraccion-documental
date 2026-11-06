@@ -1,0 +1,249 @@
+{
+ "doc_id": "EFI-0047",
+ "tipo": "estado_financiero",
+ "formato": "pdf_escaneado",
+ "campos": {
+  "entidad": "Financiera Pampa Azul DEMO S.A.",
+  "ruc": "20997462352",
+  "periodo": "2026-12-31",
+  "moneda": "PEN",
+  "unidad": "soles",
+  "total_activo": 12706,
+  "total_pasivo": 10400,
+  "total_patrimonio": 2306,
+  "utilidad_neta": 806,
+  "cuadra": true
+ },
+ "tablas": [
+  {
+   "nombre": "balance_general",
+   "encabezados": [
+    "Concepto",
+    "2026",
+    "2025"
+   ],
+   "filas": [
+    [
+     "ACTIVO",
+     "",
+     ""
+    ],
+    [
+     "Disponible",
+     "3,938",
+     "1,799"
+    ],
+    [
+     "Inversiones",
+     "1,270",
+     "1,308"
+    ],
+    [
+     "Cartera de creditos neta",
+     "889",
+     "1,308"
+    ],
+    [
+     "Cuentas por cobrar",
+     "635",
+     "981"
+    ],
+    [
+     "Inmuebles, mobiliario y equipo",
+     "762",
+     "1,472"
+    ],
+    [
+     "Otros activos",
+     "5,212",
+     "9,488"
+    ],
+    [
+     "Total activo",
+     "12,706",
+     "16,356"
+    ],
+    [
+     "PASIVO",
+     "",
+     ""
+    ],
+    [
+     "Obligaciones con el publico",
+     "2,250",
+     "3,450"
+    ],
+    [
+     "Adeudos y obligaciones financieras",
+     "4,000",
+     "3,550"
+    ],
+    [
+     "Cuentas por pagar",
+     "2,050",
+     "4,150"
+    ],
+    [
+     "Otros pasivos",
+     "2,100",
+     "3,000"
+    ],
+    [
+     "Total pasivo",
+     "10,400",
+     "14,150"
+    ],
+    [
+     "PATRIMONIO",
+     "",
+     ""
+    ],
+    [
+     "Capital social",
+     "1,100",
+     "950"
+    ],
+    [
+     "Reservas",
+     "350",
+     "200"
+    ],
+    [
+     "Resultados acumulados",
+     "50",
+     "150"
+    ],
+    [
+     "Resultado del ejercicio",
+     "806",
+     "906"
+    ],
+    [
+     "Total patrimonio",
+     "2,306",
+     "2,206"
+    ],
+    [
+     "Total pasivo y patrimonio",
+     "12,706",
+     "16,356"
+    ]
+   ],
+   "celdas_combinadas": [
+    {
+     "fila": 0,
+     "col_ini": 1,
+     "col_fin": 2
+    },
+    {
+     "fila": 2,
+     "col_ini": 0,
+     "col_fin": 2
+    },
+    {
+     "fila": 10,
+     "col_ini": 0,
+     "col_fin": 2
+    },
+    {
+     "fila": 16,
+     "col_ini": 0,
+     "col_fin": 2
+    }
+   ],
+   "estilo": "combinadas"
+  },
+  {
+   "nombre": "estado_ganancias_perdidas",
+   "encabezados": [
+    "Concepto",
+    "2026",
+    "2025"
+   ],
+   "filas": [
+    [
+     "Ingresos por intereses",
+     "3,800",
+     "4,750"
+    ],
+    [
+     "Gastos por intereses",
+     "1,238",
+     "1,601"
+    ],
+    [
+     "Margen financiero bruto",
+     "2,562",
+     "3,149"
+    ],
+    [
+     "Provisiones",
+     "316",
+     "566"
+    ],
+    [
+     "Margen financiero neto",
+     "2,246",
+     "2,583"
+    ],
+    [
+     "Ingresos por servicios",
+     "455",
+     "257"
+    ],
+    [
+     "Gastos de administracion",
+     "1,558",
+     "1,555"
+    ],
+    [
+     "Utilidad operativa",
+     "1,143",
+     "1,285"
+    ],
+    [
+     "Impuesto a la renta",
+     "337",
+     "379"
+    ],
+    [
+     "Utilidad neta",
+     "806",
+     "906"
+    ]
+   ],
+   "celdas_combinadas": [],
+   "estilo": "combinadas"
+  }
+ ],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 2,
+   "bbox": [
+    133,
+    923,
+    485,
+    1054
+   ],
+   "unidad": "px",
+   "dpi": 200,
+   "ancho_px": 1654,
+   "alto_px": 2339
+  }
+ ],
+ "texto_completo": "Financiera Pampa Azul DEMO S.A.\nRUC 20997462352\nESTADO DE SITUACION FINANCIERA (BALANCE GENERAL)\nAl 31 de diciembre de 2026 (en soles)\nAl 31 de diciembre\nConcepto\n2026\n2025\nACTIVO\nDisponible\n3,938\n1,799\nInversiones\n1,270\n1,308\nCartera de creditos neta\n889\n1,308\nCuentas por cobrar\n635\n981\nInmuebles, mobiliario y equipo\n762\n1,472\nOtros activos\n5,212\n9,488\nTotal activo\n12,706\n16,356\nPASIVO\nObligaciones con el publico\n2,250\n3,450\nAdeudos y obligaciones financieras\n4,000\n3,550\nCuentas por pagar\n2,050\n4,150\nOtros pasivos\n2,100\n3,000\nTotal pasivo\n10,400\n14,150\nPATRIMONIO\nCapital social\n1,100\n950\nReservas\n350\n200\nResultados acumulados\n50\n150\nResultado del ejercicio\n806\n906\nTotal patrimonio\n2,306\n2,206\nTotal pasivo y patrimonio\n12,706\n16,356\nFinanciera Pampa Azul DEMO S.A.\nRUC 20997462352\nESTADO DE GANANCIAS Y PERDIDAS\nAl 31 de diciembre de 2026 (en soles)\nConcepto\n2026\n2025\nIngresos por intereses\n3,800\n4,750\nGastos por intereses\n1,238\n1,601\nMargen financiero bruto\n2,562\n3,149\nProvisiones\n316\n566\nMargen financiero neto\n2,246\n2,583\nIngresos por servicios\n455\n257\nGastos de administracion\n1,558\n1,555\nUtilidad operativa\n1,143\n1,285\nImpuesto a la renta\n337\n379\nUtilidad neta\n806\n906\nRepresentante legal: Oscar Mamani Flores",
+ "degradacion": {
+  "rotacion": 2.61,
+  "ruido": "gaussiano",
+  "ruido_sigma": 12.4,
+  "desenfoque_sigma": 1.0,
+  "sombra": "der",
+  "perspectiva": false,
+  "jpeg_calidad": 80,
+  "dpi": 200,
+  "paginas": 2
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

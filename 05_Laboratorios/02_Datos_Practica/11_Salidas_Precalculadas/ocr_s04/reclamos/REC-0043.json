@@ -1,0 +1,17 @@
+{
+ "id": "REC-0043",
+ "archivo": "adjunto_REC-0043.jpg",
+ "ruta": "06_Reclamos/REC-0043.eml#adjunto_REC-0043.jpg",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "crudo",
+ "psm": 3,
+ "inclinacion": 0.0,
+ "texto": "Banco del Sur Austral DEMO S.A.\nEstado de cuenta - tarjeta de credito\nCliente: Silvia Escobar Flores DNI 99941557\nFecha Descripcion import |\n05/09/2026 Interes 202.00\n02/09/2026 Interes | 188.00\n30/08/2026 Interes 170.00\n06/09/2026 Cargo reclamado (cobro indebido) | 2,561.00\n27/08/2026 Interes 30.00",
+ "confianza": 0.9028,
+ "score": 0.951,
+ "invalidos": 0,
+ "decision": "aceptar",
+ "segundos": 0.19,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

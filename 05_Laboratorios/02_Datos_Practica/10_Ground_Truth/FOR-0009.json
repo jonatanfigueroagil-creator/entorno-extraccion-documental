@@ -1,0 +1,180 @@
+{
+ "doc_id": "FOR-0009",
+ "tipo": "formulario",
+ "formato": "imagen_jpg",
+ "campos": {
+  "nombres": "Miguel",
+  "apellido_paterno": "Lazo",
+  "apellido_materno": "Mendoza",
+  "dni": "99316358",
+  "fecha_nacimiento": "1974-07-11",
+  "direccion": "Jr. Los Cedros 214, San Borja",
+  "telefono": "999 000 476",
+  "correo": "miguel.lazo23@ejemplo.pe",
+  "fecha_solicitud": "2026-05-28"
+ },
+ "tablas": [],
+ "regiones": [
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    123,
+    215,
+    1156,
+    294
+   ],
+   "campo": "nombres",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    120,
+    323,
+    1153,
+    402
+   ],
+   "campo": "apellido_paterno",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    117,
+    432,
+    1149,
+    510
+   ],
+   "campo": "apellido_materno",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    113,
+    540,
+    1146,
+    619
+   ],
+   "campo": "dni",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    110,
+    648,
+    1143,
+    727
+   ],
+   "campo": "fecha_nacimiento",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    106,
+    757,
+    1139,
+    835
+   ],
+   "campo": "direccion",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    103,
+    865,
+    1136,
+    943
+   ],
+   "campo": "telefono",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    99,
+    973,
+    1132,
+    1052
+   ],
+   "campo": "correo",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    96,
+    1081,
+    1129,
+    1160
+   ],
+   "campo": "fecha_solicitud",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    109,
+    1271,
+    387,
+    1343
+   ],
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  }
+ ],
+ "texto_completo": "Nombres: Miguel\nApellido paterno: Lazo\nApellido materno: Mendoza\nDNI: 99316358\nFecha de nacimiento: 11/07/1974\nDireccion: Jr. Los Cedros 214, San Borja\nTelefono: 999 000 476\nCorreo electronico: miguel.lazo23@ejemplo.pe\nFecha de solicitud: 28/05/2026",
+ "degradacion": {
+  "rotacion": -1.82,
+  "ruido": "gaussiano",
+  "ruido_sigma": 5.0,
+  "desenfoque_sigma": 0.6,
+  "sombra": null,
+  "perspectiva": false,
+  "dpi": 150,
+  "legibilidad_manuscrito": "baja"
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)"
+}

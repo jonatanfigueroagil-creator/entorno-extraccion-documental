@@ -1,0 +1,17 @@
+{
+ "id": "REC-0031",
+ "archivo": "adjunto_REC-0031.pdf",
+ "ruta": "06_Reclamos/REC-0031.eml#adjunto_REC-0031.pdf",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "crudo",
+ "psm": 3,
+ "inclinacion": 0.0,
+ "texto": "Caja Rural Valle Verde\nDEMO S.A.\nEstado de cuenta - tarjeta de debito\nCliente: Oscar Zevallos Mamani\nDNI 99329218\nFecha Descripcion Importe\n10/04/2026 Cargo reclamado (demora en entrega) 542.00\n09/04/2026 Retiro cajero 119.00\n06/04/2026 Compra comercio DEMO 93.00\n03/04/2026 Retiro cajero 86.00\n31/03/2026 Pago servicio 193.00",
+ "confianza": 0.9422,
+ "score": 0.971,
+ "invalidos": 0,
+ "decision": "aceptar",
+ "segundos": 0.3,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

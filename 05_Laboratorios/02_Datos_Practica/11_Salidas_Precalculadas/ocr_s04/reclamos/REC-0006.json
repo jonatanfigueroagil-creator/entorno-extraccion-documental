@@ -1,0 +1,17 @@
+{
+ "id": "REC-0006",
+ "archivo": "adjunto_REC-0006.jpg",
+ "ruta": "06_Reclamos/REC-0006.eml#adjunto_REC-0006.jpg",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "crudo",
+ "psm": 3,
+ "inclinacion": 0.0,
+ "texto": "Edpyme Sol Naciente DEMO S.A.\nEstado de cuenta - cuenta de ahorros\nCliente: Lucia Huaman Fuentes DNI 99240456\nFecha Descripcion Importe\n21/06/2026 Cargo reclamado (demora en entrega) 151.00\n20/06/2026 Interes 255.00\nTrzios2026 Pago servicio 225.00\n14/06/2026 Retiro cajero 199.00\n11/06/2026 Interes. 31.00",
+ "confianza": 0.9005,
+ "score": 0.95,
+ "invalidos": 0,
+ "decision": "aceptar",
+ "segundos": 0.19,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

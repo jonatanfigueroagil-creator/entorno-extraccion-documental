@@ -1,0 +1,62 @@
+{
+ "doc_id": "OFI-0020",
+ "tipo": "oficio",
+ "formato": "pdf_escaneado",
+ "campos": {
+  "numero_oficio": "0587-2026-ID/DCM",
+  "fecha": "2026-01-22",
+  "entidad": "Banco Costa Norte DEMO S.A.",
+  "ruc": "20991892070",
+  "asunto": "Requerimiento de informacion sobre contratos de credito de consumo",
+  "referencia": "Carta N° 161-2026 de Banco Costa Norte DEMO S.A.",
+  "plazo_dias": 15,
+  "emisor": "Intendencia DEMO de Riesgos Operacionales",
+  "firmante": "Milagros Valdivia Peralta",
+  "cargo": "Jefe de Equipo DEMO"
+ },
+ "tablas": [],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    293,
+    1586,
+    829,
+    1803
+   ],
+   "unidad": "px",
+   "dpi": 300,
+   "ancho_px": 2481,
+   "alto_px": 3508
+  },
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    700,
+    1399,
+    1113,
+    1812
+   ],
+   "unidad": "px",
+   "dpi": 300,
+   "ancho_px": 2481,
+   "alto_px": 3508
+  }
+ ],
+ "texto_completo": "AUTORIDAD SUPERVISORA DEMO\nIntendencia DEMO de Riesgos Operacionales\nDocumento ficticio con fines de capacitacion\nOFICIO N° 0587-2026-ID/DCM\nLima, 22 de enero de 2026\nSenores\nBanco Costa Norte DEMO S.A.\nRUC 20991892070\nPresente.-\nAsunto:\nRequerimiento de informacion sobre contratos de credito de consumo\nReferencia:\nCarta N° 161-2026 de Banco Costa Norte DEMO S.A.\nMediante el presente se requiere a su representada remitir la informacion detallada a continuacion, en el\nmarco de las labores de supervision del periodo en curso.\nLa informacion debera ser presentada en un plazo de quince (15) dias habiles contados desde la\nrecepcion del presente oficio, en formato digital y firmada por el responsable. El incumplimiento sera\nevaluado conforme a los procedimientos internos aplicables.\nAtentamente,\nMilagros Valdivia Peralta\nJefe de Equipo DEMO",
+ "degradacion": {
+  "rotacion": -4.67,
+  "ruido": "gaussiano",
+  "ruido_sigma": 5.6,
+  "desenfoque_sigma": 0.0,
+  "sombra": "izq",
+  "perspectiva": false,
+  "jpeg_calidad": 80,
+  "dpi": 300,
+  "paginas": 1
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

@@ -1,0 +1,88 @@
+{
+ "doc_id": "OFI-0022",
+ "tipo": "oficio",
+ "formato": "pdf_escaneado",
+ "campos": {
+  "numero_oficio": "0182-2026-ID/DSF",
+  "fecha": "2026-07-09",
+  "entidad": "Caja Rural Valle Verde DEMO S.A.",
+  "ruc": "20996964281",
+  "asunto": "Requerimiento de informacion sobre contratos de credito de consumo",
+  "referencia": "Carta N° 193-2026 de Caja Rural Valle Verde DEMO S.A.",
+  "plazo_dias": 10,
+  "emisor": "Intendencia DEMO de Supervision Financiera",
+  "firmante": "Andres Delgado Valdivia",
+  "cargo": "Intendente DEMO"
+ },
+ "tablas": [
+  {
+   "nombre": "informacion_solicitada",
+   "encabezados": [
+    "N°",
+    "Informacion solicitada"
+   ],
+   "filas": [
+    [
+     "1",
+     "Informe de atencion de reclamos del periodo"
+    ],
+    [
+     "2",
+     "Relacion de operaciones vigentes con saldo y estado"
+    ],
+    [
+     "3",
+     "Detalle de comisiones cobradas"
+    ],
+    [
+     "4",
+     "Estados financieros al cierre del periodo"
+    ]
+   ]
+  }
+ ],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    203,
+    1390,
+    544,
+    1509
+   ],
+   "unidad": "px",
+   "dpi": 200,
+   "ancho_px": 1654,
+   "alto_px": 2339
+  },
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    471,
+    1231,
+    734,
+    1493
+   ],
+   "unidad": "px",
+   "dpi": 200,
+   "ancho_px": 1654,
+   "alto_px": 2339
+  }
+ ],
+ "texto_completo": "AUTORIDAD SUPERVISORA DEMO\nIntendencia DEMO de Supervision Financiera\nDocumento ficticio con fines de capacitacion\nOFICIO N° 0182-2026-ID/DSF\nLima, 9 de julio de 2026\nSenores\nCaja Rural Valle Verde DEMO S.A.\nRUC 20996964281\nPresente.-\nAsunto:\nRequerimiento de informacion sobre contratos de credito de consumo\nReferencia:\nCarta N° 193-2026 de Caja Rural Valle Verde DEMO S.A.\nMediante el presente se requiere a su representada remitir la informacion detallada a continuacion, en el\nmarco de las labores de supervision del periodo en curso.\nN°\nInformacion solicitada\n1\nInforme de atencion de reclamos del periodo\n2\nRelacion de operaciones vigentes con saldo y estado\n3\nDetalle de comisiones cobradas\n4\nEstados financieros al cierre del periodo\nLa informacion debera ser presentada en un plazo de diez (10) dias habiles contados desde la recepcion\ndel presente oficio, en formato digital y firmada por el responsable. El incumplimiento sera evaluado\nconforme a los procedimientos internos aplicables.\nAtentamente,\nAndres Delgado Valdivia\nIntendente DEMO",
+ "degradacion": {
+  "rotacion": 1.58,
+  "ruido": "gaussiano",
+  "ruido_sigma": 5.5,
+  "desenfoque_sigma": 0.0,
+  "sombra": "sup",
+  "perspectiva": false,
+  "jpeg_calidad": 60,
+  "dpi": 200,
+  "paginas": 1
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

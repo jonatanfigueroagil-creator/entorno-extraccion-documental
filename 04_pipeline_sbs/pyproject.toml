@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pipeline_sbs"
+version = "0.1.0"
+description = "Pipeline de extracción documental del curso (proyecto integrador incremental)."
+requires-python = ">=3.11"
+dependencies = [
+    "pypdf>=6.0",
+    "pytesseract>=0.3.13",
+    "Pillow>=10.1",
+    "PyYAML>=6.0",
+]
+
+[project.optional-dependencies]
+pruebas = ["pytest>=8.0"]
+
+[tool.setuptools.packages.find]
+include = ["pipeline_sbs*"]
+
+[tool.setuptools.package-data]
+pipeline_sbs = ["config/*.yaml"]
+
+[tool.pytest.ini_options]
+testpaths = ["pipeline_sbs/tests"]

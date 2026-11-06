@@ -1,0 +1,80 @@
+{
+ "doc_id": "OFI-0001",
+ "tipo": "oficio",
+ "formato": "pdf_escaneado",
+ "campos": {
+  "numero_oficio": "0230-2026-ID/DSF",
+  "fecha": "2026-06-24",
+  "entidad": "Aseguradora Nueva Aurora DEMO S.A.",
+  "ruc": "20992371634",
+  "asunto": "Solicitud de plan de accion para el cierre de observaciones de la visita de inspeccion",
+  "referencia": "Carta N° 012-2026 de Aseguradora Nueva Aurora DEMO S.A.",
+  "plazo_dias": 15,
+  "emisor": "Intendencia DEMO de Riesgos Operacionales",
+  "firmante": "Raul Sandoval Mendoza",
+  "cargo": "Jefe de Equipo DEMO"
+ },
+ "tablas": [
+  {
+   "nombre": "informacion_solicitada",
+   "encabezados": [
+    "N°",
+    "Informacion solicitada"
+   ],
+   "filas": [
+    [
+     "1",
+     "Politica interna aprobada y su fecha de vigencia"
+    ],
+    [
+     "2",
+     "Cronograma de implementacion de las medidas correctivas"
+    ]
+   ]
+  }
+ ],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    196,
+    1314,
+    564,
+    1458
+   ],
+   "unidad": "px",
+   "dpi": 200,
+   "ancho_px": 1654,
+   "alto_px": 2339
+  },
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    468,
+    1148,
+    745,
+    1425
+   ],
+   "unidad": "px",
+   "dpi": 200,
+   "ancho_px": 1654,
+   "alto_px": 2339
+  }
+ ],
+ "texto_completo": "AUTORIDAD SUPERVISORA DEMO\nIntendencia DEMO de Riesgos Operacionales\nDocumento ficticio con fines de capacitacion\nOFICIO N° 0230-2026-ID/DSF\nLima, 24 de junio de 2026\nSenores\nAseguradora Nueva Aurora DEMO S.A.\nRUC 20992371634\nPresente.-\nAsunto:\nSolicitud de plan de accion para el cierre de observaciones de la visita de inspeccion\nReferencia:\nCarta N° 012-2026 de Aseguradora Nueva Aurora DEMO S.A.\nMediante el presente se requiere a su representada remitir la informacion detallada a continuacion, en el\nmarco de las labores de supervision del periodo en curso.\nN°\nInformacion solicitada\n1\nPolitica interna aprobada y su fecha de vigencia\n2\nCronograma de implementacion de las medidas correctivas\nLa informacion debera ser presentada en un plazo de quince (15) dias habiles contados desde la\nrecepcion del presente oficio, en formato digital y firmada por el responsable. El incumplimiento sera\nevaluado conforme a los procedimientos internos aplicables.\nAtentamente,\nRaul Sandoval Mendoza\nJefe de Equipo DEMO",
+ "degradacion": {
+  "rotacion": 4.98,
+  "ruido": "gaussiano",
+  "ruido_sigma": 10.9,
+  "desenfoque_sigma": 1.0,
+  "sombra": "sup",
+  "perspectiva": false,
+  "jpeg_calidad": 60,
+  "dpi": 200,
+  "paginas": 1
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

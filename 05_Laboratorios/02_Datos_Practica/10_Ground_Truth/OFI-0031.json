@@ -1,0 +1,80 @@
+{
+ "doc_id": "OFI-0031",
+ "tipo": "oficio",
+ "formato": "pdf_escaneado",
+ "campos": {
+  "numero_oficio": "0324-2026-ID/DSF",
+  "fecha": "2026-05-08",
+  "entidad": "Aseguradora Condor DEMO S.A.",
+  "ruc": "20997155832",
+  "asunto": "Requerimiento de informacion sobre la cartera de creditos al 30 de junio de 2026",
+  "referencia": "Carta N° 184-2026 de Aseguradora Condor DEMO S.A.",
+  "plazo_dias": 7,
+  "emisor": "Intendencia DEMO de Conducta de Mercado",
+  "firmante": "Mario Mendoza Vargas",
+  "cargo": "Intendente DEMO Adjunto"
+ },
+ "tablas": [
+  {
+   "nombre": "informacion_solicitada",
+   "encabezados": [
+    "N°",
+    "Informacion solicitada"
+   ],
+   "filas": [
+    [
+     "1",
+     "Informe de atencion de reclamos del periodo"
+    ],
+    [
+     "2",
+     "Reporte de tasas aplicadas por producto"
+    ]
+   ]
+  }
+ ],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    206,
+    1310,
+    558,
+    1447
+   ],
+   "unidad": "px",
+   "dpi": 200,
+   "ancho_px": 1654,
+   "alto_px": 2339
+  },
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    468,
+    1146,
+    741,
+    1419
+   ],
+   "unidad": "px",
+   "dpi": 200,
+   "ancho_px": 1654,
+   "alto_px": 2339
+  }
+ ],
+ "texto_completo": "AUTORIDAD SUPERVISORA DEMO\nIntendencia DEMO de Conducta de Mercado\nDocumento ficticio con fines de capacitacion\nOFICIO N° 0324-2026-ID/DSF\nLima, 8 de mayo de 2026\nSenores\nAseguradora Condor DEMO S.A.\nRUC 20997155832\nPresente.-\nAsunto:\nRequerimiento de informacion sobre la cartera de creditos al 30 de junio de 2026\nReferencia:\nCarta N° 184-2026 de Aseguradora Condor DEMO S.A.\nMediante el presente se requiere a su representada remitir la informacion detallada a continuacion, en el\nmarco de las labores de supervision del periodo en curso.\nN°\nInformacion solicitada\n1\nInforme de atencion de reclamos del periodo\n2\nReporte de tasas aplicadas por producto\nLa informacion debera ser presentada en un plazo de siete (7) dias habiles contados desde la recepcion\ndel presente oficio, en formato digital y firmada por el responsable. El incumplimiento sera evaluado\nconforme a los procedimientos internos aplicables.\nAtentamente,\nMario Mendoza Vargas\nIntendente DEMO Adjunto",
+ "degradacion": {
+  "rotacion": 4.02,
+  "ruido": "gaussiano",
+  "ruido_sigma": 7.2,
+  "desenfoque_sigma": 0.6,
+  "sombra": "der",
+  "perspectiva": false,
+  "jpeg_calidad": 60,
+  "dpi": 200,
+  "paginas": 1
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

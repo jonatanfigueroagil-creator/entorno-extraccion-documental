@@ -1,0 +1,17 @@
+{
+ "id": "REC-0012",
+ "archivo": "adjunto_REC-0012.jpg",
+ "ruta": "06_Reclamos/REC-0012.eml#adjunto_REC-0012.jpg",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "crudo",
+ "psm": 3,
+ "inclinacion": 0.0,
+ "texto": "Financiera Altiplano DEMO S.A.\nEstado de cuenta - cuenta de ahorros\nCliente: Marta Ramos Castillo DNI 99173054\nFecha Descripcion | Importe\n05/06/2026 Compra comercio DEMO 186.00\n02/06/2026 Compra comercio DEMO, 273.00\n30/05/2026 Retiro cajero 197.00\n06/06/2026 Cargo reclamado (demora en entrega) 962.00\n27/05/2026 Interes 255.00",
+ "confianza": 0.8769,
+ "score": 0.938,
+ "invalidos": 0,
+ "decision": "aceptar",
+ "segundos": 0.2,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

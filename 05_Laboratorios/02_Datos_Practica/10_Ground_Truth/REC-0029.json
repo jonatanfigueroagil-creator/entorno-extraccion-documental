@@ -1,0 +1,70 @@
+{
+ "doc_id": "REC-0029",
+ "tipo": "reclamo",
+ "formato": "eml",
+ "campos": {
+  "numero_reclamo": "R-2026-207775",
+  "fecha": "2026-05-04",
+  "nombre": "Ricardo Herrera Palacios",
+  "dni": "99912224",
+  "entidad": "Banco Andino DEMO S.A.",
+  "producto": "tarjeta de debito",
+  "motivo": "demora en entrega",
+  "monto_reclamado": 1170.0,
+  "telefono": "999 000 463",
+  "correo": "ricardo.herrera68@ejemplo.pe",
+  "monto_en_texto": false,
+  "canal": "correo",
+  "adjunto": {
+   "nombre": "adjunto_REC-0029.pdf",
+   "tipo": "pdf"
+  }
+ },
+ "tablas": [
+  {
+   "nombre": "movimientos_adjunto",
+   "encabezados": [
+    "Fecha",
+    "Descripcion",
+    "Importe"
+   ],
+   "filas": [
+    [
+     "03/05/2026",
+     "Retiro cajero",
+     "225.00"
+    ],
+    [
+     "30/04/2026",
+     "Retiro cajero",
+     "205.00"
+    ],
+    [
+     "27/04/2026",
+     "Retiro cajero",
+     "47.00"
+    ],
+    [
+     "04/05/2026",
+     "Cargo reclamado (demora en entrega)",
+     "1,170.00"
+    ],
+    [
+     "24/04/2026",
+     "Interes",
+     "211.00"
+    ]
+   ],
+   "celdas_combinadas": []
+  }
+ ],
+ "regiones": [],
+ "texto_completo": "Buenas, soy Ricardo Herrera Palacios, DNI 99912224. En Banco Andino DEMO S.A. pedi mi tarjeta hace semanas y nadie me la entrega. Fueron S/ 1,170.00 en mi tarjeta de debito. Ya fui a la agencia y nada, xfa ayuda. Mi cel es 999 000 463.\nBanco Andino DEMO S.A.\nEstado de cuenta - tarjeta de debito\nCliente: Ricardo Herrera Palacios   DNI 99912224\nFecha\nDescripcion\nImporte\n03/05/2026\nRetiro cajero\n225.00\n30/04/2026\nRetiro cajero\n205.00\n27/04/2026\nRetiro cajero\n47.00\n04/05/2026\nCargo reclamado (demora en entrega)\n1,170.00\n24/04/2026\nInteres\n211.00",
+ "degradacion": {
+  "rotacion": 0,
+  "dpi": null,
+  "ruido": "ninguno"
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

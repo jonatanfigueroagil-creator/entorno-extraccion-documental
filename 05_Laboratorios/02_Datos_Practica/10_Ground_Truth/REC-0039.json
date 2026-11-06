@@ -1,0 +1,70 @@
+{
+ "doc_id": "REC-0039",
+ "tipo": "reclamo",
+ "formato": "eml",
+ "campos": {
+  "numero_reclamo": "R-2026-756283",
+  "fecha": "2026-05-31",
+  "nombre": "Elena Herrera Huaman",
+  "dni": "99689662",
+  "entidad": "Banco del Sur Austral DEMO S.A.",
+  "producto": "prestamo personal",
+  "motivo": "cobro indebido",
+  "monto_reclamado": 1886.0,
+  "telefono": "999 000 769",
+  "correo": "elena.herrera94@ejemplo.pe",
+  "monto_en_texto": true,
+  "canal": "correo",
+  "adjunto": {
+   "nombre": "adjunto_REC-0039.pdf",
+   "tipo": "pdf"
+  }
+ },
+ "tablas": [
+  {
+   "nombre": "movimientos_adjunto",
+   "encabezados": [
+    "Fecha",
+    "Descripcion",
+    "Importe"
+   ],
+   "filas": [
+    [
+     "31/05/2026",
+     "Cargo reclamado (cobro indebido)",
+     "1,886.00"
+    ],
+    [
+     "30/05/2026",
+     "Retiro cajero",
+     "246.00"
+    ],
+    [
+     "27/05/2026",
+     "Pago servicio",
+     "260.00"
+    ],
+    [
+     "24/05/2026",
+     "Interes",
+     "289.00"
+    ],
+    [
+     "21/05/2026",
+     "Retiro cajero",
+     "52.00"
+    ]
+   ],
+   "celdas_combinadas": []
+  }
+ ],
+ "regiones": [],
+ "texto_completo": "Hola, escribo xq me cobraron una comision que nunca autorice (mi prestamo personal). El monto es mil ochocientos ochenta y seis soles, el dia 31/05. Me atendieron mal y no me dan solucion. Elena Herrera Huaman, DNI 99689662, correo elena.herrera94@ejemplo.pe.\nBanco del Sur Austral DEMO S.A.\nEstado de cuenta - prestamo personal\nCliente: Elena Herrera Huaman   DNI 99689662\nFecha\nDescripcion\nImporte\n31/05/2026\nCargo reclamado (cobro indebido)\n1,886.00\n30/05/2026\nRetiro cajero\n246.00\n27/05/2026\nPago servicio\n260.00\n24/05/2026\nInteres\n289.00\n21/05/2026\nRetiro cajero\n52.00",
+ "degradacion": {
+  "rotacion": 0,
+  "dpi": null,
+  "ruido": "ninguno"
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

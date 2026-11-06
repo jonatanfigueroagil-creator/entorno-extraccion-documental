@@ -1,0 +1,17 @@
+{
+ "id": "REC-0009",
+ "archivo": "adjunto_REC-0009.jpg",
+ "ruta": "06_Reclamos/REC-0009.eml#adjunto_REC-0009.jpg",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "crudo",
+ "psm": 3,
+ "inclinacion": 0.0,
+ "texto": "Financiera Altiplano DEMO S.A.\nEstado de cuenta - tarjeta de debito\nCliente: Miguel Palacios Delgado DNI 99192247\nFecha Descripcion Importe\n31/05/2026 Interes 44.00\n28/05/2026 Retiro cajero 47.00\n25/05/2026 Pago servicio. 173.00\n01/06/2026 Cargo reclamado (cobro indebido) 1,744.00 |\n22/05/2026 Pago servicio 294.00",
+ "confianza": 0.9393,
+ "score": 0.97,
+ "invalidos": 0,
+ "decision": "aceptar",
+ "segundos": 0.2,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

@@ -1,0 +1,112 @@
+{
+ "doc_id": "TAR-0008",
+ "tipo": "tarifario",
+ "formato": "html",
+ "campos": {
+  "entidad": "Banco del Sur Austral DEMO S.A.",
+  "ruc": "20993132544",
+  "vigencia": "2026-08-24",
+  "n_productos": 4
+ },
+ "tablas": [
+  {
+   "nombre": "tasas_por_tramo",
+   "encabezados": [
+    "Producto",
+    "Moneda",
+    "Tramo",
+    "TEA",
+    "Comision mensual"
+   ],
+   "filas": [
+    [
+     "Deposito a plazo",
+     "PEN",
+     "hasta S/ 5,000",
+     "29.90",
+     "S/ 6.00"
+    ],
+    [
+     "Deposito a plazo",
+     "PEN",
+     "S/ 5,001 a S/ 20,000",
+     "31.57",
+     "S/ 6.00"
+    ],
+    [
+     "Deposito a plazo",
+     "PEN",
+     "mas de S/ 20,000",
+     "34.71",
+     "S/ 6.00"
+    ],
+    [
+     "Cuenta de ahorros",
+     "USD",
+     "hasta S/ 5,000",
+     "22.44",
+     "S/ 9.00"
+    ],
+    [
+     "Cuenta de ahorros",
+     "USD",
+     "S/ 5,001 a S/ 20,000",
+     "24.54",
+     "S/ 9.00"
+    ],
+    [
+     "Cuenta de ahorros",
+     "USD",
+     "mas de S/ 20,000",
+     "27.77",
+     "S/ 9.00"
+    ],
+    [
+     "Tarjeta de credito",
+     "USD",
+     "hasta S/ 5,000",
+     "16.25",
+     "S/ 7.00"
+    ],
+    [
+     "Tarjeta de credito",
+     "USD",
+     "S/ 5,001 a S/ 20,000",
+     "19.21",
+     "S/ 7.00"
+    ],
+    [
+     "Tarjeta de credito",
+     "USD",
+     "mas de S/ 20,000",
+     "21.01",
+     "S/ 7.00"
+    ],
+    [
+     "Credito vehicular",
+     "PEN",
+     "hasta S/ 5,000",
+     "16.85",
+     "S/ 1.00"
+    ],
+    [
+     "Credito vehicular",
+     "PEN",
+     "S/ 5,001 a S/ 20,000",
+     "18.01",
+     "S/ 1.00"
+    ]
+   ],
+   "celdas_combinadas": [],
+   "anidada": true
+  }
+ ],
+ "regiones": [],
+ "texto_completo": "Banco del Sur Austral DEMO S.A.\nRUC 20993132544\nVigente desde 24/08/2026\nDeposito a plazo | PEN | hasta S/ 5,000 | 29.90 | S/ 6.00\nDeposito a plazo | PEN | S/ 5,001 a S/ 20,000 | 31.57 | S/ 6.00\nDeposito a plazo | PEN | mas de S/ 20,000 | 34.71 | S/ 6.00\nCuenta de ahorros | USD | hasta S/ 5,000 | 22.44 | S/ 9.00\nCuenta de ahorros | USD | S/ 5,001 a S/ 20,000 | 24.54 | S/ 9.00\nCuenta de ahorros | USD | mas de S/ 20,000 | 27.77 | S/ 9.00\nTarjeta de credito | USD | hasta S/ 5,000 | 16.25 | S/ 7.00\nTarjeta de credito | USD | S/ 5,001 a S/ 20,000 | 19.21 | S/ 7.00\nTarjeta de credito | USD | mas de S/ 20,000 | 21.01 | S/ 7.00\nCredito vehicular | PEN | hasta S/ 5,000 | 16.85 | S/ 1.00\nCredito vehicular | PEN | S/ 5,001 a S/ 20,000 | 18.01 | S/ 1.00",
+ "degradacion": {
+  "rotacion": 0,
+  "dpi": null,
+  "ruido": "ninguno"
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)"
+}

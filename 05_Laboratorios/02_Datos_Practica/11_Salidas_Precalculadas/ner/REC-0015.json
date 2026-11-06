@@ -1,0 +1,40 @@
+{
+ "id": "REC-0015",
+ "modelo": "Davlan/xlm-roberta-base-ner-hrl",
+ "revision": null,
+ "version_transformers": "5.22.1",
+ "version_torch": "2.15.0+cu132",
+ "dispositivo": "cuda (NVIDIA GeForce RTX 5070)",
+ "agregacion": "simple",
+ "texto": "remitente + cuerpo del correo + texto del OCR del adjunto (ocr_s04)",
+ "entidades": [
+  {
+   "texto": "Financiera Altiplano DEMO S.A.",
+   "etiqueta": "ORG",
+   "score": 0.9574,
+   "inicio": 43,
+   "fin": 73
+  },
+  {
+   "texto": "Victor Caceres Mendoza",
+   "etiqueta": "PER",
+   "score": 0.9997,
+   "inicio": 246,
+   "fin": 268
+  },
+  {
+   "texto": "Financiera Altiplano DEMO S.A.",
+   "etiqueta": "ORG",
+   "score": 0.9909,
+   "inicio": 303,
+   "fin": 333
+  },
+  {
+   "texto": "Victor Caceres Mendoza",
+   "etiqueta": "PER",
+   "score": 0.9996,
+   "inicio": 380,
+   "fin": 402
+  }
+ ]
+}

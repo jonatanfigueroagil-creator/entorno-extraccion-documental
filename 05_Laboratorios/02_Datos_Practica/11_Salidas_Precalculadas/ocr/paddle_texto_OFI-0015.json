@@ -1,0 +1,326 @@
+{
+ "doc_id": "OFI-0015",
+ "motor": "PaddleOCR texto (PP-OCRv5 mobile)",
+ "paddleocr": "3.7.0",
+ "paddlepaddle": "3.3.1",
+ "dispositivo": "cpu",
+ "python": "3.13.14",
+ "procesador": "Intel64 Family 6 Model 151 Stepping 2, GenuineIntel",
+ "hilos": 24,
+ "segundos_carga_modelo": 8.2,
+ "segundos_prediccion": 21.7,
+ "entrada": "página 1, 300 dpi, enderezada, sin binarizar",
+ "texto": "AUTORIDAD SUPERVISORA DEMO\nIntendencia DEMO de Riesgos Operacionales\nDocumento ficticio con fines de capacitacion\nOFICIO N° 0199-2026-ID/DSF\nLima, 25 de enero de 2026\nSenores\nBanco del Sur Austral DEMO S.A.\nRUC 20993132544\nPresente.-\nAsunto:\nRequerimiento de informacion sobre la cartera de creditos al 30 de junio de 2026\nReferencia: Carta N° 105-2026 de Banco del Sur Austral DEMO S.A.\nMediante el presente se requiere a su representada remitir la informacion detallada a continuacion, en el\nmarco de las labores de supervision del periodo en curso.\nNo\nInformacion solicitada\n1\nDetalle de comisiones cobradas\n2\nPolitica interna aprobada y su fecha de vigencia\n3\nRelacion de operaciones vigentes con saldo y estado\nLa informacion debera ser presentada en un plazo de quince (15) dias habiles contados desde la\nrecepcion del presente oficio, en formato digital y firmada por el responsable. El incumplimiento sera\nevaluado conforme a los procedimientos internos aplicables.\nMESA DE PARTES\nAtentamente,\nDEMO\nRECIBIDO\nMiguel Nunez Soto\nIntendente DEMO Adjunto",
+ "lineas": [
+  {
+   "texto": "AUTORIDAD SUPERVISORA DEMO",
+   "confianza": 0.9992,
+   "caja": [
+    744,
+    217,
+    1733,
+    286
+   ]
+  },
+  {
+   "texto": "Intendencia DEMO de Riesgos Operacionales",
+   "confianza": 0.9962,
+   "caja": [
+    734,
+    303,
+    1737,
+    365
+   ]
+  },
+  {
+   "texto": "Documento ficticio con fines de capacitacion",
+   "confianza": 0.9926,
+   "caja": [
+    896,
+    379,
+    1570,
+    428
+   ]
+  },
+  {
+   "texto": "OFICIO N° 0199-2026-ID/DSF",
+   "confianza": 0.9937,
+   "caja": [
+    245,
+    544,
+    872,
+    602
+   ]
+  },
+  {
+   "texto": "Lima, 25 de enero de 2026",
+   "confianza": 0.987,
+   "caja": [
+    242,
+    625,
+    755,
+    678
+   ]
+  },
+  {
+   "texto": "Senores",
+   "confianza": 0.9999,
+   "caja": [
+    240,
+    739,
+    413,
+    798
+   ]
+  },
+  {
+   "texto": "Banco del Sur Austral DEMO S.A.",
+   "confianza": 0.9842,
+   "caja": [
+    243,
+    798,
+    914,
+    853
+   ]
+  },
+  {
+   "texto": "RUC 20993132544",
+   "confianza": 0.9831,
+   "caja": [
+    245,
+    858,
+    615,
+    908
+   ]
+  },
+  {
+   "texto": "Presente.-",
+   "confianza": 0.9998,
+   "caja": [
+    242,
+    913,
+    448,
+    972
+   ]
+  },
+  {
+   "texto": "Asunto:",
+   "confianza": 0.9999,
+   "caja": [
+    243,
+    1025,
+    422,
+    1081
+   ]
+  },
+  {
+   "texto": "Requerimiento de informacion sobre la cartera de creditos al 30 de junio de 2026",
+   "confianza": 0.9935,
+   "caja": [
+    492,
+    1023,
+    1997,
+    1081
+   ]
+  },
+  {
+   "texto": "Referencia: Carta N° 105-2026 de Banco del Sur Austral DEMO S.A.",
+   "confianza": 0.9857,
+   "caja": [
+    245,
+    1098,
+    1553,
+    1154
+   ]
+  },
+  {
+   "texto": "Mediante el presente se requiere a su representada remitir la informacion detallada a continuacion, en el",
+   "confianza": 0.9951,
+   "caja": [
+    243,
+    1198,
+    2186,
+    1255
+   ]
+  },
+  {
+   "texto": "marco de las labores de supervision del periodo en curso.",
+   "confianza": 0.9872,
+   "caja": [
+    243,
+    1261,
+    1319,
+    1313
+   ]
+  },
+  {
+   "texto": "No",
+   "confianza": 0.7993,
+   "caja": [
+    286,
+    1376,
+    402,
+    1454
+   ]
+  },
+  {
+   "texto": "Informacion solicitada",
+   "confianza": 0.9989,
+   "caja": [
+    428,
+    1391,
+    800,
+    1443
+   ]
+  },
+  {
+   "texto": "1",
+   "confianza": 0.9655,
+   "caja": [
+    295,
+    1459,
+    343,
+    1513
+   ]
+  },
+  {
+   "texto": "Detalle de comisiones cobradas",
+   "confianza": 0.9857,
+   "caja": [
+    427,
+    1456,
+    968,
+    1510
+   ]
+  },
+  {
+   "texto": "2",
+   "confianza": 0.9998,
+   "caja": [
+    295,
+    1529,
+    336,
+    1577
+   ]
+  },
+  {
+   "texto": "Politica interna aprobada y su fecha de vigencia",
+   "confianza": 0.9994,
+   "caja": [
+    428,
+    1527,
+    1231,
+    1577
+   ]
+  },
+  {
+   "texto": "3",
+   "confianza": 0.9993,
+   "caja": [
+    297,
+    1596,
+    340,
+    1643
+   ]
+  },
+  {
+   "texto": "Relacion de operaciones vigentes con saldo y estado",
+   "confianza": 0.9904,
+   "caja": [
+    420,
+    1590,
+    1322,
+    1643
+   ]
+  },
+  {
+   "texto": "La informacion debera ser presentada en un plazo de quince (15) dias habiles contados desde la",
+   "confianza": 0.9984,
+   "caja": [
+    242,
+    1673,
+    2047,
+    1730
+   ]
+  },
+  {
+   "texto": "recepcion del presente oficio, en formato digital y firmada por el responsable. El incumplimiento sera",
+   "confianza": 0.9979,
+   "caja": [
+    242,
+    1734,
+    2106,
+    1789
+   ]
+  },
+  {
+   "texto": "evaluado conforme a los procedimientos internos aplicables.",
+   "confianza": 0.982,
+   "caja": [
+    245,
+    1795,
+    1366,
+    1845
+   ]
+  },
+  {
+   "texto": "MESA DE PARTES",
+   "confianza": 0.9959,
+   "caja": [
+    745,
+    1850,
+    1045,
+    1900
+   ]
+  },
+  {
+   "texto": "Atentamente,",
+   "confianza": 0.9982,
+   "caja": [
+    246,
+    1889,
+    502,
+    1948
+   ]
+  },
+  {
+   "texto": "DEMO",
+   "confianza": 0.9998,
+   "caja": [
+    769,
+    1919,
+    1027,
+    2007
+   ]
+  },
+  {
+   "texto": "RECIBIDO",
+   "confianza": 0.9986,
+   "caja": [
+    811,
+    2040,
+    982,
+    2087
+   ]
+  },
+  {
+   "texto": "Miguel Nunez Soto",
+   "confianza": 0.9912,
+   "caja": [
+    287,
+    2168,
+    632,
+    2220
+   ]
+  },
+  {
+   "texto": "Intendente DEMO Adjunto",
+   "confianza": 0.9983,
+   "caja": [
+    290,
+    2221,
+    730,
+    2271
+   ]
+  }
+ ]
+}

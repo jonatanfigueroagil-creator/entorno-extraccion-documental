@@ -1,0 +1,70 @@
+{
+ "doc_id": "REC-0001",
+ "tipo": "reclamo",
+ "formato": "eml",
+ "campos": {
+  "numero_reclamo": "R-2026-139576",
+  "fecha": "2026-09-10",
+  "nombre": "Jorge Fuentes Bravo",
+  "dni": "99929470",
+  "entidad": "Banco Cordillera DEMO S.A.",
+  "producto": "prestamo personal",
+  "motivo": "demora en entrega",
+  "monto_reclamado": 2643.0,
+  "telefono": "999 000 680",
+  "correo": "jorge.fuentes6@ejemplo.pe",
+  "monto_en_texto": true,
+  "canal": "correo",
+  "adjunto": {
+   "nombre": "adjunto_REC-0001.jpg",
+   "tipo": "imagen"
+  }
+ },
+ "tablas": [
+  {
+   "nombre": "movimientos_adjunto",
+   "encabezados": [
+    "Fecha",
+    "Descripcion",
+    "Importe"
+   ],
+   "filas": [
+    [
+     "09/09/2026",
+     "Interes",
+     "226.00"
+    ],
+    [
+     "06/09/2026",
+     "Interes",
+     "29.00"
+    ],
+    [
+     "10/09/2026",
+     "Cargo reclamado (demora en entrega)",
+     "2,643.00"
+    ],
+    [
+     "03/09/2026",
+     "Interes",
+     "290.00"
+    ],
+    [
+     "31/08/2026",
+     "Pago servicio",
+     "107.00"
+    ]
+   ],
+   "celdas_combinadas": []
+  }
+ ],
+ "regiones": [],
+ "texto_completo": "Buenas, soy Jorge Fuentes Bravo, DNI 99929470. En Banco Cordillera DEMO S.A. pedi mi tarjeta hace semanas y nadie me la entrega. Fueron dos mil seiscientos cuarenta y tres soles en mi prestamo personal. Ya fui a la agencia y nada, xfa ayuda. Mi cel es 999 000 680.\nBanco Cordillera DEMO S.A.\nEstado de cuenta - prestamo personal\nCliente: Jorge Fuentes Bravo   DNI 99929470\nFecha\nDescripcion\nImporte\n09/09/2026\nInteres\n226.00\n06/09/2026\nInteres\n29.00\n10/09/2026\nCargo reclamado (demora en entrega)\n2,643.00\n03/09/2026\nInteres\n290.00\n31/08/2026\nPago servicio\n107.00",
+ "degradacion": {
+  "rotacion": 0,
+  "dpi": null,
+  "ruido": "gaussiano"
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

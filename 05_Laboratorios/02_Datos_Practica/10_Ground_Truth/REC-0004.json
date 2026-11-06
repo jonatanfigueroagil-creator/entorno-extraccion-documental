@@ -1,0 +1,70 @@
+{
+ "doc_id": "REC-0004",
+ "tipo": "reclamo",
+ "formato": "eml",
+ "campos": {
+  "numero_reclamo": "R-2026-106293",
+  "fecha": "2026-05-29",
+  "nombre": "Marta Chavez Paredes",
+  "dni": "99596435",
+  "entidad": "Edpyme Sol Naciente DEMO S.A.",
+  "producto": "prestamo personal",
+  "motivo": "cargo duplicado",
+  "monto_reclamado": 548.0,
+  "telefono": "999 000 991",
+  "correo": "marta.chavez63@ejemplo.pe",
+  "monto_en_texto": true,
+  "canal": "correo",
+  "adjunto": {
+   "nombre": "adjunto_REC-0004.jpg",
+   "tipo": "imagen"
+  }
+ },
+ "tablas": [
+  {
+   "nombre": "movimientos_adjunto",
+   "encabezados": [
+    "Fecha",
+    "Descripcion",
+    "Importe"
+   ],
+   "filas": [
+    [
+     "29/05/2026",
+     "Cargo reclamado (cargo duplicado)",
+     "548.00"
+    ],
+    [
+     "28/05/2026",
+     "Retiro cajero",
+     "21.00"
+    ],
+    [
+     "25/05/2026",
+     "Compra comercio DEMO",
+     "94.00"
+    ],
+    [
+     "22/05/2026",
+     "Retiro cajero",
+     "166.00"
+    ],
+    [
+     "19/05/2026",
+     "Retiro cajero",
+     "253.00"
+    ]
+   ],
+   "celdas_combinadas": []
+  }
+ ],
+ "regiones": [],
+ "texto_completo": "Buenas, soy Marta Chavez Paredes, DNI 99596435. En Edpyme Sol Naciente DEMO S.A. me descontaron dos veces la misma cuota. Fueron quinientos cuarenta y ocho soles en mi prestamo personal. Ya fui a la agencia y nada, xfa ayuda. Mi cel es 999 000 991.\nEdpyme Sol Naciente DEMO S.A.\nEstado de cuenta - prestamo personal\nCliente: Marta Chavez Paredes   DNI 99596435\nFecha\nDescripcion\nImporte\n29/05/2026\nCargo reclamado (cargo duplicado)\n548.00\n28/05/2026\nRetiro cajero\n21.00\n25/05/2026\nCompra comercio DEMO\n94.00\n22/05/2026\nRetiro cajero\n166.00\n19/05/2026\nRetiro cajero\n253.00",
+ "degradacion": {
+  "rotacion": 0,
+  "dpi": null,
+  "ruido": "gaussiano"
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

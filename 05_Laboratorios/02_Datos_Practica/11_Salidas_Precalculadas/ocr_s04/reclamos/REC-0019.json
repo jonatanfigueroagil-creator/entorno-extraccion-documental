@@ -1,0 +1,17 @@
+{
+ "id": "REC-0019",
+ "archivo": "adjunto_REC-0019.jpg",
+ "ruta": "06_Reclamos/REC-0019.eml#adjunto_REC-0019.jpg",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "crudo",
+ "psm": 3,
+ "inclinacion": 0.0,
+ "texto": "Banco del Sur Austral DEMO S.A.\nEstado de cuenta - tarjeta de credito\nCliente: Julia Salazar Soto. DNI 99466216\nFecha Descripcion Importe\n19/04/2026 Cargo reclamado (cargo duplicado) 503.00\n18/04/2026 Retiro cajero 296.00\n15/04/2026 Pago servicio 88.00\n12/04/2026 Retiro cajero 16.00\n09/04/2026 Compra comercio DEMO 24.00",
+ "confianza": 0.9096,
+ "score": 0.955,
+ "invalidos": 0,
+ "decision": "aceptar",
+ "segundos": 0.2,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

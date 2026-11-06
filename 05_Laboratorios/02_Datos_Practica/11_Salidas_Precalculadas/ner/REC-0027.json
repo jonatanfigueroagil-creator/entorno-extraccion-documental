@@ -1,0 +1,33 @@
+{
+ "id": "REC-0027",
+ "modelo": "Davlan/xlm-roberta-base-ner-hrl",
+ "revision": null,
+ "version_transformers": "5.22.1",
+ "version_torch": "2.15.0+cu132",
+ "dispositivo": "cuda (NVIDIA GeForce RTX 5070)",
+ "agregacion": "simple",
+ "texto": "remitente + cuerpo del correo + texto del OCR del adjunto (ocr_s04)",
+ "entidades": [
+  {
+   "texto": "Andres Soto Herrera",
+   "etiqueta": "PER",
+   "score": 0.9994,
+   "inicio": 211,
+   "fin": 230
+  },
+  {
+   "texto": "Banco Andino DEMO S.A",
+   "etiqueta": "ORG",
+   "score": 0.9851,
+   "inicio": 279,
+   "fin": 300
+  },
+  {
+   "texto": "Andres Soto Herrera",
+   "etiqueta": "PER",
+   "score": 0.9996,
+   "inicio": 348,
+   "fin": 367
+  }
+ ]
+}

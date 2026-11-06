@@ -1,0 +1,62 @@
+{
+ "doc_id": "OFI-0037",
+ "tipo": "oficio",
+ "formato": "pdf_escaneado",
+ "campos": {
+  "numero_oficio": "0815-2026-ID/DSF",
+  "fecha": "2026-01-07",
+  "entidad": "Banco Costa Norte DEMO S.A.",
+  "ruc": "20991892070",
+  "asunto": "Solicitud de plan de accion para el cierre de observaciones de la visita de inspeccion",
+  "referencia": "Carta N° 233-2026 de Banco Costa Norte DEMO S.A.",
+  "plazo_dias": 5,
+  "emisor": "Intendencia DEMO de Supervision Financiera",
+  "firmante": "Hugo Herrera Guerra",
+  "cargo": "Jefe de Equipo DEMO"
+ },
+ "tablas": [],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    177,
+    1093,
+    534,
+    1214
+   ],
+   "unidad": "px",
+   "dpi": 200,
+   "ancho_px": 1654,
+   "alto_px": 2339
+  },
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    468,
+    949,
+    732,
+    1213
+   ],
+   "unidad": "px",
+   "dpi": 200,
+   "ancho_px": 1654,
+   "alto_px": 2339
+  }
+ ],
+ "texto_completo": "AUTORIDAD SUPERVISORA DEMO\nIntendencia DEMO de Supervision Financiera\nDocumento ficticio con fines de capacitacion\nOFICIO N° 0815-2026-ID/DSF\nLima, 7 de enero de 2026\nSenores\nBanco Costa Norte DEMO S.A.\nRUC 20991892070\nPresente.-\nAsunto:\nSolicitud de plan de accion para el cierre de observaciones de la visita de inspeccion\nReferencia:\nCarta N° 233-2026 de Banco Costa Norte DEMO S.A.\nMediante el presente se requiere a su representada remitir la informacion detallada a continuacion, en el\nmarco de las labores de supervision del periodo en curso.\nLa informacion debera ser presentada en un plazo de cinco (5) dias habiles contados desde la recepcion\ndel presente oficio, en formato digital y firmada por el responsable. El incumplimiento sera evaluado\nconforme a los procedimientos internos aplicables.\nAtentamente,\nHugo Herrera Guerra\nJefe de Equipo DEMO",
+ "degradacion": {
+  "rotacion": -2.03,
+  "ruido": "gaussiano",
+  "ruido_sigma": 8.5,
+  "desenfoque_sigma": 0.0,
+  "sombra": "der",
+  "perspectiva": false,
+  "jpeg_calidad": 80,
+  "dpi": 200,
+  "paginas": 1
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

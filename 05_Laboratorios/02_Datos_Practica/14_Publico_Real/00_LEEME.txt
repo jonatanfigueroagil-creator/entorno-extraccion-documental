@@ -1,0 +1,23 @@
+LOTE PÚBLICO REAL (documentos de terceros)
+==========================================
+
+Esta carpeta reúne documentos públicos reales de la Superintendencia del Mercado de Valores (SMV), obtenidos de su
+portal público. Se usan solo para practicar con documentos reales, con la autorización de la SBS para el uso de sus
+datos públicos. Los documentos se entregan tal como se descargaron: no se modifican, no se renombran y no se
+redistribuyen fuera del curso. Los derechos de cada documento pertenecen a la entidad que lo presentó y a la SMV.
+
+QUÉ CONTIENE
+  01_Dividendos/   Política de dividendos: 10 documentos; escaneados (sin capa de texto): DIV-0006, DIV-0007
+  02_Memorias/   Memoria anual 2024: 4 documentos
+  00_FICHAS.json   Una ficha por documento: fuente, enlace público (url_documento), empresa, fecha de presentación,
+                   fecha de descarga, huella SHA-256 y si es escaneado.
+
+CÓMO SE USA
+  - El lote no trae respuestas esperadas: el CER solo se mide donde existe una referencia. En las memorias, la
+    referencia es la capa de texto del PDF. Para el resto se usan el puntaje de calidad, los validadores y la
+    comparación con la ficha de cada documento.
+  - Solo se tratan personas jurídicas (empresas). Si un documento nombra a personas naturales, el participante no las
+    muestra, no las copia a sus resultados y no las envía a ningún servicio.
+  - Los documentos no se suben a servicios de IA en la nube. Todo se procesa en la máquina virtual del curso.
+  - Cada documento se cita por su identificador (por ejemplo DIV-0006) y se compara con su ficha.
+

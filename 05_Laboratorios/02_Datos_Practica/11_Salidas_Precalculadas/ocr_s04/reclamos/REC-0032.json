@@ -1,0 +1,17 @@
+{
+ "id": "REC-0032",
+ "archivo": "adjunto_REC-0032.jpg",
+ "ruta": "06_Reclamos/REC-0032.eml#adjunto_REC-0032.jpg",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "crudo",
+ "psm": 3,
+ "inclinacion": 0.0,
+ "texto": "Banco Andino DEMO S.A.\nEstado de cuenta - prestamo personal\nCliente: Mario Herrera Ponce DNI 99289344\nFecha\nDescripcion Importe\n30/08/2026 Interes 281.00\n31/08/2026 Cargo reclamado (cargo duplicado) 489.00\n27/08/2026 Interes 170.00\n24/08/2026 Compra comercio DEMO 250.00\n21/08/2026\nRetiro cajero\n90.00",
+ "confianza": 0.931,
+ "score": 0.966,
+ "invalidos": 0,
+ "decision": "aceptar",
+ "segundos": 0.2,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

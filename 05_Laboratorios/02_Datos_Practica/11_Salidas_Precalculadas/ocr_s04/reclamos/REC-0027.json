@@ -1,0 +1,17 @@
+{
+ "id": "REC-0027",
+ "archivo": "adjunto_REC-0027.jpg",
+ "ruta": "06_Reclamos/REC-0027.eml#adjunto_REC-0027.jpg",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "crudo",
+ "psm": 3,
+ "inclinacion": 0.0,
+ "texto": "Banco Andino DEMO S.A.\nEstado de cuenta - prestamo personal\nCliente: Andres Soto Herrera DNI 99200228\nFecha Descripcion Importe\n06/02/2026 Interes 250.00\nRetiro cajero 101.00\n07/02/2026 Cargo reclamado (cobro indebido) 2,099.00\nCompra comercio DEMO. 235.00\n31/01/2026\nCompra comercio DEMO\n28/01/2026",
+ "confianza": 0.9067,
+ "score": 0.953,
+ "invalidos": 0,
+ "decision": "aceptar",
+ "segundos": 0.2,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

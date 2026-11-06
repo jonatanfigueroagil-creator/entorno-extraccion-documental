@@ -1,0 +1,17 @@
+{
+ "id": "REC-0044",
+ "archivo": "adjunto_REC-0044.pdf",
+ "ruta": "06_Reclamos/REC-0044.eml#adjunto_REC-0044.pdf",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "crudo",
+ "psm": 3,
+ "inclinacion": 0.0,
+ "texto": "Caja Rural Valle Verde DEMO S.A.\nEstado de cuenta - cuenta de ahorros\nCliente: Teresa Ponce Benavides DNI 99345782\nFecha Descripcion Importe\n16/08/2026 Cargo reclamado (cuenta cerrada) 2,453.00\n15/08/2026 Retiro cajero 143.00\n12/08/2026 Compra comercio DEMO 46.00\n09/08/2026 Retiro cajero 111.00\n06/08/2026 Retiro cajero 40.00",
+ "confianza": 0.9549,
+ "score": 0.977,
+ "invalidos": 0,
+ "decision": "aceptar",
+ "segundos": 0.3,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

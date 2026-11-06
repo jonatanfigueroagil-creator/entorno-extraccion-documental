@@ -1,0 +1,17 @@
+{
+ "id": "REC-0033",
+ "archivo": "adjunto_REC-0033.jpg",
+ "ruta": "06_Reclamos/REC-0033.eml#adjunto_REC-0033.jpg",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "crudo",
+ "psm": 3,
+ "inclinacion": 0.0,
+ "texto": "Banco Costa Norte DEMO S.A.\nEstado de cuenta - tarjeta de credito\nCliente: Teresa Caceres Benavides DNI 99178883\nFecha Descripcion Importe\n23/03/2026 Cargo reclamado (cobro indebido) 2,775.00\n22/03/2026 Pago servicio 33.00\n19/03/2026 Retiro cajero 73.00\n16/03/2026 Compra comercio DEMO 213.00\n13/03/2026 Interes 190.00",
+ "confianza": 0.9067,
+ "score": 0.953,
+ "invalidos": 0,
+ "decision": "aceptar",
+ "segundos": 0.2,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

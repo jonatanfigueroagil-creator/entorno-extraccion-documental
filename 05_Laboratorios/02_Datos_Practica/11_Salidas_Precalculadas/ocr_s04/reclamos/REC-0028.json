@@ -1,0 +1,17 @@
+{
+ "id": "REC-0028",
+ "archivo": "adjunto_REC-0028.pdf",
+ "ruta": "06_Reclamos/REC-0028.eml#adjunto_REC-0028.pdf",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "crudo",
+ "psm": 3,
+ "inclinacion": 0.0,
+ "texto": "Financiera Altiplano DEMO S.A.\nEstado de cuenta - prestamo personal\nCliente: Jorge Chavez Mamani\nDNI 99262308\nFecha Descripcion Importe\n25/04/2026 Interes 82.00\n22/04/2026 Pago servicio 34.00\n26/04/2026 Cargo reclamado (cargo duplicado) 1,310.00\n19/04/2026 Interes 258.00\n16/04/2026 Pago servicio 207.00",
+ "confianza": 0.9544,
+ "score": 0.977,
+ "invalidos": 0,
+ "decision": "aceptar",
+ "segundos": 0.29,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

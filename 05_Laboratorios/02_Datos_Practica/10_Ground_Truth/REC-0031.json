@@ -1,0 +1,70 @@
+{
+ "doc_id": "REC-0031",
+ "tipo": "reclamo",
+ "formato": "eml",
+ "campos": {
+  "numero_reclamo": "R-2026-414072",
+  "fecha": "2026-04-10",
+  "nombre": "Oscar Zevallos Mamani",
+  "dni": "99329218",
+  "entidad": "Caja Rural Valle Verde DEMO S.A.",
+  "producto": "tarjeta de debito",
+  "motivo": "demora en entrega",
+  "monto_reclamado": 542.0,
+  "telefono": "999 000 639",
+  "correo": "oscar.zevallos59@ejemplo.pe",
+  "monto_en_texto": true,
+  "canal": "correo",
+  "adjunto": {
+   "nombre": "adjunto_REC-0031.pdf",
+   "tipo": "pdf"
+  }
+ },
+ "tablas": [
+  {
+   "nombre": "movimientos_adjunto",
+   "encabezados": [
+    "Fecha",
+    "Descripcion",
+    "Importe"
+   ],
+   "filas": [
+    [
+     "10/04/2026",
+     "Cargo reclamado (demora en entrega)",
+     "542.00"
+    ],
+    [
+     "09/04/2026",
+     "Retiro cajero",
+     "119.00"
+    ],
+    [
+     "06/04/2026",
+     "Compra comercio DEMO",
+     "93.00"
+    ],
+    [
+     "03/04/2026",
+     "Retiro cajero",
+     "86.00"
+    ],
+    [
+     "31/03/2026",
+     "Pago servicio",
+     "193.00"
+    ]
+   ],
+   "celdas_combinadas": []
+  }
+ ],
+ "regiones": [],
+ "texto_completo": "Buenas, soy Oscar Zevallos Mamani, DNI 99329218. En Caja Rural Valle Verde DEMO S.A. pedi mi tarjeta hace semanas y nadie me la entrega. Fueron quinientos cuarenta y dos soles en mi tarjeta de debito. Ya fui a la agencia y nada, xfa ayuda. Mi cel es 999 000 639.\nCaja Rural Valle Verde DEMO S.A.\nEstado de cuenta - tarjeta de debito\nCliente: Oscar Zevallos Mamani   DNI 99329218\nFecha\nDescripcion\nImporte\n10/04/2026\nCargo reclamado (demora en entrega)\n542.00\n09/04/2026\nRetiro cajero\n119.00\n06/04/2026\nCompra comercio DEMO\n93.00\n03/04/2026\nRetiro cajero\n86.00\n31/03/2026\nPago servicio\n193.00",
+ "degradacion": {
+  "rotacion": 0,
+  "dpi": null,
+  "ruido": "ninguno"
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

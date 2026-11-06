@@ -1,0 +1,40 @@
+{
+ "id": "REC-0010",
+ "modelo": "Davlan/xlm-roberta-base-ner-hrl",
+ "revision": null,
+ "version_transformers": "5.22.1",
+ "version_torch": "2.15.0+cu132",
+ "dispositivo": "cuda (NVIDIA GeForce RTX 5070)",
+ "agregacion": "simple",
+ "texto": "remitente + cuerpo del correo + texto del OCR del adjunto (ocr_s04)",
+ "entidades": [
+  {
+   "texto": "Sofia Mendoza Lazo",
+   "etiqueta": "PER",
+   "score": 0.9998,
+   "inicio": 42,
+   "fin": 60
+  },
+  {
+   "texto": "Ed",
+   "etiqueta": "ORG",
+   "score": 0.5693,
+   "inicio": 217,
+   "fin": 219
+  },
+  {
+   "texto": "Naciente DEMO S.A.",
+   "etiqueta": "ORG",
+   "score": 0.8431,
+   "inicio": 228,
+   "fin": 246
+  },
+  {
+   "texto": "Sofia Mendoza Lazo",
+   "etiqueta": "PER",
+   "score": 0.9997,
+   "inicio": 289,
+   "fin": 307
+  }
+ ]
+}

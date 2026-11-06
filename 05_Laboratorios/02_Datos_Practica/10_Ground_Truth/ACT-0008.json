@@ -1,0 +1,227 @@
+{
+ "doc_id": "ACT-0008",
+ "tipo": "acta",
+ "formato": "pdf_nativo",
+ "campos": {
+  "numero_acta": "21-2026",
+  "fecha": "2026-05-21",
+  "entidad": "Caja de Ahorro Estrella del Norte DEMO S.A.",
+  "ruc": "20991639994",
+  "organo": "Directorio",
+  "tipo_sesion": "extraordinaria",
+  "hora_inicio": "17:45",
+  "hora_fin": "21:00",
+  "quorum": "5 de 7",
+  "quorum_asistentes": 5,
+  "quorum_total": 7,
+  "presidente": "Joaquín Martínez Aguirre",
+  "secretario": "Andrés Cáceres Oré",
+  "n_acuerdos": 10,
+  "n_paginas": 8
+ },
+ "tablas": [
+  {
+   "nombre": "asistencia",
+   "encabezados": [
+    "N°",
+    "Nombre",
+    "Cargo",
+    "Asistencia"
+   ],
+   "filas": [
+    [
+     "1",
+     "Joaquín Martínez Aguirre",
+     "Presidente del Directorio",
+     "Presente"
+    ],
+    [
+     "2",
+     "Iván Domínguez Fernández",
+     "Vicepresidente",
+     "Presente (virtual)"
+    ],
+    [
+     "3",
+     "Andrés Cáceres Oré",
+     "Secretario",
+     "Presente (virtual)"
+    ],
+    [
+     "4",
+     "María Pérez Cáceres",
+     "Directora",
+     "Presente"
+    ],
+    [
+     "5",
+     "Mercedes Gómez Ríos",
+     "Directora",
+     "Presente"
+    ],
+    [
+     "6",
+     "Sofía Rodríguez Rodríguez",
+     "Directora",
+     "Ausente"
+    ],
+    [
+     "7",
+     "José Zúñiga Herrera",
+     "Director",
+     "Ausente"
+    ]
+   ]
+  },
+  {
+   "nombre": "acuerdos",
+   "encabezados": [
+    "N°",
+    "Descripcion",
+    "Responsable",
+    "Plazo",
+    "Estado",
+    "Referencia"
+   ],
+   "filas": [
+    [
+     "15-2026",
+     "Aprobar los estados financieros con corte a abril de 2026 y autorizar su presentación a los órganos competentes.",
+     "Contabilidad General",
+     "2026-08-19",
+     "derogado",
+     ""
+    ],
+    [
+     "16-2026",
+     "Designar a la sociedad de auditoría propuesta por el Comité de Auditoría para el ejercicio 2026.",
+     "Comité de Auditoría",
+     "2026-06-05",
+     "vigente",
+     ""
+    ],
+    [
+     "17-2026",
+     "Disponer el levantamiento de las observaciones de riesgo alto del informe de auditoría interna y el reporte mensual de avances.",
+     "Auditoría Interna",
+     "90 dias",
+     "vigente",
+     ""
+    ],
+    [
+     "18-2026",
+     "Disponer que la Gerencia de Riesgos presente un plan de reducción de la morosidad de la cartera de microempresa.",
+     "Gerencia de Créditos",
+     "20 dias",
+     "vigente",
+     ""
+    ],
+    [
+     "19-2026",
+     "Aprobar la distribución de excedentes del ejercicio conforme a la propuesta presentada y constituir las reservas correspondientes.",
+     "Gerencia de Finanzas",
+     "2026-07-05",
+     "vigente",
+     ""
+    ],
+    [
+     "20-2026",
+     "Ratificar la conformación del comité de créditos y sus facultades de aprobación vigentes.",
+     "Secretaría General",
+     "inmediato",
+     "vigente",
+     ""
+    ],
+    [
+     "21-2026",
+     "Aprobar el presupuesto y el plan operativo del segundo semestre de 2026.",
+     "Gerencia de Planeamiento",
+     "20 dias",
+     "vigente",
+     ""
+    ],
+    [
+     "22-2026",
+     "Aprobar las modificaciones del reglamento interno de créditos y encargar su difusión a todas las agencias.",
+     "Gerencia de Créditos",
+     "45 dias",
+     "vigente",
+     ""
+    ],
+    [
+     "23-2026",
+     "Aprobar el nuevo tarifario de créditos de consumo y disponer su publicación en las agencias y en el portal institucional.",
+     "Gerencia de Productos",
+     "60 dias",
+     "vigente",
+     ""
+    ],
+    [
+     "24-2026",
+     "Dejar sin efecto el ACUERDO N.º 15-2026, adoptado en esta misma sesión.",
+     "Secretaría General",
+     "inmediato",
+     "vigente",
+     "deroga 15-2026"
+    ]
+   ],
+   "nota": "Plazo normalizado: 'N dias' (calendario), fecha ISO o 'inmediato'. Estado: vigente/derogado/modificado."
+  }
+ ],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 8,
+   "bbox": [
+    60.6,
+    271.2,
+    195.1,
+    312.2
+   ],
+   "unidad": "pt"
+  },
+  {
+   "tipo": "firma",
+   "pagina": 8,
+   "bbox": [
+    330.6,
+    272.9,
+    464.4,
+    312.2
+   ],
+   "unidad": "pt"
+  },
+  {
+   "tipo": "sello",
+   "pagina": 8,
+   "bbox": [
+    254,
+    275.2,
+    326,
+    347.2
+   ],
+   "unidad": "pt"
+  }
+ ],
+ "texto_completo": "Caja de Ahorro Estrella del Norte DEMO S.A.\nRUC 20991639994\nACTA N.º 21-2026 · SESIÓN EXTRAORDINARIA DE DIRECTORIO\nCaja de Ahorro Estrella del Norte DEMO S.A. — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 1 de 8\nACTA N.º 21-2026\nSESIÓN EXTRAORDINARIA DE DIRECTORIO\nEn la ciudad de Lima, el veintiuno de mayo de dos mil veintiséis, siendo las diecisiete horas con cuarenta y\ncinco minutos, se reunió el Directorio de Caja de Ahorro Estrella del Norte DEMO S.A. en su sede institucional,\nen sesión extraordinaria, con la asistencia de cinco (5) de los siete (7) miembros convocados, bajo la\npresidencia de Joaquín Martínez Aguirre, quien actuó como Presidente del Directorio, y de Andrés Cáceres\nOré, quien actuó como secretario(a).\nI. VERIFICACIÓN DEL QUÓRUM\nSe dejó constancia de la siguiente asistencia. Existiendo quórum reglamentario, el Presidente declaró instalada\nla sesión.\nN°\nNombre\nCargo\nAsistencia\n1\nJoaquín Martínez Aguirre\nPresidente del Directorio\nPresente\n2\nIván Domínguez Fernández\nVicepresidente\nPresente (virtual)\n3\nAndrés Cáceres Oré\nSecretario\nPresente (virtual)\n4\nMaría Pérez Cáceres\nDirectora\nPresente\n5\nMercedes Gómez Ríos\nDirectora\nPresente\n6\nSofía Rodríguez Rodríguez\nDirectora\nAusente\n7\nJosé Zúñiga Herrera\nDirector\nAusente\nII. AGENDA\nLa agenda de la sesión fue la siguiente: 1) Verificación del quórum; 2) Aprobación de los estados financieros;\n3) Designación del auditor externo; 4) Informe de auditoría interna; 5) Informe de cartera de créditos y\nmorosidad; 6) Distribución de excedentes y constitución de reservas; 7) Ratificación del comité de créditos; 8)\nPresupuesto y plan operativo; 9) Actualización del reglamento interno de créditos; 10) Tasas y comisiones de\nlos productos de crédito; 11) Revisión de acuerdos adoptados.\nIII. DESARROLLO DE LA SESIÓN\n2. APROBACIÓN DE LOS ESTADOS FINANCIEROS\nLa Contabilidad presentó los estados financieros con corte a abril, que registran activos por S/ 29,800,000.00 y\nuna utilidad acumulada de S/ 7,000,000.00.\nLos miembros revisaron las notas explicativas y el dictamen preliminar del auditor externo, sin observaciones\nde fondo.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Andrés Cáceres Oré\nsugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. La Presidencia agradeció los aportes de los miembros y sometió el asunto a votación.\nMercedes Gómez Ríos sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. Joaquín Martínez Aguirre pidió que los responsables remitan un informe escrito con el detalle de las\nacciones adoptadas.\nAndrés Cáceres Oré consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. Luego de un breve debate, los miembros\npresentes coincidieron en que la medida resulta razonable y oportuna.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Joaquín Martínez\nAguirre pidió que los responsables remitan un informe escrito con el detalle de las acciones adoptadas.\nCaja de Ahorro Estrella del Norte DEMO S.A.\nRUC 20991639994\nACTA N.º 21-2026 · SESIÓN EXTRAORDINARIA DE DIRECTORIO\nCaja de Ahorro Estrella del Norte DEMO S.A. — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 2 de 8\nJoaquín Martínez Aguirre sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. Andrés Cáceres Oré sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada.\nAndrés Cáceres Oré sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna.\nIván Domínguez Fernández manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello\nen el acta. Iván Domínguez Fernández observó que los plazos propuestos deben guardar coherencia con el\ncalendario institucional, y la gerencia tomó nota.\nACUERDO N.º 15-2026: Aprobar los estados financieros con corte a abril de 2026 y autorizar su\npresentación a los órganos competentes.\nResponsable: Contabilidad General. Plazo: hasta el diecinueve de agosto de dos mil veintiséis.\nAprobado por unanimidad de los miembros presentes.\n3. DESIGNACIÓN DEL AUDITOR EXTERNO\nSe presentaron tres propuestas de firmas auditoras; el Comité de Auditoría recomendó la de menor costo con\nexperiencia comprobada en el sector.\nLos miembros revisaron los criterios de independencia y la rotación del equipo de auditoría.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Mercedes Gómez Ríos\nmanifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el acta.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Andrés Cáceres Oré\nconsultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia precisó que se\nmantendrían dentro de los límites aprobados.\nMercedes Gómez Ríos sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. Mercedes Gómez Ríos consultó sobre el impacto de la medida en los indicadores de solvencia, y la\ngerencia precisó que se mantendrían dentro de los límites aprobados.\nJoaquín Martínez Aguirre pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. María Pérez Cáceres pidió que los responsables remitan un informe escrito con el detalle de las\nacciones adoptadas.\nJoaquín Martínez Aguirre pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. Luego de un breve debate, los miembros presentes coincidieron en que la medida resulta\nrazonable y oportuna.\nMercedes Gómez Ríos manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nacta. Luego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. Iván Domínguez Fernández consultó sobre el impacto de la medida en los indicadores de solvencia,\ny la gerencia precisó que se mantendrían dentro de los límites aprobados.\nMercedes Gómez Ríos consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. María Pérez Cáceres sugirió que el seguimiento\nse reporte en la próxima sesión, propuesta que fue aceptada.\nACUERDO N.º 16-2026: Designar a la sociedad de auditoría propuesta por el Comité de Auditoría\npara el ejercicio 2026.\nResponsable: Comité de Auditoría. Plazo: hasta el cinco de junio de dos mil veintiséis.\nCaja de Ahorro Estrella del Norte DEMO S.A.\nRUC 20991639994\nACTA N.º 21-2026 · SESIÓN EXTRAORDINARIA DE DIRECTORIO\nCaja de Ahorro Estrella del Norte DEMO S.A. — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 3 de 8\nAprobado por mayoría, con 4 votos a favor y 1 en contra.\n4. INFORME DE AUDITORÍA INTERNA\nLa Jefatura de Auditoría Interna presentó el informe del trimestre, que contiene 8 observaciones, de las cuales\ndos fueron calificadas de riesgo alto.\nLa Gerencia General se comprometió a presentar los planes de acción por cada observación.\nIván Domínguez Fernández consultó sobre el impacto de la medida en los indicadores de solvencia, y la\ngerencia precisó que se mantendrían dentro de los límites aprobados. La Presidencia agradeció los aportes de\nlos miembros y sometió el asunto a votación.\nMaría Pérez Cáceres consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. María Pérez Cáceres manifestó su conformidad\ncon lo expuesto y solicitó que se deje constancia de ello en el acta.\nMaría Pérez Cáceres pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. María Pérez Cáceres pidió que los responsables remitan un informe escrito con el detalle de las\nacciones adoptadas.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. Andrés Cáceres Oré manifestó su conformidad con lo expuesto y solicitó que se deje constancia de\nello en el acta.\nIván Domínguez Fernández sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. María Pérez Cáceres sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada.\nMaría Pérez Cáceres sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nMercedes Gómez Ríos pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas.\nMercedes Gómez Ríos observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. Joaquín Martínez Aguirre observó que los plazos propuestos deben\nguardar coherencia con el calendario institucional, y la gerencia tomó nota.\nMaría Pérez Cáceres observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. Joaquín Martínez Aguirre pidió que los responsables remitan un informe\nescrito con el detalle de las acciones adoptadas.\nACUERDO N.º 17-2026: Disponer el levantamiento de las observaciones de riesgo alto del informe\nde auditoría interna y el reporte mensual de avances.\nResponsable: Auditoría Interna. Plazo: dentro de un plazo de noventa (90) días calendario.\nAprobado por unanimidad de los miembros presentes.\n5. INFORME DE CARTERA DE CRÉDITOS Y MOROSIDAD\nLa Gerencia General informó que la cartera bruta de créditos al cierre de abril ascendió a S/ 29,800,000.00,\ncon un índice de morosidad de 3,4 %.\nSe precisó que el 62 % de los créditos vencidos corresponde a la línea de microempresa y que se vienen\nejecutando campañas de recuperación.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. La Presidencia agradeció los aportes de los miembros y sometió el asunto a votación.\nAndrés Cáceres Oré manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nacta. Iván Domínguez Fernández pidió que los responsables remitan un informe escrito con el detalle de las\nacciones adoptadas.\nCaja de Ahorro Estrella del Norte DEMO S.A.\nRUC 20991639994\nACTA N.º 21-2026 · SESIÓN EXTRAORDINARIA DE DIRECTORIO\nCaja de Ahorro Estrella del Norte DEMO S.A. — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 4 de 8\nMaría Pérez Cáceres manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nacta. Andrés Cáceres Oré sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Mercedes Gómez Ríos\nobservó que los plazos propuestos deben guardar coherencia con el calendario institucional, y la gerencia tomó\nnota.\nMaría Pérez Cáceres observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. Andrés Cáceres Oré observó que los plazos propuestos deben guardar\ncoherencia con el calendario institucional, y la gerencia tomó nota.\nMercedes Gómez Ríos sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. La Presidencia agradeció los aportes de los miembros y sometió el asunto a votación.\nAndrés Cáceres Oré pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. María Pérez Cáceres manifestó su conformidad con lo expuesto y solicitó que se deje constancia\nde ello en el acta.\nAndrés Cáceres Oré manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nacta. María Pérez Cáceres pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas.\nACUERDO N.º 18-2026: Disponer que la Gerencia de Riesgos presente un plan de reducción de la\nmorosidad de la cartera de microempresa.\nResponsable: Gerencia de Créditos. Plazo: dentro de un plazo de veinte (20) días calendario.\nAprobado por unanimidad de los miembros presentes.\n6. DISTRIBUCIÓN DE EXCEDENTES Y CONSTITUCIÓN DE RESERVAS\nEl Comité de Finanzas propuso destinar el 20 % de los excedentes a la reserva cooperativa y el 10 % al fondo\nde educación.\nLos excedentes del ejercicio ascienden a S/ 7,000,000.00 según los estados financieros auditados.\nIván Domínguez Fernández manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello\nen el acta. Mercedes Gómez Ríos observó que los plazos propuestos deben guardar coherencia con el\ncalendario institucional, y la gerencia tomó nota.\nJoaquín Martínez Aguirre manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en\nel acta. María Pérez Cáceres sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada.\nMaría Pérez Cáceres sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nIván Domínguez Fernández manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello\nen el acta.\nJoaquín Martínez Aguirre pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. Luego de un breve debate, los miembros presentes coincidieron en que la medida resulta\nrazonable y oportuna.\nMercedes Gómez Ríos manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nacta. La Presidencia agradeció los aportes de los miembros y sometió el asunto a votación.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Iván Domínguez\nFernández observó que los plazos propuestos deben guardar coherencia con el calendario institucional, y la\ngerencia tomó nota.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. María Pérez Cáceres sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\nCaja de Ahorro Estrella del Norte DEMO S.A.\nRUC 20991639994\nACTA N.º 21-2026 · SESIÓN EXTRAORDINARIA DE DIRECTORIO\nCaja de Ahorro Estrella del Norte DEMO S.A. — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 5 de 8\naceptada.\nAndrés Cáceres Oré manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nacta. La Presidencia agradeció los aportes de los miembros y sometió el asunto a votación.\nACUERDO N.º 19-2026: Aprobar la distribución de excedentes del ejercicio conforme a la propuesta\npresentada y constituir las reservas correspondientes.\nResponsable: Gerencia de Finanzas. Plazo: hasta el cinco de julio de dos mil veintiséis.\nAprobado por mayoría, con 4 votos a favor y 1 en contra.\n7. RATIFICACIÓN DEL COMITÉ DE CRÉDITOS\nSe propuso ratificar a los integrantes del comité de créditos por el periodo restante, considerando su\ndesempeño y la rotación del personal.\nEl Presidente recordó los límites de aprobación que corresponden a cada nivel.\nMaría Pérez Cáceres pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. Luego de un breve debate, los miembros presentes coincidieron en que la medida resulta\nrazonable y oportuna.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Andrés Cáceres Oré\nconsultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia precisó que se\nmantendrían dentro de los límites aprobados.\nJoaquín Martínez Aguirre manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en\nel acta. Joaquín Martínez Aguirre sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada.\nMaría Pérez Cáceres observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. La Presidencia agradeció los aportes de los miembros y sometió el\nasunto a votación.\nJoaquín Martínez Aguirre observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. Mercedes Gómez Ríos consultó sobre el impacto de la medida en los\nindicadores de solvencia, y la gerencia precisó que se mantendrían dentro de los límites aprobados.\nIván Domínguez Fernández manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello\nen el acta. Joaquín Martínez Aguirre observó que los plazos propuestos deben guardar coherencia con el\ncalendario institucional, y la gerencia tomó nota.\nJoaquín Martínez Aguirre sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. María Pérez Cáceres manifestó su conformidad con lo expuesto y solicitó que se deje constancia de\nello en el acta.\nMercedes Gómez Ríos manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nacta. Mercedes Gómez Ríos observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota.\nACUERDO N.º 20-2026: Ratificar la conformación del comité de créditos y sus facultades de\naprobación vigentes.\nResponsable: Secretaría General. Plazo: de cumplimiento inmediato.\nAprobado por mayoría, con 4 votos a favor y 1 en contra.\n8. PRESUPUESTO Y PLAN OPERATIVO\nSe expuso el proyecto de presupuesto del segundo semestre, con gastos operativos estimados en S/\n29,800,000.00 y una meta de colocaciones de S/ 7,000,000.00.\nCaja de Ahorro Estrella del Norte DEMO S.A.\nRUC 20991639994\nACTA N.º 21-2026 · SESIÓN EXTRAORDINARIA DE DIRECTORIO\nCaja de Ahorro Estrella del Norte DEMO S.A. — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 6 de 8\nLa Gerencia de Planeamiento sustentó los supuestos de crecimiento y los riesgos asociados al cumplimiento\nde metas.\nAndrés Cáceres Oré manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nacta. Joaquín Martínez Aguirre consultó sobre el impacto de la medida en los indicadores de solvencia, y la\ngerencia precisó que se mantendrían dentro de los límites aprobados.\nAndrés Cáceres Oré sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nMaría Pérez Cáceres observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota.\nAndrés Cáceres Oré consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. Iván Domínguez Fernández manifestó su\nconformidad con lo expuesto y solicitó que se deje constancia de ello en el acta.\nMaría Pérez Cáceres consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. Luego de un breve debate, los miembros\npresentes coincidieron en que la medida resulta razonable y oportuna.\nMaría Pérez Cáceres sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nJoaquín Martínez Aguirre manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en\nel acta.\nIván Domínguez Fernández pidió que los responsables remitan un informe escrito con el detalle de las\nacciones adoptadas. María Pérez Cáceres consultó sobre el impacto de la medida en los indicadores de\nsolvencia, y la gerencia precisó que se mantendrían dentro de los límites aprobados.\nMaría Pérez Cáceres sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nJoaquín Martínez Aguirre pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas.\nAndrés Cáceres Oré observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. Luego de un breve debate, los miembros presentes coincidieron en que\nla medida resulta razonable y oportuna.\nACUERDO N.º 21-2026: Aprobar el presupuesto y el plan operativo del segundo semestre de 2026.\nResponsable: Gerencia de Planeamiento. Plazo: dentro de un plazo de veinte (20) días calendario.\nAprobado por unanimidad de los miembros presentes.\n9. ACTUALIZACIÓN DEL REGLAMENTO INTERNO DE CRÉDITOS\nLa asesoría legal presentó las modificaciones al reglamento de créditos para incorporar nuevas garantías\nadmisibles y criterios de evaluación.\nLos miembros pidieron precisar el procedimiento de excepciones y el nivel de aprobación correspondiente.\nIván Domínguez Fernández pidió que los responsables remitan un informe escrito con el detalle de las\nacciones adoptadas. La Presidencia agradeció los aportes de los miembros y sometió el asunto a votación.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Mercedes Gómez Ríos\nsugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nAndrés Cáceres Oré pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. La Presidencia agradeció los aportes de los miembros y sometió el asunto a votación.\nJoaquín Martínez Aguirre pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. Andrés Cáceres Oré sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada.\nMaría Pérez Cáceres observó que los plazos propuestos deben guardar coherencia con el calendario\nCaja de Ahorro Estrella del Norte DEMO S.A.\nRUC 20991639994\nACTA N.º 21-2026 · SESIÓN EXTRAORDINARIA DE DIRECTORIO\nCaja de Ahorro Estrella del Norte DEMO S.A. — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 7 de 8\ninstitucional, y la gerencia tomó nota. Joaquín Martínez Aguirre pidió que los responsables remitan un informe\nescrito con el detalle de las acciones adoptadas.\nAndrés Cáceres Oré consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. Mercedes Gómez Ríos sugirió que el seguimiento\nse reporte en la próxima sesión, propuesta que fue aceptada.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Joaquín Martínez\nAguirre manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el acta.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. La Presidencia\nagradeció los aportes de los miembros y sometió el asunto a votación.\nACUERDO N.º 22-2026: Aprobar las modificaciones del reglamento interno de créditos y encargar\nsu difusión a todas las agencias.\nResponsable: Gerencia de Créditos. Plazo: dentro de un plazo de cuarenta y cinco (45) días calendario.\nAprobado por unanimidad de los miembros presentes.\n10. TASAS Y COMISIONES DE LOS PRODUCTOS DE CRÉDITO\nSe propuso ajustar la tasa de costo efectivo anual de los créditos de consumo a 3,4 %, manteniendo las\ncomisiones vigentes.\nLa Unidad de Atención al Usuario recordó el deber de publicar el tarifario actualizado en todas las agencias.\nIván Domínguez Fernández sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. La Presidencia agradeció los aportes de los miembros y sometió el asunto a votación.\nIván Domínguez Fernández manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello\nen el acta. Luego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable\ny oportuna.\nIván Domínguez Fernández consultó sobre el impacto de la medida en los indicadores de solvencia, y la\ngerencia precisó que se mantendrían dentro de los límites aprobados. Mercedes Gómez Ríos pidió que los\nresponsables remitan un informe escrito con el detalle de las acciones adoptadas.\nMercedes Gómez Ríos manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nacta. Andrés Cáceres Oré consultó sobre el impacto de la medida en los indicadores de solvencia, y la\ngerencia precisó que se mantendrían dentro de los límites aprobados.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Joaquín Martínez\nAguirre consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia precisó que se\nmantendrían dentro de los límites aprobados.\nIván Domínguez Fernández sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. La Presidencia agradeció los aportes de los miembros y sometió el asunto a votación.\nMaría Pérez Cáceres observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. Andrés Cáceres Oré observó que los plazos propuestos deben guardar\ncoherencia con el calendario institucional, y la gerencia tomó nota.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. Luego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable\ny oportuna.\nACUERDO N.º 23-2026: Aprobar el nuevo tarifario de créditos de consumo y disponer su\npublicación en las agencias y en el portal institucional.\nResponsable: Gerencia de Productos. Plazo: dentro de un plazo de sesenta (60) días calendario.\nAprobado por mayoría, con 4 votos a favor y 1 en contra.\nCaja de Ahorro Estrella del Norte DEMO S.A.\nRUC 20991639994\nACTA N.º 21-2026 · SESIÓN EXTRAORDINARIA DE DIRECTORIO\nCaja de Ahorro Estrella del Norte DEMO S.A. — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 8 de 8\n11. REVISIÓN DE ACUERDOS ADOPTADOS\nA pedido de María Pérez Cáceres se revisó lo resuelto en esta misma sesión. La gerencia informó que el\nasunto del ACUERDO N.º 15-2026 ya fue atendido por otra vía, por lo que no resulta necesario mantenerlo.\nACUERDO N.º 24-2026: Dejar sin efecto el ACUERDO N.º 15-2026, adoptado en esta misma sesión.\nResponsable: Secretaría General. Plazo: de cumplimiento inmediato.\nAprobado por unanimidad de los miembros presentes.\nIV. CIERRE\nNo habiendo otros asuntos que tratar, siendo las 21:00 horas se levantó la sesión, firmando los presentes en\nseñal de conformidad.\nJoaquín Martínez Aguirre\nPresidente del Directorio\nAndrés Cáceres Oré\nSecretario",
+ "degradacion": {
+  "rotacion": 0,
+  "dpi": null,
+  "ruido": "ninguno"
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "con_deroga",
+ "origen": "corpus_practica",
+ "trampas": [
+  "tildes_en_nombres",
+  "pie_de_pagina_repetido",
+  "tabla_de_asistencia",
+  "acuerdo_deroga",
+  "fecha_en_texto"
+ ],
+ "campos_ausentes": [],
+ "elementos_repetidos": {
+  "encabezado": "ACTA N.º 21-2026 · SESIÓN EXTRAORDINARIA DE DIRECTORIO",
+  "pie": "Caja de Ahorro Estrella del Norte DEMO S.A. — Libro de Actas — Documento ficticio de práctica (DEMO)"
+ }
+}

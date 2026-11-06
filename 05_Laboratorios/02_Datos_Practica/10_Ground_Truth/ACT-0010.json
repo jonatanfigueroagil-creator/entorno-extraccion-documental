@@ -1,0 +1,225 @@
+{
+ "doc_id": "ACT-0010",
+ "tipo": "acta",
+ "formato": "pdf_nativo",
+ "campos": {
+  "numero_acta": "05-2026",
+  "fecha": "2026-07-27",
+  "entidad": "Cooperativa de Ahorro y Crédito Nueva Esperanza DEMO",
+  "ruc": "20993827968",
+  "organo": "Directorio",
+  "tipo_sesion": "extraordinaria",
+  "hora_inicio": "17:30",
+  "hora_fin": "21:00",
+  "quorum": "5 de 7",
+  "quorum_asistentes": 5,
+  "quorum_total": 7,
+  "presidente": "Iván Jiménez Tapia",
+  "secretario": "María Oré Peña",
+  "n_acuerdos": 10,
+  "n_paginas": 9
+ },
+ "tablas": [
+  {
+   "nombre": "asistencia",
+   "encabezados": [
+    "N°",
+    "Nombre",
+    "Cargo",
+    "Asistencia"
+   ],
+   "filas": [
+    [
+     "1",
+     "Iván Jiménez Tapia",
+     "Presidente del Directorio",
+     "Presente"
+    ],
+    [
+     "2",
+     "Iván Peña Herrera",
+     "Vicepresidente",
+     "Presente"
+    ],
+    [
+     "3",
+     "María Oré Peña",
+     "Secretaria",
+     "Presente (virtual)"
+    ],
+    [
+     "4",
+     "Mercedes Vásquez Quiñones",
+     "Directora",
+     "Ausente (con licencia)"
+    ],
+    [
+     "5",
+     "Ximena Rodríguez Condori",
+     "Directora",
+     "Presente (virtual)"
+    ],
+    [
+     "6",
+     "Óscar Gálvez López",
+     "Director",
+     "Ausente"
+    ],
+    [
+     "7",
+     "Ángel Núñez Jiménez",
+     "Director",
+     "Presente"
+    ]
+   ]
+  },
+  {
+   "nombre": "acuerdos",
+   "encabezados": [
+    "N°",
+    "Descripcion",
+    "Responsable",
+    "Plazo",
+    "Estado",
+    "Referencia"
+   ],
+   "filas": [
+    [
+     "07-2026",
+     "Autorizar a la Gerencia General a remitir la información requerida por la Intendencia DEMO dentro del plazo señalado en el oficio.",
+     "Gerencia General",
+     "2026-08-11",
+     "vigente",
+     ""
+    ],
+    [
+     "08-2026",
+     "Aprobar los estados financieros con corte a junio de 2026 y autorizar su presentación a los órganos competentes.",
+     "Gerencia de Finanzas",
+     "2026-09-25",
+     "vigente",
+     ""
+    ],
+    [
+     "09-2026",
+     "Designar a la sociedad de auditoría propuesta por el Comité de Auditoría para el ejercicio 2026.",
+     "Comité de Auditoría",
+     "2026-09-25",
+     "vigente",
+     ""
+    ],
+    [
+     "10-2026",
+     "Aprobar el presupuesto y el plan operativo del segundo semestre de 2026.",
+     "Gerencia de Planeamiento",
+     "10 dias",
+     "vigente",
+     ""
+    ],
+    [
+     "11-2026",
+     "Autorizar la contratación del sistema de gestión documental por el monto cotizado más bajo que cumpla los requisitos técnicos.",
+     "Gerencia de Administración",
+     "30 dias",
+     "vigente",
+     ""
+    ],
+    [
+     "12-2026",
+     "Aprobar las modificaciones del reglamento interno de créditos y encargar su difusión a todas las agencias.",
+     "Asesoría Legal",
+     "15 dias",
+     "vigente",
+     ""
+    ],
+    [
+     "13-2026",
+     "Disponer que la Gerencia de Riesgos presente un plan de reducción de la morosidad de la cartera de microempresa.",
+     "Gerencia de Riesgos",
+     "15 dias",
+     "vigente",
+     ""
+    ],
+    [
+     "14-2026",
+     "Aprobar el plan de remediación de las brechas del plan de continuidad del negocio y su calendario de pruebas.",
+     "Oficial de Seguridad de la Información",
+     "90 dias",
+     "vigente",
+     ""
+    ],
+    [
+     "15-2026",
+     "Disponer el levantamiento de las observaciones de riesgo alto del informe de auditoría interna y el reporte mensual de avances.",
+     "Gerencia General",
+     "90 dias",
+     "vigente",
+     ""
+    ],
+    [
+     "16-2026",
+     "Disponer que el 100 % del personal complete la capacitación en prevención del lavado de activos.",
+     "Oficial de Cumplimiento",
+     "15 dias",
+     "vigente",
+     ""
+    ]
+   ],
+   "nota": "Plazo normalizado: 'N dias' (calendario), fecha ISO o 'inmediato'. Estado: vigente/derogado/modificado."
+  }
+ ],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 9,
+   "bbox": [
+    58.2,
+    449.0,
+    188.8,
+    490.0
+   ],
+   "unidad": "pt"
+  },
+  {
+   "tipo": "firma",
+   "pagina": 9,
+   "bbox": [
+    323.9,
+    449.7,
+    466.8,
+    490.0
+   ],
+   "unidad": "pt"
+  },
+  {
+   "tipo": "sello",
+   "pagina": 9,
+   "bbox": [
+    254,
+    453.0,
+    326,
+    525.0
+   ],
+   "unidad": "pt"
+  }
+ ],
+ "texto_completo": "Cooperativa de Ahorro y Crédito Nueva Esperanza DEMO\nRUC 20993827968\nACTA N.º 05-2026 · SESIÓN EXTRAORDINARIA DE DIRECTORIO\nCooperativa de Ahorro y Crédito Nueva Esperanza DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 1 de 9\nACTA N.º 05-2026\nSESIÓN EXTRAORDINARIA DE DIRECTORIO\nFecha: 27/07/2026\nSiendo las 17:30 horas del día 27/07/2026, se reunió el Directorio de Cooperativa de Ahorro y Crédito Nueva\nEsperanza DEMO en su sede institucional, en sesión extraordinaria, con la asistencia de cinco (5) de los siete\n(7) miembros convocados, bajo la presidencia de Iván Jiménez Tapia, quien actuó como Presidente del\nDirectorio, y de María Oré Peña, quien actuó como secretario(a).\nI. VERIFICACIÓN DEL QUÓRUM\nSe dejó constancia de la siguiente asistencia. Existiendo quórum reglamentario, el Presidente declaró instalada\nla sesión.\nN°\nNombre\nCargo\nAsistencia\n1\nIván Jiménez Tapia\nPresidente del Directorio\nPresente\n2\nIván Peña Herrera\nVicepresidente\nPresente\n3\nMaría Oré Peña\nSecretaria\nPresente (virtual)\n4\nMercedes Vásquez Quiñones\nDirectora\nAusente (con licencia)\n5\nXimena Rodríguez Condori\nDirectora\nPresente (virtual)\n6\nÓscar Gálvez López\nDirector\nAusente\n7\nÁngel Núñez Jiménez\nDirector\nPresente\nII. AGENDA\nLa agenda de la sesión fue la siguiente: 1) Verificación del quórum; 2) Atención del oficio de la Intendencia\nDEMO; 3) Aprobación de los estados financieros; 4) Designación del auditor externo; 5) Presupuesto y plan\noperativo; 6) Adquisición de un sistema de gestión documental; 7) Actualización del reglamento interno de\ncréditos; 8) Informe de cartera de créditos y morosidad; 9) Plan de continuidad del negocio y seguridad de la\ninformación; 10) Informe de auditoría interna; 11) Capacitación en prevención del lavado de activos; 12)\nRevisión de acuerdos adoptados.\nIII. DESARROLLO DE LA SESIÓN\n2. ATENCIÓN DEL OFICIO DE LA INTENDENCIA DEMO\nSe dio lectura al oficio recibido de la Intendencia DEMO de Supervisión Financiera, que requiere información\nsobre la cartera de créditos vigente.\nLa asesoría legal confirmó que el plazo de respuesta vence en los próximos días hábiles.\nXimena Rodríguez Condori sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. Mercedes Vásquez Quiñones consultó sobre el impacto de la medida en los indicadores de\nsolvencia, y la gerencia precisó que se mantendrían dentro de los límites aprobados.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. La Presidencia\nagradeció los aportes de los miembros y sometió el asunto a votación.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Ximena Rodríguez\nCondori sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nXimena Rodríguez Condori manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello\nen el acta. Iván Jiménez Tapia manifestó su conformidad con lo expuesto y solicitó que se deje constancia de\nello en el acta.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Luego de un breve\nCooperativa de Ahorro y Crédito Nueva Esperanza DEMO\nRUC 20993827968\nACTA N.º 05-2026 · SESIÓN EXTRAORDINARIA DE DIRECTORIO\nCooperativa de Ahorro y Crédito Nueva Esperanza DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 2 de 9\ndebate, los miembros presentes coincidieron en que la medida resulta razonable y oportuna.\nIván Jiménez Tapia manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nacta. Iván Jiménez Tapia observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota.\nMercedes Vásquez Quiñones sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. Luego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable\ny oportuna.\nMercedes Vásquez Quiñones pidió que los responsables remitan un informe escrito con el detalle de las\nacciones adoptadas. Iván Peña Herrera pidió que los responsables remitan un informe escrito con el detalle de\nlas acciones adoptadas.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. María Oré Peña manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello\nen el acta.\nACUERDO N.º 07-2026: Autorizar a la Gerencia General a remitir la información requerida por la\nIntendencia DEMO dentro del plazo señalado en el oficio.\nResponsable: Gerencia General. Plazo: hasta el 11 de agosto de 2026.\nAprobado por mayoría, con 4 votos a favor y 1 en contra.\n3. APROBACIÓN DE LOS ESTADOS FINANCIEROS\nLa Contabilidad presentó los estados financieros con corte a junio, que registran activos por S/ 13,500,000.00 y\nuna utilidad acumulada de S/ 1,400,000.00.\nLos miembros revisaron las notas explicativas y el dictamen preliminar del auditor externo, sin observaciones\nde fondo.\nIván Jiménez Tapia manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nacta. Luego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna.\nMercedes Vásquez Quiñones pidió que los responsables remitan un informe escrito con el detalle de las\nacciones adoptadas. María Oré Peña observó que los plazos propuestos deben guardar coherencia con el\ncalendario institucional, y la gerencia tomó nota.\nIván Peña Herrera sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nMercedes Vásquez Quiñones observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota.\nXimena Rodríguez Condori manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello\nen el acta. Luego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable\ny oportuna.\nXimena Rodríguez Condori manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello\nen el acta. Iván Jiménez Tapia manifestó su conformidad con lo expuesto y solicitó que se deje constancia de\nello en el acta.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. La Presidencia\nagradeció los aportes de los miembros y sometió el asunto a votación.\nIván Jiménez Tapia consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. Iván Peña Herrera consultó sobre el impacto de la\nmedida en los indicadores de solvencia, y la gerencia precisó que se mantendrían dentro de los límites\naprobados.\nIván Peña Herrera manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nCooperativa de Ahorro y Crédito Nueva Esperanza DEMO\nRUC 20993827968\nACTA N.º 05-2026 · SESIÓN EXTRAORDINARIA DE DIRECTORIO\nCooperativa de Ahorro y Crédito Nueva Esperanza DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 3 de 9\nacta. La Presidencia agradeció los aportes de los miembros y sometió el asunto a votación.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Luego de un breve\ndebate, los miembros presentes coincidieron en que la medida resulta razonable y oportuna.\nACUERDO N.º 08-2026: Aprobar los estados financieros con corte a junio de 2026 y autorizar su\npresentación a los órganos competentes.\nResponsable: Gerencia de Finanzas. Plazo: hasta el 25 de setiembre de 2026.\nAprobado por unanimidad de los miembros presentes.\n4. DESIGNACIÓN DEL AUDITOR EXTERNO\nSe presentaron tres propuestas de firmas auditoras; el Comité de Auditoría recomendó la de menor costo con\nexperiencia comprobada en el sector.\nLos miembros revisaron los criterios de independencia y la rotación del equipo de auditoría.\nIván Jiménez Tapia sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nIván Peña Herrera consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. Iván Jiménez Tapia consultó sobre el impacto de la medida en los indicadores de solvencia, y la\ngerencia precisó que se mantendrían dentro de los límites aprobados.\nIván Jiménez Tapia observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. Iván Peña Herrera sugirió que el seguimiento se reporte en la próxima\nsesión, propuesta que fue aceptada.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. Luego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable\ny oportuna.\nIván Jiménez Tapia sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. La Presidencia agradeció los aportes de los miembros y sometió el asunto a votación.\nIván Jiménez Tapia sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nXimena Rodríguez Condori consultó sobre el impacto de la medida en los indicadores de solvencia, y la\ngerencia precisó que se mantendrían dentro de los límites aprobados.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Iván Peña Herrera\nconsultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia precisó que se\nmantendrían dentro de los límites aprobados.\nIván Peña Herrera manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nacta. Iván Jiménez Tapia consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados.\nACUERDO N.º 09-2026: Designar a la sociedad de auditoría propuesta por el Comité de Auditoría\npara el ejercicio 2026.\nResponsable: Comité de Auditoría. Plazo: hasta el 25 de setiembre de 2026.\nAprobado por unanimidad de los miembros presentes.\nCooperativa de Ahorro y Crédito Nueva Esperanza DEMO\nRUC 20993827968\nACTA N.º 05-2026 · SESIÓN EXTRAORDINARIA DE DIRECTORIO\nCooperativa de Ahorro y Crédito Nueva Esperanza DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 4 de 9\n5. PRESUPUESTO Y PLAN OPERATIVO\nSe expuso el proyecto de presupuesto del segundo semestre, con gastos operativos estimados en S/\n13,500,000.00 y una meta de colocaciones de S/ 1,400,000.00.\nLa Gerencia de Planeamiento sustentó los supuestos de crecimiento y los riesgos asociados al cumplimiento\nde metas.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Iván Peña Herrera pidió\nque los responsables remitan un informe escrito con el detalle de las acciones adoptadas.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. María Oré Peña sugirió\nque el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nMercedes Vásquez Quiñones sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. Iván Peña Herrera sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada.\nIván Jiménez Tapia observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. Mercedes Vásquez Quiñones manifestó su conformidad con lo expuesto\ny solicitó que se deje constancia de ello en el acta.\nMaría Oré Peña pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. Luego de un breve debate, los miembros presentes coincidieron en que la medida resulta\nrazonable y oportuna.\nIván Peña Herrera pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. Mercedes Vásquez Quiñones manifestó su conformidad con lo expuesto y solicitó que se deje\nconstancia de ello en el acta.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. María Oré Peña sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada.\nXimena Rodríguez Condori sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. Ximena Rodríguez Condori pidió que los responsables remitan un informe escrito con el detalle de\nlas acciones adoptadas.\nXimena Rodríguez Condori consultó sobre el impacto de la medida en los indicadores de solvencia, y la\ngerencia precisó que se mantendrían dentro de los límites aprobados. Mercedes Vásquez Quiñones observó\nque los plazos propuestos deben guardar coherencia con el calendario institucional, y la gerencia tomó nota.\nACUERDO N.º 10-2026: Aprobar el presupuesto y el plan operativo del segundo semestre de 2026.\nResponsable: Gerencia de Planeamiento. Plazo: dentro de un plazo de diez (10) días calendario.\nAprobado por unanimidad de los miembros presentes.\n6. ADQUISICIÓN DE UN SISTEMA DE GESTIÓN DOCUMENTAL\nLa Gerencia de Tecnología sustentó la necesidad de digitalizar los expedientes de crédito y propuso adquirir\nuna solución de gestión documental por S/ 13,500,000.00.\nSe compararon tres cotizaciones y se verificó el cumplimiento de los requisitos de seguridad y conservación de\nla información.\nMaría Oré Peña observó que los plazos propuestos deben guardar coherencia con el calendario institucional, y\nla gerencia tomó nota. La Presidencia agradeció los aportes de los miembros y sometió el asunto a votación.\nXimena Rodríguez Condori pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. Iván Peña Herrera sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada.\nCooperativa de Ahorro y Crédito Nueva Esperanza DEMO\nRUC 20993827968\nACTA N.º 05-2026 · SESIÓN EXTRAORDINARIA DE DIRECTORIO\nCooperativa de Ahorro y Crédito Nueva Esperanza DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 5 de 9\nIván Peña Herrera manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nacta. María Oré Peña observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. Mercedes Vásquez Quiñones observó que los plazos propuestos deben guardar coherencia con el\ncalendario institucional, y la gerencia tomó nota.\nIván Peña Herrera observó que los plazos propuestos deben guardar coherencia con el calendario institucional,\ny la gerencia tomó nota. María Oré Peña pidió que los responsables remitan un informe escrito con el detalle\nde las acciones adoptadas.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. La Presidencia agradeció los aportes de los miembros y sometió el asunto a votación.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. María Oré Peña consultó\nsobre el impacto de la medida en los indicadores de solvencia, y la gerencia precisó que se mantendrían dentro\nde los límites aprobados.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Iván Jiménez Tapia pidió\nque los responsables remitan un informe escrito con el detalle de las acciones adoptadas.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. La Presidencia agradeció los aportes de los miembros y sometió el asunto a votación.\nACUERDO N.º 11-2026: Autorizar la contratación del sistema de gestión documental por el monto\ncotizado más bajo que cumpla los requisitos técnicos.\nResponsable: Gerencia de Administración. Plazo: dentro de un plazo de treinta (30) días calendario.\nAprobado por unanimidad de los miembros presentes.\n7. ACTUALIZACIÓN DEL REGLAMENTO INTERNO DE CRÉDITOS\nLa asesoría legal presentó las modificaciones al reglamento de créditos para incorporar nuevas garantías\nadmisibles y criterios de evaluación.\nLos miembros pidieron precisar el procedimiento de excepciones y el nivel de aprobación correspondiente.\nIván Peña Herrera observó que los plazos propuestos deben guardar coherencia con el calendario institucional,\ny la gerencia tomó nota. La Presidencia agradeció los aportes de los miembros y sometió el asunto a votación.\nIván Peña Herrera manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nacta. La Presidencia agradeció los aportes de los miembros y sometió el asunto a votación.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Mercedes Vásquez\nQuiñones pidió que los responsables remitan un informe escrito con el detalle de las acciones adoptadas.\nXimena Rodríguez Condori observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. Luego de un breve debate, los miembros presentes coincidieron en que\nla medida resulta razonable y oportuna.\nXimena Rodríguez Condori consultó sobre el impacto de la medida en los indicadores de solvencia, y la\ngerencia precisó que se mantendrían dentro de los límites aprobados. Luego de un breve debate, los miembros\npresentes coincidieron en que la medida resulta razonable y oportuna.\nMaría Oré Peña consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia precisó\nque se mantendrían dentro de los límites aprobados. María Oré Peña manifestó su conformidad con lo\nexpuesto y solicitó que se deje constancia de ello en el acta.\nXimena Rodríguez Condori manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello\nen el acta. Luego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable\nCooperativa de Ahorro y Crédito Nueva Esperanza DEMO\nRUC 20993827968\nACTA N.º 05-2026 · SESIÓN EXTRAORDINARIA DE DIRECTORIO\nCooperativa de Ahorro y Crédito Nueva Esperanza DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 6 de 9\ny oportuna.\nIván Jiménez Tapia sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nMercedes Vásquez Quiñones pidió que los responsables remitan un informe escrito con el detalle de las\nacciones adoptadas.\nXimena Rodríguez Condori sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. Ximena Rodríguez Condori observó que los plazos propuestos deben guardar coherencia con el\ncalendario institucional, y la gerencia tomó nota.\nACUERDO N.º 12-2026: Aprobar las modificaciones del reglamento interno de créditos y encargar\nsu difusión a todas las agencias.\nResponsable: Asesoría Legal. Plazo: dentro de un plazo de quince (15) días calendario.\nAprobado por mayoría, con 4 votos a favor y 1 en contra.\n8. INFORME DE CARTERA DE CRÉDITOS Y MOROSIDAD\nLa Gerencia General informó que la cartera bruta de créditos al cierre de junio ascendió a S/ 13,500,000.00,\ncon un índice de morosidad de 5,8 %.\nSe precisó que el 62 % de los créditos vencidos corresponde a la línea de microempresa y que se vienen\nejecutando campañas de recuperación.\nIván Peña Herrera manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nacta. Luego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna.\nMercedes Vásquez Quiñones sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. Iván Peña Herrera sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. Iván Peña Herrera sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. Ximena Rodríguez Condori manifestó su conformidad con lo expuesto y solicitó que se deje\nconstancia de ello en el acta.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. María Oré Peña manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello\nen el acta.\nXimena Rodríguez Condori observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. Mercedes Vásquez Quiñones manifestó su conformidad con lo expuesto\ny solicitó que se deje constancia de ello en el acta.\nIván Jiménez Tapia sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nMercedes Vásquez Quiñones pidió que los responsables remitan un informe escrito con el detalle de las\nacciones adoptadas.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. Luego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable\ny oportuna.\nIván Jiménez Tapia sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna.\nCooperativa de Ahorro y Crédito Nueva Esperanza DEMO\nRUC 20993827968\nACTA N.º 05-2026 · SESIÓN EXTRAORDINARIA DE DIRECTORIO\nCooperativa de Ahorro y Crédito Nueva Esperanza DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 7 de 9\nACUERDO N.º 13-2026: Disponer que la Gerencia de Riesgos presente un plan de reducción de la\nmorosidad de la cartera de microempresa.\nResponsable: Gerencia de Riesgos. Plazo: dentro de un plazo de quince (15) días calendario.\nAprobado por mayoría, con 4 votos a favor y 1 en contra.\n9. PLAN DE CONTINUIDAD DEL NEGOCIO Y SEGURIDAD DE LA INFORMACIÓN\nEl Oficial de Seguridad informó que se realizó una prueba de contingencia con tiempo de recuperación de 12\nhoras, superior a la meta fijada.\nSe identificaron brechas en el respaldo de la información de las agencias periféricas.\nMaría Oré Peña observó que los plazos propuestos deben guardar coherencia con el calendario institucional, y\nla gerencia tomó nota. Ximena Rodríguez Condori consultó sobre el impacto de la medida en los indicadores\nde solvencia, y la gerencia precisó que se mantendrían dentro de los límites aprobados.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. María Oré Peña observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota.\nMercedes Vásquez Quiñones consultó sobre el impacto de la medida en los indicadores de solvencia, y la\ngerencia precisó que se mantendrían dentro de los límites aprobados. Iván Peña Herrera pidió que los\nresponsables remitan un informe escrito con el detalle de las acciones adoptadas.\nMercedes Vásquez Quiñones consultó sobre el impacto de la medida en los indicadores de solvencia, y la\ngerencia precisó que se mantendrían dentro de los límites aprobados. Luego de un breve debate, los miembros\npresentes coincidieron en que la medida resulta razonable y oportuna.\nIván Peña Herrera sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nMercedes Vásquez Quiñones sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada.\nMercedes Vásquez Quiñones sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. Mercedes Vásquez Quiñones observó que los plazos propuestos deben guardar coherencia con el\ncalendario institucional, y la gerencia tomó nota.\nIván Jiménez Tapia consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. María Oré Peña manifestó su conformidad con lo\nexpuesto y solicitó que se deje constancia de ello en el acta.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Luego de un breve\ndebate, los miembros presentes coincidieron en que la medida resulta razonable y oportuna.\nMercedes Vásquez Quiñones consultó sobre el impacto de la medida en los indicadores de solvencia, y la\ngerencia precisó que se mantendrían dentro de los límites aprobados. Iván Jiménez Tapia observó que los\nplazos propuestos deben guardar coherencia con el calendario institucional, y la gerencia tomó nota.\nACUERDO N.º 14-2026: Aprobar el plan de remediación de las brechas del plan de continuidad del\nnegocio y su calendario de pruebas.\nResponsable: Oficial de Seguridad de la Información. Plazo: dentro de un plazo de noventa (90) días\ncalendario.\nAprobado por unanimidad de los miembros presentes.\n10. INFORME DE AUDITORÍA INTERNA\nLa Jefatura de Auditoría Interna presentó el informe del trimestre, que contiene 12 observaciones, de las cuales\ndos fueron calificadas de riesgo alto.\nLa Gerencia General se comprometió a presentar los planes de acción por cada observación.\nCooperativa de Ahorro y Crédito Nueva Esperanza DEMO\nRUC 20993827968\nACTA N.º 05-2026 · SESIÓN EXTRAORDINARIA DE DIRECTORIO\nCooperativa de Ahorro y Crédito Nueva Esperanza DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 8 de 9\nIván Jiménez Tapia observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. Luego de un breve debate, los miembros presentes coincidieron en que\nla medida resulta razonable y oportuna.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Luego de un breve\ndebate, los miembros presentes coincidieron en que la medida resulta razonable y oportuna.\nXimena Rodríguez Condori consultó sobre el impacto de la medida en los indicadores de solvencia, y la\ngerencia precisó que se mantendrían dentro de los límites aprobados. La Presidencia agradeció los aportes de\nlos miembros y sometió el asunto a votación.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Ximena Rodríguez\nCondori manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el acta.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Luego de un breve\ndebate, los miembros presentes coincidieron en que la medida resulta razonable y oportuna.\nIván Peña Herrera consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. Ximena Rodríguez Condori consultó sobre el\nimpacto de la medida en los indicadores de solvencia, y la gerencia precisó que se mantendrían dentro de los\nlímites aprobados.\nIván Peña Herrera sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna.\nIván Peña Herrera manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nacta. Luego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna.\nMaría Oré Peña consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia precisó\nque se mantendrían dentro de los límites aprobados. Ximena Rodríguez Condori manifestó su conformidad con\nlo expuesto y solicitó que se deje constancia de ello en el acta.\nACUERDO N.º 15-2026: Disponer el levantamiento de las observaciones de riesgo alto del informe\nde auditoría interna y el reporte mensual de avances.\nResponsable: Gerencia General. Plazo: dentro de un plazo de noventa (90) días calendario.\nAprobado por unanimidad de los miembros presentes.\n11. CAPACITACIÓN EN PREVENCIÓN DEL LAVADO DE ACTIVOS\nEl Oficial de Cumplimiento informó que el 5,8 % del personal completó la capacitación anual obligatoria.\nSe acordó reforzar el programa para el personal de nuevas agencias y para los miembros del órgano de\ngobierno.\nXimena Rodríguez Condori consultó sobre el impacto de la medida en los indicadores de solvencia, y la\ngerencia precisó que se mantendrían dentro de los límites aprobados. Luego de un breve debate, los miembros\npresentes coincidieron en que la medida resulta razonable y oportuna.\nMaría Oré Peña consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia precisó\nque se mantendrían dentro de los límites aprobados. María Oré Peña observó que los plazos propuestos\ndeben guardar coherencia con el calendario institucional, y la gerencia tomó nota.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Luego de un breve\ndebate, los miembros presentes coincidieron en que la medida resulta razonable y oportuna.\nXimena Rodríguez Condori sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. María Oré Peña manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello\nen el acta.\nCooperativa de Ahorro y Crédito Nueva Esperanza DEMO\nRUC 20993827968\nACTA N.º 05-2026 · SESIÓN EXTRAORDINARIA DE DIRECTORIO\nCooperativa de Ahorro y Crédito Nueva Esperanza DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 9 de 9\nMaría Oré Peña observó que los plazos propuestos deben guardar coherencia con el calendario institucional, y\nla gerencia tomó nota. Iván Jiménez Tapia sugirió que el seguimiento se reporte en la próxima sesión,\npropuesta que fue aceptada.\nMercedes Vásquez Quiñones pidió que los responsables remitan un informe escrito con el detalle de las\nacciones adoptadas. Luego de un breve debate, los miembros presentes coincidieron en que la medida resulta\nrazonable y oportuna.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. La Presidencia\nagradeció los aportes de los miembros y sometió el asunto a votación.\nXimena Rodríguez Condori consultó sobre el impacto de la medida en los indicadores de solvencia, y la\ngerencia precisó que se mantendrían dentro de los límites aprobados. Luego de un breve debate, los miembros\npresentes coincidieron en que la medida resulta razonable y oportuna.\nIván Jiménez Tapia consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. Iván Peña Herrera manifestó su conformidad con\nlo expuesto y solicitó que se deje constancia de ello en el acta.\nACUERDO N.º 16-2026: Disponer que el 100 % del personal complete la capacitación en prevención\ndel lavado de activos.\nResponsable: Oficial de Cumplimiento. Plazo: dentro de un plazo de quince (15) días calendario.\nAprobado por mayoría, con 4 votos a favor y 1 en contra.\nIV. CIERRE\nNo habiendo otros asuntos que tratar, siendo las 21:00 horas se levantó la sesión, firmando los presentes en\nseñal de conformidad.\nIván Jiménez Tapia\nPresidente del Directorio\nMaría Oré Peña\nSecretaria",
+ "degradacion": {
+  "rotacion": 0,
+  "dpi": null,
+  "ruido": "ninguno"
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar",
+ "origen": "corpus_practica",
+ "trampas": [
+  "tildes_en_nombres",
+  "pie_de_pagina_repetido",
+  "tabla_de_asistencia"
+ ],
+ "campos_ausentes": [],
+ "elementos_repetidos": {
+  "encabezado": "ACTA N.º 05-2026 · SESIÓN EXTRAORDINARIA DE DIRECTORIO",
+  "pie": "Cooperativa de Ahorro y Crédito Nueva Esperanza DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)"
+ }
+}

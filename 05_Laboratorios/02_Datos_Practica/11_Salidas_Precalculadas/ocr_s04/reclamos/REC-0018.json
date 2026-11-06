@@ -1,0 +1,17 @@
+{
+ "id": "REC-0018",
+ "archivo": "adjunto_REC-0018.jpg",
+ "ruta": "06_Reclamos/REC-0018.eml#adjunto_REC-0018.jpg",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "crudo",
+ "psm": 3,
+ "inclinacion": 0.0,
+ "texto": "Edpyme Sol Naciente DEMO S.A.\nEstado de cuenta - prestamo personal\nCliente: Carlos Olivera Huaman- DNI 99426295\nFecha Descripcion Importe\n07/04/2026 Cargo reclamado (cargo duplicado) 295.00\n06/04/2026 Pago seivicio 258.00\n[osrosrz026 Retiro cajero 54,00\n31/03/2026 Interes 197.00\n28/03/2026 Compra comercio DEMO, 214.00",
+ "confianza": 0.8376,
+ "score": 0.863,
+ "invalidos": 1,
+ "decision": "revisar",
+ "segundos": 0.19,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

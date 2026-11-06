@@ -1,0 +1,40 @@
+{
+ "id": "REC-0001",
+ "modelo": "Davlan/xlm-roberta-base-ner-hrl",
+ "revision": null,
+ "version_transformers": "5.22.1",
+ "version_torch": "2.15.0+cu132",
+ "dispositivo": "cuda (NVIDIA GeForce RTX 5070)",
+ "agregacion": "simple",
+ "texto": "remitente + cuerpo del correo + texto del OCR del adjunto (ocr_s04)",
+ "entidades": [
+  {
+   "texto": "Jorge Fuentes Bravo",
+   "etiqueta": "PER",
+   "score": 0.9998,
+   "inicio": 42,
+   "fin": 61
+  },
+  {
+   "texto": "Banco Cordillera DEMO S.A.",
+   "etiqueta": "ORG",
+   "score": 0.9986,
+   "inicio": 80,
+   "fin": 106
+  },
+  {
+   "texto": "Banco Cordillera DEMO S.A.",
+   "etiqueta": "ORG",
+   "score": 0.995,
+   "inicio": 295,
+   "fin": 321
+  },
+  {
+   "texto": "Jorge Fuentes Bravo",
+   "etiqueta": "PER",
+   "score": 0.9998,
+   "inicio": 368,
+   "fin": 387
+  }
+ ]
+}

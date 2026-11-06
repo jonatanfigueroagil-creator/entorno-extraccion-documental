@@ -1,0 +1,17 @@
+{
+ "id": "REC-0003",
+ "archivo": "adjunto_REC-0003.jpg",
+ "ruta": "06_Reclamos/REC-0003.eml#adjunto_REC-0003.jpg",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "crudo",
+ "psm": 3,
+ "inclinacion": 0.0,
+ "texto": "Banco Cordillera DEMO S.A.\nEstado de cuenta - prestamo personal\nCliente: Gladys Delgado Chavez .-DNI 99532701\nFecha\nDescripcion Importe\n26/02/2026 Pago servicio | 44,00\n23/02/2026 Retiro cajero :87.00\n20/02/2026 Compra comercio DEMO 179.00\n27/02/2026 Catgo reclamado (cobro indebido) | 557.00\n17/02/2026 Compra comercio DEMO.\n91.00",
+ "confianza": 0.8316,
+ "score": 0.866,
+ "invalidos": 1,
+ "decision": "revisar",
+ "segundos": 0.18,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

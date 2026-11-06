@@ -1,0 +1,84 @@
+{
+ "doc_id": "OFI-0005",
+ "tipo": "oficio",
+ "formato": "pdf_escaneado",
+ "campos": {
+  "numero_oficio": "0796-2026-ID/DSF",
+  "fecha": "2026-09-20",
+  "entidad": "Banco Andino DEMO S.A.",
+  "ruc": "20996256821",
+  "asunto": "Solicitud de aclaraciones sobre el estado financiero trimestral",
+  "referencia": "Carta N° 088-2026 de Banco Andino DEMO S.A.",
+  "plazo_dias": 7,
+  "emisor": "Intendencia DEMO de Conducta de Mercado",
+  "firmante": "Paola Vargas Flores",
+  "cargo": "Intendente DEMO"
+ },
+ "tablas": [
+  {
+   "nombre": "informacion_solicitada",
+   "encabezados": [
+    "N°",
+    "Informacion solicitada"
+   ],
+   "filas": [
+    [
+     "1",
+     "Detalle de comisiones cobradas"
+    ],
+    [
+     "2",
+     "Relacion de operaciones vigentes con saldo y estado"
+    ],
+    [
+     "3",
+     "Politica interna aprobada y su fecha de vigencia"
+    ]
+   ]
+  }
+ ],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    190,
+    1368,
+    558,
+    1491
+   ],
+   "unidad": "px",
+   "dpi": 200,
+   "ancho_px": 1654,
+   "alto_px": 2339
+  },
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    471,
+    1190,
+    744,
+    1463
+   ],
+   "unidad": "px",
+   "dpi": 200,
+   "ancho_px": 1654,
+   "alto_px": 2339
+  }
+ ],
+ "texto_completo": "AUTORIDAD SUPERVISORA DEMO\nIntendencia DEMO de Conducta de Mercado\nDocumento ficticio con fines de capacitacion\nOFICIO N° 0796-2026-ID/DSF\nLima, 20 de setiembre de 2026\nSenores\nBanco Andino DEMO S.A.\nRUC 20996256821\nPresente.-\nAsunto:\nSolicitud de aclaraciones sobre el estado financiero trimestral\nReferencia:\nCarta N° 088-2026 de Banco Andino DEMO S.A.\nMediante el presente se requiere a su representada remitir la informacion detallada a continuacion, en el\nmarco de las labores de supervision del periodo en curso.\nN°\nInformacion solicitada\n1\nDetalle de comisiones cobradas\n2\nRelacion de operaciones vigentes con saldo y estado\n3\nPolitica interna aprobada y su fecha de vigencia\nLa informacion debera ser presentada en un plazo de siete (7) dias habiles contados desde la recepcion\ndel presente oficio, en formato digital y firmada por el responsable. El incumplimiento sera evaluado\nconforme a los procedimientos internos aplicables.\nAtentamente,\nPaola Vargas Flores\nIntendente DEMO",
+ "degradacion": {
+  "rotacion": 3.95,
+  "ruido": "gaussiano",
+  "ruido_sigma": 5.8,
+  "desenfoque_sigma": 0.6,
+  "sombra": "inf",
+  "perspectiva": false,
+  "jpeg_calidad": 70,
+  "dpi": 200,
+  "paginas": 1
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

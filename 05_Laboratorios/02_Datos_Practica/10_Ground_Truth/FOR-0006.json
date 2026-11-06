@@ -1,0 +1,180 @@
+{
+ "doc_id": "FOR-0006",
+ "tipo": "formulario",
+ "formato": "imagen_jpg",
+ "campos": {
+  "nombres": "Silvia",
+  "apellido_paterno": "Torres",
+  "apellido_materno": "Ortega",
+  "dni": "99708315",
+  "fecha_nacimiento": "1973-10-05",
+  "direccion": "Psje. Las Gaviotas 35, Cercado de Lima",
+  "telefono": "999 000 852",
+  "correo": "silvia.torres26@ejemplo.pe",
+  "fecha_solicitud": "2026-08-17"
+ },
+ "tablas": [],
+ "regiones": [
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    83,
+    214,
+    1115,
+    295
+   ],
+   "campo": "nombres",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    86,
+    322,
+    1119,
+    403
+   ],
+   "campo": "apellido_paterno",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    90,
+    431,
+    1123,
+    511
+   ],
+   "campo": "apellido_materno",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    94,
+    539,
+    1126,
+    620
+   ],
+   "campo": "dni",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    97,
+    647,
+    1130,
+    728
+   ],
+   "campo": "fecha_nacimiento",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    101,
+    755,
+    1134,
+    836
+   ],
+   "campo": "direccion",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    105,
+    864,
+    1137,
+    945
+   ],
+   "campo": "telefono",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    108,
+    972,
+    1141,
+    1053
+   ],
+   "campo": "correo",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    112,
+    1080,
+    1145,
+    1161
+   ],
+   "campo": "fecha_solicitud",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    129,
+    1271,
+    417,
+    1367
+   ],
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  }
+ ],
+ "texto_completo": "Nombres: Silvia\nApellido paterno: Torres\nApellido materno: Ortega\nDNI: 99708315\nFecha de nacimiento: 05/10/1973\nDireccion: Psje. Las Gaviotas 35, Cercado de Lima\nTelefono: 999 000 852\nCorreo electronico: silvia.torres26@ejemplo.pe\nFecha de solicitud: 17/08/2026",
+ "degradacion": {
+  "rotacion": 1.95,
+  "ruido": "gaussiano",
+  "ruido_sigma": 5.0,
+  "desenfoque_sigma": 0.6,
+  "sombra": null,
+  "perspectiva": false,
+  "dpi": 150,
+  "legibilidad_manuscrito": "baja"
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)"
+}

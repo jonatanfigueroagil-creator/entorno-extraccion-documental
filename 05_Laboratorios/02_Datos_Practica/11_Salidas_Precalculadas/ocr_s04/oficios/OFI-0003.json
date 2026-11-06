@@ -1,0 +1,17 @@
+{
+ "id": "OFI-0003",
+ "archivo": "OFI-0003.pdf",
+ "ruta": "02_Oficios/OFI-0003.pdf",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "mediana",
+ "psm": 6,
+ "inclinacion": -4.25,
+ "texto": "AUTORIDAD SUPERVISORA DEMO\nIntendencia DEMO de Riesgos Operacionales\nDocumento ficticio con fines de capacitacion\nOFICIO N* 0522-2026-1D/DCM\nLima, 3 de febrero de 2026\nSenores\nBanco Cordillera DEMO S.A.\nRUC 20997531206\nPresente.-\nAsunto: Requerimiento de informacion sobre polizas colectivas emitidas en el semestre\nReferencia: Carta N* 215-2026 de Banco Cordillera DEMO S.A.\nMediante el presente se requiere a su representada remitir la informacion detallada a continuacion, en el\nmarco de las labores de supervision del periodo en curso.\n[ne [informacion solicitada 2222222\n0 Relacion de operaciones vigentes con saldo y estado\nEstados financieros al cierre del periodo\nDetalle de comisiones cobradas\nla | Reporte de tasas aplicadas por producto\nLa informacion debera ser presentada en un plazo de diez (10) dias habiles contados desde la recepcion\ndel presente oficio, en formato digi firmada por el responsable. El incumplimiento sera evaluado\nconforme a los procedimie interno icables.\nPARTE\nAtentamente, D Em\nRECIBIDO\nVeronica Chavez Guerra\nIntendente DEMO",
+ "confianza": 0.9218,
+ "score": 0.961,
+ "invalidos": 0,
+ "decision": "aceptar",
+ "segundos": 0.91,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

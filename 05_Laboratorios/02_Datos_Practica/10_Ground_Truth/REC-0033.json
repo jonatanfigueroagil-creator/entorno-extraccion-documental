@@ -1,0 +1,70 @@
+{
+ "doc_id": "REC-0033",
+ "tipo": "reclamo",
+ "formato": "eml",
+ "campos": {
+  "numero_reclamo": "R-2026-342754",
+  "fecha": "2026-03-23",
+  "nombre": "Teresa Caceres Benavides",
+  "dni": "99178883",
+  "entidad": "Banco Costa Norte DEMO S.A.",
+  "producto": "tarjeta de credito",
+  "motivo": "cobro indebido",
+  "monto_reclamado": 2775.0,
+  "telefono": "999 000 854",
+  "correo": "teresa.caceres59@ejemplo.pe",
+  "monto_en_texto": true,
+  "canal": "correo",
+  "adjunto": {
+   "nombre": "adjunto_REC-0033.jpg",
+   "tipo": "imagen"
+  }
+ },
+ "tablas": [
+  {
+   "nombre": "movimientos_adjunto",
+   "encabezados": [
+    "Fecha",
+    "Descripcion",
+    "Importe"
+   ],
+   "filas": [
+    [
+     "23/03/2026",
+     "Cargo reclamado (cobro indebido)",
+     "2,775.00"
+    ],
+    [
+     "22/03/2026",
+     "Pago servicio",
+     "33.00"
+    ],
+    [
+     "19/03/2026",
+     "Retiro cajero",
+     "73.00"
+    ],
+    [
+     "16/03/2026",
+     "Compra comercio DEMO",
+     "213.00"
+    ],
+    [
+     "13/03/2026",
+     "Interes",
+     "190.00"
+    ]
+   ],
+   "celdas_combinadas": []
+  }
+ ],
+ "regiones": [],
+ "texto_completo": "q tal, soy Teresa Caceres Benavides. me cobraron una comision que nunca autorice en la tarjeta de credito, como dos mil setecientos setenta y cinco soles mas o menos. DNI 99178883. Ya llame 3 veces al call center y nada!!\nBanco Costa Norte DEMO S.A.\nEstado de cuenta - tarjeta de credito\nCliente: Teresa Caceres Benavides   DNI 99178883\nFecha\nDescripcion\nImporte\n23/03/2026\nCargo reclamado (cobro indebido)\n2,775.00\n22/03/2026\nPago servicio\n33.00\n19/03/2026\nRetiro cajero\n73.00\n16/03/2026\nCompra comercio DEMO\n213.00\n13/03/2026\nInteres\n190.00",
+ "degradacion": {
+  "rotacion": 0,
+  "dpi": null,
+  "ruido": "gaussiano"
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

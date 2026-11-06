@@ -1,0 +1,17 @@
+{
+ "id": "REC-0001",
+ "archivo": "adjunto_REC-0001.jpg",
+ "ruta": "06_Reclamos/REC-0001.eml#adjunto_REC-0001.jpg",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "crudo",
+ "psm": 3,
+ "inclinacion": 0.0,
+ "texto": "Banco Cordillera DEMO S.A.\nEstado de cuenta - prestamo personal\nCliente: Jorge Fuentes Bravo DNI 99929470\n03/09/2026\n31/08/2026\nPago servicio\nTecna Descripcion Importe\n09/09/2026 Interes 226.00\n06/09/2026 Interes 29.00\n10/09/2026 Cargo reclamado (demora en entrega) 2,643.00\nInteres 290.00",
+ "confianza": 0.9079,
+ "score": 0.954,
+ "invalidos": 0,
+ "decision": "aceptar",
+ "segundos": 0.22,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

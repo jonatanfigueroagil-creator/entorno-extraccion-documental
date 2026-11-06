@@ -1,0 +1,47 @@
+{
+ "id": "REC-0004",
+ "modelo": "Davlan/xlm-roberta-base-ner-hrl",
+ "revision": null,
+ "version_transformers": "5.22.1",
+ "version_torch": "2.15.0+cu132",
+ "dispositivo": "cuda (NVIDIA GeForce RTX 5070)",
+ "agregacion": "simple",
+ "texto": "remitente + cuerpo del correo + texto del OCR del adjunto (ocr_s04)",
+ "entidades": [
+  {
+   "texto": "Marta Chavez Paredes",
+   "etiqueta": "PER",
+   "score": 0.9998,
+   "inicio": 42,
+   "fin": 62
+  },
+  {
+   "texto": "Edpyme Sol Naciente DEMO S.A.",
+   "etiqueta": "ORG",
+   "score": 0.9973,
+   "inicio": 81,
+   "fin": 110
+  },
+  {
+   "texto": "Edpyme Sol Naciente DEMO S.A",
+   "etiqueta": "ORG",
+   "score": 0.9955,
+   "inicio": 279,
+   "fin": 307
+  },
+  {
+   "texto": "Marta Chavez Paredes",
+   "etiqueta": "PER",
+   "score": 0.9998,
+   "inicio": 356,
+   "fin": 376
+  },
+  {
+   "texto": "MO",
+   "etiqueta": "ORG",
+   "score": 0.7009,
+   "inicio": 531,
+   "fin": 533
+  }
+ ]
+}

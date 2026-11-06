@@ -1,0 +1,17 @@
+{
+ "id": "REC-0015",
+ "archivo": "adjunto_REC-0015.jpg",
+ "ruta": "06_Reclamos/REC-0015.eml#adjunto_REC-0015.jpg",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "crudo",
+ "psm": 3,
+ "inclinacion": 0.0,
+ "texto": "Financiera Altiplano DEMO S.A.\nEstado de cuenta - prestamo personal\nCliente: Victor Caceres Mendoza DNI 99538564\nFecha Descripcion Importe\n05/07/2026 Retiro cajero 108.00\n02/07/2026 Retiro cajero 160.00\n06/07/2026 Cargo reclamado (cargo duplicado) 655.00\n29/06/2026 Compra comercio DEMO 82.00\n26/06/2026 105 Retiro cajero 35.00",
+ "confianza": 0.8895,
+ "score": 0.945,
+ "invalidos": 0,
+ "decision": "aceptar",
+ "segundos": 0.2,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

@@ -1,0 +1,180 @@
+{
+ "doc_id": "FOR-0002",
+ "tipo": "formulario",
+ "formato": "imagen_png",
+ "campos": {
+  "nombres": "Sofia",
+  "apellido_paterno": "Escobar",
+  "apellido_materno": "Lazo",
+  "dni": "99759289",
+  "fecha_nacimiento": "1971-03-20",
+  "direccion": "Calle Los Pinos 88, Surco",
+  "telefono": "999 000 021",
+  "correo": "sofia.escobar62@ejemplo.pe",
+  "fecha_solicitud": "2026-05-08"
+ },
+ "tablas": [],
+ "regiones": [
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    78,
+    211,
+    1111,
+    299
+   ],
+   "campo": "nombres",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    83,
+    319,
+    1115,
+    407
+   ],
+   "campo": "apellido_paterno",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    87,
+    427,
+    1120,
+    515
+   ],
+   "campo": "apellido_materno",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    91,
+    535,
+    1124,
+    624
+   ],
+   "campo": "dni",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    96,
+    644,
+    1129,
+    732
+   ],
+   "campo": "fecha_nacimiento",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    100,
+    752,
+    1133,
+    840
+   ],
+   "campo": "direccion",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    105,
+    860,
+    1138,
+    948
+   ],
+   "campo": "telefono",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    109,
+    968,
+    1142,
+    1057
+   ],
+   "campo": "correo",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    114,
+    1077,
+    1147,
+    1165
+   ],
+   "campo": "fecha_solicitud",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    143,
+    1270,
+    415,
+    1370
+   ],
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  }
+ ],
+ "texto_completo": "Nombres: Sofia\nApellido paterno: Escobar\nApellido materno: Lazo\nDNI: 99759289\nFecha de nacimiento: 20/03/1971\nDireccion: Calle Los Pinos 88, Surco\nTelefono: 999 000 021\nCorreo electronico: sofia.escobar62@ejemplo.pe\nFecha de solicitud: 08/05/2026",
+ "degradacion": {
+  "rotacion": 2.36,
+  "ruido": "gaussiano",
+  "ruido_sigma": 5.0,
+  "desenfoque_sigma": 0.6,
+  "sombra": null,
+  "perspectiva": false,
+  "dpi": 150,
+  "legibilidad_manuscrito": "baja"
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)"
+}

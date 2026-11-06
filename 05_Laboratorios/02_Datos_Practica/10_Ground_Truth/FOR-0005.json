@@ -1,0 +1,180 @@
+{
+ "doc_id": "FOR-0005",
+ "tipo": "formulario",
+ "formato": "imagen_png",
+ "campos": {
+  "nombres": "Victor",
+  "apellido_paterno": "Caceres",
+  "apellido_materno": "Ortega",
+  "dni": "99109260",
+  "fecha_nacimiento": "1989-08-23",
+  "direccion": "Av. del Sol 1020, Jesus Maria",
+  "telefono": "999 000 192",
+  "correo": "victor.caceres8@ejemplo.pe",
+  "fecha_solicitud": "2026-07-17"
+ },
+ "tablas": [],
+ "regiones": [
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    129,
+    211,
+    1162,
+    298
+   ],
+   "campo": "nombres",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    124,
+    319,
+    1157,
+    407
+   ],
+   "campo": "apellido_paterno",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    120,
+    427,
+    1153,
+    515
+   ],
+   "campo": "apellido_materno",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    116,
+    536,
+    1149,
+    623
+   ],
+   "campo": "dni",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    111,
+    644,
+    1144,
+    731
+   ],
+   "campo": "fecha_nacimiento",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    107,
+    752,
+    1140,
+    840
+   ],
+   "campo": "direccion",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    103,
+    860,
+    1135,
+    948
+   ],
+   "campo": "telefono",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    98,
+    969,
+    1131,
+    1056
+   ],
+   "campo": "correo",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    94,
+    1077,
+    1127,
+    1164
+   ],
+   "campo": "fecha_solicitud",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    96,
+    1253,
+    388,
+    1341
+   ],
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  }
+ ],
+ "texto_completo": "Nombres: Victor\nApellido paterno: Caceres\nApellido materno: Ortega\nDNI: 99109260\nFecha de nacimiento: 23/08/1989\nDireccion: Av. del Sol 1020, Jesus Maria\nTelefono: 999 000 192\nCorreo electronico: victor.caceres8@ejemplo.pe\nFecha de solicitud: 17/07/2026",
+ "degradacion": {
+  "rotacion": -2.32,
+  "ruido": "gaussiano",
+  "ruido_sigma": 5.0,
+  "desenfoque_sigma": 0.0,
+  "sombra": null,
+  "perspectiva": false,
+  "dpi": 150,
+  "legibilidad_manuscrito": "baja"
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)"
+}

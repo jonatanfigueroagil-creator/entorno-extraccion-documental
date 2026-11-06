@@ -1,0 +1,17 @@
+{
+ "id": "REC-0037",
+ "archivo": "adjunto_REC-0037.pdf",
+ "ruta": "06_Reclamos/REC-0037.eml#adjunto_REC-0037.pdf",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "crudo",
+ "psm": 3,
+ "inclinacion": 0.0,
+ "texto": "Banco Costa Norte DEMO S.A.\nEstado de cuenta - cuenta de ahorros\nCliente: Mario Paredes Ledesma DNI 99622140\nFecha Descripcion Importe\n20/05/2026 Cargo reclamado (cuenta cerrada) 1,959.00\n19/05/2026 Retiro cajero 214.00\n16/05/2026 Interes 183.00\n13/05/2026 Pago servicio 82.00\n10/05/2026 Compra comercio DEMO 291.00",
+ "confianza": 0.9567,
+ "score": 0.978,
+ "invalidos": 0,
+ "decision": "aceptar",
+ "segundos": 0.3,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

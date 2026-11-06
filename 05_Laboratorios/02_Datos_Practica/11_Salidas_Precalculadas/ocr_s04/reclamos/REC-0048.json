@@ -1,0 +1,17 @@
+{
+ "id": "REC-0048",
+ "archivo": "adjunto_REC-0048.jpg",
+ "ruta": "06_Reclamos/REC-0048.eml#adjunto_REC-0048.jpg",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "crudo",
+ "psm": 3,
+ "inclinacion": 0.0,
+ "texto": "Banco Andino DEMO S.A.\nEstado de cuenta - tarjeta de debito\nCliente: Patricia Mamani Flores DNI 99509119\nFecha Descripcion Importe\n09/06/2026 Cargo reclamado (cargo duplicado) 2,763.00\n08/06/2026 Interes 260.00\n05/06/2026 Retiro cajero 108.00\n02/06/2026 Compra comercio DEMO\nPaoroszoos y Pa comercio DEMO |\n30/05/2026\nInteres",
+ "confianza": 0.8516,
+ "score": 0.926,
+ "invalidos": 0,
+ "decision": "aceptar",
+ "segundos": 0.21,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

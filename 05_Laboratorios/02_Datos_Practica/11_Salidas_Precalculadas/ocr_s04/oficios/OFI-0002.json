@@ -1,0 +1,17 @@
+{
+ "id": "OFI-0002",
+ "archivo": "OFI-0002.pdf",
+ "ruta": "02_Oficios/OFI-0002.pdf",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "mediana",
+ "psm": 6,
+ "inclinacion": 3.25,
+ "texto": "AUTORIDAD SUPERVISORA DEMO\nIntendencia DEMO de Riesgos Operacionales\nDocumento ficticio con fines de capacitacion\nOFICIO N* 0955-2026-1D/DSF\nLima, 18 de marzo de 2026\nSenores\nSeguros Vicuna DEMO S.A.\nRUC 20995524318\nPresente.-\nAsunto: Remision de reportes de tasas de interes y comisiones vigentes\nReferencia: Carta N”* 099-2026 de Seguros Vicuna DEMO S.A.\nMediante el presente se requiere a su representada remitir la informacion detallada a continuacion, en el\nmarco de las labores de supervision del periodo en curso.\nInformacion solicitada\n0 Reporte de tasas aplicadas por producto\nRelacion de operaciones vigentes con saldo y estado\n3 Politica interna aprobada y su fecha de vigencia\n4 Informe de atencion de reclamos del periodo\nLa informacion debera ser presentada en un plazo de siete (7) dias habiles contados desde la recepcion\ndel presente oficio, en formato digital y firmada por el responsable. El incumplimiento sera evaluado\nconforme a los procedimie éS ñternosaplicables.\nAESA DE PARTES\nAtentamente, D E MO\nRECIBIDO\nPaola Palacios Rojas\nIntendente DEMO",
+ "confianza": 0.9315,
+ "score": 0.966,
+ "invalidos": 0,
+ "decision": "aceptar",
+ "segundos": 0.89,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

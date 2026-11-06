@@ -1,0 +1,80 @@
+{
+ "doc_id": "OFI-0018",
+ "tipo": "oficio",
+ "formato": "pdf_escaneado",
+ "campos": {
+  "numero_oficio": "0559-2026-ID/DSF",
+  "fecha": "2026-05-13",
+  "entidad": "Banco Cordillera DEMO S.A.",
+  "ruc": "20997531206",
+  "asunto": "Requerimiento de informacion sobre polizas colectivas emitidas en el semestre",
+  "referencia": "Carta N° 244-2026 de Banco Cordillera DEMO S.A.",
+  "plazo_dias": 15,
+  "emisor": "Intendencia DEMO de Riesgos Operacionales",
+  "firmante": "Paola Quispe Salazar",
+  "cargo": "Intendente DEMO"
+ },
+ "tablas": [
+  {
+   "nombre": "informacion_solicitada",
+   "encabezados": [
+    "N°",
+    "Informacion solicitada"
+   ],
+   "filas": [
+    [
+     "1",
+     "Detalle de comisiones cobradas"
+    ],
+    [
+     "2",
+     "Politica interna aprobada y su fecha de vigencia"
+    ]
+   ]
+  }
+ ],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    293,
+    1965,
+    849,
+    2183
+   ],
+   "unidad": "px",
+   "dpi": 300,
+   "ancho_px": 2481,
+   "alto_px": 3508
+  },
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    702,
+    1721,
+    1116,
+    2135
+   ],
+   "unidad": "px",
+   "dpi": 300,
+   "ancho_px": 2481,
+   "alto_px": 3508
+  }
+ ],
+ "texto_completo": "AUTORIDAD SUPERVISORA DEMO\nIntendencia DEMO de Riesgos Operacionales\nDocumento ficticio con fines de capacitacion\nOFICIO N° 0559-2026-ID/DSF\nLima, 13 de mayo de 2026\nSenores\nBanco Cordillera DEMO S.A.\nRUC 20997531206\nPresente.-\nAsunto:\nRequerimiento de informacion sobre polizas colectivas emitidas en el semestre\nReferencia:\nCarta N° 244-2026 de Banco Cordillera DEMO S.A.\nMediante el presente se requiere a su representada remitir la informacion detallada a continuacion, en el\nmarco de las labores de supervision del periodo en curso.\nN°\nInformacion solicitada\n1\nDetalle de comisiones cobradas\n2\nPolitica interna aprobada y su fecha de vigencia\nLa informacion debera ser presentada en un plazo de quince (15) dias habiles contados desde la\nrecepcion del presente oficio, en formato digital y firmada por el responsable. El incumplimiento sera\nevaluado conforme a los procedimientos internos aplicables.\nAtentamente,\nPaola Quispe Salazar\nIntendente DEMO",
+ "degradacion": {
+  "rotacion": 4.74,
+  "ruido": "sal_pimienta",
+  "ruido_sigma": 10.2,
+  "desenfoque_sigma": 0.0,
+  "sombra": "izq",
+  "perspectiva": false,
+  "jpeg_calidad": 60,
+  "dpi": 300,
+  "paginas": 1
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

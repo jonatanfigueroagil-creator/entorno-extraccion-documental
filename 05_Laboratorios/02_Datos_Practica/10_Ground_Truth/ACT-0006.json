@@ -1,0 +1,221 @@
+{
+ "doc_id": "ACT-0006",
+ "tipo": "acta",
+ "formato": "pdf_nativo",
+ "campos": {
+  "numero_acta": "02-2026",
+  "fecha": "2026-04-24",
+  "entidad": "Caja Rural Río Claro DEMO S.A.",
+  "ruc": "20995958881",
+  "organo": "Directorio",
+  "tipo_sesion": "extraordinaria",
+  "hora_inicio": "11:15",
+  "hora_fin": "12:45",
+  "quorum": "6 de 9",
+  "quorum_asistentes": 6,
+  "quorum_total": 9,
+  "presidente": "Víctor Vásquez Gómez",
+  "secretario": "Andrés Fernández Núñez",
+  "n_acuerdos": 8,
+  "n_paginas": 7
+ },
+ "tablas": [
+  {
+   "nombre": "asistencia",
+   "encabezados": [
+    "N°",
+    "Nombre",
+    "Cargo",
+    "Asistencia"
+   ],
+   "filas": [
+    [
+     "1",
+     "Víctor Vásquez Gómez",
+     "Presidente del Directorio",
+     "Presente"
+    ],
+    [
+     "2",
+     "Mónica Pérez Céspedes",
+     "Vicepresidenta",
+     "Presente"
+    ],
+    [
+     "3",
+     "Andrés Fernández Núñez",
+     "Secretario",
+     "Presente"
+    ],
+    [
+     "4",
+     "Lucía Vásquez Quiñones",
+     "Directora",
+     "Presente (virtual)"
+    ],
+    [
+     "5",
+     "Lucía Pérez López",
+     "Directora",
+     "Presente (virtual)"
+    ],
+    [
+     "6",
+     "Lucía Mamani Muñoz",
+     "Directora",
+     "Presente"
+    ],
+    [
+     "7",
+     "Víctor Pérez Cáceres",
+     "Director",
+     "Ausente"
+    ],
+    [
+     "8",
+     "Jesús Tapia Huamán",
+     "Director",
+     "Ausente"
+    ],
+    [
+     "9",
+     "Ángel Mamani Márquez",
+     "Director",
+     "Ausente (con licencia)"
+    ]
+   ]
+  },
+  {
+   "nombre": "acuerdos",
+   "encabezados": [
+    "N°",
+    "Descripcion",
+    "Responsable",
+    "Plazo",
+    "Estado",
+    "Referencia"
+   ],
+   "filas": [
+    [
+     "06-2026",
+     "Disponer el levantamiento de las observaciones de riesgo alto del informe de auditoría interna y el reporte mensual de avances.",
+     "Auditoría Interna",
+     "10 dias",
+     "vigente",
+     ""
+    ],
+    [
+     "07-2026",
+     "Aprobar la actualización de la política de gestión del riesgo de liquidez, con vigencia desde la fecha de la presente acta.",
+     "Gerencia de Riesgos",
+     "inmediato",
+     "vigente",
+     ""
+    ],
+    [
+     "08-2026",
+     "Aprobar la distribución de excedentes del ejercicio conforme a la propuesta presentada y constituir las reservas correspondientes.",
+     "Gerencia de Finanzas",
+     "2026-05-04",
+     "vigente",
+     ""
+    ],
+    [
+     "09-2026",
+     "Disponer que el 100 % del personal complete la capacitación en prevención del lavado de activos.",
+     "Gerencia de Recursos Humanos",
+     "45 dias",
+     "vigente",
+     ""
+    ],
+    [
+     "10-2026",
+     "Aprobar el nuevo tarifario de créditos de consumo y disponer su publicación en las agencias y en el portal institucional.",
+     "Unidad de Atención al Usuario",
+     "10 dias",
+     "vigente",
+     ""
+    ],
+    [
+     "11-2026",
+     "Aprobar los estados financieros con corte a marzo de 2026 y autorizar su presentación a los órganos competentes.",
+     "Contabilidad General",
+     "2026-05-14",
+     "vigente",
+     ""
+    ],
+    [
+     "12-2026",
+     "Ratificar la conformación del comité de créditos y sus facultades de aprobación vigentes.",
+     "Secretaría General",
+     "inmediato",
+     "vigente",
+     ""
+    ],
+    [
+     "13-2026",
+     "Aprobar las modificaciones del reglamento interno de créditos y encargar su difusión a todas las agencias.",
+     "Gerencia de Créditos",
+     "60 dias",
+     "vigente",
+     ""
+    ]
+   ],
+   "nota": "Plazo normalizado: 'N dias' (calendario), fecha ISO o 'inmediato'. Estado: vigente/derogado/modificado."
+  }
+ ],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 7,
+   "bbox": [
+    60.9,
+    105.2,
+    192.7,
+    143.0
+   ],
+   "unidad": "pt"
+  },
+  {
+   "tipo": "firma",
+   "pagina": 7,
+   "bbox": [
+    322.6,
+    102.0,
+    460.2,
+    143.0
+   ],
+   "unidad": "pt"
+  },
+  {
+   "tipo": "sello",
+   "pagina": 7,
+   "bbox": [
+    254,
+    106.0,
+    326,
+    178.0
+   ],
+   "unidad": "pt"
+  }
+ ],
+ "texto_completo": "Caja Rural Río Claro DEMO S.A.\nRUC 20995958881\nACTA N.º 02-2026 · SESIÓN EXTRAORDINARIA DE DIRECTORIO\nCaja Rural Río Claro DEMO S.A. — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 1 de 7\nACTA N.º 02-2026\nSESIÓN EXTRAORDINARIA DE DIRECTORIO\nFecha: 24/04/2026\nSiendo las 11:15 horas del día 24/04/2026, se reunió el Directorio de Caja Rural Río Claro DEMO S.A. en su\nsede institucional, en sesión extraordinaria, con la asistencia de seis (6) de los nueve (9) miembros\nconvocados, bajo la presidencia de Víctor Vásquez Gómez, quien actuó como Presidente del Directorio, y de\nAndrés Fernández Núñez, quien actuó como secretario(a).\nI. VERIFICACIÓN DEL QUÓRUM\nSe dejó constancia de la siguiente asistencia. Existiendo quórum reglamentario, el Presidente declaró instalada\nla sesión.\nN°\nNombre\nCargo\nAsistencia\n1\nVíctor Vásquez Gómez\nPresidente del Directorio\nPresente\n2\nMónica Pérez Céspedes\nVicepresidenta\nPresente\n3\nAndrés Fernández Núñez\nSecretario\nPresente\n4\nLucía Vásquez Quiñones\nDirectora\nPresente (virtual)\n5\nLucía Pérez López\nDirectora\nPresente (virtual)\n6\nLucía Mamani Muñoz\nDirectora\nPresente\n7\nVíctor Pérez Cáceres\nDirector\nAusente\n8\nJesús Tapia Huamán\nDirector\nAusente\n9\nÁngel Mamani Márquez\nDirector\nAusente (con licencia)\nII. AGENDA\nLa agenda de la sesión fue la siguiente: 1) Verificación del quórum; 2) Informe de auditoría interna; 3) Política\nde gestión del riesgo de liquidez; 4) Distribución de excedentes y constitución de reservas; 5) Capacitación en\nprevención del lavado de activos; 6) Tasas y comisiones de los productos de crédito; 7) Aprobación de los\nestados financieros; 8) Ratificación del comité de créditos; 9) Actualización del reglamento interno de créditos;\n10) Revisión de acuerdos adoptados.\nIII. DESARROLLO DE LA SESIÓN\n2. INFORME DE AUDITORÍA INTERNA\nLa Jefatura de Auditoría Interna presentó el informe del trimestre, que contiene 3 observaciones, de las cuales\ndos fueron calificadas de riesgo alto.\nLa Gerencia General se comprometió a presentar los planes de acción por cada observación.\nAndrés Fernández Núñez manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello\nen el acta. Andrés Fernández Núñez observó que los plazos propuestos deben guardar coherencia con el\ncalendario institucional, y la gerencia tomó nota.\nVíctor Vásquez Gómez manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en\nel acta. Lucía Mamani Muñoz consultó sobre el impacto de la medida en los indicadores de solvencia, y la\ngerencia precisó que se mantendrían dentro de los límites aprobados.\nMónica Pérez Céspedes observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. Luego de un breve debate, los miembros presentes coincidieron en que\nla medida resulta razonable y oportuna.\nAndrés Fernández Núñez observó que los plazos propuestos deben guardar coherencia con el calendario\nCaja Rural Río Claro DEMO S.A.\nRUC 20995958881\nACTA N.º 02-2026 · SESIÓN EXTRAORDINARIA DE DIRECTORIO\nCaja Rural Río Claro DEMO S.A. — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 2 de 7\ninstitucional, y la gerencia tomó nota. Andrés Fernández Núñez manifestó su conformidad con lo expuesto y\nsolicitó que se deje constancia de ello en el acta.\nMónica Pérez Céspedes manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en\nel acta. Lucía Mamani Muñoz sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada.\nLucía Pérez López pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. Lucía Vásquez Quiñones pidió que los responsables remitan un informe escrito con el detalle de las\nacciones adoptadas.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Andrés Fernández\nNúñez sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nACUERDO N.º 06-2026: Disponer el levantamiento de las observaciones de riesgo alto del informe\nde auditoría interna y el reporte mensual de avances.\nResponsable: Auditoría Interna. Plazo: dentro de un plazo de diez (10) días calendario.\nAprobado por unanimidad de los miembros presentes.\n3. POLÍTICA DE GESTIÓN DEL RIESGO DE LIQUIDEZ\nLa Gerencia de Riesgos presentó la actualización de la política, con un ratio de liquidez en moneda nacional de\n2,2 % frente a un límite interno de 8,0 %.\nSe explicó la metodología de simulación de escenarios de estrés y el plan de contingencia de fondeo.\nAndrés Fernández Núñez sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. La Presidencia agradeció los aportes de los miembros y sometió el asunto a votación.\nLucía Vásquez Quiñones observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. Luego de un breve debate, los miembros presentes coincidieron en que\nla medida resulta razonable y oportuna.\nMónica Pérez Céspedes sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. Luego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable\ny oportuna.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. Luego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable\ny oportuna.\nMónica Pérez Céspedes sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. Mónica Pérez Céspedes sugirió que el seguimiento se reporte en la próxima sesión, propuesta que\nfue aceptada.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Lucía Mamani Muñoz\npidió que los responsables remitan un informe escrito con el detalle de las acciones adoptadas.\nLucía Vásquez Quiñones sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. Luego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable\ny oportuna.\nACUERDO N.º 07-2026: Aprobar la actualización de la política de gestión del riesgo de liquidez, con\nvigencia desde la fecha de la presente acta.\nResponsable: Gerencia de Riesgos. Plazo: de cumplimiento inmediato.\nAprobado por mayoría, con 5 votos a favor y 1 en contra.\nCaja Rural Río Claro DEMO S.A.\nRUC 20995958881\nACTA N.º 02-2026 · SESIÓN EXTRAORDINARIA DE DIRECTORIO\nCaja Rural Río Claro DEMO S.A. — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 3 de 7\n4. DISTRIBUCIÓN DE EXCEDENTES Y CONSTITUCIÓN DE RESERVAS\nEl Comité de Finanzas propuso destinar el 20 % de los excedentes a la reserva cooperativa y el 10 % al fondo\nde educación.\nLos excedentes del ejercicio ascienden a S/ 2,400,000.00 según los estados financieros auditados.\nLucía Mamani Muñoz observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. Lucía Mamani Muñoz pidió que los responsables remitan un informe\nescrito con el detalle de las acciones adoptadas.\nMónica Pérez Céspedes consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. Mónica Pérez Céspedes manifestó su\nconformidad con lo expuesto y solicitó que se deje constancia de ello en el acta.\nLucía Mamani Muñoz sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nLucía Pérez López observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Lucía Mamani Muñoz\nsugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nLucía Pérez López observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. Lucía Vásquez Quiñones manifestó su conformidad con lo expuesto y\nsolicitó que se deje constancia de ello en el acta.\nAndrés Fernández Núñez consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. La Presidencia agradeció los aportes de los\nmiembros y sometió el asunto a votación.\nLucía Pérez López sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nLucía Vásquez Quiñones consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados.\nACUERDO N.º 08-2026: Aprobar la distribución de excedentes del ejercicio conforme a la propuesta\npresentada y constituir las reservas correspondientes.\nResponsable: Gerencia de Finanzas. Plazo: hasta el 4 de mayo de 2026.\nAprobado por unanimidad de los miembros presentes.\n5. CAPACITACIÓN EN PREVENCIÓN DEL LAVADO DE ACTIVOS\nEl Oficial de Cumplimiento informó que el 2,2 % del personal completó la capacitación anual obligatoria.\nSe acordó reforzar el programa para el personal de nuevas agencias y para los miembros del órgano de\ngobierno.\nAndrés Fernández Núñez manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello\nen el acta. Lucía Vásquez Quiñones sugirió que el seguimiento se reporte en la próxima sesión, propuesta que\nfue aceptada.\nAndrés Fernández Núñez sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. Lucía Mamani Muñoz sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada.\nLucía Mamani Muñoz observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. Lucía Vásquez Quiñones sugirió que el seguimiento se reporte en la\npróxima sesión, propuesta que fue aceptada.\nLucía Pérez López consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. Luego de un breve debate, los miembros\nCaja Rural Río Claro DEMO S.A.\nRUC 20995958881\nACTA N.º 02-2026 · SESIÓN EXTRAORDINARIA DE DIRECTORIO\nCaja Rural Río Claro DEMO S.A. — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 4 de 7\npresentes coincidieron en que la medida resulta razonable y oportuna.\nLucía Vásquez Quiñones sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. Mónica Pérez Céspedes sugirió que el seguimiento se reporte en la próxima sesión, propuesta que\nfue aceptada.\nLucía Vásquez Quiñones manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en\nel acta. Lucía Pérez López sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada.\nMónica Pérez Céspedes sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. La Presidencia agradeció los aportes de los miembros y sometió el asunto a votación.\nACUERDO N.º 09-2026: Disponer que el 100 % del personal complete la capacitación en prevención\ndel lavado de activos.\nResponsable: Gerencia de Recursos Humanos. Plazo: dentro de un plazo de cuarenta y cinco (45) días\ncalendario.\nAprobado por mayoría, con 5 votos a favor y 1 en contra.\n6. TASAS Y COMISIONES DE LOS PRODUCTOS DE CRÉDITO\nSe propuso ajustar la tasa de costo efectivo anual de los créditos de consumo a 2,2 %, manteniendo las\ncomisiones vigentes.\nLa Unidad de Atención al Usuario recordó el deber de publicar el tarifario actualizado en todas las agencias.\nVíctor Vásquez Gómez pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. Lucía Mamani Muñoz manifestó su conformidad con lo expuesto y solicitó que se deje constancia\nde ello en el acta.\nLucía Mamani Muñoz sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nVíctor Vásquez Gómez pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas.\nMónica Pérez Céspedes pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. Luego de un breve debate, los miembros presentes coincidieron en que la medida resulta\nrazonable y oportuna.\nLucía Pérez López consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. Víctor Vásquez Gómez sugirió que el seguimiento\nse reporte en la próxima sesión, propuesta que fue aceptada.\nLucía Vásquez Quiñones consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. La Presidencia agradeció los aportes de los\nmiembros y sometió el asunto a votación.\nLucía Mamani Muñoz observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. Andrés Fernández Núñez pidió que los responsables remitan un informe\nescrito con el detalle de las acciones adoptadas.\nLucía Pérez López pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. Andrés Fernández Núñez pidió que los responsables remitan un informe escrito con el detalle de\nlas acciones adoptadas.\nACUERDO N.º 10-2026: Aprobar el nuevo tarifario de créditos de consumo y disponer su\npublicación en las agencias y en el portal institucional.\nResponsable: Unidad de Atención al Usuario. Plazo: dentro de un plazo de diez (10) días calendario.\nAprobado por mayoría, con 5 votos a favor y 1 en contra.\nCaja Rural Río Claro DEMO S.A.\nRUC 20995958881\nACTA N.º 02-2026 · SESIÓN EXTRAORDINARIA DE DIRECTORIO\nCaja Rural Río Claro DEMO S.A. — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 5 de 7\n7. APROBACIÓN DE LOS ESTADOS FINANCIEROS\nLa Contabilidad presentó los estados financieros con corte a marzo, que registran activos por S/ 15,100,000.00\ny una utilidad acumulada de S/ 2,400,000.00.\nLos miembros revisaron las notas explicativas y el dictamen preliminar del auditor externo, sin observaciones\nde fondo.\nVíctor Vásquez Gómez manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en\nel acta. Andrés Fernández Núñez pidió que los responsables remitan un informe escrito con el detalle de las\nacciones adoptadas.\nAndrés Fernández Núñez sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. Lucía Pérez López sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. Lucía Vásquez Quiñones consultó sobre el impacto de la medida en los indicadores de solvencia, y\nla gerencia precisó que se mantendrían dentro de los límites aprobados.\nMónica Pérez Céspedes sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. Víctor Vásquez Gómez manifestó su conformidad con lo expuesto y solicitó que se deje constancia\nde ello en el acta.\nLucía Pérez López manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nacta. Luego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Luego de un breve\ndebate, los miembros presentes coincidieron en que la medida resulta razonable y oportuna.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Lucía Vásquez Quiñones\nconsultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia precisó que se\nmantendrían dentro de los límites aprobados.\nACUERDO N.º 11-2026: Aprobar los estados financieros con corte a marzo de 2026 y autorizar su\npresentación a los órganos competentes.\nResponsable: Contabilidad General. Plazo: hasta el 14 de mayo de 2026.\nAprobado por unanimidad de los miembros presentes.\n8. RATIFICACIÓN DEL COMITÉ DE CRÉDITOS\nSe propuso ratificar a los integrantes del comité de créditos por el periodo restante, considerando su\ndesempeño y la rotación del personal.\nEl Presidente recordó los límites de aprobación que corresponden a cada nivel.\nLucía Vásquez Quiñones manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en\nel acta. La Presidencia agradeció los aportes de los miembros y sometió el asunto a votación.\nVíctor Vásquez Gómez manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en\nel acta. Lucía Vásquez Quiñones sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada.\nLucía Pérez López observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. Luego de un breve debate, los miembros presentes coincidieron en que\nla medida resulta razonable y oportuna.\nVíctor Vásquez Gómez manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en\nel acta. La Presidencia agradeció los aportes de los miembros y sometió el asunto a votación.\nCaja Rural Río Claro DEMO S.A.\nRUC 20995958881\nACTA N.º 02-2026 · SESIÓN EXTRAORDINARIA DE DIRECTORIO\nCaja Rural Río Claro DEMO S.A. — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 6 de 7\nLucía Vásquez Quiñones sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. Andrés Fernández Núñez consultó sobre el impacto de la medida en los indicadores de solvencia, y\nla gerencia precisó que se mantendrían dentro de los límites aprobados.\nVíctor Vásquez Gómez sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. Luego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable\ny oportuna.\nMónica Pérez Céspedes consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. La Presidencia agradeció los aportes de los\nmiembros y sometió el asunto a votación.\nACUERDO N.º 12-2026: Ratificar la conformación del comité de créditos y sus facultades de\naprobación vigentes.\nResponsable: Secretaría General. Plazo: de cumplimiento inmediato.\nAprobado por mayoría, con 5 votos a favor y 1 en contra.\n9. ACTUALIZACIÓN DEL REGLAMENTO INTERNO DE CRÉDITOS\nLa asesoría legal presentó las modificaciones al reglamento de créditos para incorporar nuevas garantías\nadmisibles y criterios de evaluación.\nLos miembros pidieron precisar el procedimiento de excepciones y el nivel de aprobación correspondiente.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. La Presidencia agradeció los aportes de los miembros y sometió el asunto a votación.\nMónica Pérez Céspedes pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. La Presidencia agradeció los aportes de los miembros y sometió el asunto a votación.\nMónica Pérez Céspedes pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. Lucía Pérez López sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada.\nAndrés Fernández Núñez pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. La Presidencia agradeció los aportes de los miembros y sometió el asunto a votación.\nLucía Mamani Muñoz manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nacta. Lucía Pérez López sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Lucía Mamani Muñoz\nobservó que los plazos propuestos deben guardar coherencia con el calendario institucional, y la gerencia tomó\nnota.\nAndrés Fernández Núñez pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. Lucía Mamani Muñoz manifestó su conformidad con lo expuesto y solicitó que se deje constancia\nde ello en el acta.\nACUERDO N.º 13-2026: Aprobar las modificaciones del reglamento interno de créditos y encargar\nsu difusión a todas las agencias.\nResponsable: Gerencia de Créditos. Plazo: dentro de un plazo de sesenta (60) días calendario.\nAprobado por mayoría, con 5 votos a favor y 1 en contra.\nIV. CIERRE\nNo habiendo otros asuntos que tratar, siendo las 12:45 horas se levantó la sesión, firmando los presentes en\nseñal de conformidad.\nCaja Rural Río Claro DEMO S.A.\nRUC 20995958881\nACTA N.º 02-2026 · SESIÓN EXTRAORDINARIA DE DIRECTORIO\nCaja Rural Río Claro DEMO S.A. — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 7 de 7\nVíctor Vásquez Gómez\nPresidente del Directorio\nAndrés Fernández Núñez\nSecretario",
+ "degradacion": {
+  "rotacion": 0,
+  "dpi": null,
+  "ruido": "ninguno"
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar",
+ "origen": "corpus_practica",
+ "trampas": [
+  "tildes_en_nombres",
+  "pie_de_pagina_repetido",
+  "tabla_de_asistencia"
+ ],
+ "campos_ausentes": [],
+ "elementos_repetidos": {
+  "encabezado": "ACTA N.º 02-2026 · SESIÓN EXTRAORDINARIA DE DIRECTORIO",
+  "pie": "Caja Rural Río Claro DEMO S.A. — Libro de Actas — Documento ficticio de práctica (DEMO)"
+ }
+}

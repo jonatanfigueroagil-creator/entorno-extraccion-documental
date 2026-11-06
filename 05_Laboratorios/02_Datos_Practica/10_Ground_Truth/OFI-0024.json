@@ -1,0 +1,62 @@
+{
+ "doc_id": "OFI-0024",
+ "tipo": "oficio",
+ "formato": "pdf_escaneado",
+ "campos": {
+  "numero_oficio": "0291-2026-ID/DCM",
+  "fecha": "2026-09-11",
+  "entidad": "Seguros Vicuna DEMO S.A.",
+  "ruc": "20995524318",
+  "asunto": "Requerimiento de informacion sobre la cartera de creditos al 30 de junio de 2026",
+  "referencia": "Carta N° 223-2026 de Seguros Vicuna DEMO S.A.",
+  "plazo_dias": 5,
+  "emisor": "Intendencia DEMO de Supervision Financiera",
+  "firmante": "Rosa Rojas Delgado",
+  "cargo": "Intendente DEMO"
+ },
+ "tablas": [],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    173,
+    1100,
+    538,
+    1216
+   ],
+   "unidad": "px",
+   "dpi": 200,
+   "ancho_px": 1654,
+   "alto_px": 2339
+  },
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    468,
+    951,
+    731,
+    1214
+   ],
+   "unidad": "px",
+   "dpi": 200,
+   "ancho_px": 1654,
+   "alto_px": 2339
+  }
+ ],
+ "texto_completo": "AUTORIDAD SUPERVISORA DEMO\nIntendencia DEMO de Supervision Financiera\nDocumento ficticio con fines de capacitacion\nOFICIO N° 0291-2026-ID/DCM\nLima, 11 de setiembre de 2026\nSenores\nSeguros Vicuna DEMO S.A.\nRUC 20995524318\nPresente.-\nAsunto:\nRequerimiento de informacion sobre la cartera de creditos al 30 de junio de 2026\nReferencia:\nCarta N° 223-2026 de Seguros Vicuna DEMO S.A.\nMediante el presente se requiere a su representada remitir la informacion detallada a continuacion, en el\nmarco de las labores de supervision del periodo en curso.\nLa informacion debera ser presentada en un plazo de cinco (5) dias habiles contados desde la recepcion\ndel presente oficio, en formato digital y firmada por el responsable. El incumplimiento sera evaluado\nconforme a los procedimientos internos aplicables.\nAtentamente,\nRosa Rojas Delgado\nIntendente DEMO",
+ "degradacion": {
+  "rotacion": -1.71,
+  "ruido": "sal_pimienta",
+  "ruido_sigma": 11.3,
+  "desenfoque_sigma": 0.0,
+  "sombra": "der",
+  "perspectiva": false,
+  "jpeg_calidad": 70,
+  "dpi": 200,
+  "paginas": 1
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

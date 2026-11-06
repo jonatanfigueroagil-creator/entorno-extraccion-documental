@@ -1,0 +1,70 @@
+{
+ "doc_id": "REC-0002",
+ "tipo": "reclamo",
+ "formato": "eml",
+ "campos": {
+  "numero_reclamo": "R-2026-439800",
+  "fecha": "2026-07-16",
+  "nombre": "Pedro Salazar Montoya",
+  "dni": "99703460",
+  "entidad": "Banco Cordillera DEMO S.A.",
+  "producto": "cuenta de ahorros",
+  "motivo": "cobro indebido",
+  "monto_reclamado": 806.0,
+  "telefono": "999 000 342",
+  "correo": "pedro.salazar90@ejemplo.pe",
+  "monto_en_texto": true,
+  "canal": "correo",
+  "adjunto": {
+   "nombre": "adjunto_REC-0002.pdf",
+   "tipo": "pdf"
+  }
+ },
+ "tablas": [
+  {
+   "nombre": "movimientos_adjunto",
+   "encabezados": [
+    "Fecha",
+    "Descripcion",
+    "Importe"
+   ],
+   "filas": [
+    [
+     "15/07/2026",
+     "Interes",
+     "12.00"
+    ],
+    [
+     "12/07/2026",
+     "Retiro cajero",
+     "85.00"
+    ],
+    [
+     "09/07/2026",
+     "Interes",
+     "100.00"
+    ],
+    [
+     "16/07/2026",
+     "Cargo reclamado (cobro indebido)",
+     "806.00"
+    ],
+    [
+     "06/07/2026",
+     "Retiro cajero",
+     "86.00"
+    ]
+   ],
+   "celdas_combinadas": []
+  }
+ ],
+ "regiones": [],
+ "texto_completo": "Buenas, soy Pedro Salazar Montoya, DNI 99703460. En Banco Cordillera DEMO S.A. me cobraron una comision que nunca autorice. Fueron ochocientos seis soles en mi cuenta de ahorros. Ya fui a la agencia y nada, xfa ayuda. Mi cel es 999 000 342.\nBanco Cordillera DEMO S.A.\nEstado de cuenta - cuenta de ahorros\nCliente: Pedro Salazar Montoya   DNI 99703460\nFecha\nDescripcion\nImporte\n15/07/2026\nInteres\n12.00\n12/07/2026\nRetiro cajero\n85.00\n09/07/2026\nInteres\n100.00\n16/07/2026\nCargo reclamado (cobro indebido)\n806.00\n06/07/2026\nRetiro cajero\n86.00",
+ "degradacion": {
+  "rotacion": 0,
+  "dpi": null,
+  "ruido": "ninguno"
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

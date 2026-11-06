@@ -1,0 +1,17 @@
+{
+ "id": "OFI-0015",
+ "archivo": "OFI-0015.pdf",
+ "ruta": "02_Oficios/OFI-0015.pdf",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "mediana",
+ "psm": 6,
+ "inclinacion": -3.5,
+ "texto": "| AUTORIDAD SUPERVISORA DEMO | l\nl . Intendencia DEMO de Riesgos Operacionales o 7\no - * Documento ficticio con fines de capacitacion o\nOFICIO N* 0199-2026-1D/DSF ml Ñ o\nLima, 25 de enero de 2026 . o . ,\nSenores\nBanco del Sur Austral DEMO S.A. l l o\n: RUC 20993132544 |\nPresente.- :\nAsunto: Requerimiento de informacion sobre la cartera de creditos al 30 de junio de 2026 : a\nReferencia: Carta N* 105-2026 de Banco del Sur Austral DEMO S.A.\nMediante el presente se requiere a su representada remitir la informacion detallada a continuacion, en el nr\nmarco de las labores de supervision del periodo en curso. --\nCIA\n| Detalle de comisiones cobradas\n2 | Politica interna aprobada y su fecha de vigencia .\nRelacion de operaciones vigentes con saldo y estado oo .\nLa informacion debera ser presentada en un plazo de quince (15) dias habiles contados desde la :\nrecepcion del presente oficio, en ato digital y firmada por el responsable. El incumplimiento sera :\no evaluado conforme a los pr; ¡mientosdgternos aplicables. .\nMESA DE PARTE o l\n. Atentamente, DEMO . l o : .\no o RECIBIDO o e NN\no Miguel Nunez Soto o . o\nLo Intendente DEMO Agjunto o : o",
+ "confianza": 0.7462,
+ "score": 0.873,
+ "invalidos": 0,
+ "decision": "aceptar",
+ "segundos": 0.92,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

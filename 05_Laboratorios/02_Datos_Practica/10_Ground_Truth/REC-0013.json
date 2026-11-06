@@ -1,0 +1,70 @@
+{
+ "doc_id": "REC-0013",
+ "tipo": "reclamo",
+ "formato": "eml",
+ "campos": {
+  "numero_reclamo": "R-2026-223419",
+  "fecha": "2026-09-23",
+  "nombre": "Miguel Mamani Vargas",
+  "dni": "99062447",
+  "entidad": "Caja Rural Valle Verde DEMO S.A.",
+  "producto": "cuenta sueldo",
+  "motivo": "consumo no reconocido",
+  "monto_reclamado": 736.0,
+  "telefono": "999 000 433",
+  "correo": "miguel.mamani10@ejemplo.pe",
+  "monto_en_texto": true,
+  "canal": "correo",
+  "adjunto": {
+   "nombre": "adjunto_REC-0013.jpg",
+   "tipo": "imagen"
+  }
+ },
+ "tablas": [
+  {
+   "nombre": "movimientos_adjunto",
+   "encabezados": [
+    "Fecha",
+    "Descripcion",
+    "Importe"
+   ],
+   "filas": [
+    [
+     "22/09/2026",
+     "Compra comercio DEMO",
+     "183.00"
+    ],
+    [
+     "23/09/2026",
+     "Cargo reclamado (consumo no reconocido)",
+     "736.00"
+    ],
+    [
+     "19/09/2026",
+     "Retiro cajero",
+     "234.00"
+    ],
+    [
+     "16/09/2026",
+     "Compra comercio DEMO",
+     "264.00"
+    ],
+    [
+     "13/09/2026",
+     "Pago servicio",
+     "201.00"
+    ]
+   ],
+   "celdas_combinadas": []
+  }
+ ],
+ "regiones": [],
+ "texto_completo": "Hola, escribo xq aparece un consumo con mi tarjeta que yo no hice (mi cuenta sueldo). El monto es setecientos treinta y seis soles, el dia 23/09. Me atendieron mal y no me dan solucion. Miguel Mamani Vargas, DNI 99062447, correo miguel.mamani10@ejemplo.pe.\nCaja Rural Valle Verde DEMO S.A.\nEstado de cuenta - cuenta sueldo\nCliente: Miguel Mamani Vargas   DNI 99062447\nFecha\nDescripcion\nImporte\n22/09/2026\nCompra comercio DEMO\n183.00\n23/09/2026\nCargo reclamado (consumo no reconocido)\n736.00\n19/09/2026\nRetiro cajero\n234.00\n16/09/2026\nCompra comercio DEMO\n264.00\n13/09/2026\nPago servicio\n201.00",
+ "degradacion": {
+  "rotacion": 0,
+  "dpi": null,
+  "ruido": "gaussiano"
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

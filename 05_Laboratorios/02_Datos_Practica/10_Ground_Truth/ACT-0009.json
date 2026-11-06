@@ -1,0 +1,182 @@
+{
+ "doc_id": "ACT-0009",
+ "tipo": "acta",
+ "formato": "pdf_nativo",
+ "campos": {
+  "numero_acta": "17-2026",
+  "fecha": "2026-02-02",
+  "entidad": "Cooperativa de Ahorro y Crédito Valle Dorado DEMO",
+  "ruc": "20992145073",
+  "organo": "Consejo de Administración",
+  "tipo_sesion": "extraordinaria",
+  "hora_inicio": "09:00",
+  "hora_fin": "12:15",
+  "quorum": "3 de 5",
+  "quorum_asistentes": 3,
+  "quorum_total": 5,
+  "presidente": "Iván Oré Fernández",
+  "secretario": "Sofía Márquez Herrera",
+  "n_acuerdos": 6,
+  "n_paginas": 4
+ },
+ "tablas": [
+  {
+   "nombre": "asistencia",
+   "encabezados": [
+    "N°",
+    "Nombre",
+    "Cargo",
+    "Asistencia"
+   ],
+   "filas": [
+    [
+     "1",
+     "Iván Oré Fernández",
+     "Presidente del Consejo",
+     "Presente"
+    ],
+    [
+     "2",
+     "Jesús Domínguez Bermúdez",
+     "Vicepresidente",
+     "Presente"
+    ],
+    [
+     "3",
+     "Sofía Márquez Herrera",
+     "Secretaria",
+     "Presente (virtual)"
+    ],
+    [
+     "4",
+     "Ángel Jiménez Fernández",
+     "Consejero",
+     "Ausente (con licencia)"
+    ],
+    [
+     "5",
+     "Mónica Quiñones Céspedes",
+     "Consejera",
+     "Ausente"
+    ]
+   ]
+  },
+  {
+   "nombre": "acuerdos",
+   "encabezados": [
+    "N°",
+    "Descripcion",
+    "Responsable",
+    "Plazo",
+    "Estado",
+    "Referencia"
+   ],
+   "filas": [
+    [
+     "14-2026",
+     "Aprobar los estados financieros con corte a enero de 2026 y autorizar su presentación a los órganos competentes.",
+     "Contabilidad General",
+     "2026-02-22",
+     "vigente",
+     ""
+    ],
+    [
+     "15-2026",
+     "Autorizar a la Gerencia General a remitir la información requerida por la Intendencia DEMO dentro del plazo señalado en el oficio.",
+     "Asesoría Legal",
+     "2026-05-03",
+     "vigente",
+     ""
+    ],
+    [
+     "16-2026",
+     "Designar a la sociedad de auditoría propuesta por el Comité de Auditoría para el ejercicio 2026.",
+     "Comité de Auditoría",
+     "2026-02-17",
+     "vigente",
+     ""
+    ],
+    [
+     "17-2026",
+     "Aprobar la distribución de excedentes del ejercicio conforme a la propuesta presentada y constituir las reservas correspondientes.",
+     "Gerencia de Finanzas",
+     "2026-04-03",
+     "vigente",
+     ""
+    ],
+    [
+     "18-2026",
+     "Aprobar las modificaciones del reglamento interno de créditos y encargar su difusión a todas las agencias.",
+     "Asesoría Legal",
+     "10 dias",
+     "vigente",
+     ""
+    ],
+    [
+     "19-2026",
+     "Disponer que la Gerencia de Riesgos presente un plan de reducción de la morosidad de la cartera de microempresa.",
+     "Gerencia de Créditos",
+     "30 dias",
+     "vigente",
+     ""
+    ]
+   ],
+   "nota": "Plazo normalizado: 'N dias' (calendario), fecha ISO o 'inmediato'. Estado: vigente/derogado/modificado."
+  }
+ ],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 4,
+   "bbox": [
+    56.0,
+    158.8,
+    192.8,
+    199.2
+   ],
+   "unidad": "pt"
+  },
+  {
+   "tipo": "firma",
+   "pagina": 4,
+   "bbox": [
+    329.1,
+    157.5,
+    464.3,
+    199.2
+   ],
+   "unidad": "pt"
+  },
+  {
+   "tipo": "sello",
+   "pagina": 4,
+   "bbox": [
+    254,
+    162.2,
+    326,
+    234.2
+   ],
+   "unidad": "pt"
+  }
+ ],
+ "texto_completo": "Cooperativa de Ahorro y Crédito Valle Dorado DEMO\nRUC 20992145073\nACTA N.º 17-2026 · SESIÓN EXTRAORDINARIA DE CONSEJO DE ADMINISTRACIÓN\nCooperativa de Ahorro y Crédito Valle Dorado DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 1 de 4\nACTA N.º 17-2026\nSESIÓN EXTRAORDINARIA DE CONSEJO DE ADMINISTRACIÓN\nEn la ciudad de Lima, el dos de febrero de dos mil veintiséis, siendo las nueve horas, se reunió el Consejo de\nAdministración de Cooperativa de Ahorro y Crédito Valle Dorado DEMO en su sede institucional, en sesión\nextraordinaria, con la asistencia de tres (3) de los cinco (5) miembros convocados, bajo la presidencia de Iván\nOré Fernández, quien actuó como Presidente del Consejo, y de Sofía Márquez Herrera, quien actuó como\nsecretario(a).\nI. VERIFICACIÓN DEL QUÓRUM\nSe dejó constancia de la siguiente asistencia. Existiendo quórum reglamentario, el Presidente declaró instalada\nla sesión.\nN°\nNombre\nCargo\nAsistencia\n1\nIván Oré Fernández\nPresidente del Consejo\nPresente\n2\nJesús Domínguez Bermúdez\nVicepresidente\nPresente\n3\nSofía Márquez Herrera\nSecretaria\nPresente (virtual)\n4\nÁngel Jiménez Fernández\nConsejero\nAusente (con licencia)\n5\nMónica Quiñones Céspedes\nConsejera\nAusente\nII. AGENDA\nLa agenda de la sesión fue la siguiente: 1) Verificación del quórum; 2) Aprobación de los estados financieros;\n3) Atención del oficio de la Intendencia DEMO; 4) Designación del auditor externo; 5) Distribución de\nexcedentes y constitución de reservas; 6) Actualización del reglamento interno de créditos; 7) Informe de\ncartera de créditos y morosidad; 8) Revisión de acuerdos adoptados.\nIII. DESARROLLO DE LA SESIÓN\n2. APROBACIÓN DE LOS ESTADOS FINANCIEROS\nLa Contabilidad presentó los estados financieros con corte a enero, que registran activos por S/ 5,400,000.00 y\nuna utilidad acumulada de S/ 7,500,000.00.\nLos miembros revisaron las notas explicativas y el dictamen preliminar del auditor externo, sin observaciones\nde fondo.\nSofía Márquez Herrera pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. Iván Oré Fernández pidió que los responsables remitan un informe escrito con el detalle de las\nacciones adoptadas.\nJesús Domínguez Bermúdez pidió que los responsables remitan un informe escrito con el detalle de las\nacciones adoptadas. Sofía Márquez Herrera pidió que los responsables remitan un informe escrito con el\ndetalle de las acciones adoptadas.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Luego de un breve\ndebate, los miembros presentes coincidieron en que la medida resulta razonable y oportuna.\nACUERDO N.º 14-2026: Aprobar los estados financieros con corte a enero de 2026 y autorizar su\npresentación a los órganos competentes.\nResponsable: Contabilidad General. Plazo: hasta el veintidós de febrero de dos mil veintiséis.\nAprobado por mayoría, con 2 votos a favor y 1 en contra.\nCooperativa de Ahorro y Crédito Valle Dorado DEMO\nRUC 20992145073\nACTA N.º 17-2026 · SESIÓN EXTRAORDINARIA DE CONSEJO DE ADMINISTRACIÓN\nCooperativa de Ahorro y Crédito Valle Dorado DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 2 de 4\n3. ATENCIÓN DEL OFICIO DE LA INTENDENCIA DEMO\nSe dio lectura al oficio recibido de la Intendencia DEMO de Supervisión Financiera, que requiere información\nsobre la cartera de créditos vigente.\nLa asesoría legal confirmó que el plazo de respuesta vence en los próximos días hábiles.\nIván Oré Fernández manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nacta. Iván Oré Fernández manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello\nen el acta.\nJesús Domínguez Bermúdez consultó sobre el impacto de la medida en los indicadores de solvencia, y la\ngerencia precisó que se mantendrían dentro de los límites aprobados. Iván Oré Fernández pidió que los\nresponsables remitan un informe escrito con el detalle de las acciones adoptadas.\nJesús Domínguez Bermúdez pidió que los responsables remitan un informe escrito con el detalle de las\nacciones adoptadas. Iván Oré Fernández consultó sobre el impacto de la medida en los indicadores de\nsolvencia, y la gerencia precisó que se mantendrían dentro de los límites aprobados.\nACUERDO N.º 15-2026: Autorizar a la Gerencia General a remitir la información requerida por la\nIntendencia DEMO dentro del plazo señalado en el oficio.\nResponsable: Asesoría Legal. Plazo: hasta el tres de mayo de dos mil veintiséis.\nAprobado por unanimidad de los miembros presentes.\n4. DESIGNACIÓN DEL AUDITOR EXTERNO\nSe presentaron tres propuestas de firmas auditoras; el Comité de Auditoría recomendó la de menor costo con\nexperiencia comprobada en el sector.\nLos miembros revisaron los criterios de independencia y la rotación del equipo de auditoría.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. La Presidencia\nagradeció los aportes de los miembros y sometió el asunto a votación.\nIván Oré Fernández observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. Jesús Domínguez Bermúdez consultó sobre el impacto de la medida en\nlos indicadores de solvencia, y la gerencia precisó que se mantendrían dentro de los límites aprobados.\nJesús Domínguez Bermúdez sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. Iván Oré Fernández observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota.\nACUERDO N.º 16-2026: Designar a la sociedad de auditoría propuesta por el Comité de Auditoría\npara el ejercicio 2026.\nResponsable: Comité de Auditoría. Plazo: hasta el diecisiete de febrero de dos mil veintiséis.\nAprobado por mayoría, con 2 votos a favor y 1 en contra.\n5. DISTRIBUCIÓN DE EXCEDENTES Y CONSTITUCIÓN DE RESERVAS\nEl Comité de Finanzas propuso destinar el 20 % de los excedentes a la reserva cooperativa y el 10 % al fondo\nde educación.\nLos excedentes del ejercicio ascienden a S/ 7,500,000.00 según los estados financieros auditados.\nSofía Márquez Herrera sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. Luego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable\ny oportuna.\nJesús Domínguez Bermúdez pidió que los responsables remitan un informe escrito con el detalle de las\nacciones adoptadas. Iván Oré Fernández observó que los plazos propuestos deben guardar coherencia con el\nCooperativa de Ahorro y Crédito Valle Dorado DEMO\nRUC 20992145073\nACTA N.º 17-2026 · SESIÓN EXTRAORDINARIA DE CONSEJO DE ADMINISTRACIÓN\nCooperativa de Ahorro y Crédito Valle Dorado DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 3 de 4\ncalendario institucional, y la gerencia tomó nota.\nJesús Domínguez Bermúdez observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. Iván Oré Fernández pidió que los responsables remitan un informe\nescrito con el detalle de las acciones adoptadas.\nACUERDO N.º 17-2026: Aprobar la distribución de excedentes del ejercicio conforme a la propuesta\npresentada y constituir las reservas correspondientes.\nResponsable: Gerencia de Finanzas. Plazo: hasta el tres de abril de dos mil veintiséis.\nAprobado por mayoría, con 2 votos a favor y 1 en contra.\n6. ACTUALIZACIÓN DEL REGLAMENTO INTERNO DE CRÉDITOS\nLa asesoría legal presentó las modificaciones al reglamento de créditos para incorporar nuevas garantías\nadmisibles y criterios de evaluación.\nLos miembros pidieron precisar el procedimiento de excepciones y el nivel de aprobación correspondiente.\nIván Oré Fernández sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nJesús Domínguez Bermúdez manifestó su conformidad con lo expuesto y solicitó que se deje constancia de\nello en el acta.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Sofía Márquez Herrera\nmanifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el acta.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. Iván Oré Fernández pidió que los responsables remitan un informe escrito con el detalle de las\nacciones adoptadas.\nACUERDO N.º 18-2026: Aprobar las modificaciones del reglamento interno de créditos y encargar\nsu difusión a todas las agencias.\nResponsable: Asesoría Legal. Plazo: dentro de un plazo de diez (10) días calendario.\nAprobado por unanimidad de los miembros presentes.\n7. INFORME DE CARTERA DE CRÉDITOS Y MOROSIDAD\nLa Gerencia General informó que la cartera bruta de créditos al cierre de enero ascendió a S/ 5,400,000.00,\ncon un índice de morosidad de 2,5 %.\nSe precisó que el 62 % de los créditos vencidos corresponde a la línea de microempresa y que se vienen\nejecutando campañas de recuperación.\nIván Oré Fernández observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. Luego de un breve debate, los miembros presentes coincidieron en que\nla medida resulta razonable y oportuna.\nSofía Márquez Herrera pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. Jesús Domínguez Bermúdez consultó sobre el impacto de la medida en los indicadores de\nsolvencia, y la gerencia precisó que se mantendrían dentro de los límites aprobados.\nJesús Domínguez Bermúdez consultó sobre el impacto de la medida en los indicadores de solvencia, y la\ngerencia precisó que se mantendrían dentro de los límites aprobados. Jesús Domínguez Bermúdez manifestó\nsu conformidad con lo expuesto y solicitó que se deje constancia de ello en el acta.\nACUERDO N.º 19-2026: Disponer que la Gerencia de Riesgos presente un plan de reducción de la\nmorosidad de la cartera de microempresa.\nResponsable: Gerencia de Créditos. Plazo: dentro de un plazo de treinta (30) días calendario.\nAprobado por unanimidad de los miembros presentes.\nCooperativa de Ahorro y Crédito Valle Dorado DEMO\nRUC 20992145073\nACTA N.º 17-2026 · SESIÓN EXTRAORDINARIA DE CONSEJO DE ADMINISTRACIÓN\nCooperativa de Ahorro y Crédito Valle Dorado DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 4 de 4\nIV. CIERRE\nNo habiendo otros asuntos que tratar, siendo las 12:15 horas se levantó la sesión, firmando los presentes en\nseñal de conformidad.\nIván Oré Fernández\nPresidente del Consejo\nSofía Márquez Herrera\nSecretaria",
+ "degradacion": {
+  "rotacion": 0,
+  "dpi": null,
+  "ruido": "ninguno"
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar",
+ "origen": "corpus_practica",
+ "trampas": [
+  "tildes_en_nombres",
+  "pie_de_pagina_repetido",
+  "tabla_de_asistencia",
+  "fecha_en_texto"
+ ],
+ "campos_ausentes": [],
+ "elementos_repetidos": {
+  "encabezado": "ACTA N.º 17-2026 · SESIÓN EXTRAORDINARIA DE CONSEJO DE ADMINISTRACIÓN",
+  "pie": "Cooperativa de Ahorro y Crédito Valle Dorado DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)"
+ }
+}

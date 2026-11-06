@@ -1,0 +1,40 @@
+{
+ "id": "REC-0051",
+ "modelo": "Davlan/xlm-roberta-base-ner-hrl",
+ "revision": null,
+ "version_transformers": "5.22.1",
+ "version_torch": "2.15.0+cu132",
+ "dispositivo": "cuda (NVIDIA GeForce RTX 5070)",
+ "agregacion": "simple",
+ "texto": "remitente + cuerpo del correo + texto del OCR del adjunto (ocr_s04)",
+ "entidades": [
+  {
+   "texto": "Diego Chavez Paredes",
+   "etiqueta": "PER",
+   "score": 0.9998,
+   "inicio": 42,
+   "fin": 62
+  },
+  {
+   "texto": "Financiera Altiplano DEMO S.A.",
+   "etiqueta": "ORG",
+   "score": 0.99,
+   "inicio": 81,
+   "fin": 111
+  },
+  {
+   "texto": "Financiera Altiplano DEMO S.A.",
+   "etiqueta": "ORG",
+   "score": 0.9673,
+   "inicio": 268,
+   "fin": 298
+  },
+  {
+   "texto": "Diego Chavez Paredes",
+   "etiqueta": "PER",
+   "score": 0.9998,
+   "inicio": 345,
+   "fin": 365
+  }
+ ]
+}

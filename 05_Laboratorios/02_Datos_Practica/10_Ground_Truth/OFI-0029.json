@@ -1,0 +1,88 @@
+{
+ "doc_id": "OFI-0029",
+ "tipo": "oficio",
+ "formato": "pdf_escaneado",
+ "campos": {
+  "numero_oficio": "0067-2026-ID/DCM",
+  "fecha": "2026-08-23",
+  "entidad": "Edpyme Sol Naciente DEMO S.A.",
+  "ruc": "20994538307",
+  "asunto": "Remision de reportes de tasas de interes y comisiones vigentes",
+  "referencia": "Carta N° 108-2026 de Edpyme Sol Naciente DEMO S.A.",
+  "plazo_dias": 15,
+  "emisor": "Intendencia DEMO de Supervision Financiera",
+  "firmante": "Lucia Quispe Ccori",
+  "cargo": "Jefe de Equipo DEMO"
+ },
+ "tablas": [
+  {
+   "nombre": "informacion_solicitada",
+   "encabezados": [
+    "N°",
+    "Informacion solicitada"
+   ],
+   "filas": [
+    [
+     "1",
+     "Estados financieros al cierre del periodo"
+    ],
+    [
+     "2",
+     "Detalle de comisiones cobradas"
+    ],
+    [
+     "3",
+     "Relacion de operaciones vigentes con saldo y estado"
+    ],
+    [
+     "4",
+     "Reporte de tasas aplicadas por producto"
+    ]
+   ]
+  }
+ ],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    134,
+    1014,
+    390,
+    1104
+   ],
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    337,
+    903,
+    541,
+    1107
+   ],
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  }
+ ],
+ "texto_completo": "AUTORIDAD SUPERVISORA DEMO\nIntendencia DEMO de Supervision Financiera\nDocumento ficticio con fines de capacitacion\nOFICIO N° 0067-2026-ID/DCM\nLima, 23 de agosto de 2026\nSenores\nEdpyme Sol Naciente DEMO S.A.\nRUC 20994538307\nPresente.-\nAsunto:\nRemision de reportes de tasas de interes y comisiones vigentes\nReferencia:\nCarta N° 108-2026 de Edpyme Sol Naciente DEMO S.A.\nMediante el presente se requiere a su representada remitir la informacion detallada a continuacion, en el\nmarco de las labores de supervision del periodo en curso.\nN°\nInformacion solicitada\n1\nEstados financieros al cierre del periodo\n2\nDetalle de comisiones cobradas\n3\nRelacion de operaciones vigentes con saldo y estado\n4\nReporte de tasas aplicadas por producto\nLa informacion debera ser presentada en un plazo de quince (15) dias habiles contados desde la\nrecepcion del presente oficio, en formato digital y firmada por el responsable. El incumplimiento sera\nevaluado conforme a los procedimientos internos aplicables.\nAtentamente,\nLucia Quispe Ccori\nJefe de Equipo DEMO",
+ "degradacion": {
+  "rotacion": -3.83,
+  "ruido": "gaussiano",
+  "ruido_sigma": 13.2,
+  "desenfoque_sigma": 0.6,
+  "sombra": "izq",
+  "perspectiva": false,
+  "jpeg_calidad": 80,
+  "dpi": 150,
+  "paginas": 1
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

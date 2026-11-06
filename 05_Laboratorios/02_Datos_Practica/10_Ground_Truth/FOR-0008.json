@@ -1,0 +1,180 @@
+{
+ "doc_id": "FOR-0008",
+ "tipo": "formulario",
+ "formato": "imagen_png",
+ "campos": {
+  "nombres": "Milagros",
+  "apellido_paterno": "Herrera",
+  "apellido_materno": "Fuentes",
+  "dni": "99148402",
+  "fecha_nacimiento": "1988-10-13",
+  "direccion": "Av. del Sol 1020, Surco",
+  "telefono": "999 000 584",
+  "correo": "milagros.herrera66@ejemplo.pe",
+  "fecha_solicitud": "2026-09-25"
+ },
+ "tablas": [],
+ "regiones": [
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    78,
+    211,
+    1111,
+    299
+   ],
+   "campo": "nombres",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    83,
+    319,
+    1116,
+    407
+   ],
+   "campo": "apellido_paterno",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    87,
+    427,
+    1120,
+    515
+   ],
+   "campo": "apellido_materno",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    92,
+    536,
+    1124,
+    623
+   ],
+   "campo": "dni",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    96,
+    644,
+    1129,
+    732
+   ],
+   "campo": "fecha_nacimiento",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    100,
+    752,
+    1133,
+    840
+   ],
+   "campo": "direccion",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    105,
+    860,
+    1138,
+    948
+   ],
+   "campo": "telefono",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    109,
+    969,
+    1142,
+    1056
+   ],
+   "campo": "correo",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    114,
+    1077,
+    1146,
+    1165
+   ],
+   "campo": "fecha_solicitud",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    142,
+    1272,
+    413,
+    1370
+   ],
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  }
+ ],
+ "texto_completo": "Nombres: Milagros\nApellido paterno: Herrera\nApellido materno: Fuentes\nDNI: 99148402\nFecha de nacimiento: 13/10/1988\nDireccion: Av. del Sol 1020, Surco\nTelefono: 999 000 584\nCorreo electronico: milagros.herrera66@ejemplo.pe\nFecha de solicitud: 25/09/2026",
+ "degradacion": {
+  "rotacion": 2.33,
+  "ruido": "gaussiano",
+  "ruido_sigma": 5.0,
+  "desenfoque_sigma": 0.6,
+  "sombra": null,
+  "perspectiva": false,
+  "dpi": 150,
+  "legibilidad_manuscrito": "media"
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)"
+}

@@ -1,0 +1,56 @@
+{
+ "doc_id": "VOU-0004",
+ "tipo": "voucher",
+ "formato": "imagen_jpg",
+ "campos": {
+  "entidad": "Banco Costa Norte DEMO S.A.",
+  "numero_operacion": "09403260",
+  "fecha": "2026-06-24",
+  "hora": "13:42",
+  "monto": 11669,
+  "moneda": "PEN",
+  "cuenta_destino": "999-4082540990",
+  "titular": "Ricardo Flores Ibarra",
+  "depositante": "Silvia Caceres Sandoval",
+  "dni_depositante": "99559049"
+ },
+ "tablas": [],
+ "regiones": [
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    80,
+    273,
+    145,
+    337
+   ],
+   "unidad": "px",
+   "ancho_px": 288,
+   "alto_px": 448
+  },
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    151,
+    300,
+    232,
+    323
+   ],
+   "unidad": "px",
+   "ancho_px": 288,
+   "alto_px": 448
+  }
+ ],
+ "texto_completo": "Banco Costa Norte DEMO S.A.\nCONSTANCIA DE DEPOSITO\nOperacion:\n09403260\nFecha:\n24/06/2026\nHora:\n13:42\nCuenta:\n999-4082540990\nTitular:\nRicardo Flores Ibarra\nDepositante:\nSilvia Caceres Sandoval\nDNI:\n99559049\nMONTO S/ 11,669.00",
+ "degradacion": {
+  "rotacion": 3.87,
+  "dpi": 60,
+  "ruido": "gaussiano",
+  "perspectiva": true,
+  "sombra": "sup",
+  "escala": 0.5
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)"
+}

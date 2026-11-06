@@ -1,0 +1,180 @@
+{
+ "doc_id": "FOR-0007",
+ "tipo": "formulario",
+ "formato": "imagen_png",
+ "campos": {
+  "nombres": "Lucia",
+  "apellido_paterno": "Mamani",
+  "apellido_materno": "Salazar",
+  "dni": "99642794",
+  "fecha_nacimiento": "1974-05-18",
+  "direccion": "Jr. Los Cedros 214, Jesus Maria",
+  "telefono": "999 000 262",
+  "correo": "lucia.mamani80@ejemplo.pe",
+  "fecha_solicitud": "2026-04-22"
+ },
+ "tablas": [],
+ "regiones": [
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    88,
+    218,
+    1121,
+    290
+   ],
+   "campo": "nombres",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    91,
+    327,
+    1123,
+    399
+   ],
+   "campo": "apellido_paterno",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    93,
+    435,
+    1126,
+    507
+   ],
+   "campo": "apellido_materno",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    96,
+    543,
+    1129,
+    615
+   ],
+   "campo": "dni",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    99,
+    652,
+    1132,
+    724
+   ],
+   "campo": "fecha_nacimiento",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    102,
+    760,
+    1134,
+    832
+   ],
+   "campo": "direccion",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    104,
+    868,
+    1137,
+    940
+   ],
+   "campo": "telefono",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    107,
+    976,
+    1140,
+    1048
+   ],
+   "campo": "correo",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "campo_manuscrito",
+   "pagina": 1,
+   "bbox": [
+    110,
+    1085,
+    1143,
+    1157
+   ],
+   "campo": "fecha_solicitud",
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    131,
+    1271,
+    409,
+    1363
+   ],
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  }
+ ],
+ "texto_completo": "Nombres: Lucia\nApellido paterno: Mamani\nApellido materno: Salazar\nDNI: 99642794\nFecha de nacimiento: 18/05/1974\nDireccion: Jr. Los Cedros 214, Jesus Maria\nTelefono: 999 000 262\nCorreo electronico: lucia.mamani80@ejemplo.pe\nFecha de solicitud: 22/04/2026",
+ "degradacion": {
+  "rotacion": 1.46,
+  "ruido": "gaussiano",
+  "ruido_sigma": 5.0,
+  "desenfoque_sigma": 0.0,
+  "sombra": null,
+  "perspectiva": false,
+  "dpi": 150,
+  "legibilidad_manuscrito": "baja"
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)"
+}

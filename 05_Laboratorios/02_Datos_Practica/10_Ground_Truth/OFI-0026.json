@@ -1,0 +1,80 @@
+{
+ "doc_id": "OFI-0026",
+ "tipo": "oficio",
+ "formato": "pdf_escaneado",
+ "campos": {
+  "numero_oficio": "0818-2026-ID/DCM",
+  "fecha": "2026-04-08",
+  "entidad": "Banco Andino DEMO S.A.",
+  "ruc": "20996256821",
+  "asunto": "Remision de reportes de tasas de interes y comisiones vigentes",
+  "referencia": "Carta N° 229-2026 de Banco Andino DEMO S.A.",
+  "plazo_dias": 5,
+  "emisor": "Intendencia DEMO de Riesgos Operacionales",
+  "firmante": "Milagros Fuentes Peralta",
+  "cargo": "Intendente DEMO Adjunto"
+ },
+ "tablas": [
+  {
+   "nombre": "informacion_solicitada",
+   "encabezados": [
+    "N°",
+    "Informacion solicitada"
+   ],
+   "filas": [
+    [
+     "1",
+     "Reporte de tasas aplicadas por producto"
+    ],
+    [
+     "2",
+     "Relacion de operaciones vigentes con saldo y estado"
+    ]
+   ]
+  }
+ ],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    283,
+    1932,
+    786,
+    2085
+   ],
+   "unidad": "px",
+   "dpi": 300,
+   "ancho_px": 2481,
+   "alto_px": 3508
+  },
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    690,
+    1686,
+    1090,
+    2085
+   ],
+   "unidad": "px",
+   "dpi": 300,
+   "ancho_px": 2481,
+   "alto_px": 3508
+  }
+ ],
+ "texto_completo": "AUTORIDAD SUPERVISORA DEMO\nIntendencia DEMO de Riesgos Operacionales\nDocumento ficticio con fines de capacitacion\nOFICIO N° 0818-2026-ID/DCM\nLima, 8 de abril de 2026\nSenores\nBanco Andino DEMO S.A.\nRUC 20996256821\nPresente.-\nAsunto:\nRemision de reportes de tasas de interes y comisiones vigentes\nReferencia:\nCarta N° 229-2026 de Banco Andino DEMO S.A.\nMediante el presente se requiere a su representada remitir la informacion detallada a continuacion, en el\nmarco de las labores de supervision del periodo en curso.\nN°\nInformacion solicitada\n1\nReporte de tasas aplicadas por producto\n2\nRelacion de operaciones vigentes con saldo y estado\nLa informacion debera ser presentada en un plazo de cinco (5) dias habiles contados desde la recepcion\ndel presente oficio, en formato digital y firmada por el responsable. El incumplimiento sera evaluado\nconforme a los procedimientos internos aplicables.\nAtentamente,\nMilagros Fuentes Peralta\nIntendente DEMO Adjunto",
+ "degradacion": {
+  "rotacion": -2.4,
+  "ruido": "gaussiano",
+  "ruido_sigma": 8.4,
+  "desenfoque_sigma": 0.0,
+  "sombra": "sup",
+  "perspectiva": false,
+  "jpeg_calidad": 80,
+  "dpi": 300,
+  "paginas": 1
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

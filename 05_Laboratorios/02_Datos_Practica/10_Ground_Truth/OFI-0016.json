@@ -1,0 +1,80 @@
+{
+ "doc_id": "OFI-0016",
+ "tipo": "oficio",
+ "formato": "pdf_escaneado",
+ "campos": {
+  "numero_oficio": "0615-2026-ID/DRO",
+  "fecha": "2026-03-13",
+  "entidad": "Seguros Vicuna DEMO S.A.",
+  "ruc": "20995524318",
+  "asunto": "Remision de reportes de tasas de interes y comisiones vigentes",
+  "referencia": "Carta N° 216-2026 de Seguros Vicuna DEMO S.A.",
+  "plazo_dias": 10,
+  "emisor": "Intendencia DEMO de Riesgos Operacionales",
+  "firmante": "Milagros Mendoza Flores",
+  "cargo": "Jefe de Equipo DEMO"
+ },
+ "tablas": [
+  {
+   "nombre": "informacion_solicitada",
+   "encabezados": [
+    "N°",
+    "Informacion solicitada"
+   ],
+   "filas": [
+    [
+     "1",
+     "Estados financieros al cierre del periodo"
+    ],
+    [
+     "2",
+     "Copia de los contratos suscritos"
+    ]
+   ]
+  }
+ ],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    160,
+    1249,
+    528,
+    1385
+   ],
+   "unidad": "px",
+   "dpi": 200,
+   "ancho_px": 1654,
+   "alto_px": 2339
+  },
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    457,
+    1118,
+    727,
+    1388
+   ],
+   "unidad": "px",
+   "dpi": 200,
+   "ancho_px": 1654,
+   "alto_px": 2339
+  }
+ ],
+ "texto_completo": "AUTORIDAD SUPERVISORA DEMO\nIntendencia DEMO de Riesgos Operacionales\nDocumento ficticio con fines de capacitacion\nOFICIO N° 0615-2026-ID/DRO\nLima, 13 de marzo de 2026\nSenores\nSeguros Vicuna DEMO S.A.\nRUC 20995524318\nPresente.-\nAsunto:\nRemision de reportes de tasas de interes y comisiones vigentes\nReferencia:\nCarta N° 216-2026 de Seguros Vicuna DEMO S.A.\nMediante el presente se requiere a su representada remitir la informacion detallada a continuacion, en el\nmarco de las labores de supervision del periodo en curso.\nN°\nInformacion solicitada\n1\nEstados financieros al cierre del periodo\n2\nCopia de los contratos suscritos\nLa informacion debera ser presentada en un plazo de diez (10) dias habiles contados desde la recepcion\ndel presente oficio, en formato digital y firmada por el responsable. El incumplimiento sera evaluado\nconforme a los procedimientos internos aplicables.\nAtentamente,\nMilagros Mendoza Flores\nJefe de Equipo DEMO",
+ "degradacion": {
+  "rotacion": -3.39,
+  "ruido": "gaussiano",
+  "ruido_sigma": 10.8,
+  "desenfoque_sigma": 1.0,
+  "sombra": "izq",
+  "perspectiva": false,
+  "jpeg_calidad": 70,
+  "dpi": 200,
+  "paginas": 1
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}
