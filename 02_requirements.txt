@@ -1,5 +1,5 @@
 # Extracción documental — dependencias del curso (Python 3.12, Windows en la VM del curso)
-# Una sola combinación de versiones para las sesiones 1 a 4, probada en un entorno nuevo (pip check sin conflictos).
+# Una sola combinación de versiones para las sesiones 1 a 5, probada en un entorno nuevo (pip check sin conflictos, 07/11/2026).
 # Instalación en un entorno virtual (PowerShell): lo hace 01_instalar_vm.ps1; a mano sería
 #     py -3.12 -m venv C:\curso\venv
 #     C:\curso\venv\Scripts\python.exe -m pip install -r C:\curso\trabajo\entorno-extraccion-documental\02_requirements.txt
@@ -10,6 +10,7 @@
 #   - tabula-py necesita Java (JRE 17) en el PATH; lo instala 01_instalar_vm.ps1.
 #   - pytesseract necesita el programa Tesseract OCR con los idiomas spa y osd; lo instala 01_instalar_vm.ps1.
 #   - docker es solo el cliente de Python; Docker Desktop requiere WSL2 o Hyper-V y puede no estar disponible en la VM.
+#   - ollama es solo el cliente de Python: el programa Ollama para Windows (0.15.5 o posterior) y sus modelos se instalan aparte.
 
 # --- Sesión 1: fundamentos y primer pipeline
 pypdf==6.19.0
@@ -50,9 +51,9 @@ sentencepiece==0.2.2
 protobuf==7.36.2        # sin él el tokenizador de XLM-R falla con un mensaje engañoso
 accelerate==1.15.0
 
-# --- Sesión 5: LLM local y clientes
-ollama==0.6.3
-openai==3.31.0
+# --- Sesión 5: LLM local y clientes (además usa pydantic, pymupdf, python-docx, rapidfuzz y spaCy de las sesiones 2 a 4)
+ollama==0.6.3           # cliente de la API local de Ollama (localhost:11434)
+openai==3.31.0          # cliente compatible con OpenAI (backend configurable)
 
 # --- Sesión 7: contenedores
 docker==7.2.0           # cliente; Docker Desktop puede no estar disponible
@@ -62,5 +63,8 @@ docker==7.2.0           # cliente; Docker Desktop puede no estar disponible
 #                      (la rueda de PyPI en Windows es solo de CPU: pip install torch==2.15.0)
 #   spaCy en español:  pip install https://github.com/explosion/spacy-models/releases/download/es_core_news_md-3.8.0/es_core_news_md-3.8.0-py3-none-any.whl
 #   Modelos de Hugging Face (sesión 4): Davlan/xlm-roberta-base-ner-hrl y MoritzLaurer/mDeBERTa-v3-base-mnli-xnli, en C:\curso\modelos\hf (HF_HOME)
+#   Ollama para Windows (sesión 5): en clase se instala con el paso 3 de la guía (01_instalar_vm.ps1 -SoloOllama); -ConOllama lo instala sin
+#                      administrador, con OLLAMA_MODELS=C:\curso\modelos\ollama y OLLAMA_NO_CLOUD=1, y descarga los modelos
+#                      qwen3.5:4b (3,3 GB), glm-ocr (2,7 GB) y qwen3.5:9b (6,6 GB)
 #   PaddlePaddle GPU:  pip install paddlepaddle-gpu==3.3.1 -i https://www.paddlepaddle.org.cn/packages/stable/cu126/
 #                      (reemplaza a paddlepaddle; se usa solo un motor por entorno)

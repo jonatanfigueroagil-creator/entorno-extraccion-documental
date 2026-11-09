@@ -1,1 +1,1 @@
-"""Extracción de campos y tablas: expresiones regulares, plantillas y extractores estructurados (desde S03)."""
+"""Extracción de campos: texto del correo y del OCR, reglas (regex y EntityRuler), montos y NER con spaCy y Transformers (S04)."""
