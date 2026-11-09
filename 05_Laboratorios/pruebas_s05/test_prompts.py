@@ -22,6 +22,11 @@ def test_cada_nivel_agrega_una_parte_del_prompt():
         assert rotulos(mensajes) == partes and mensajes[-1] == {"role": "user", "content": "DOCUMENTO\nPoliza: PZ-1"}
 
 
+def test_un_contexto_propio_reemplaza_al_del_tipo():
+    mensajes = armar_mensajes("texto", "oficio", nivel=4, contexto="Mi contexto del oficio.")
+    assert "CONTEXTO\nMi contexto del oficio." in mensajes[0]["content"] and CONTEXTO["oficio"] not in mensajes[0]["content"]
+
+
 def test_el_nivel_5_agrega_un_ejemplo_resuelto_salvo_en_contratos():
     poliza = armar_mensajes("Poliza: PZ-1", "poliza")              # sin nivel: toma llm.prompt_nivel del YAML (5)
     assert [m["role"] for m in poliza] == ["system", "user", "assistant", "user"]
