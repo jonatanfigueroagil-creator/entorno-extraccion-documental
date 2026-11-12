@@ -7,6 +7,8 @@
 # No se actualizan estas versiones: numpy 2.3.5 convive con spaCy 3.8.18, scikit-learn 1.9.1 y PaddleOCR 3.7.0.
 #
 # Notas para Windows
+#   - pymupdf, torch, spacy, accelerate y paddleocr necesitan el Microsoft Visual C++ Redistributable (x64): sin msvcp140.dll
+#     fallan al importarse («DLL load failed», «Error loading c10.dll»); lo instala 01_instalar_vm.ps1 como administrador.
 #   - tabula-py necesita Java (JRE 17) en el PATH; lo instala 01_instalar_vm.ps1.
 #   - pytesseract necesita el programa Tesseract OCR con los idiomas spa y osd; lo instala 01_instalar_vm.ps1.
 #   - docker es solo el cliente de Python; Docker Desktop requiere WSL2 o Hyper-V y puede no estar disponible en la VM.

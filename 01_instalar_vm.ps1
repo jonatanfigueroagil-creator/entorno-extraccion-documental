@@ -6,7 +6,7 @@
 #   Invoke-WebRequest "https://raw.githubusercontent.com/jonatanfigueroagil-creator/entorno-extraccion-documental/sesion-05/01_instalar_vm.ps1" -OutFile C:\curso\trabajo\01_instalar_vm.ps1
 #   powershell -NoProfile -ExecutionPolicy Bypass -File C:\curso\trabajo\01_instalar_vm.ps1 -Rama sesion-05
 #
-# Que hace: instala Git, Python 3.12, Java 17 y Tesseract (spa y osd); crea C:\curso\{datos,trabajo,modelos,venv,paquete};
+# Que hace: instala el Visual C++ Redistributable (x64), Git, Python 3.12, Java 17 y Tesseract (spa y osd); crea C:\curso\{datos,trabajo,modelos,venv,paquete};
 # crea el entorno virtual con PyTorch, las librerias del curso, el modelo de spaCy y los modelos de Hugging Face (sesion 4);
 # clona el repositorio del curso en C:\curso\trabajo\entorno-extraccion-documental; deja los datos de practica en C:\curso\datos
 # y ejecuta el verificador. Si 02_requirements.txt, 03_verificar_entorno.py o 06_traer_datos.ps1 no estan junto a este
@@ -112,6 +112,27 @@ $Raiz0 = if ($PSScriptRoot) { $PSScriptRoot } elseif ($MyInvocation.MyCommand.Pa
 if (-not $Requirements -or -not (Test-Path $Requirements)) { $Requirements = Join-Path $Raiz0 "02_requirements.txt" }
 if (-not $SoloOllama) { $Requirements = ObtenerArchivo "02_requirements.txt" $Requirements }
 $Verificador = ObtenerArchivo "03_verificar_entorno.py" (Join-Path $Raiz0 "03_verificar_entorno.py")
+
+# 0a. Microsoft Visual C++ Redistributable (x64): sin msvcp140.dll y vcomp140.dll no se importan pymupdf, PyTorch,
+# spaCy, accelerate ni paddleocr («DLL load failed», «Error loading c10.dll»). Python 3.12 no lo trae y una VM nueva tampoco.
+# Se instala con administrador aunque se use -SoloEntorno; sin administrador solo se avisa. Codigos 1638 (ya hay una version
+# mas nueva) y 3010 (pide reiniciar) cuentan como instalado.
+$sys32 = "$env:SystemRoot\System32"
+$tieneVC = { (Test-Path "$sys32\msvcp140.dll") -and (Test-Path "$sys32\vcomp140.dll") }
+if (-not $SoloOllama) {
+    if ($esAdmin) {
+        Instalar "Visual C++ Redistributable" $tieneVC {
+            if (Existe "winget") { winget install --id Microsoft.VCRedist.2015+.x64 -e --silent --accept-package-agreements --accept-source-agreements }
+            $exe = "$Tmp\vc_redist.x64.exe"
+            if (-not (& $tieneVC) -and (Descargar "https://aka.ms/vs/17/release/vc_redist.x64.exe" $exe)) {
+                $p = Start-Process $exe -ArgumentList "/install /quiet /norestart" -Wait -PassThru
+                if ($p.ExitCode -notin @(0, 1638, 3010)) { Anotar "AVISO" "Visual C++ Redistributable" "el instalador termino con el codigo $($p.ExitCode)" }
+            }
+        }
+    } elseif (-not (& $tieneVC)) {
+        Anotar "AVISO" "Visual C++ Redistributable" "falta (msvcp140.dll): repetir este instalador en PowerShell como administrador"
+    }
+}
 
 if (-not $SoloEntorno) {
 # 0b. Rutas largas de Windows (algunos paquetes de Python tienen rutas de mas de 260 caracteres)

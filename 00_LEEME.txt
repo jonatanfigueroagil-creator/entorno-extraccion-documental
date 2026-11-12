@@ -6,7 +6,7 @@ pipeline_sbs de cada sesion. Contiene el codigo del curso, los documentos fictic
 en 02_Datos_Practica\14_Publico_Real, un lote de documentos publicos reales de la SMV (sin modificar).
 
 QUE CONTIENE
-  01_instalar_vm.ps1        Instala Python 3.12, Git, Java, Tesseract (espanol),
+  01_instalar_vm.ps1        Instala Visual C++, Python 3.12, Git, Java, Tesseract (espanol),
                             el entorno virtual y las librerias. Se puede repetir sin riesgo:
                             lo que ya esta instalado se omite.
                             Ollama y sus modelos se usan desde la sesion 5: en clase se instalan en vivo

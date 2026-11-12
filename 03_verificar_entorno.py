@@ -75,6 +75,28 @@ RUTAS_WINDOWS = {
 }
 
 
+# Bibliotecas del Microsoft Visual C++ Redistributable (x64) que necesitan pymupdf, PyTorch, spaCy y paddleocr
+DLL_VC = ("msvcp140.dll", "vcomp140.dll")
+ARREGLO_VC = ("instalar el Microsoft Visual C++ Redistributable (x64) desde https://aka.ms/vs/17/release/vc_redist.x64.exe "
+              "o repetir 01_instalar_vm.ps1 como administrador")
+
+
+def faltan_dll_vc() -> list[str]:
+    """Bibliotecas del Visual C++ Redistributable que no están en System32 (lista vacía fuera de Windows)."""
+    if not ES_WINDOWS:
+        return []
+    sistema = Path(os.environ.get("SystemRoot", UNIDAD + "Windows")) / "System32"
+    return [dll for dll in DLL_VC if not (sistema / dll).is_file()]
+
+
+def motivo(e: BaseException) -> str:
+    """Última línea del error, corta, y el arreglo si la causa es una DLL que no carga."""
+    texto = (str(e).strip().splitlines() or [""])[-1][:160].rstrip(" .")
+    if re.search(r"DLL load failed|WinError 126|c10\.dll", str(e)) and faltan_dll_vc():
+        texto += f". Falta el Visual C++ Redistributable: {ARREGLO_VC}"
+    return f"{type(e).__name__}: {texto}" if texto else type(e).__name__
+
+
 def registrar(nivel: str, grupo: str, nombre: str, detalle: str = "") -> None:
     """Anota el resultado de una comprobación, con la sesión que la necesita (0 = sistema)."""
     RESULTADOS.append({"nivel": nivel, "grupo": grupo, "nombre": nombre, "detalle": detalle, "sesion": SESION_ACTUAL})
@@ -235,7 +257,7 @@ def verificar_librerias(sesion: int, requisitos: dict[int, list[tuple[str, str |
             registrar("ERROR", g, paquete, "no está instalado")
             continue
         except Exception as e:  # noqa: BLE001
-            registrar("ERROR", g, paquete, f"instalado ({instalada}) pero no se pudo importar ({type(e).__name__})")
+            registrar("ERROR", g, paquete, f"instalado ({instalada}) pero no se pudo importar ({motivo(e)})")
             continue
         if version and instalada != version:
             registrar("AVISO", g, paquete, f"versión {instalada} (el curso usa {version})")
@@ -262,6 +284,15 @@ def verificar_git() -> None:
     g = "Programas del sistema"
     cod, sal = ejecutar(["git", "--version"])
     registrar("OK" if cod == 0 else "AVISO", g, "Git", sal if cod == 0 else "no instalado: se necesita para guardar el avance (sesión 0)")
+
+
+def verificar_vc_redist() -> None:
+    """Visual C++ Redistributable (x64): sin él no se importan pymupdf, PyTorch, spaCy ni paddleocr (sesiones 2 a 4)."""
+    if not ES_WINDOWS:
+        return
+    faltan = faltan_dll_vc()
+    registrar("ERROR" if faltan else "OK", "Programas del sistema", "Visual C++ Redistributable (x64)",
+              f"faltan {', '.join(faltan)}: {ARREGLO_VC}" if faltan else "msvcp140.dll y vcomp140.dll disponibles")
 
 
 def verificar_java() -> None:
@@ -307,8 +338,8 @@ def verificar_modelos_sesion4() -> None:
         arq = ", ".join(torch.cuda.get_arch_list()) if ok else ""
         registrar("OK" if ok else "AVISO", g, f"PyTorch {torch.__version__} con CUDA",
                   f"CUDA disponible (arquitecturas: {arq})" if ok else "sin CUDA: se usa la CPU y las salidas guardadas")
-    except Exception:  # noqa: BLE001
-        registrar("ERROR", g, "PyTorch", "no se pudo importar (lo instala 01_instalar_vm.ps1)")
+    except Exception as e:  # noqa: BLE001
+        registrar("ERROR", g, "PyTorch", f"no se pudo importar ({motivo(e)}; lo instala 01_instalar_vm.ps1)")
     try:
         import spacy
         spacy.load("es_core_news_md")
@@ -509,6 +540,7 @@ def main() -> int:
         if s == 1:
             verificar_tesseract()
             verificar_git()
+            verificar_vc_redist()
         elif s == 2:
             verificar_java()
         elif s == 4:
