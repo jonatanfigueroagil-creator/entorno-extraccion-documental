@@ -301,17 +301,35 @@ else { Anotar "AVISO" "GPU" "nvidia-smi no está: falta el controlador NVIDIA; s
 #    Ollama al terminar y Ollama lee la carpeta de modelos al arrancar. No se espera con Start-Process -Wait: esa opcion espera
 #    tambien a la aplicacion que el instalador deja abierta y la consola queda colgada.
 $ApiOllama = "http://127.0.0.1:11434"
-function VersionApiOllama {
-    try { return (Invoke-RestMethod -Uri "$ApiOllama/api/version" -TimeoutSec 3 -UseBasicParsing).version } catch { return $null }
+function LeerApiOllama([string]$ruta, [int]$milisegundos) {
+    # Sin proxy: un proxy de la red de la VM no debe desviar la consulta a localhost. Devuelve el texto o $null
+    try {
+        $req = [Net.HttpWebRequest]::Create("$ApiOllama$ruta")
+        $req.Proxy = $null; $req.Timeout = $milisegundos; $req.ReadWriteTimeout = $milisegundos
+        $resp = $req.GetResponse()
+        try { return (New-Object IO.StreamReader($resp.GetResponseStream())).ReadToEnd() } finally { $resp.Close() }
+    } catch { return $null }
 }
-function EsperarApiOllama([int]$segundos) {
-    $fin = (Get-Date).AddSeconds($segundos)
+function VersionApiOllama {
+    $texto = LeerApiOllama "/api/version" 3000
+    if ($texto) { try { return ($texto | ConvertFrom-Json).version } catch { } }
+    return $null
+}
+function EsperarApiOllama([int]$segundos, [int]$yaEsperados = 0) {
+    # Consulta cada 2 s y avisa cada 30 s, para que no parezca colgado
+    $inicio = Get-Date; $fin = $inicio.AddSeconds($segundos); $aviso = 30
     do {
         $v = VersionApiOllama
         if ($v) { return $v }
         Start-Sleep -Seconds 2
+        $s = [int]((Get-Date) - $inicio).TotalSeconds + $yaEsperados
+        if ($s -ge $aviso) { Write-Host "  Ollama arrancando... $s s"; $aviso = $s + 30 }
     } while ((Get-Date) -lt $fin)
     return $null
+}
+function Resuelto([string]$prefijo) {
+    # Quita del resumen un error que la revision posterior ya resolvio, para que el resumen muestre el estado real
+    $script:Resumen = @($script:Resumen | Where-Object { -not $_.StartsWith($prefijo) })
 }
 function VersionProgramaOllama([string]$exe) {
     # ollama --version escribe en la salida normal o en la de errores (si el servidor no corre): se leen las dos
@@ -327,9 +345,25 @@ function VersionProgramaOllama([string]$exe) {
     return $null
 }
 function ModelosOllama {
-    try { return @((Invoke-RestMethod -Uri "$ApiOllama/api/tags" -TimeoutSec 10 -UseBasicParsing).models | ForEach-Object { $_.name }) } catch { return @() }
+    $texto = LeerApiOllama "/api/tags" 10000
+    if ($texto) { try { return @(($texto | ConvertFrom-Json).models | ForEach-Object { $_.name }) } catch { } }
+    return @()
 }
 function NombreCompleto([string]$m) { if ($m -match ":") { return $m } else { return "${m}:latest" } }
+function DescargarModelosOllama([string[]]$lista = $Modelos) {
+    # ollama pull muestra el avance y retoma la descarga si se corta; lo ya descargado se omite
+    foreach ($m in $lista) {
+        if ((ModelosOllama) -contains (NombreCompleto $m)) { Anotar "OK" "modelo $m" "ya descargado"; continue }
+        Anotar "INFO" "modelo $m" "se descarga (qwen3.5:4b 3,3 GB; glm-ocr 2,7 GB; qwen3.5:9b 6,6 GB)"
+        & $exeOllama pull $m
+        if ($LASTEXITCODE -ne 0) {
+            Anotar "AVISO" "modelo $m" "la descarga se cortó: se repite (retoma donde quedó)"
+            & $exeOllama pull $m
+        }
+        if ((ModelosOllama) -contains (NombreCompleto $m)) { Resuelto "[ERROR] modelo $m "; Anotar "OK" "modelo $m" "descargado" }
+        else { Resuelto "[ERROR] modelo $m "; Anotar "ERROR" "modelo $m" "no quedó descargado: repetir 'ollama pull $m' (retoma donde quedó)" }
+    }
+}
 function CarpetaModelosDelServidor {
     # La ultima linea «server config» del registro dice con que carpeta arranco el servidor de Ollama
     $registro = Join-Path $env:LOCALAPPDATA "Ollama\server.log"
@@ -414,21 +448,34 @@ if ($ConOllama) {
             }
         }
 
-        # 9c. Servicio: la API debe responder en localhost:11434 (hasta 90 s; si no, se abre Ollama y, si sigue sin responder, ollama serve)
+        # 9c. Servicio: la API debe responder en localhost:11434. La primera vez Ollama puede tardar mas de un minuto en arrancar
+        #     (detecta la GPU): se espera hasta 5 min en total. La aplicacion se abre una sola vez y ollama serve solo se inicia si
+        #     no corre ningun proceso de Ollama: los dos a la vez compiten por el puerto 11434.
         if (Test-Path $exeOllama) {
-            $api = EsperarApiOllama 30
-            if (-not $api -and (Test-Path $appOllama) -and -not (Get-Process -Name "ollama app" -ErrorAction SilentlyContinue)) {
-                Anotar "INFO" "Ollama" "la API no responde: se abre la aplicación Ollama"
-                Start-Process -FilePath $appOllama
-                $api = EsperarApiOllama 30
-            }
+            $api = EsperarApiOllama 60
             if (-not $api) {
-                Anotar "INFO" "Ollama" "la API sigue sin responder: se inicia ollama serve en segundo plano"
-                Start-Process -FilePath $exeOllama -ArgumentList "serve" -WindowStyle Hidden
-                $api = EsperarApiOllama 30
+                if (Get-Process -Name "ollama app", "ollama" -ErrorAction SilentlyContinue) {
+                    Anotar "INFO" "Ollama" "está arrancando: se espera hasta 5 min en total"
+                } elseif (Test-Path $appOllama) {
+                    Anotar "INFO" "Ollama" "la API no responde: se abre la aplicación Ollama (se espera hasta 5 min en total)"
+                    Start-Process -FilePath $appOllama
+                } else {
+                    Anotar "INFO" "Ollama" "la API no responde: se inicia ollama serve en segundo plano"
+                    Start-Process -FilePath $exeOllama -ArgumentList "serve" -WindowStyle Hidden
+                }
+                $api = EsperarApiOllama 180 60
             }
+            if (-not $api -and -not (Get-Process -Name "ollama" -ErrorAction SilentlyContinue)) {
+                Anotar "INFO" "Ollama" "no hay servidor de Ollama en marcha: se inicia ollama serve en segundo plano"
+                Start-Process -FilePath $exeOllama -ArgumentList "serve" -WindowStyle Hidden
+            }
+            if (-not $api) { $api = EsperarApiOllama 60 240 }
             if ($api) { Anotar "OK" "Ollama (API)" "responde en localhost:11434 (versión $api)" }
-            else { Anotar "ERROR" "Ollama (API)" "no responde en localhost:11434 tras 90 s: abrir «Ollama» desde Inicio y revisar $env:LOCALAPPDATA\Ollama\server.log" }
+            else {
+                $regServidor = Join-Path $env:LOCALAPPDATA "Ollama\server.log"
+                $cola = if (Test-Path $regServidor) { (Get-Content $regServidor -Tail 5) -join " | " } else { "no existe $regServidor" }
+                Anotar "ERROR" "Ollama (API)" "no responde en localhost:11434 tras 5 min: abrir «Ollama» desde Inicio y repetir este instalador. Últimas líneas del registro del servidor: $cola"
+            }
 
             $carpetaServidor = CarpetaModelosDelServidor
             if ($api -and $carpetaServidor -and ($carpetaServidor.TrimEnd("\") -ne $carpetaModelos.TrimEnd("\"))) {
@@ -440,18 +487,23 @@ if ($ConOllama) {
             if ($api -and -not $SinModelo) {
                 $libre = [math]::Round((Get-PSDrive -Name $carpetaModelos.Substring(0, 1)).Free / 1GB)
                 if ($libre -lt 15) { Anotar "AVISO" "disco" "quedan $libre GB libres; los tres modelos ocupan 12,5 GB" }
-                foreach ($m in $Modelos) {
-                    if ((ModelosOllama) -contains (NombreCompleto $m)) { Anotar "OK" "modelo $m" "ya descargado"; continue }
-                    Anotar "INFO" "modelo $m" "se descarga (qwen3.5:4b 3,3 GB; glm-ocr 2,7 GB; qwen3.5:9b 6,6 GB)"
-                    & $exeOllama pull $m
-                    if ($LASTEXITCODE -ne 0) {
-                        Anotar "AVISO" "modelo $m" "la descarga se cortó: se repite (retoma donde quedó)"
-                        & $exeOllama pull $m
-                    }
-                    if ((ModelosOllama) -contains (NombreCompleto $m)) { Anotar "OK" "modelo $m" "descargado" }
-                    else { Anotar "ERROR" "modelo $m" "no quedó descargado: repetir 'ollama pull $m' (retoma donde quedó)" }
-                }
+                DescargarModelosOllama
             } elseif ($SinModelo) { Anotar "INFO" "modelos de Ollama" "no se descargan (-SinModelo)" }
+
+            # 9e. Revision final del sistema: si la API respondio despues de la espera o una descarga quedo a medias, se completa
+            #     ahora y se quitan del resumen los errores ya resueltos; asi el resumen y el verificador muestran el estado real
+            if (-not $api) {
+                $api = VersionApiOllama
+                if ($api) { Resuelto "[ERROR] Ollama (API)"; Anotar "OK" "Ollama (API)" "responde en la revisión final (versión $api)" }
+            }
+            if ($api -and -not $SinModelo) {
+                $presentes = ModelosOllama
+                $faltan = @($Modelos | Where-Object { $presentes -notcontains (NombreCompleto $_) })
+                if ($faltan.Count -gt 0) {
+                    Anotar "INFO" "revisión final" "faltan $($faltan -join ', '): se descargan ahora"
+                    DescargarModelosOllama $faltan
+                } else { Anotar "OK" "revisión final" "Ollama responde y están los modelos $($Modelos -join ', ')" }
+            }
         }
     }
 } elseif ($Sesion -ge 5) { Anotar "INFO" "Ollama" "no se instala ahora: en la sesión 5 se instala con el paso 3 de la guía (este instalador con -SoloOllama)" }
