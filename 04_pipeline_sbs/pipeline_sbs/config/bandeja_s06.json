@@ -1,0 +1,1275 @@
+{
+ "nota": "Bandeja de la Mesa de Partes DEMO (S06): 200 archivos de los datos de práctica, por ID, carpeta, archivo y tipo. 'corta' lista los 60 del plan B. Los 7 del lote de S02 traen las 5 trampas y el duplicado.",
+ "archivos": 200,
+ "completa": [
+  {
+   "id": "POL-0001",
+   "carpeta": "05_Polizas",
+   "archivo": "POL-0001.pdf",
+   "tipo": "poliza"
+  },
+  {
+   "id": "POL-0002",
+   "carpeta": "05_Polizas",
+   "archivo": "POL-0002.pdf",
+   "tipo": "poliza"
+  },
+  {
+   "id": "POL-0003",
+   "carpeta": "05_Polizas",
+   "archivo": "POL-0003.pdf",
+   "tipo": "poliza"
+  },
+  {
+   "id": "POL-0004",
+   "carpeta": "05_Polizas",
+   "archivo": "POL-0004.pdf",
+   "tipo": "poliza"
+  },
+  {
+   "id": "POL-0005",
+   "carpeta": "05_Polizas",
+   "archivo": "POL-0005.pdf",
+   "tipo": "poliza"
+  },
+  {
+   "id": "POL-0006",
+   "carpeta": "05_Polizas",
+   "archivo": "POL-0006.pdf",
+   "tipo": "poliza"
+  },
+  {
+   "id": "POL-0007",
+   "carpeta": "05_Polizas",
+   "archivo": "POL-0007.pdf",
+   "tipo": "poliza"
+  },
+  {
+   "id": "POL-0008",
+   "carpeta": "05_Polizas",
+   "archivo": "POL-0008.pdf",
+   "tipo": "poliza"
+  },
+  {
+   "id": "POL-0009",
+   "carpeta": "05_Polizas",
+   "archivo": "POL-0009.pdf",
+   "tipo": "poliza"
+  },
+  {
+   "id": "POL-0010",
+   "carpeta": "05_Polizas",
+   "archivo": "POL-0010.pdf",
+   "tipo": "poliza"
+  },
+  {
+   "id": "POL-0011",
+   "carpeta": "05_Polizas",
+   "archivo": "POL-0011.pdf",
+   "tipo": "poliza"
+  },
+  {
+   "id": "POL-0012",
+   "carpeta": "05_Polizas",
+   "archivo": "POL-0012.pdf",
+   "tipo": "poliza"
+  },
+  {
+   "id": "POL-0013",
+   "carpeta": "05_Polizas",
+   "archivo": "POL-0013.pdf",
+   "tipo": "poliza"
+  },
+  {
+   "id": "POL-0014",
+   "carpeta": "05_Polizas",
+   "archivo": "POL-0014.pdf",
+   "tipo": "poliza"
+  },
+  {
+   "id": "POL-0015",
+   "carpeta": "05_Polizas",
+   "archivo": "POL-0015.pdf",
+   "tipo": "poliza"
+  },
+  {
+   "id": "CON-0001",
+   "carpeta": "04_Contratos",
+   "archivo": "CON-0001.docx",
+   "tipo": "contrato"
+  },
+  {
+   "id": "CON-0002",
+   "carpeta": "04_Contratos",
+   "archivo": "CON-0002.docx",
+   "tipo": "contrato"
+  },
+  {
+   "id": "CON-0003",
+   "carpeta": "04_Contratos",
+   "archivo": "CON-0003.docx",
+   "tipo": "contrato"
+  },
+  {
+   "id": "CON-0004",
+   "carpeta": "04_Contratos",
+   "archivo": "CON-0004.docx",
+   "tipo": "contrato"
+  },
+  {
+   "id": "CON-0005",
+   "carpeta": "04_Contratos",
+   "archivo": "CON-0005.docx",
+   "tipo": "contrato"
+  },
+  {
+   "id": "CON-0006",
+   "carpeta": "04_Contratos",
+   "archivo": "CON-0006.docx",
+   "tipo": "contrato"
+  },
+  {
+   "id": "CON-0007",
+   "carpeta": "04_Contratos",
+   "archivo": "CON-0007.docx",
+   "tipo": "contrato"
+  },
+  {
+   "id": "CON-0008",
+   "carpeta": "04_Contratos",
+   "archivo": "CON-0008.docx",
+   "tipo": "contrato"
+  },
+  {
+   "id": "CON-0009",
+   "carpeta": "04_Contratos",
+   "archivo": "CON-0009.docx",
+   "tipo": "contrato"
+  },
+  {
+   "id": "CON-0010",
+   "carpeta": "04_Contratos",
+   "archivo": "CON-0010.docx",
+   "tipo": "contrato"
+  },
+  {
+   "id": "CON-0011",
+   "carpeta": "04_Contratos",
+   "archivo": "CON-0011.docx",
+   "tipo": "contrato"
+  },
+  {
+   "id": "CON-0012",
+   "carpeta": "04_Contratos",
+   "archivo": "CON-0012.docx",
+   "tipo": "contrato"
+  },
+  {
+   "id": "CON-0013",
+   "carpeta": "04_Contratos",
+   "archivo": "CON-0013.docx",
+   "tipo": "contrato"
+  },
+  {
+   "id": "CON-0014",
+   "carpeta": "04_Contratos",
+   "archivo": "CON-0014.docx",
+   "tipo": "contrato"
+  },
+  {
+   "id": "CON-0015",
+   "carpeta": "04_Contratos",
+   "archivo": "CON-0015.docx",
+   "tipo": "contrato"
+  },
+  {
+   "id": "CON-0016",
+   "carpeta": "04_Contratos",
+   "archivo": "CON-0016.docx",
+   "tipo": "contrato"
+  },
+  {
+   "id": "CON-0017",
+   "carpeta": "04_Contratos",
+   "archivo": "CON-0017.docx",
+   "tipo": "contrato"
+  },
+  {
+   "id": "CON-0018",
+   "carpeta": "04_Contratos",
+   "archivo": "CON-0018.docx",
+   "tipo": "contrato"
+  },
+  {
+   "id": "CON-0019",
+   "carpeta": "04_Contratos",
+   "archivo": "CON-0019.docx",
+   "tipo": "contrato"
+  },
+  {
+   "id": "CON-0020",
+   "carpeta": "04_Contratos",
+   "archivo": "CON-0020.docx",
+   "tipo": "contrato"
+  },
+  {
+   "id": "CON-0021",
+   "carpeta": "04_Contratos",
+   "archivo": "CON-0021.pdf",
+   "tipo": "contrato"
+  },
+  {
+   "id": "CON-0022",
+   "carpeta": "04_Contratos",
+   "archivo": "CON-0022.pdf",
+   "tipo": "contrato"
+  },
+  {
+   "id": "CON-0023",
+   "carpeta": "04_Contratos",
+   "archivo": "CON-0023.pdf",
+   "tipo": "contrato"
+  },
+  {
+   "id": "CON-0024",
+   "carpeta": "04_Contratos",
+   "archivo": "CON-0024.pdf",
+   "tipo": "contrato"
+  },
+  {
+   "id": "CON-0025",
+   "carpeta": "04_Contratos",
+   "archivo": "CON-0025.pdf",
+   "tipo": "contrato"
+  },
+  {
+   "id": "CON-0026",
+   "carpeta": "04_Contratos",
+   "archivo": "CON-0026.pdf",
+   "tipo": "contrato"
+  },
+  {
+   "id": "CON-0027",
+   "carpeta": "04_Contratos",
+   "archivo": "CON-0027.pdf",
+   "tipo": "contrato"
+  },
+  {
+   "id": "CON-0028",
+   "carpeta": "04_Contratos",
+   "archivo": "CON-0028.pdf",
+   "tipo": "contrato"
+  },
+  {
+   "id": "CON-0029",
+   "carpeta": "04_Contratos",
+   "archivo": "CON-0029.pdf",
+   "tipo": "contrato"
+  },
+  {
+   "id": "CON-0030",
+   "carpeta": "04_Contratos",
+   "archivo": "CON-0030.pdf",
+   "tipo": "contrato"
+  },
+  {
+   "id": "CON-0031",
+   "carpeta": "04_Contratos",
+   "archivo": "CON-0031.pdf",
+   "tipo": "contrato"
+  },
+  {
+   "id": "CON-0032",
+   "carpeta": "04_Contratos",
+   "archivo": "CON-0032.pdf",
+   "tipo": "contrato"
+  },
+  {
+   "id": "CON-0033",
+   "carpeta": "04_Contratos",
+   "archivo": "CON-0033.pdf",
+   "tipo": "contrato"
+  },
+  {
+   "id": "CON-0034",
+   "carpeta": "04_Contratos",
+   "archivo": "CON-0034.pdf",
+   "tipo": "contrato"
+  },
+  {
+   "id": "CON-0035",
+   "carpeta": "04_Contratos",
+   "archivo": "CON-0035.pdf",
+   "tipo": "contrato"
+  },
+  {
+   "id": "OFI-0001",
+   "carpeta": "02_Oficios",
+   "archivo": "OFI-0001.pdf",
+   "tipo": "oficio"
+  },
+  {
+   "id": "OFI-0002",
+   "carpeta": "02_Oficios",
+   "archivo": "OFI-0002.pdf",
+   "tipo": "oficio"
+  },
+  {
+   "id": "OFI-0003",
+   "carpeta": "02_Oficios",
+   "archivo": "OFI-0003.pdf",
+   "tipo": "oficio"
+  },
+  {
+   "id": "OFI-0004",
+   "carpeta": "02_Oficios",
+   "archivo": "OFI-0004.pdf",
+   "tipo": "oficio"
+  },
+  {
+   "id": "OFI-0005",
+   "carpeta": "02_Oficios",
+   "archivo": "OFI-0005.pdf",
+   "tipo": "oficio"
+  },
+  {
+   "id": "OFI-0006",
+   "carpeta": "02_Oficios",
+   "archivo": "OFI-0006.pdf",
+   "tipo": "oficio"
+  },
+  {
+   "id": "OFI-0007",
+   "carpeta": "02_Oficios",
+   "archivo": "OFI-0007.pdf",
+   "tipo": "oficio"
+  },
+  {
+   "id": "OFI-0008",
+   "carpeta": "02_Oficios",
+   "archivo": "OFI-0008.pdf",
+   "tipo": "oficio"
+  },
+  {
+   "id": "OFI-0009",
+   "carpeta": "02_Oficios",
+   "archivo": "OFI-0009.pdf",
+   "tipo": "oficio"
+  },
+  {
+   "id": "OFI-0010",
+   "carpeta": "02_Oficios",
+   "archivo": "OFI-0010.pdf",
+   "tipo": "oficio"
+  },
+  {
+   "id": "OFI-0011",
+   "carpeta": "02_Oficios",
+   "archivo": "OFI-0011.pdf",
+   "tipo": "oficio"
+  },
+  {
+   "id": "OFI-0012",
+   "carpeta": "02_Oficios",
+   "archivo": "OFI-0012.pdf",
+   "tipo": "oficio"
+  },
+  {
+   "id": "OFI-0013",
+   "carpeta": "02_Oficios",
+   "archivo": "OFI-0013.pdf",
+   "tipo": "oficio"
+  },
+  {
+   "id": "OFI-0014",
+   "carpeta": "02_Oficios",
+   "archivo": "OFI-0014.pdf",
+   "tipo": "oficio"
+  },
+  {
+   "id": "OFI-0015",
+   "carpeta": "02_Oficios",
+   "archivo": "OFI-0015.pdf",
+   "tipo": "oficio"
+  },
+  {
+   "id": "OFI-0016",
+   "carpeta": "02_Oficios",
+   "archivo": "OFI-0016.pdf",
+   "tipo": "oficio"
+  },
+  {
+   "id": "OFI-0017",
+   "carpeta": "02_Oficios",
+   "archivo": "OFI-0017.pdf",
+   "tipo": "oficio"
+  },
+  {
+   "id": "OFI-0018",
+   "carpeta": "02_Oficios",
+   "archivo": "OFI-0018.pdf",
+   "tipo": "oficio"
+  },
+  {
+   "id": "OFI-0019",
+   "carpeta": "02_Oficios",
+   "archivo": "OFI-0019.pdf",
+   "tipo": "oficio"
+  },
+  {
+   "id": "OFI-0020",
+   "carpeta": "02_Oficios",
+   "archivo": "OFI-0020.pdf",
+   "tipo": "oficio"
+  },
+  {
+   "id": "OFI-0021",
+   "carpeta": "02_Oficios",
+   "archivo": "OFI-0021.pdf",
+   "tipo": "oficio"
+  },
+  {
+   "id": "OFI-0022",
+   "carpeta": "02_Oficios",
+   "archivo": "OFI-0022.pdf",
+   "tipo": "oficio"
+  },
+  {
+   "id": "OFI-0023",
+   "carpeta": "02_Oficios",
+   "archivo": "OFI-0023.pdf",
+   "tipo": "oficio"
+  },
+  {
+   "id": "OFI-0024",
+   "carpeta": "02_Oficios",
+   "archivo": "OFI-0024.pdf",
+   "tipo": "oficio"
+  },
+  {
+   "id": "OFI-0025",
+   "carpeta": "02_Oficios",
+   "archivo": "OFI-0025.pdf",
+   "tipo": "oficio"
+  },
+  {
+   "id": "OFI-0026",
+   "carpeta": "02_Oficios",
+   "archivo": "OFI-0026.pdf",
+   "tipo": "oficio"
+  },
+  {
+   "id": "OFI-0027",
+   "carpeta": "02_Oficios",
+   "archivo": "OFI-0027.pdf",
+   "tipo": "oficio"
+  },
+  {
+   "id": "OFI-0028",
+   "carpeta": "02_Oficios",
+   "archivo": "OFI-0028.pdf",
+   "tipo": "oficio"
+  },
+  {
+   "id": "OFI-0029",
+   "carpeta": "02_Oficios",
+   "archivo": "OFI-0029.pdf",
+   "tipo": "oficio"
+  },
+  {
+   "id": "OFI-0030",
+   "carpeta": "02_Oficios",
+   "archivo": "OFI-0030.pdf",
+   "tipo": "oficio"
+  },
+  {
+   "id": "OFI-0031",
+   "carpeta": "02_Oficios",
+   "archivo": "OFI-0031.pdf",
+   "tipo": "oficio"
+  },
+  {
+   "id": "OFI-0032",
+   "carpeta": "02_Oficios",
+   "archivo": "OFI-0032.pdf",
+   "tipo": "oficio"
+  },
+  {
+   "id": "OFI-0033",
+   "carpeta": "02_Oficios",
+   "archivo": "OFI-0033.pdf",
+   "tipo": "oficio"
+  },
+  {
+   "id": "OFI-0034",
+   "carpeta": "02_Oficios",
+   "archivo": "OFI-0034.pdf",
+   "tipo": "oficio"
+  },
+  {
+   "id": "OFI-0035",
+   "carpeta": "02_Oficios",
+   "archivo": "OFI-0035.pdf",
+   "tipo": "oficio"
+  },
+  {
+   "id": "OFI-0036",
+   "carpeta": "02_Oficios",
+   "archivo": "OFI-0036.pdf",
+   "tipo": "oficio"
+  },
+  {
+   "id": "OFI-0037",
+   "carpeta": "02_Oficios",
+   "archivo": "OFI-0037.pdf",
+   "tipo": "oficio"
+  },
+  {
+   "id": "OFI-0038",
+   "carpeta": "02_Oficios",
+   "archivo": "OFI-0038.pdf",
+   "tipo": "oficio"
+  },
+  {
+   "id": "OFI-0039",
+   "carpeta": "02_Oficios",
+   "archivo": "OFI-0039.pdf",
+   "tipo": "oficio"
+  },
+  {
+   "id": "OFI-0040",
+   "carpeta": "02_Oficios",
+   "archivo": "OFI-0040.pdf",
+   "tipo": "oficio"
+  },
+  {
+   "id": "EFI-0001",
+   "carpeta": "03_Estados_Financieros",
+   "archivo": "EFI-0001.pdf",
+   "tipo": "estado_financiero"
+  },
+  {
+   "id": "EFI-0002",
+   "carpeta": "03_Estados_Financieros",
+   "archivo": "EFI-0002.pdf",
+   "tipo": "estado_financiero"
+  },
+  {
+   "id": "EFI-0003",
+   "carpeta": "03_Estados_Financieros",
+   "archivo": "EFI-0003.pdf",
+   "tipo": "estado_financiero"
+  },
+  {
+   "id": "EFI-0004",
+   "carpeta": "03_Estados_Financieros",
+   "archivo": "EFI-0004.pdf",
+   "tipo": "estado_financiero"
+  },
+  {
+   "id": "EFI-0005",
+   "carpeta": "03_Estados_Financieros",
+   "archivo": "EFI-0005.pdf",
+   "tipo": "estado_financiero"
+  },
+  {
+   "id": "EFI-0006",
+   "carpeta": "03_Estados_Financieros",
+   "archivo": "EFI-0006.pdf",
+   "tipo": "estado_financiero"
+  },
+  {
+   "id": "EFI-0007",
+   "carpeta": "03_Estados_Financieros",
+   "archivo": "EFI-0007.pdf",
+   "tipo": "estado_financiero"
+  },
+  {
+   "id": "EFI-0008",
+   "carpeta": "03_Estados_Financieros",
+   "archivo": "EFI-0008.pdf",
+   "tipo": "estado_financiero"
+  },
+  {
+   "id": "EFI-0009",
+   "carpeta": "03_Estados_Financieros",
+   "archivo": "EFI-0009.pdf",
+   "tipo": "estado_financiero"
+  },
+  {
+   "id": "EFI-0010",
+   "carpeta": "03_Estados_Financieros",
+   "archivo": "EFI-0010.pdf",
+   "tipo": "estado_financiero"
+  },
+  {
+   "id": "EFI-0011",
+   "carpeta": "03_Estados_Financieros",
+   "archivo": "EFI-0011.pdf",
+   "tipo": "estado_financiero"
+  },
+  {
+   "id": "EFI-0012",
+   "carpeta": "03_Estados_Financieros",
+   "archivo": "EFI-0012.pdf",
+   "tipo": "estado_financiero"
+  },
+  {
+   "id": "EFI-0013",
+   "carpeta": "03_Estados_Financieros",
+   "archivo": "EFI-0013.pdf",
+   "tipo": "estado_financiero"
+  },
+  {
+   "id": "EFI-0014",
+   "carpeta": "03_Estados_Financieros",
+   "archivo": "EFI-0014.pdf",
+   "tipo": "estado_financiero"
+  },
+  {
+   "id": "EFI-0015",
+   "carpeta": "03_Estados_Financieros",
+   "archivo": "EFI-0015.pdf",
+   "tipo": "estado_financiero"
+  },
+  {
+   "id": "EFI-0016",
+   "carpeta": "03_Estados_Financieros",
+   "archivo": "EFI-0016.pdf",
+   "tipo": "estado_financiero"
+  },
+  {
+   "id": "EFI-0017",
+   "carpeta": "03_Estados_Financieros",
+   "archivo": "EFI-0017.pdf",
+   "tipo": "estado_financiero"
+  },
+  {
+   "id": "EFI-0018",
+   "carpeta": "03_Estados_Financieros",
+   "archivo": "EFI-0018.pdf",
+   "tipo": "estado_financiero"
+  },
+  {
+   "id": "EFI-0019",
+   "carpeta": "03_Estados_Financieros",
+   "archivo": "EFI-0019.pdf",
+   "tipo": "estado_financiero"
+  },
+  {
+   "id": "EFI-0020",
+   "carpeta": "03_Estados_Financieros",
+   "archivo": "EFI-0020.pdf",
+   "tipo": "estado_financiero"
+  },
+  {
+   "id": "EFI-0021",
+   "carpeta": "03_Estados_Financieros",
+   "archivo": "EFI-0021.pdf",
+   "tipo": "estado_financiero"
+  },
+  {
+   "id": "EFI-0022",
+   "carpeta": "03_Estados_Financieros",
+   "archivo": "EFI-0022.pdf",
+   "tipo": "estado_financiero"
+  },
+  {
+   "id": "EFI-0023",
+   "carpeta": "03_Estados_Financieros",
+   "archivo": "EFI-0023.pdf",
+   "tipo": "estado_financiero"
+  },
+  {
+   "id": "EFI-0024",
+   "carpeta": "03_Estados_Financieros",
+   "archivo": "EFI-0024.pdf",
+   "tipo": "estado_financiero"
+  },
+  {
+   "id": "EFI-0025",
+   "carpeta": "03_Estados_Financieros",
+   "archivo": "EFI-0025.pdf",
+   "tipo": "estado_financiero"
+  },
+  {
+   "id": "EFI-0026",
+   "carpeta": "03_Estados_Financieros",
+   "archivo": "EFI-0026.pdf",
+   "tipo": "estado_financiero"
+  },
+  {
+   "id": "EFI-0027",
+   "carpeta": "03_Estados_Financieros",
+   "archivo": "EFI-0027.pdf",
+   "tipo": "estado_financiero"
+  },
+  {
+   "id": "EFI-0028",
+   "carpeta": "03_Estados_Financieros",
+   "archivo": "EFI-0028.pdf",
+   "tipo": "estado_financiero"
+  },
+  {
+   "id": "EFI-0029",
+   "carpeta": "03_Estados_Financieros",
+   "archivo": "EFI-0029.pdf",
+   "tipo": "estado_financiero"
+  },
+  {
+   "id": "EFI-0030",
+   "carpeta": "03_Estados_Financieros",
+   "archivo": "EFI-0030.pdf",
+   "tipo": "estado_financiero"
+  },
+  {
+   "id": "EFI-0031",
+   "carpeta": "03_Estados_Financieros",
+   "archivo": "EFI-0031.pdf",
+   "tipo": "estado_financiero"
+  },
+  {
+   "id": "EFI-0032",
+   "carpeta": "03_Estados_Financieros",
+   "archivo": "EFI-0032.pdf",
+   "tipo": "estado_financiero"
+  },
+  {
+   "id": "EFI-0033",
+   "carpeta": "03_Estados_Financieros",
+   "archivo": "EFI-0033.pdf",
+   "tipo": "estado_financiero"
+  },
+  {
+   "id": "EFI-0034",
+   "carpeta": "03_Estados_Financieros",
+   "archivo": "EFI-0034.pdf",
+   "tipo": "estado_financiero"
+  },
+  {
+   "id": "EFI-0035",
+   "carpeta": "03_Estados_Financieros",
+   "archivo": "EFI-0035.pdf",
+   "tipo": "estado_financiero"
+  },
+  {
+   "id": "EFI-0036",
+   "carpeta": "03_Estados_Financieros",
+   "archivo": "EFI-0036.pdf",
+   "tipo": "estado_financiero"
+  },
+  {
+   "id": "EFI-0037",
+   "carpeta": "03_Estados_Financieros",
+   "archivo": "EFI-0037.pdf",
+   "tipo": "estado_financiero"
+  },
+  {
+   "id": "EFI-0038",
+   "carpeta": "03_Estados_Financieros",
+   "archivo": "EFI-0038.pdf",
+   "tipo": "estado_financiero"
+  },
+  {
+   "id": "EFI-0039",
+   "carpeta": "03_Estados_Financieros",
+   "archivo": "EFI-0039.pdf",
+   "tipo": "estado_financiero"
+  },
+  {
+   "id": "EFI-0040",
+   "carpeta": "03_Estados_Financieros",
+   "archivo": "EFI-0040.pdf",
+   "tipo": "estado_financiero"
+  },
+  {
+   "id": "REC-0001",
+   "carpeta": "06_Reclamos",
+   "archivo": "REC-0001.eml",
+   "tipo": "reclamo"
+  },
+  {
+   "id": "REC-0002",
+   "carpeta": "06_Reclamos",
+   "archivo": "REC-0002.eml",
+   "tipo": "reclamo"
+  },
+  {
+   "id": "REC-0003",
+   "carpeta": "06_Reclamos",
+   "archivo": "REC-0003.eml",
+   "tipo": "reclamo"
+  },
+  {
+   "id": "REC-0004",
+   "carpeta": "06_Reclamos",
+   "archivo": "REC-0004.eml",
+   "tipo": "reclamo"
+  },
+  {
+   "id": "REC-0005",
+   "carpeta": "06_Reclamos",
+   "archivo": "REC-0005.eml",
+   "tipo": "reclamo"
+  },
+  {
+   "id": "REC-0006",
+   "carpeta": "06_Reclamos",
+   "archivo": "REC-0006.eml",
+   "tipo": "reclamo"
+  },
+  {
+   "id": "REC-0007",
+   "carpeta": "06_Reclamos",
+   "archivo": "REC-0007.eml",
+   "tipo": "reclamo"
+  },
+  {
+   "id": "REC-0008",
+   "carpeta": "06_Reclamos",
+   "archivo": "REC-0008.eml",
+   "tipo": "reclamo"
+  },
+  {
+   "id": "REC-0009",
+   "carpeta": "06_Reclamos",
+   "archivo": "REC-0009.eml",
+   "tipo": "reclamo"
+  },
+  {
+   "id": "REC-0010",
+   "carpeta": "06_Reclamos",
+   "archivo": "REC-0010.eml",
+   "tipo": "reclamo"
+  },
+  {
+   "id": "REC-0011",
+   "carpeta": "06_Reclamos",
+   "archivo": "REC-0011.eml",
+   "tipo": "reclamo"
+  },
+  {
+   "id": "REC-0012",
+   "carpeta": "06_Reclamos",
+   "archivo": "REC-0012.eml",
+   "tipo": "reclamo"
+  },
+  {
+   "id": "REC-0013",
+   "carpeta": "06_Reclamos",
+   "archivo": "REC-0013.eml",
+   "tipo": "reclamo"
+  },
+  {
+   "id": "REC-0014",
+   "carpeta": "06_Reclamos",
+   "archivo": "REC-0014.eml",
+   "tipo": "reclamo"
+  },
+  {
+   "id": "REC-0015",
+   "carpeta": "06_Reclamos",
+   "archivo": "REC-0015.eml",
+   "tipo": "reclamo"
+  },
+  {
+   "id": "REC-0016",
+   "carpeta": "06_Reclamos",
+   "archivo": "REC-0016.eml",
+   "tipo": "reclamo"
+  },
+  {
+   "id": "REC-0017",
+   "carpeta": "06_Reclamos",
+   "archivo": "REC-0017.eml",
+   "tipo": "reclamo"
+  },
+  {
+   "id": "REC-0018",
+   "carpeta": "06_Reclamos",
+   "archivo": "REC-0018.eml",
+   "tipo": "reclamo"
+  },
+  {
+   "id": "REC-0019",
+   "carpeta": "06_Reclamos",
+   "archivo": "REC-0019.eml",
+   "tipo": "reclamo"
+  },
+  {
+   "id": "REC-0020",
+   "carpeta": "06_Reclamos",
+   "archivo": "REC-0020.eml",
+   "tipo": "reclamo"
+  },
+  {
+   "id": "REC-0021",
+   "carpeta": "06_Reclamos",
+   "archivo": "REC-0021.eml",
+   "tipo": "reclamo"
+  },
+  {
+   "id": "REC-0022",
+   "carpeta": "06_Reclamos",
+   "archivo": "REC-0022.eml",
+   "tipo": "reclamo"
+  },
+  {
+   "id": "REC-0023",
+   "carpeta": "06_Reclamos",
+   "archivo": "REC-0023.eml",
+   "tipo": "reclamo"
+  },
+  {
+   "id": "REC-0024",
+   "carpeta": "06_Reclamos",
+   "archivo": "REC-0024.eml",
+   "tipo": "reclamo"
+  },
+  {
+   "id": "REC-0025",
+   "carpeta": "06_Reclamos",
+   "archivo": "REC-0025.eml",
+   "tipo": "reclamo"
+  },
+  {
+   "id": "REC-0026",
+   "carpeta": "06_Reclamos",
+   "archivo": "REC-0026.eml",
+   "tipo": "reclamo"
+  },
+  {
+   "id": "REC-0027",
+   "carpeta": "06_Reclamos",
+   "archivo": "REC-0027.eml",
+   "tipo": "reclamo"
+  },
+  {
+   "id": "REC-0028",
+   "carpeta": "06_Reclamos",
+   "archivo": "REC-0028.eml",
+   "tipo": "reclamo"
+  },
+  {
+   "id": "REC-0029",
+   "carpeta": "06_Reclamos",
+   "archivo": "REC-0029.eml",
+   "tipo": "reclamo"
+  },
+  {
+   "id": "REC-0030",
+   "carpeta": "06_Reclamos",
+   "archivo": "REC-0030.eml",
+   "tipo": "reclamo"
+  },
+  {
+   "id": "REC-0031",
+   "carpeta": "06_Reclamos",
+   "archivo": "REC-0031.eml",
+   "tipo": "reclamo"
+  },
+  {
+   "id": "REC-0032",
+   "carpeta": "06_Reclamos",
+   "archivo": "REC-0032.eml",
+   "tipo": "reclamo"
+  },
+  {
+   "id": "REC-0033",
+   "carpeta": "06_Reclamos",
+   "archivo": "REC-0033.eml",
+   "tipo": "reclamo"
+  },
+  {
+   "id": "VOU-0001",
+   "carpeta": "08_Vouchers",
+   "archivo": "VOU-0001.jpg",
+   "tipo": "voucher"
+  },
+  {
+   "id": "VOU-0002",
+   "carpeta": "08_Vouchers",
+   "archivo": "VOU-0002.jpg",
+   "tipo": "voucher"
+  },
+  {
+   "id": "VOU-0003",
+   "carpeta": "08_Vouchers",
+   "archivo": "VOU-0003.png",
+   "tipo": "voucher"
+  },
+  {
+   "id": "VOU-0004",
+   "carpeta": "08_Vouchers",
+   "archivo": "VOU-0004.jpg",
+   "tipo": "voucher"
+  },
+  {
+   "id": "VOU-0005",
+   "carpeta": "08_Vouchers",
+   "archivo": "VOU-0005.png",
+   "tipo": "voucher"
+  },
+  {
+   "id": "VOU-0006",
+   "carpeta": "08_Vouchers",
+   "archivo": "VOU-0006.jpg",
+   "tipo": "voucher"
+  },
+  {
+   "id": "VOU-0007",
+   "carpeta": "08_Vouchers",
+   "archivo": "VOU-0007.jpg",
+   "tipo": "voucher"
+  },
+  {
+   "id": "VOU-0008",
+   "carpeta": "08_Vouchers",
+   "archivo": "VOU-0008.png",
+   "tipo": "voucher"
+  },
+  {
+   "id": "VOU-0009",
+   "carpeta": "08_Vouchers",
+   "archivo": "VOU-0009.jpg",
+   "tipo": "voucher"
+  },
+  {
+   "id": "VOU-0010",
+   "carpeta": "08_Vouchers",
+   "archivo": "VOU-0010.png",
+   "tipo": "voucher"
+  },
+  {
+   "id": "VOU-0011",
+   "carpeta": "08_Vouchers",
+   "archivo": "VOU-0011.jpg",
+   "tipo": "voucher"
+  },
+  {
+   "id": "VOU-0012",
+   "carpeta": "08_Vouchers",
+   "archivo": "VOU-0012.jpg",
+   "tipo": "voucher"
+  },
+  {
+   "id": "VOU-0013",
+   "carpeta": "08_Vouchers",
+   "archivo": "VOU-0013.png",
+   "tipo": "voucher"
+  },
+  {
+   "id": "VOU-0014",
+   "carpeta": "08_Vouchers",
+   "archivo": "VOU-0014.jpg",
+   "tipo": "voucher"
+  },
+  {
+   "id": "VOU-0015",
+   "carpeta": "08_Vouchers",
+   "archivo": "VOU-0015.png",
+   "tipo": "voucher"
+  },
+  {
+   "id": "VOU-0016",
+   "carpeta": "08_Vouchers",
+   "archivo": "VOU-0016.jpg",
+   "tipo": "voucher"
+  },
+  {
+   "id": "VOU-0017",
+   "carpeta": "08_Vouchers",
+   "archivo": "VOU-0017.jpg",
+   "tipo": "voucher"
+  },
+  {
+   "id": "VOU-0018",
+   "carpeta": "08_Vouchers",
+   "archivo": "VOU-0018.png",
+   "tipo": "voucher"
+  },
+  {
+   "id": "VOU-0019",
+   "carpeta": "08_Vouchers",
+   "archivo": "VOU-0019.jpg",
+   "tipo": "voucher"
+  },
+  {
+   "id": "VOU-0020",
+   "carpeta": "08_Vouchers",
+   "archivo": "VOU-0020.png",
+   "tipo": "voucher"
+  },
+  {
+   "id": "TAR-0001",
+   "carpeta": "07_Tarifarios",
+   "archivo": "TAR-0001.html",
+   "tipo": "tarifario"
+  },
+  {
+   "id": "TAR-0002",
+   "carpeta": "07_Tarifarios",
+   "archivo": "TAR-0002.html",
+   "tipo": "tarifario"
+  },
+  {
+   "id": "TAR-0003",
+   "carpeta": "07_Tarifarios",
+   "archivo": "TAR-0003.html",
+   "tipo": "tarifario"
+  },
+  {
+   "id": "TAR-0004",
+   "carpeta": "07_Tarifarios",
+   "archivo": "TAR-0004.html",
+   "tipo": "tarifario"
+  },
+  {
+   "id": "TAR-0005",
+   "carpeta": "07_Tarifarios",
+   "archivo": "TAR-0005.html",
+   "tipo": "tarifario"
+  },
+  {
+   "id": "TAR-0006",
+   "carpeta": "07_Tarifarios",
+   "archivo": "TAR-0006.html",
+   "tipo": "tarifario"
+  },
+  {
+   "id": "TAR-0007",
+   "carpeta": "07_Tarifarios",
+   "archivo": "TAR-0007.html",
+   "tipo": "tarifario"
+  },
+  {
+   "id": "TAR-0008",
+   "carpeta": "07_Tarifarios",
+   "archivo": "TAR-0008.html",
+   "tipo": "tarifario"
+  },
+  {
+   "id": "TAR-0009",
+   "carpeta": "07_Tarifarios",
+   "archivo": "TAR-0009.html",
+   "tipo": "tarifario"
+  },
+  {
+   "id": "TAR-0010",
+   "carpeta": "07_Tarifarios",
+   "archivo": "TAR-0010.html",
+   "tipo": "tarifario"
+  },
+  {
+   "id": "LOT-0001",
+   "carpeta": "01_Lote_S02",
+   "archivo": "LOT-0001.pdf",
+   "tipo": "estado_financiero",
+   "nota": "base del duplicado"
+  },
+  {
+   "id": "LOT-0002",
+   "carpeta": "01_Lote_S02",
+   "archivo": "LOT-0002.pdf",
+   "tipo": "",
+   "nota": "extension_falsa"
+  },
+  {
+   "id": "LOT-0006",
+   "carpeta": "01_Lote_S02",
+   "archivo": "LOT-0006.docx",
+   "tipo": "",
+   "nota": "docx_corrupto"
+  },
+  {
+   "id": "LOT-0007",
+   "carpeta": "01_Lote_S02",
+   "archivo": "LOT-0007.pdf",
+   "tipo": "",
+   "nota": "pdf_cifrado"
+  },
+  {
+   "id": "LOT-0014",
+   "carpeta": "01_Lote_S02",
+   "archivo": "LOT-0014.pdf",
+   "tipo": "",
+   "nota": "pdf_danado"
+  },
+  {
+   "id": "LOT-0016",
+   "carpeta": "01_Lote_S02",
+   "archivo": "LOT-0016.pdf",
+   "tipo": "",
+   "nota": "archivo_vacio"
+  },
+  {
+   "id": "LOT-0019",
+   "carpeta": "01_Lote_S02",
+   "archivo": "LOT-0019.pdf",
+   "tipo": "estado_financiero",
+   "nota": "duplicado de LOT-0001"
+  }
+ ],
+ "corta": [
+  "POL-0001",
+  "POL-0004",
+  "POL-0007",
+  "POL-0010",
+  "POL-0013",
+  "CON-0001",
+  "CON-0004",
+  "CON-0008",
+  "CON-0011",
+  "CON-0015",
+  "CON-0018",
+  "CON-0022",
+  "CON-0025",
+  "CON-0029",
+  "CON-0032",
+  "OFI-0001",
+  "OFI-0004",
+  "OFI-0007",
+  "OFI-0011",
+  "OFI-0014",
+  "OFI-0017",
+  "OFI-0021",
+  "OFI-0024",
+  "OFI-0027",
+  "OFI-0031",
+  "OFI-0034",
+  "OFI-0037",
+  "EFI-0001",
+  "EFI-0005",
+  "EFI-0009",
+  "EFI-0013",
+  "EFI-0018",
+  "EFI-0022",
+  "EFI-0026",
+  "EFI-0031",
+  "EFI-0032",
+  "EFI-0033",
+  "REC-0001",
+  "REC-0005",
+  "REC-0009",
+  "REC-0013",
+  "REC-0017",
+  "REC-0021",
+  "REC-0025",
+  "REC-0029",
+  "VOU-0001",
+  "VOU-0005",
+  "VOU-0009",
+  "VOU-0013",
+  "VOU-0017",
+  "TAR-0001",
+  "TAR-0004",
+  "TAR-0007",
+  "LOT-0001",
+  "LOT-0002",
+  "LOT-0006",
+  "LOT-0007",
+  "LOT-0014",
+  "LOT-0016",
+  "LOT-0019"
+ ]
+}

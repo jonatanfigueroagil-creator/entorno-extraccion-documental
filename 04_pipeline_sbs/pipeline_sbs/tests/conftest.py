@@ -7,6 +7,10 @@ from pathlib import Path
 import pytest
 from pypdf import PdfWriter
 
+from pipeline_sbs.pf.alias_referencia import instalar
+
+instalar()   # S08: los archivos del equipo (pf.*, mi_pipeline.*) y la referencia son el mismo módulo
+
 
 def crear_pdf_con_texto(ruta: Path, texto: str) -> Path:
     """Escribe un PDF de una página con ``texto`` seleccionable (sin dependencias extra)."""

@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pipeline_sbs"
-version = "0.5.0"
+version = "0.6.0"
 description = "Pipeline de extracción documental del curso (proyecto integrador incremental)."
 requires-python = ">=3.11"
 dependencies = [
@@ -34,7 +34,7 @@ llm = ["ollama>=0.6.3"]                                    # S05: cliente de Oll
 include = ["pipeline_sbs*"]
 
 [tool.setuptools.package-data]
-pipeline_sbs = ["config/*.yaml", "config/*.json"]   # S05: config/ejemplos_prompt.json (ejemplos resueltos del prompt)
+pipeline_sbs = ["config/*.yaml", "config/*.json", "pf/integracion/*.yaml"]   # S05: config/ejemplos_prompt.json (ejemplos resueltos del prompt)
 
 [tool.pytest.ini_options]
 testpaths = ["pipeline_sbs/tests"]
@@ -42,3 +42,5 @@ testpaths = ["pipeline_sbs/tests"]
 # Las pruebas que usan los documentos de práctica leen la carpeta indicada en la variable de entorno SBS_DATOS_PRACTICA
 # (o la carpeta 02_Datos_Practica más cercana). Sin ella esas pruebas se omiten. Medido el 08/11/2026 (S05): 283 passed con los datos
 # de práctica, Tesseract y Ollama (qwen3.5:4b); 274 passed y 9 skipped sin los datos. Sin Ollama se omiten además las 2 que llaman al modelo.
+# Medido el 13/11/2026 (S06, sin Ollama ni modelos de lenguaje): las 28 pruebas de S06 (config, etapas, registro del lote, trabajo, lote,
+# almacenamiento, reporte y línea de comandos) usan documentos digitales creados al vuelo: no necesitan Tesseract, datos de práctica ni Ollama.
