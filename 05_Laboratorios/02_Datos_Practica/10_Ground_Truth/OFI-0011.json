@@ -1,0 +1,84 @@
+{
+ "doc_id": "OFI-0011",
+ "tipo": "oficio",
+ "formato": "pdf_escaneado",
+ "campos": {
+  "numero_oficio": "0986-2026-ID/DSF",
+  "fecha": "2026-01-22",
+  "entidad": "Seguros Tierra Firme DEMO S.A.",
+  "ruc": "20998253889",
+  "asunto": "Requerimiento de informacion sobre polizas colectivas emitidas en el semestre",
+  "referencia": "Carta N° 263-2026 de Seguros Tierra Firme DEMO S.A.",
+  "plazo_dias": 10,
+  "emisor": "Intendencia DEMO de Conducta de Mercado",
+  "firmante": "Victor Bravo Torres",
+  "cargo": "Intendente DEMO"
+ },
+ "tablas": [
+  {
+   "nombre": "informacion_solicitada",
+   "encabezados": [
+    "N°",
+    "Informacion solicitada"
+   ],
+   "filas": [
+    [
+     "1",
+     "Informe de atencion de reclamos del periodo"
+    ],
+    [
+     "2",
+     "Cronograma de implementacion de las medidas correctivas"
+    ],
+    [
+     "3",
+     "Detalle de comisiones cobradas"
+    ]
+   ]
+  }
+ ],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    171,
+    1322,
+    527,
+    1435
+   ],
+   "unidad": "px",
+   "dpi": 200,
+   "ancho_px": 1654,
+   "alto_px": 2339
+  },
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    459,
+    1169,
+    725,
+    1435
+   ],
+   "unidad": "px",
+   "dpi": 200,
+   "ancho_px": 1654,
+   "alto_px": 2339
+  }
+ ],
+ "texto_completo": "AUTORIDAD SUPERVISORA DEMO\nIntendencia DEMO de Conducta de Mercado\nDocumento ficticio con fines de capacitacion\nOFICIO N° 0986-2026-ID/DSF\nLima, 22 de enero de 2026\nSenores\nSeguros Tierra Firme DEMO S.A.\nRUC 20998253889\nPresente.-\nAsunto:\nRequerimiento de informacion sobre polizas colectivas emitidas en el semestre\nReferencia:\nCarta N° 263-2026 de Seguros Tierra Firme DEMO S.A.\nMediante el presente se requiere a su representada remitir la informacion detallada a continuacion, en el\nmarco de las labores de supervision del periodo en curso.\nN°\nInformacion solicitada\n1\nInforme de atencion de reclamos del periodo\n2\nCronograma de implementacion de las medidas correctivas\n3\nDetalle de comisiones cobradas\nLa informacion debera ser presentada en un plazo de diez (10) dias habiles contados desde la recepcion\ndel presente oficio, en formato digital y firmada por el responsable. El incumplimiento sera evaluado\nconforme a los procedimientos internos aplicables.\nAtentamente,\nVictor Bravo Torres\nIntendente DEMO",
+ "degradacion": {
+  "rotacion": -2.26,
+  "ruido": "gaussiano",
+  "ruido_sigma": 6.2,
+  "desenfoque_sigma": 0.6,
+  "sombra": "der",
+  "perspectiva": false,
+  "jpeg_calidad": 70,
+  "dpi": 200,
+  "paginas": 1
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

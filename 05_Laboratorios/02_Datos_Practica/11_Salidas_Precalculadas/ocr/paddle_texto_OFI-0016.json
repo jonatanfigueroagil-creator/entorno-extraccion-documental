@@ -1,0 +1,306 @@
+{
+ "doc_id": "OFI-0016",
+ "motor": "PaddleOCR texto (PP-OCRv5 mobile)",
+ "paddleocr": "3.7.0",
+ "paddlepaddle": "3.3.1",
+ "dispositivo": "cpu",
+ "python": "3.13.14",
+ "procesador": "Intel64 Family 6 Model 151 Stepping 2, GenuineIntel",
+ "hilos": 24,
+ "segundos_carga_modelo": 8.2,
+ "segundos_prediccion": 20.8,
+ "entrada": "página 1, 300 dpi, enderezada, sin binarizar",
+ "texto": "AUTORIDAD SUPERVISORA DEMO\nIntendencia DEMO de Riesgos Operacionales\nDocumento ficticio con fines de capacitacion\nOFICIO N° 0615-2026-ID/DRO\nLima, 13 de marzo de 2026\nSenores\nSeguros Vicuna DEMO S.A.\nRUC 20995524318\nPresente.-\nAsunto:\nRemision de reportes de tasas de interes y comisiones vigentes\nReferencia: Carta N° 216-2026 de Seguros Vicuna DEMO S.A.\nMediante el presente se requiere a su representada remitir la informacion detallada a continuacion, en el\nmarco de las labores de supervision del periodo en curso.\nN°\nInformacion solicitada\n1\nEstados financieros al cierre del periodo\n2\nCopia de los contratos suscritos\nLa informacion debera ser presentada en un plazo de diez (10) dias habiles contados desde la recepcion\ndel presente oficio, en formato digital y firmada por el responsable. El incumplimiento sera evaluado\nconforme a los procedimientos internos aplicables.\nMESA DE PARTES\nAtentamente,\nDEMO\nRECIBIDO\nMilagros Mendoza Flores\nJefe de Equipo DEMO",
+ "lineas": [
+  {
+   "texto": "AUTORIDAD SUPERVISORA DEMO",
+   "confianza": 0.9993,
+   "caja": [
+    748,
+    226,
+    1725,
+    283
+   ]
+  },
+  {
+   "texto": "Intendencia DEMO de Riesgos Operacionales",
+   "confianza": 0.987,
+   "caja": [
+    737,
+    309,
+    1733,
+    368
+   ]
+  },
+  {
+   "texto": "Documento ficticio con fines de capacitacion",
+   "confianza": 0.9914,
+   "caja": [
+    911,
+    387,
+    1564,
+    429
+   ]
+  },
+  {
+   "texto": "OFICIO N° 0615-2026-ID/DRO",
+   "confianza": 0.9964,
+   "caja": [
+    248,
+    555,
+    875,
+    601
+   ]
+  },
+  {
+   "texto": "Lima, 13 de marzo de 2026",
+   "confianza": 0.9962,
+   "caja": [
+    245,
+    631,
+    754,
+    680
+   ]
+  },
+  {
+   "texto": "Senores",
+   "confianza": 1.0,
+   "caja": [
+    246,
+    748,
+    404,
+    796
+   ]
+  },
+  {
+   "texto": "Seguros Vicuna DEMO S.A.",
+   "confianza": 0.9857,
+   "caja": [
+    245,
+    805,
+    793,
+    858
+   ]
+  },
+  {
+   "texto": "RUC 20995524318",
+   "confianza": 0.9694,
+   "caja": [
+    246,
+    866,
+    604,
+    908
+   ]
+  },
+  {
+   "texto": "Presente.-",
+   "confianza": 0.9698,
+   "caja": [
+    245,
+    923,
+    444,
+    974
+   ]
+  },
+  {
+   "texto": "Asunto:",
+   "confianza": 0.9999,
+   "caja": [
+    248,
+    1033,
+    414,
+    1080
+   ]
+  },
+  {
+   "texto": "Remision de reportes de tasas de interes y comisiones vigentes",
+   "confianza": 0.991,
+   "caja": [
+    492,
+    1025,
+    1679,
+    1087
+   ]
+  },
+  {
+   "texto": "Referencia: Carta N° 216-2026 de Seguros Vicuna DEMO S.A.",
+   "confianza": 0.9706,
+   "caja": [
+    245,
+    1103,
+    1440,
+    1159
+   ]
+  },
+  {
+   "texto": "Mediante el presente se requiere a su representada remitir la informacion detallada a continuacion, en el",
+   "confianza": 0.9911,
+   "caja": [
+    243,
+    1197,
+    2183,
+    1263
+   ]
+  },
+  {
+   "texto": "marco de las labores de supervision del periodo en curso.",
+   "confianza": 0.9864,
+   "caja": [
+    248,
+    1267,
+    1318,
+    1317
+   ]
+  },
+  {
+   "texto": "N°",
+   "confianza": 0.7879,
+   "caja": [
+    299,
+    1394,
+    356,
+    1451
+   ]
+  },
+  {
+   "texto": "Informacion solicitada",
+   "confianza": 0.999,
+   "caja": [
+    434,
+    1398,
+    794,
+    1444
+   ]
+  },
+  {
+   "texto": "1",
+   "confianza": 0.9998,
+   "caja": [
+    296,
+    1464,
+    334,
+    1514
+   ]
+  },
+  {
+   "texto": "Estados financieros al cierre del periodo",
+   "confianza": 0.9992,
+   "caja": [
+    432,
+    1465,
+    1096,
+    1515
+   ]
+  },
+  {
+   "texto": "2",
+   "confianza": 0.9998,
+   "caja": [
+    297,
+    1532,
+    335,
+    1584
+   ]
+  },
+  {
+   "texto": "Copia de los contratos suscritos",
+   "confianza": 0.9992,
+   "caja": [
+    428,
+    1530,
+    966,
+    1584
+   ]
+  },
+  {
+   "texto": "La informacion debera ser presentada en un plazo de diez (10) dias habiles contados desde la recepcion",
+   "confianza": 0.9935,
+   "caja": [
+    242,
+    1608,
+    2189,
+    1671
+   ]
+  },
+  {
+   "texto": "del presente oficio, en formato digital y firmada por el responsable. El incumplimiento sera evaluado",
+   "confianza": 0.9872,
+   "caja": [
+    245,
+    1669,
+    2093,
+    1726
+   ]
+  },
+  {
+   "texto": "conforme a los procedimientos internos aplicables.",
+   "confianza": 0.9941,
+   "caja": [
+    246,
+    1731,
+    1190,
+    1786
+   ]
+  },
+  {
+   "texto": "MESA DE PARTES",
+   "confianza": 0.9981,
+   "caja": [
+    736,
+    1775,
+    1034,
+    1848
+   ]
+  },
+  {
+   "texto": "Atentamente,",
+   "confianza": 0.9996,
+   "caja": [
+    247,
+    1831,
+    498,
+    1882
+   ]
+  },
+  {
+   "texto": "DEMO",
+   "confianza": 0.9998,
+   "caja": [
+    767,
+    1846,
+    1023,
+    1950
+   ]
+  },
+  {
+   "texto": "RECIBIDO",
+   "confianza": 0.9997,
+   "caja": [
+    820,
+    1964,
+    994,
+    2029
+   ]
+  },
+  {
+   "texto": "Milagros Mendoza Flores",
+   "confianza": 0.9997,
+   "caja": [
+    287,
+    2106,
+    740,
+    2162
+   ]
+  },
+  {
+   "texto": "Jefe de Equipo DEMO",
+   "confianza": 0.9485,
+   "caja": [
+    290,
+    2161,
+    666,
+    2212
+   ]
+  }
+ ]
+}

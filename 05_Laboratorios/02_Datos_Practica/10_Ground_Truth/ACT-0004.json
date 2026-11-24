@@ -1,0 +1,233 @@
+{
+ "doc_id": "ACT-0004",
+ "tipo": "acta",
+ "formato": "pdf_nativo",
+ "campos": {
+  "numero_acta": "09-2026",
+  "fecha": "2026-08-31",
+  "entidad": "Cooperativa de Ahorro y Crédito Horizonte Azul DEMO",
+  "ruc": "20997085095",
+  "organo": "Directorio",
+  "tipo_sesion": "ordinaria",
+  "hora_inicio": "12:30",
+  "hora_fin": null,
+  "quorum": "8 de 9",
+  "quorum_asistentes": 8,
+  "quorum_total": 9,
+  "presidente": "Héctor Condori Fernández",
+  "secretario": "Ángel Martínez Peña",
+  "n_acuerdos": 9,
+  "n_paginas": 6
+ },
+ "tablas": [
+  {
+   "nombre": "asistencia",
+   "encabezados": [
+    "N°",
+    "Nombre",
+    "Cargo",
+    "Asistencia"
+   ],
+   "filas": [
+    [
+     "1",
+     "Héctor Condori Fernández",
+     "Presidente del Directorio",
+     "Presente"
+    ],
+    [
+     "2",
+     "Julián Vásquez Gálvez",
+     "Vicepresidente",
+     "Presente"
+    ],
+    [
+     "3",
+     "Ángel Martínez Peña",
+     "Secretario",
+     "Presente"
+    ],
+    [
+     "4",
+     "María Peña Vásquez",
+     "Directora",
+     "Presente"
+    ],
+    [
+     "5",
+     "Joaquín Pérez Cáceres",
+     "Director",
+     "Presente (virtual)"
+    ],
+    [
+     "6",
+     "Jesús Muñoz Vásquez",
+     "Director",
+     "Presente"
+    ],
+    [
+     "7",
+     "Jesús Rodríguez Peña",
+     "Director",
+     "Presente (virtual)"
+    ],
+    [
+     "8",
+     "Héctor Aguirre Céspedes",
+     "Director",
+     "Ausente"
+    ],
+    [
+     "9",
+     "Víctor Céspedes Ibáñez",
+     "Director",
+     "Presente"
+    ]
+   ]
+  },
+  {
+   "nombre": "acuerdos",
+   "encabezados": [
+    "N°",
+    "Descripcion",
+    "Responsable",
+    "Plazo",
+    "Estado",
+    "Referencia"
+   ],
+   "filas": [
+    [
+     "18-2026",
+     "Aprobar la distribución de excedentes del ejercicio conforme a la propuesta presentada y constituir las reservas correspondientes.",
+     "Gerencia de Finanzas",
+     "2026-11-29",
+     "modificado",
+     ""
+    ],
+    [
+     "19-2026",
+     "Disponer que el 100 % del personal complete la capacitación en prevención del lavado de activos.",
+     "Gerencia de Recursos Humanos",
+     "15 dias",
+     "vigente",
+     ""
+    ],
+    [
+     "20-2026",
+     "Aprobar el presupuesto y el plan operativo del segundo semestre de 2026.",
+     "Gerencia de Planeamiento",
+     "20 dias",
+     "vigente",
+     ""
+    ],
+    [
+     "21-2026",
+     "Aprobar las modificaciones del reglamento interno de créditos y encargar su difusión a todas las agencias.",
+     "Gerencia de Créditos",
+     "60 dias",
+     "vigente",
+     ""
+    ],
+    [
+     "22-2026",
+     "Aprobar la apertura de una agencia en el distrito de La Molina y la inversión inicial presentada en el estudio de factibilidad.",
+     "Gerencia de Planeamiento",
+     "90 dias",
+     "vigente",
+     ""
+    ],
+    [
+     "23-2026",
+     "Disponer el levantamiento de las observaciones de riesgo alto del informe de auditoría interna y el reporte mensual de avances.",
+     "Auditoría Interna",
+     "60 dias",
+     "vigente",
+     ""
+    ],
+    [
+     "24-2026",
+     "Aprobar la actualización de la política de gestión del riesgo de liquidez, con vigencia desde la fecha de la presente acta.",
+     "Gerencia de Riesgos",
+     "inmediato",
+     "vigente",
+     ""
+    ],
+    [
+     "25-2026",
+     "Autorizar la contratación del sistema de gestión documental por el monto cotizado más bajo que cumpla los requisitos técnicos.",
+     "Gerencia de Tecnología",
+     "45 dias",
+     "vigente",
+     ""
+    ],
+    [
+     "26-2026",
+     "Modificar el plazo del ACUERDO N.º 18-2026, que queda fijado en ciento veinte (120) días calendario.",
+     "Gerencia General",
+     "inmediato",
+     "vigente",
+     "modifica 18-2026; nuevo plazo 120 dias"
+    ]
+   ],
+   "nota": "Plazo normalizado: 'N dias' (calendario), fecha ISO o 'inmediato'. Estado: vigente/derogado/modificado."
+  }
+ ],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 6,
+   "bbox": [
+    56.0,
+    515.0,
+    190.5,
+    556.2
+   ],
+   "unidad": "pt"
+  },
+  {
+   "tipo": "firma",
+   "pagina": 6,
+   "bbox": [
+    325.8,
+    518.4,
+    465.1,
+    556.2
+   ],
+   "unidad": "pt"
+  },
+  {
+   "tipo": "sello",
+   "pagina": 6,
+   "bbox": [
+    254,
+    519.2,
+    326,
+    591.2
+   ],
+   "unidad": "pt"
+  }
+ ],
+ "texto_completo": "Cooperativa de Ahorro y Crédito Horizonte Azul DEMO\nRUC 20997085095\nACTA N.º 09-2026 · SESIÓN ORDINARIA DE DIRECTORIO\nCooperativa de Ahorro y Crédito Horizonte Azul DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 1 de 6\nACTA N.º 09-2026\nSESIÓN ORDINARIA DE DIRECTORIO\nLima, 31 de agosto de 2026\nSiendo las 12:30 horas, se reunió el Directorio de Cooperativa de Ahorro y Crédito Horizonte Azul DEMO en su\nsede institucional, en sesión ordinaria, con la asistencia de ocho (8) de los nueve (9) miembros convocados,\nbajo la presidencia de Héctor Condori Fernández, quien actuó como Presidente del Directorio, y de Ángel\nMartínez Peña, quien actuó como secretario(a).\nI. VERIFICACIÓN DEL QUÓRUM\nSe dejó constancia de la siguiente asistencia. Existiendo quórum reglamentario, el Presidente declaró instalada\nla sesión.\nN°\nNombre\nCargo\nAsistencia\n1\nHéctor Condori Fernández\nPresidente del Directorio\nPresente\n2\nJulián Vásquez Gálvez\nVicepresidente\nPresente\n3\nÁngel Martínez Peña\nSecretario\nPresente\n4\nMaría Peña Vásquez\nDirectora\nPresente\n5\nJoaquín Pérez Cáceres\nDirector\nPresente (virtual)\n6\nJesús Muñoz Vásquez\nDirector\nPresente\n7\nJesús Rodríguez Peña\nDirector\nPresente (virtual)\n8\nHéctor Aguirre Céspedes\nDirector\nAusente\n9\nVíctor Céspedes Ibáñez\nDirector\nPresente\nII. AGENDA\nLa agenda de la sesión fue la siguiente: 1) Verificación del quórum; 2) Distribución de excedentes y\nconstitución de reservas; 3) Capacitación en prevención del lavado de activos; 4) Presupuesto y plan operativo;\n5) Actualización del reglamento interno de créditos; 6) Apertura de una nueva agencia; 7) Informe de auditoría\ninterna; 8) Política de gestión del riesgo de liquidez; 9) Adquisición de un sistema de gestión documental; 10)\nRevisión de acuerdos adoptados.\nIII. DESARROLLO DE LA SESIÓN\n2. DISTRIBUCIÓN DE EXCEDENTES Y CONSTITUCIÓN DE RESERVAS\nEl Comité de Finanzas propuso destinar el 20 % de los excedentes a la reserva cooperativa y el 10 % al fondo\nde educación.\nLos excedentes del ejercicio ascienden a S/ 3,300,000.00 según los estados financieros auditados.\nJoaquín Pérez Cáceres sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. Héctor Aguirre Céspedes pidió que los responsables remitan un informe escrito con el detalle de las\nacciones adoptadas.\nÁngel Martínez Peña sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nÁngel Martínez Peña manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nacta.\nMaría Peña Vásquez sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación.\nMaría Peña Vásquez observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. Jesús Rodríguez Peña pidió que los responsables remitan un informe\nCooperativa de Ahorro y Crédito Horizonte Azul DEMO\nRUC 20997085095\nACTA N.º 09-2026 · SESIÓN ORDINARIA DE DIRECTORIO\nCooperativa de Ahorro y Crédito Horizonte Azul DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 2 de 6\nescrito con el detalle de las acciones adoptadas.\nJulián Vásquez Gálvez manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nacta. María Peña Vásquez pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas.\nMaría Peña Vásquez sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación.\nACUERDO N.º 18-2026: Aprobar la distribución de excedentes del ejercicio conforme a la propuesta\npresentada y constituir las reservas correspondientes.\nResponsable: Gerencia de Finanzas. Plazo: hasta el 29 de noviembre de 2026.\nAprobado por mayoría, con 7 votos a favor y 1 en contra.\n3. CAPACITACIÓN EN PREVENCIÓN DEL LAVADO DE ACTIVOS\nEl Oficial de Cumplimiento informó que el 4,0 % del personal completó la capacitación anual obligatoria.\nSe acordó reforzar el programa para el personal de nuevas agencias y para los miembros del órgano de\ngobierno.\nJulián Vásquez Gálvez observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. Julián Vásquez Gálvez pidió que los responsables remitan un informe\nescrito con el detalle de las acciones adoptadas.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. Julián Vásquez Gálvez sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada.\nJesús Rodríguez Peña pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. Jesús Muñoz Vásquez consultó sobre el impacto de la medida en los indicadores de solvencia, y la\ngerencia precisó que se mantendrían dentro de los límites aprobados.\nHéctor Aguirre Céspedes pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. Héctor Condori Fernández sugirió que el seguimiento se reporte en la próxima sesión, propuesta\nque fue aceptada.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. La Presidencia\nagradeció los aportes de los miembros y sometió el asunto a votación.\nJesús Muñoz Vásquez manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nacta. Julián Vásquez Gálvez consultó sobre el impacto de la medida en los indicadores de solvencia, y la\ngerencia precisó que se mantendrían dentro de los límites aprobados.\nACUERDO N.º 19-2026: Disponer que el 100 % del personal complete la capacitación en prevención\ndel lavado de activos.\nResponsable: Gerencia de Recursos Humanos. Plazo: dentro de un plazo de quince (15) días calendario.\nAprobado por unanimidad de los miembros presentes.\n4. PRESUPUESTO Y PLAN OPERATIVO\nSe expuso el proyecto de presupuesto del segundo semestre, con gastos operativos estimados en S/\n18,400,000.00 y una meta de colocaciones de S/ 3,300,000.00.\nLa Gerencia de Planeamiento sustentó los supuestos de crecimiento y los riesgos asociados al cumplimiento\nde metas.\nJulián Vásquez Gálvez sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. Héctor Condori Fernández consultó sobre el impacto de la medida en los indicadores de solvencia, y\nCooperativa de Ahorro y Crédito Horizonte Azul DEMO\nRUC 20997085095\nACTA N.º 09-2026 · SESIÓN ORDINARIA DE DIRECTORIO\nCooperativa de Ahorro y Crédito Horizonte Azul DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 3 de 6\nla gerencia precisó que se mantendrían dentro de los límites aprobados.\nJoaquín Pérez Cáceres sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. Héctor Condori Fernández sugirió que el seguimiento se reporte en la próxima sesión, propuesta que\nfue aceptada.\nÁngel Martínez Peña pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. Joaquín Pérez Cáceres observó que los plazos propuestos deben guardar coherencia con el\ncalendario institucional, y la gerencia tomó nota.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Joaquín Pérez Cáceres\nconsultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia precisó que se\nmantendrían dentro de los límites aprobados.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Ángel Martínez Peña\nconsultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia precisó que se\nmantendrían dentro de los límites aprobados.\nJesús Muñoz Vásquez manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nacta. Jesús Muñoz Vásquez consultó sobre el impacto de la medida en los indicadores de solvencia, y la\ngerencia precisó que se mantendrían dentro de los límites aprobados.\nACUERDO N.º 20-2026: Aprobar el presupuesto y el plan operativo del segundo semestre de 2026.\nResponsable: Gerencia de Planeamiento. Plazo: dentro de un plazo de veinte (20) días calendario.\nAprobado por mayoría, con 7 votos a favor y 1 en contra.\n5. ACTUALIZACIÓN DEL REGLAMENTO INTERNO DE CRÉDITOS\nLa asesoría legal presentó las modificaciones al reglamento de créditos para incorporar nuevas garantías\nadmisibles y criterios de evaluación.\nLos miembros pidieron precisar el procedimiento de excepciones y el nivel de aprobación correspondiente.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. La Presidencia\nagradeció los aportes de los miembros y sometió el asunto a votación.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. La Presidencia\nagradeció los aportes de los miembros y sometió el asunto a votación.\nJesús Rodríguez Peña consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. La Presidencia agradeció los aportes de los\nmiembros y sometió el asunto a votación.\nÁngel Martínez Peña pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. Jesús Rodríguez Peña sugirió que el seguimiento se reporte en la próxima sesión, propuesta que\nfue aceptada.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. La Presidencia agradeció los aportes de los miembros y sometió el asunto a votación.\nHéctor Condori Fernández pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. La Presidencia agradeció los aportes de los miembros y sometió el asunto a votación.\nACUERDO N.º 21-2026: Aprobar las modificaciones del reglamento interno de créditos y encargar\nsu difusión a todas las agencias.\nResponsable: Gerencia de Créditos. Plazo: dentro de un plazo de sesenta (60) días calendario.\nAprobado por unanimidad de los miembros presentes.\nCooperativa de Ahorro y Crédito Horizonte Azul DEMO\nRUC 20997085095\nACTA N.º 09-2026 · SESIÓN ORDINARIA DE DIRECTORIO\nCooperativa de Ahorro y Crédito Horizonte Azul DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 4 de 6\n6. APERTURA DE UNA NUEVA AGENCIA\nSe presentó el estudio de factibilidad para abrir una agencia en el distrito de La Molina, con una inversión inicial\nde S/ 18,400,000.00.\nEl estudio proyecta alcanzar el punto de equilibrio en 18 meses y recomienda contratar a seis colaboradores.\nHéctor Condori Fernández observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. María Peña Vásquez sugirió que el seguimiento se reporte en la próxima\nsesión, propuesta que fue aceptada.\nJulián Vásquez Gálvez consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. María Peña Vásquez pidió que los responsables\nremitan un informe escrito con el detalle de las acciones adoptadas.\nJesús Rodríguez Peña consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. Héctor Aguirre Céspedes pidió que los\nresponsables remitan un informe escrito con el detalle de las acciones adoptadas.\nHéctor Aguirre Céspedes pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. Jesús Muñoz Vásquez observó que los plazos propuestos deben guardar coherencia con el\ncalendario institucional, y la gerencia tomó nota.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Héctor Aguirre\nCéspedes consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia precisó que se\nmantendrían dentro de los límites aprobados.\nMaría Peña Vásquez manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nacta. Ángel Martínez Peña manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello\nen el acta.\nACUERDO N.º 22-2026: Aprobar la apertura de una agencia en el distrito de La Molina y la inversión\ninicial presentada en el estudio de factibilidad.\nResponsable: Gerencia de Planeamiento. Plazo: dentro de un plazo de noventa (90) días calendario.\nAprobado por unanimidad de los miembros presentes.\n7. INFORME DE AUDITORÍA INTERNA\nLa Jefatura de Auditoría Interna presentó el informe del trimestre, que contiene 6 observaciones, de las cuales\ndos fueron calificadas de riesgo alto.\nLa Gerencia General se comprometió a presentar los planes de acción por cada observación.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Luego de un breve\ndebate, los miembros presentes coincidieron en que la medida resulta razonable y oportuna.\nMaría Peña Vásquez observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. Julián Vásquez Gálvez pidió que los responsables remitan un informe\nescrito con el detalle de las acciones adoptadas.\nHéctor Aguirre Céspedes manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en\nel acta. Joaquín Pérez Cáceres manifestó su conformidad con lo expuesto y solicitó que se deje constancia de\nello en el acta.\nJoaquín Pérez Cáceres sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. Héctor Aguirre Céspedes consultó sobre el impacto de la medida en los indicadores de solvencia, y\nla gerencia precisó que se mantendrían dentro de los límites aprobados.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. La Presidencia\nagradeció los aportes de los miembros y sometió el asunto a votación.\nCooperativa de Ahorro y Crédito Horizonte Azul DEMO\nRUC 20997085095\nACTA N.º 09-2026 · SESIÓN ORDINARIA DE DIRECTORIO\nCooperativa de Ahorro y Crédito Horizonte Azul DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 5 de 6\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. La Presidencia\nagradeció los aportes de los miembros y sometió el asunto a votación.\nACUERDO N.º 23-2026: Disponer el levantamiento de las observaciones de riesgo alto del informe\nde auditoría interna y el reporte mensual de avances.\nResponsable: Auditoría Interna. Plazo: dentro de un plazo de sesenta (60) días calendario.\nAprobado por mayoría, con 7 votos a favor y 1 en contra.\n8. POLÍTICA DE GESTIÓN DEL RIESGO DE LIQUIDEZ\nLa Gerencia de Riesgos presentó la actualización de la política, con un ratio de liquidez en moneda nacional de\n4,0 % frente a un límite interno de 8,0 %.\nSe explicó la metodología de simulación de escenarios de estrés y el plan de contingencia de fondeo.\nÁngel Martínez Peña consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. Ángel Martínez Peña manifestó su conformidad\ncon lo expuesto y solicitó que se deje constancia de ello en el acta.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. Joaquín Pérez Cáceres sugirió que el seguimiento se reporte en la próxima sesión, propuesta que\nfue aceptada.\nJulián Vásquez Gálvez manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nacta. Jesús Rodríguez Peña observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota.\nMaría Peña Vásquez sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nHéctor Condori Fernández observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Jesús Muñoz Vásquez\npidió que los responsables remitan un informe escrito con el detalle de las acciones adoptadas.\nÁngel Martínez Peña manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nacta. Luego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna.\nACUERDO N.º 24-2026: Aprobar la actualización de la política de gestión del riesgo de liquidez, con\nvigencia desde la fecha de la presente acta.\nResponsable: Gerencia de Riesgos. Plazo: de cumplimiento inmediato.\nAprobado por unanimidad de los miembros presentes.\n9. ADQUISICIÓN DE UN SISTEMA DE GESTIÓN DOCUMENTAL\nLa Gerencia de Tecnología sustentó la necesidad de digitalizar los expedientes de crédito y propuso adquirir\nuna solución de gestión documental por S/ 18,400,000.00.\nSe compararon tres cotizaciones y se verificó el cumplimiento de los requisitos de seguridad y conservación de\nla información.\nJoaquín Pérez Cáceres consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. Julián Vásquez Gálvez observó que los plazos\npropuestos deben guardar coherencia con el calendario institucional, y la gerencia tomó nota.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Jesús Rodríguez Peña\npidió que los responsables remitan un informe escrito con el detalle de las acciones adoptadas.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\nCooperativa de Ahorro y Crédito Horizonte Azul DEMO\nRUC 20997085095\nACTA N.º 09-2026 · SESIÓN ORDINARIA DE DIRECTORIO\nCooperativa de Ahorro y Crédito Horizonte Azul DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 6 de 6\noportuna. Héctor Condori Fernández manifestó su conformidad con lo expuesto y solicitó que se deje\nconstancia de ello en el acta.\nJoaquín Pérez Cáceres sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. Luego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable\ny oportuna.\nHéctor Aguirre Céspedes pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. María Peña Vásquez observó que los plazos propuestos deben guardar coherencia con el\ncalendario institucional, y la gerencia tomó nota.\nÁngel Martínez Peña manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nacta. Julián Vásquez Gálvez consultó sobre el impacto de la medida en los indicadores de solvencia, y la\ngerencia precisó que se mantendrían dentro de los límites aprobados.\nACUERDO N.º 25-2026: Autorizar la contratación del sistema de gestión documental por el monto\ncotizado más bajo que cumpla los requisitos técnicos.\nResponsable: Gerencia de Tecnología. Plazo: dentro de un plazo de cuarenta y cinco (45) días calendario.\nAprobado por mayoría, con 7 votos a favor y 1 en contra.\n10. REVISIÓN DE ACUERDOS ADOPTADOS\nA pedido de Jesús Rodríguez Peña se revisó lo resuelto en esta misma sesión. La gerencia advirtió que el\nplazo del ACUERDO N.º 18-2026 resulta insuficiente por la carga operativa del periodo.\nACUERDO N.º 26-2026: Modificar el plazo del ACUERDO N.º 18-2026, que queda fijado en ciento\nveinte (120) días calendario.\nResponsable: Gerencia General. Plazo: de cumplimiento inmediato.\nAprobado por unanimidad de los miembros presentes.\nIV. CIERRE\nNo habiendo otros asuntos que tratar, se levantó la sesión, firmando los presentes en señal de conformidad.\nHéctor Condori Fernández\nPresidente del Directorio\nÁngel Martínez Peña\nSecretario",
+ "degradacion": {
+  "rotacion": 0,
+  "dpi": null,
+  "ruido": "ninguno"
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "campo_ausente",
+ "origen": "corpus_practica",
+ "trampas": [
+  "tildes_en_nombres",
+  "pie_de_pagina_repetido",
+  "tabla_de_asistencia",
+  "acuerdo_modifica_plazo",
+  "campo_ausente:hora_fin"
+ ],
+ "campos_ausentes": [
+  "hora_fin"
+ ],
+ "elementos_repetidos": {
+  "encabezado": "ACTA N.º 09-2026 · SESIÓN ORDINARIA DE DIRECTORIO",
+  "pie": "Cooperativa de Ahorro y Crédito Horizonte Azul DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)"
+ }
+}

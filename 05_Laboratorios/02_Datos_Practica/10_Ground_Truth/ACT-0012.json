@@ -1,0 +1,226 @@
+{
+ "doc_id": "ACT-0012",
+ "tipo": "acta",
+ "formato": "pdf_nativo",
+ "campos": {
+  "numero_acta": "09-2026",
+  "fecha": "2026-04-15",
+  "entidad": "Cooperativa de Ahorro y Crédito Horizonte Azul DEMO",
+  "ruc": "20997085095",
+  "organo": "Consejo de Administración",
+  "tipo_sesion": "extraordinaria",
+  "hora_inicio": "13:15",
+  "hora_fin": "16:30",
+  "quorum": "6 de 7",
+  "quorum_asistentes": 6,
+  "quorum_total": 7,
+  "presidente": "Sofía Jiménez Peña",
+  "secretario": "Mónica Rodríguez Peña",
+  "n_acuerdos": 10,
+  "n_paginas": 10
+ },
+ "tablas": [
+  {
+   "nombre": "asistencia",
+   "encabezados": [
+    "N°",
+    "Nombre",
+    "Cargo",
+    "Asistencia"
+   ],
+   "filas": [
+    [
+     "1",
+     "Sofía Jiménez Peña",
+     "Presidenta del Consejo",
+     "Presente"
+    ],
+    [
+     "2",
+     "Óscar Tapia Cáceres",
+     "Vicepresidente",
+     "Presente"
+    ],
+    [
+     "3",
+     "Mónica Rodríguez Peña",
+     "Secretaria",
+     "Presente (virtual)"
+    ],
+    [
+     "4",
+     "Rocío Gómez Fernández",
+     "Consejera",
+     "Presente (virtual)"
+    ],
+    [
+     "5",
+     "José Gálvez Mamani",
+     "Consejero",
+     "Presente"
+    ],
+    [
+     "6",
+     "Nélida Núñez Gálvez",
+     "Consejera",
+     "Ausente (con licencia)"
+    ],
+    [
+     "7",
+     "Sofía Peña Vásquez",
+     "Consejera",
+     "Presente"
+    ]
+   ]
+  },
+  {
+   "nombre": "acuerdos",
+   "encabezados": [
+    "N°",
+    "Descripcion",
+    "Responsable",
+    "Plazo",
+    "Estado",
+    "Referencia"
+   ],
+   "filas": [
+    [
+     "06-2026",
+     "Aprobar la actualización de la política de gestión del riesgo de liquidez, con vigencia desde la fecha de la presente acta.",
+     "Gerencia de Riesgos",
+     "inmediato",
+     "vigente",
+     ""
+    ],
+    [
+     "07-2026",
+     "Disponer que el 100 % del personal complete la capacitación en prevención del lavado de activos.",
+     "Gerencia de Recursos Humanos",
+     "10 dias",
+     "vigente",
+     ""
+    ],
+    [
+     "08-2026",
+     "Disponer el levantamiento de las observaciones de riesgo alto del informe de auditoría interna y el reporte mensual de avances.",
+     "Auditoría Interna",
+     "90 dias",
+     "vigente",
+     ""
+    ],
+    [
+     "09-2026",
+     "Aprobar la distribución de excedentes del ejercicio conforme a la propuesta presentada y constituir las reservas correspondientes.",
+     "Gerencia de Finanzas",
+     "2026-05-30",
+     "vigente",
+     ""
+    ],
+    [
+     "10-2026",
+     "Autorizar la contratación del sistema de gestión documental por el monto cotizado más bajo que cumpla los requisitos técnicos.",
+     "Gerencia de Administración",
+     "60 dias",
+     "vigente",
+     ""
+    ],
+    [
+     "11-2026",
+     "Disponer que la Gerencia de Riesgos presente un plan de reducción de la morosidad de la cartera de microempresa.",
+     "Gerencia de Créditos",
+     "20 dias",
+     "vigente",
+     ""
+    ],
+    [
+     "12-2026",
+     "Ratificar la conformación del comité de créditos y sus facultades de aprobación vigentes.",
+     "Secretaría General",
+     "inmediato",
+     "vigente",
+     ""
+    ],
+    [
+     "13-2026",
+     "Aprobar los estados financieros con corte a marzo de 2026 y autorizar su presentación a los órganos competentes.",
+     "Gerencia de Finanzas",
+     "2026-06-14",
+     "vigente",
+     ""
+    ],
+    [
+     "14-2026",
+     "Aprobar las modificaciones del reglamento interno de créditos y encargar su difusión a todas las agencias.",
+     "Gerencia de Créditos",
+     "45 dias",
+     "vigente",
+     ""
+    ],
+    [
+     "15-2026",
+     "Aprobar el plan de remediación de las brechas del plan de continuidad del negocio y su calendario de pruebas.",
+     "Gerencia de Tecnología",
+     "15 dias",
+     "vigente",
+     ""
+    ]
+   ],
+   "nota": "Plazo normalizado: 'N dias' (calendario), fecha ISO o 'inmediato'. Estado: vigente/derogado/modificado."
+  }
+ ],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 10,
+   "bbox": [
+    58.3,
+    217.6,
+    193.3,
+    252.0
+   ],
+   "unidad": "pt"
+  },
+  {
+   "tipo": "firma",
+   "pagina": 10,
+   "bbox": [
+    328.3,
+    210.3,
+    459.9,
+    252.0
+   ],
+   "unidad": "pt"
+  },
+  {
+   "tipo": "sello",
+   "pagina": 10,
+   "bbox": [
+    254,
+    215.0,
+    326,
+    287.0
+   ],
+   "unidad": "pt"
+  }
+ ],
+ "texto_completo": "Cooperativa de Ahorro y Crédito Horizonte Azul DEMO\nRUC 20997085095\nACTA N.º 09-2026 · SESIÓN EXTRAORDINARIA DE CONSEJO DE ADMINISTRACIÓN\nCooperativa de Ahorro y Crédito Horizonte Azul DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 1 de 10\nACTA N.º 09-2026\nSESIÓN EXTRAORDINARIA DE CONSEJO DE ADMINISTRACIÓN\nEn la ciudad de Lima, el quince de abril de dos mil veintiséis, siendo las trece horas con quince minutos, se\nreunió el Consejo de Administración de Cooperativa de Ahorro y Crédito Horizonte Azul DEMO en su sede\ninstitucional, en sesión extraordinaria, con la asistencia de seis (6) de los siete (7) miembros convocados, bajo\nla presidencia de Sofía Jiménez Peña, quien actuó como Presidenta del Consejo, y de Mónica Rodríguez\nPeña, quien actuó como secretario(a).\nI. VERIFICACIÓN DEL QUÓRUM\nSe dejó constancia de la siguiente asistencia. Existiendo quórum reglamentario, el Presidente declaró instalada\nla sesión.\nN°\nNombre\nCargo\nAsistencia\n1\nSofía Jiménez Peña\nPresidenta del Consejo\nPresente\n2\nÓscar Tapia Cáceres\nVicepresidente\nPresente\n3\nMónica Rodríguez Peña\nSecretaria\nPresente (virtual)\n4\nRocío Gómez Fernández\nConsejera\nPresente (virtual)\n5\nJosé Gálvez Mamani\nConsejero\nPresente\n6\nNélida Núñez Gálvez\nConsejera\nAusente (con licencia)\n7\nSofía Peña Vásquez\nConsejera\nPresente\nII. AGENDA\nLa agenda de la sesión fue la siguiente: 1) Verificación del quórum; 2) Política de gestión del riesgo de liquidez;\n3) Capacitación en prevención del lavado de activos; 4) Informe de auditoría interna; 5) Distribución de\nexcedentes y constitución de reservas; 6) Adquisición de un sistema de gestión documental; 7) Informe de\ncartera de créditos y morosidad; 8) Ratificación del comité de créditos; 9) Aprobación de los estados\nfinancieros; 10) Actualización del reglamento interno de créditos; 11) Plan de continuidad del negocio y\nseguridad de la información; 12) Revisión de acuerdos adoptados.\nIII. DESARROLLO DE LA SESIÓN\n2. POLÍTICA DE GESTIÓN DEL RIESGO DE LIQUIDEZ\nLa Gerencia de Riesgos presentó la actualización de la política, con un ratio de liquidez en moneda nacional de\n8,2 % frente a un límite interno de 8,0 %.\nSe explicó la metodología de simulación de escenarios de estrés y el plan de contingencia de fondeo.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. La Presidencia agradeció los aportes de los miembros y sometió el asunto a votación.\nSofía Jiménez Peña consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. Nélida Núñez Gálvez consultó sobre el impacto\nde la medida en los indicadores de solvencia, y la gerencia precisó que se mantendrían dentro de los límites\naprobados.\nSofía Jiménez Peña sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna.\nNélida Núñez Gálvez observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. Nélida Núñez Gálvez consultó sobre el impacto de la medida en los\nindicadores de solvencia, y la gerencia precisó que se mantendrían dentro de los límites aprobados.\nCooperativa de Ahorro y Crédito Horizonte Azul DEMO\nRUC 20997085095\nACTA N.º 09-2026 · SESIÓN EXTRAORDINARIA DE CONSEJO DE ADMINISTRACIÓN\nCooperativa de Ahorro y Crédito Horizonte Azul DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 2 de 10\nNélida Núñez Gálvez pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. Luego de un breve debate, los miembros presentes coincidieron en que la medida resulta\nrazonable y oportuna.\nJosé Gálvez Mamani observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. José Gálvez Mamani pidió que los responsables remitan un informe\nescrito con el detalle de las acciones adoptadas.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. Mónica Rodríguez Peña sugirió que el seguimiento se reporte en la próxima sesión, propuesta que\nfue aceptada.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Nélida Núñez Gálvez\nsugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nMónica Rodríguez Peña pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. Luego de un breve debate, los miembros presentes coincidieron en que la medida resulta\nrazonable y oportuna.\nRocío Gómez Fernández consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. Nélida Núñez Gálvez observó que los plazos\npropuestos deben guardar coherencia con el calendario institucional, y la gerencia tomó nota.\nACUERDO N.º 06-2026: Aprobar la actualización de la política de gestión del riesgo de liquidez, con\nvigencia desde la fecha de la presente acta.\nResponsable: Gerencia de Riesgos. Plazo: de cumplimiento inmediato.\nAprobado por unanimidad de los miembros presentes.\n3. CAPACITACIÓN EN PREVENCIÓN DEL LAVADO DE ACTIVOS\nEl Oficial de Cumplimiento informó que el 8,2 % del personal completó la capacitación anual obligatoria.\nSe acordó reforzar el programa para el personal de nuevas agencias y para los miembros del órgano de\ngobierno.\nSofía Jiménez Peña consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. Rocío Gómez Fernández consultó sobre el\nimpacto de la medida en los indicadores de solvencia, y la gerencia precisó que se mantendrían dentro de los\nlímites aprobados.\nJosé Gálvez Mamani observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. La Presidencia agradeció los aportes de los miembros y sometió el\nasunto a votación.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Óscar Tapia Cáceres\nobservó que los plazos propuestos deben guardar coherencia con el calendario institucional, y la gerencia tomó\nnota.\nJosé Gálvez Mamani pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. Nélida Núñez Gálvez observó que los plazos propuestos deben guardar coherencia con el\ncalendario institucional, y la gerencia tomó nota.\nNélida Núñez Gálvez manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nacta. Sofía Jiménez Peña consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados.\nNélida Núñez Gálvez pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. Mónica Rodríguez Peña observó que los plazos propuestos deben guardar coherencia con el\ncalendario institucional, y la gerencia tomó nota.\nCooperativa de Ahorro y Crédito Horizonte Azul DEMO\nRUC 20997085095\nACTA N.º 09-2026 · SESIÓN EXTRAORDINARIA DE CONSEJO DE ADMINISTRACIÓN\nCooperativa de Ahorro y Crédito Horizonte Azul DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 3 de 10\nJosé Gálvez Mamani manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nacta. Óscar Tapia Cáceres sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada.\nJosé Gálvez Mamani manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nacta. Mónica Rodríguez Peña pidió que los responsables remitan un informe escrito con el detalle de las\nacciones adoptadas.\nJosé Gálvez Mamani observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. Luego de un breve debate, los miembros presentes coincidieron en que\nla medida resulta razonable y oportuna.\nÓscar Tapia Cáceres sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna.\nACUERDO N.º 07-2026: Disponer que el 100 % del personal complete la capacitación en prevención\ndel lavado de activos.\nResponsable: Gerencia de Recursos Humanos. Plazo: dentro de un plazo de diez (10) días calendario.\nAprobado por unanimidad de los miembros presentes.\n4. INFORME DE AUDITORÍA INTERNA\nLa Jefatura de Auditoría Interna presentó el informe del trimestre, que contiene 10 observaciones, de las cuales\ndos fueron calificadas de riesgo alto.\nLa Gerencia General se comprometió a presentar los planes de acción por cada observación.\nSofía Jiménez Peña sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nÓscar Tapia Cáceres pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas.\nRocío Gómez Fernández consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. La Presidencia agradeció los aportes de los\nmiembros y sometió el asunto a votación.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Nélida Núñez Gálvez\nmanifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el acta.\nÓscar Tapia Cáceres manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nacta. La Presidencia agradeció los aportes de los miembros y sometió el asunto a votación.\nRocío Gómez Fernández pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. Luego de un breve debate, los miembros presentes coincidieron en que la medida resulta\nrazonable y oportuna.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Mónica Rodríguez Peña\nmanifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el acta.\nÓscar Tapia Cáceres pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. La Presidencia agradeció los aportes de los miembros y sometió el asunto a votación.\nJosé Gálvez Mamani pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. Luego de un breve debate, los miembros presentes coincidieron en que la medida resulta\nrazonable y oportuna.\nNélida Núñez Gálvez observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. Nélida Núñez Gálvez observó que los plazos propuestos deben guardar\ncoherencia con el calendario institucional, y la gerencia tomó nota.\nCooperativa de Ahorro y Crédito Horizonte Azul DEMO\nRUC 20997085095\nACTA N.º 09-2026 · SESIÓN EXTRAORDINARIA DE CONSEJO DE ADMINISTRACIÓN\nCooperativa de Ahorro y Crédito Horizonte Azul DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 4 de 10\nNélida Núñez Gálvez sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nNélida Núñez Gálvez sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nACUERDO N.º 08-2026: Disponer el levantamiento de las observaciones de riesgo alto del informe\nde auditoría interna y el reporte mensual de avances.\nResponsable: Auditoría Interna. Plazo: dentro de un plazo de noventa (90) días calendario.\nAprobado por unanimidad de los miembros presentes.\n5. DISTRIBUCIÓN DE EXCEDENTES Y CONSTITUCIÓN DE RESERVAS\nEl Comité de Finanzas propuso destinar el 20 % de los excedentes a la reserva cooperativa y el 10 % al fondo\nde educación.\nLos excedentes del ejercicio ascienden a S/ 3,700,000.00 según los estados financieros auditados.\nÓscar Tapia Cáceres consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. Mónica Rodríguez Peña consultó sobre el impacto\nde la medida en los indicadores de solvencia, y la gerencia precisó que se mantendrían dentro de los límites\naprobados.\nRocío Gómez Fernández manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en\nel acta. Luego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna.\nÓscar Tapia Cáceres manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nacta. Sofía Jiménez Peña sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada.\nMónica Rodríguez Peña pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. La Presidencia agradeció los aportes de los miembros y sometió el asunto a votación.\nMónica Rodríguez Peña consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. Luego de un breve debate, los miembros\npresentes coincidieron en que la medida resulta razonable y oportuna.\nSofía Jiménez Peña manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nacta. Luego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna.\nRocío Gómez Fernández sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. Óscar Tapia Cáceres manifestó su conformidad con lo expuesto y solicitó que se deje constancia de\nello en el acta.\nSofía Jiménez Peña observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. Óscar Tapia Cáceres manifestó su conformidad con lo expuesto y solicitó\nque se deje constancia de ello en el acta.\nRocío Gómez Fernández pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. Óscar Tapia Cáceres sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada.\nNélida Núñez Gálvez pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. Óscar Tapia Cáceres consultó sobre el impacto de la medida en los indicadores de solvencia, y la\ngerencia precisó que se mantendrían dentro de los límites aprobados.\nACUERDO N.º 09-2026: Aprobar la distribución de excedentes del ejercicio conforme a la propuesta\npresentada y constituir las reservas correspondientes.\nResponsable: Gerencia de Finanzas. Plazo: hasta el treinta de mayo de dos mil veintiséis.\nCooperativa de Ahorro y Crédito Horizonte Azul DEMO\nRUC 20997085095\nACTA N.º 09-2026 · SESIÓN EXTRAORDINARIA DE CONSEJO DE ADMINISTRACIÓN\nCooperativa de Ahorro y Crédito Horizonte Azul DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 5 de 10\nAprobado por unanimidad de los miembros presentes.\n6. ADQUISICIÓN DE UN SISTEMA DE GESTIÓN DOCUMENTAL\nLa Gerencia de Tecnología sustentó la necesidad de digitalizar los expedientes de crédito y propuso adquirir\nuna solución de gestión documental por S/ 6,500,000.00.\nSe compararon tres cotizaciones y se verificó el cumplimiento de los requisitos de seguridad y conservación de\nla información.\nÓscar Tapia Cáceres sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nÓscar Tapia Cáceres pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas.\nJosé Gálvez Mamani manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nacta. Sofía Jiménez Peña consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados.\nNélida Núñez Gálvez manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nacta. Rocío Gómez Fernández pidió que los responsables remitan un informe escrito con el detalle de las\nacciones adoptadas.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. Nélida Núñez Gálvez manifestó su conformidad con lo expuesto y solicitó que se deje constancia de\nello en el acta.\nNélida Núñez Gálvez observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. Óscar Tapia Cáceres consultó sobre el impacto de la medida en los\nindicadores de solvencia, y la gerencia precisó que se mantendrían dentro de los límites aprobados.\nMónica Rodríguez Peña observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. La Presidencia agradeció los aportes de los miembros y sometió el\nasunto a votación.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Rocío Gómez Fernández\nsugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Óscar Tapia Cáceres\npidió que los responsables remitan un informe escrito con el detalle de las acciones adoptadas.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Óscar Tapia Cáceres\nconsultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia precisó que se\nmantendrían dentro de los límites aprobados.\nSofía Jiménez Peña observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. La Presidencia agradeció los aportes de los miembros y sometió el\nasunto a votación.\nACUERDO N.º 10-2026: Autorizar la contratación del sistema de gestión documental por el monto\ncotizado más bajo que cumpla los requisitos técnicos.\nResponsable: Gerencia de Administración. Plazo: dentro de un plazo de sesenta (60) días calendario.\nAprobado por mayoría, con 5 votos a favor y 1 en contra.\n7. INFORME DE CARTERA DE CRÉDITOS Y MOROSIDAD\nLa Gerencia General informó que la cartera bruta de créditos al cierre de marzo ascendió a S/ 6,500,000.00,\ncon un índice de morosidad de 8,2 %.\nSe precisó que el 62 % de los créditos vencidos corresponde a la línea de microempresa y que se vienen\nejecutando campañas de recuperación.\nCooperativa de Ahorro y Crédito Horizonte Azul DEMO\nRUC 20997085095\nACTA N.º 09-2026 · SESIÓN EXTRAORDINARIA DE CONSEJO DE ADMINISTRACIÓN\nCooperativa de Ahorro y Crédito Horizonte Azul DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 6 de 10\nNélida Núñez Gálvez observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. José Gálvez Mamani pidió que los responsables remitan un informe\nescrito con el detalle de las acciones adoptadas.\nNélida Núñez Gálvez observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. Luego de un breve debate, los miembros presentes coincidieron en que\nla medida resulta razonable y oportuna.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. La Presidencia agradeció los aportes de los miembros y sometió el asunto a votación.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. Mónica Rodríguez Peña manifestó su conformidad con lo expuesto y solicitó que se deje constancia\nde ello en el acta.\nNélida Núñez Gálvez observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. Mónica Rodríguez Peña manifestó su conformidad con lo expuesto y\nsolicitó que se deje constancia de ello en el acta.\nMónica Rodríguez Peña manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en\nel acta. Nélida Núñez Gálvez sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada.\nNélida Núñez Gálvez manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nacta. Rocío Gómez Fernández observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota.\nMónica Rodríguez Peña observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. Mónica Rodríguez Peña consultó sobre el impacto de la medida en los\nindicadores de solvencia, y la gerencia precisó que se mantendrían dentro de los límites aprobados.\nMónica Rodríguez Peña manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en\nel acta. Óscar Tapia Cáceres manifestó su conformidad con lo expuesto y solicitó que se deje constancia de\nello en el acta.\nÓscar Tapia Cáceres sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nNélida Núñez Gálvez sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nACUERDO N.º 11-2026: Disponer que la Gerencia de Riesgos presente un plan de reducción de la\nmorosidad de la cartera de microempresa.\nResponsable: Gerencia de Créditos. Plazo: dentro de un plazo de veinte (20) días calendario.\nAprobado por mayoría, con 5 votos a favor y 1 en contra.\n8. RATIFICACIÓN DEL COMITÉ DE CRÉDITOS\nSe propuso ratificar a los integrantes del comité de créditos por el periodo restante, considerando su\ndesempeño y la rotación del personal.\nEl Presidente recordó los límites de aprobación que corresponden a cada nivel.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. Sofía Jiménez Peña observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota.\nJosé Gálvez Mamani consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. Rocío Gómez Fernández sugirió que el\nseguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nJosé Gálvez Mamani manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nacta. Óscar Tapia Cáceres sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\nCooperativa de Ahorro y Crédito Horizonte Azul DEMO\nRUC 20997085095\nACTA N.º 09-2026 · SESIÓN EXTRAORDINARIA DE CONSEJO DE ADMINISTRACIÓN\nCooperativa de Ahorro y Crédito Horizonte Azul DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 7 de 10\naceptada.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. Rocío Gómez Fernández consultó sobre el impacto de la medida en los indicadores de solvencia, y\nla gerencia precisó que se mantendrían dentro de los límites aprobados.\nMónica Rodríguez Peña consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. Nélida Núñez Gálvez sugirió que el seguimiento\nse reporte en la próxima sesión, propuesta que fue aceptada.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Mónica Rodríguez Peña\nobservó que los plazos propuestos deben guardar coherencia con el calendario institucional, y la gerencia tomó\nnota.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. Mónica Rodríguez Peña pidió que los responsables remitan un informe escrito con el detalle de las\nacciones adoptadas.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. José Gálvez Mamani\nconsultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia precisó que se\nmantendrían dentro de los límites aprobados.\nJosé Gálvez Mamani consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. José Gálvez Mamani sugirió que el seguimiento\nse reporte en la próxima sesión, propuesta que fue aceptada.\nSofía Jiménez Peña sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nMónica Rodríguez Peña consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados.\nACUERDO N.º 12-2026: Ratificar la conformación del comité de créditos y sus facultades de\naprobación vigentes.\nResponsable: Secretaría General. Plazo: de cumplimiento inmediato.\nAprobado por mayoría, con 5 votos a favor y 1 en contra.\n9. APROBACIÓN DE LOS ESTADOS FINANCIEROS\nLa Contabilidad presentó los estados financieros con corte a marzo, que registran activos por S/ 6,500,000.00 y\nuna utilidad acumulada de S/ 3,700,000.00.\nLos miembros revisaron las notas explicativas y el dictamen preliminar del auditor externo, sin observaciones\nde fondo.\nÓscar Tapia Cáceres sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nÓscar Tapia Cáceres sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nMónica Rodríguez Peña manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en\nel acta. Nélida Núñez Gálvez pidió que los responsables remitan un informe escrito con el detalle de las\nacciones adoptadas.\nSofía Jiménez Peña sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nÓscar Tapia Cáceres consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados.\nRocío Gómez Fernández pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. La Presidencia agradeció los aportes de los miembros y sometió el asunto a votación.\nRocío Gómez Fernández pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. Mónica Rodríguez Peña pidió que los responsables remitan un informe escrito con el detalle de las\nacciones adoptadas.\nCooperativa de Ahorro y Crédito Horizonte Azul DEMO\nRUC 20997085095\nACTA N.º 09-2026 · SESIÓN EXTRAORDINARIA DE CONSEJO DE ADMINISTRACIÓN\nCooperativa de Ahorro y Crédito Horizonte Azul DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 8 de 10\nSofía Jiménez Peña sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nSofía Jiménez Peña manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nacta.\nÓscar Tapia Cáceres observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. Sofía Jiménez Peña pidió que los responsables remitan un informe\nescrito con el detalle de las acciones adoptadas.\nJosé Gálvez Mamani consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. Nélida Núñez Gálvez sugirió que el seguimiento\nse reporte en la próxima sesión, propuesta que fue aceptada.\nÓscar Tapia Cáceres observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. Mónica Rodríguez Peña sugirió que el seguimiento se reporte en la\npróxima sesión, propuesta que fue aceptada.\nRocío Gómez Fernández pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. La Presidencia agradeció los aportes de los miembros y sometió el asunto a votación.\nACUERDO N.º 13-2026: Aprobar los estados financieros con corte a marzo de 2026 y autorizar su\npresentación a los órganos competentes.\nResponsable: Gerencia de Finanzas. Plazo: hasta el catorce de junio de dos mil veintiséis.\nAprobado por unanimidad de los miembros presentes.\n10. ACTUALIZACIÓN DEL REGLAMENTO INTERNO DE CRÉDITOS\nLa asesoría legal presentó las modificaciones al reglamento de créditos para incorporar nuevas garantías\nadmisibles y criterios de evaluación.\nLos miembros pidieron precisar el procedimiento de excepciones y el nivel de aprobación correspondiente.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Mónica Rodríguez Peña\nsugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Sofía Jiménez Peña\nobservó que los plazos propuestos deben guardar coherencia con el calendario institucional, y la gerencia tomó\nnota.\nNélida Núñez Gálvez sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna.\nNélida Núñez Gálvez consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. La Presidencia agradeció los aportes de los\nmiembros y sometió el asunto a votación.\nRocío Gómez Fernández consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. Luego de un breve debate, los miembros\npresentes coincidieron en que la medida resulta razonable y oportuna.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. José Gálvez Mamani\nsugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nNélida Núñez Gálvez pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. Mónica Rodríguez Peña consultó sobre el impacto de la medida en los indicadores de solvencia, y\nla gerencia precisó que se mantendrían dentro de los límites aprobados.\nNélida Núñez Gálvez consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. José Gálvez Mamani consultó sobre el impacto de\nla medida en los indicadores de solvencia, y la gerencia precisó que se mantendrían dentro de los límites\nCooperativa de Ahorro y Crédito Horizonte Azul DEMO\nRUC 20997085095\nACTA N.º 09-2026 · SESIÓN EXTRAORDINARIA DE CONSEJO DE ADMINISTRACIÓN\nCooperativa de Ahorro y Crédito Horizonte Azul DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 9 de 10\naprobados.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. José Gálvez Mamani\npidió que los responsables remitan un informe escrito con el detalle de las acciones adoptadas.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Sofía Jiménez Peña\nconsultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia precisó que se\nmantendrían dentro de los límites aprobados.\nACUERDO N.º 14-2026: Aprobar las modificaciones del reglamento interno de créditos y encargar\nsu difusión a todas las agencias.\nResponsable: Gerencia de Créditos. Plazo: dentro de un plazo de cuarenta y cinco (45) días calendario.\nAprobado por mayoría, con 5 votos a favor y 1 en contra.\n11. PLAN DE CONTINUIDAD DEL NEGOCIO Y SEGURIDAD DE LA INFORMACIÓN\nEl Oficial de Seguridad informó que se realizó una prueba de contingencia con tiempo de recuperación de 10\nhoras, superior a la meta fijada.\nSe identificaron brechas en el respaldo de la información de las agencias periféricas.\nSofía Jiménez Peña pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. La Presidencia agradeció los aportes de los miembros y sometió el asunto a votación.\nSofía Jiménez Peña manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nacta. Luego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna.\nJosé Gálvez Mamani manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nacta. Mónica Rodríguez Peña sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada.\nRocío Gómez Fernández pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. Luego de un breve debate, los miembros presentes coincidieron en que la medida resulta\nrazonable y oportuna.\nRocío Gómez Fernández pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. José Gálvez Mamani sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada.\nJosé Gálvez Mamani consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. José Gálvez Mamani pidió que los responsables\nremitan un informe escrito con el detalle de las acciones adoptadas.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. José Gálvez Mamani\nobservó que los plazos propuestos deben guardar coherencia con el calendario institucional, y la gerencia tomó\nnota.\nRocío Gómez Fernández pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. Luego de un breve debate, los miembros presentes coincidieron en que la medida resulta\nrazonable y oportuna.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Nélida Núñez Gálvez\nmanifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el acta.\nNélida Núñez Gálvez observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. Luego de un breve debate, los miembros presentes coincidieron en que\nla medida resulta razonable y oportuna.\nACUERDO N.º 15-2026: Aprobar el plan de remediación de las brechas del plan de continuidad del\nCooperativa de Ahorro y Crédito Horizonte Azul DEMO\nRUC 20997085095\nACTA N.º 09-2026 · SESIÓN EXTRAORDINARIA DE CONSEJO DE ADMINISTRACIÓN\nCooperativa de Ahorro y Crédito Horizonte Azul DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 10 de 10\nnegocio y su calendario de pruebas.\nResponsable: Gerencia de Tecnología. Plazo: dentro de un plazo de quince (15) días calendario.\nAprobado por unanimidad de los miembros presentes.\nIV. CIERRE\nNo habiendo otros asuntos que tratar, siendo las 16:30 horas se levantó la sesión, firmando los presentes en\nseñal de conformidad.\nSofía Jiménez Peña\nPresidenta del Consejo\nMónica Rodríguez Peña\nSecretaria",
+ "degradacion": {
+  "rotacion": 0,
+  "dpi": null,
+  "ruido": "ninguno"
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar",
+ "origen": "corpus_practica",
+ "trampas": [
+  "tildes_en_nombres",
+  "pie_de_pagina_repetido",
+  "tabla_de_asistencia",
+  "fecha_en_texto"
+ ],
+ "campos_ausentes": [],
+ "elementos_repetidos": {
+  "encabezado": "ACTA N.º 09-2026 · SESIÓN EXTRAORDINARIA DE CONSEJO DE ADMINISTRACIÓN",
+  "pie": "Cooperativa de Ahorro y Crédito Horizonte Azul DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)"
+ }
+}

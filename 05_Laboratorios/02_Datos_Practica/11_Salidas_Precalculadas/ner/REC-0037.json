@@ -1,0 +1,33 @@
+{
+ "id": "REC-0037",
+ "modelo": "Davlan/xlm-roberta-base-ner-hrl",
+ "revision": null,
+ "version_transformers": "5.22.1",
+ "version_torch": "2.15.0+cu132",
+ "dispositivo": "cuda (NVIDIA GeForce RTX 5070)",
+ "agregacion": "simple",
+ "texto": "remitente + cuerpo del correo + texto del OCR del adjunto (ocr_s04)",
+ "entidades": [
+  {
+   "texto": "Mario Paredes Ledesma",
+   "etiqueta": "PER",
+   "score": 0.9995,
+   "inicio": 42,
+   "fin": 63
+  },
+  {
+   "texto": "Banco Costa Norte DEMO S.A",
+   "etiqueta": "ORG",
+   "score": 0.992,
+   "inicio": 262,
+   "fin": 288
+  },
+  {
+   "texto": "Mario Paredes Ledesma",
+   "etiqueta": "PER",
+   "score": 0.9996,
+   "inicio": 336,
+   "fin": 357
+  }
+ ]
+}

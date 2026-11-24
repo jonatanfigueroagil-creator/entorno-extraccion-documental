@@ -1,0 +1,26 @@
+Carpeta ocr: salidas calculadas de antemano de S03 (ejecuciones reales del 30/10/2026; nada se inventa).
+
+1) firma_sello_OFI-0001, 0005, 0012, 0015 y 0016 (.json)  ·  ficha E3
+   Detección de firma y sello con OpenCV 4.10.0.84 (color en HSV y componentes conectados), sobre la página dibujada a
+   la resolución nativa del escaneado. Cajas (x1, y1, x2, y2) en píxeles, en el mismo sistema de coordenadas que las
+   "regiones" del ground truth. Tiempo: 0,06 a 0,12 s por página en CPU.
+   Resultado frente al ground truth (IoU): sello 0,901 a 0,945; firma 0,043 a 0,677 (en OFI-0015 solo halló la raya inferior).
+   Generador: precalcular_firma_sello_s03.py
+
+2) paddle_texto_OFI-0001, 0005, 0012, 0015 y 0016 (.json)  ·  comparación Tesseract frente a PaddleOCR
+   PaddleOCR 3.7.0 con paddlepaddle 3.3.1 (CPU, enable_mkldnn=False), modelos PP-OCRv5_mobile_det y latin_PP-OCRv5_mobile_rec,
+   sobre la página 1 dibujada a 300 dpi y enderezada (sin binarizar). Cada JSON trae el texto, las líneas con caja y
+   confianza, las versiones, el equipo y los segundos.
+   Tiempo: 19,9 a 21,7 s por página en una CPU de 24 hilos (Intel, Windows 11); carga de los modelos: ver cada JSON.
+   Resultado: CER frente al texto correcto entre 0,029 y 0,039 en los cinco oficios.
+   Generador: precalcular_paddle_s03.py (se ejecuta en un entorno aparte con paddlepaddle, paddleocr y paddlex).
+
+3) paddle_tabla_EFI-0031 (.json)  ·  DEMO de PaddleOCR de tablas
+   Canalización TableRecognitionPipelineV2 de PaddleOCR 3.7.0 (paddlepaddle 3.3.1, CPU, enable_mkldnn=False, modelos por
+   defecto, unos 1,3 GB) sobre la página 1 de EFI-0031 a 300 dpi y enderezada. El JSON trae el HTML de la tabla y las cajas de celdas.
+   Tiempo: 2283 s (38 minutos) de predicción en una CPU de 24 hilos; carga de modelos 7 s. Por eso solo se analiza: no corre en clase.
+   Resultado: 22 filas (encabezado incluido) con todas las cifras correctas; los nombres de concepto salen sin espacios
+   entre palabras (por ejemplo "Totalactivo"). Sin GPU: en la T4 de la VM no está medido.
+   Generador: precalcular_paddle_s03.py tabla EFI-0031
+
+No hay GPU en la máquina donde se generaron: los tiempos son de CPU y no equivalen a los de la T4 de la VM.

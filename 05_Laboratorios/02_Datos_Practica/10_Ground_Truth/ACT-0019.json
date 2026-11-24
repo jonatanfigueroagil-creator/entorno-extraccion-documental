@@ -1,0 +1,238 @@
+{
+ "doc_id": "ACT-0019",
+ "tipo": "acta",
+ "formato": "pdf_escaneado",
+ "campos": {
+  "numero_acta": "06-2026",
+  "fecha": "2026-05-15",
+  "entidad": "Cooperativa de Ahorro y Crédito Los Andes del Sur DEMO",
+  "ruc": "20991871943",
+  "organo": "Directorio",
+  "tipo_sesion": "extraordinaria",
+  "hora_inicio": "09:45",
+  "hora_fin": "12:15",
+  "quorum": "6 de 9",
+  "quorum_asistentes": 6,
+  "quorum_total": 9,
+  "presidente": "Joaquín Gálvez Bermúdez",
+  "secretario": "Mónica Ibáñez Sánchez",
+  "n_acuerdos": 8,
+  "n_paginas": 5
+ },
+ "tablas": [
+  {
+   "nombre": "asistencia",
+   "encabezados": [
+    "N°",
+    "Nombre",
+    "Cargo",
+    "Asistencia"
+   ],
+   "filas": [
+    [
+     "1",
+     "Joaquín Gálvez Bermúdez",
+     "Presidente del Directorio",
+     "Presente"
+    ],
+    [
+     "2",
+     "Joaquín Huamán Zúñiga",
+     "Vicepresidente",
+     "Presente"
+    ],
+    [
+     "3",
+     "Mónica Ibáñez Sánchez",
+     "Secretaria",
+     "Presente"
+    ],
+    [
+     "4",
+     "María Martínez Márquez",
+     "Directora",
+     "Presente"
+    ],
+    [
+     "5",
+     "Óscar Martínez Zúñiga",
+     "Director",
+     "Ausente (con licencia)"
+    ],
+    [
+     "6",
+     "Inés Pérez Cáceres",
+     "Directora",
+     "Presente (virtual)"
+    ],
+    [
+     "7",
+     "Jesús Huamán Quiñones",
+     "Director",
+     "Ausente"
+    ],
+    [
+     "8",
+     "Lucía Tapia Herrera",
+     "Directora",
+     "Ausente (con licencia)"
+    ],
+    [
+     "9",
+     "José Tapia Pérez",
+     "Director",
+     "Presente (virtual)"
+    ]
+   ]
+  },
+  {
+   "nombre": "acuerdos",
+   "encabezados": [
+    "N°",
+    "Descripcion",
+    "Responsable",
+    "Plazo",
+    "Estado",
+    "Referencia"
+   ],
+   "filas": [
+    [
+     "04-2026",
+     "Ratificar la conformación del comité de créditos y sus facultades de aprobación vigentes.",
+     "Secretaría General",
+     "inmediato",
+     "derogado",
+     ""
+    ],
+    [
+     "05-2026",
+     "Aprobar la actualización de la política de gestión del riesgo de liquidez, con vigencia desde la fecha de la presente acta.",
+     "Gerencia de Riesgos",
+     "inmediato",
+     "vigente",
+     ""
+    ],
+    [
+     "06-2026",
+     "Disponer que el 100 % del personal complete la capacitación en prevención del lavado de activos.",
+     "Gerencia de Recursos Humanos",
+     "60 dias",
+     "vigente",
+     ""
+    ],
+    [
+     "07-2026",
+     "Aprobar las modificaciones del reglamento interno de créditos y encargar su difusión a todas las agencias.",
+     "Asesoría Legal",
+     "90 dias",
+     "vigente",
+     ""
+    ],
+    [
+     "08-2026",
+     "Disponer el levantamiento de las observaciones de riesgo alto del informe de auditoría interna y el reporte mensual de avances.",
+     "Auditoría Interna",
+     "10 dias",
+     "vigente",
+     ""
+    ],
+    [
+     "09-2026",
+     "Autorizar a la Gerencia General a remitir la información requerida por la Intendencia DEMO dentro del plazo señalado en el oficio.",
+     "Gerencia General",
+     "2026-05-30",
+     "vigente",
+     ""
+    ],
+    [
+     "10-2026",
+     "Aprobar el presupuesto y el plan operativo del segundo semestre de 2026.",
+     "Gerencia de Planeamiento",
+     "45 dias",
+     "vigente",
+     ""
+    ],
+    [
+     "11-2026",
+     "Dejar sin efecto el ACUERDO N.º 04-2026, adoptado en esta misma sesión.",
+     "Secretaría General",
+     "inmediato",
+     "vigente",
+     "deroga 04-2026"
+    ]
+   ],
+   "nota": "Plazo normalizado: 'N dias' (calendario), fecha ISO o 'inmediato'. Estado: vigente/derogado/modificado."
+  }
+ ],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 5,
+   "bbox": [
+    79,
+    632,
+    252,
+    691
+   ],
+   "unidad": "px",
+   "dpi": 90,
+   "ancho_px": 745,
+   "alto_px": 1053
+  },
+  {
+   "tipo": "firma",
+   "pagina": 5,
+   "bbox": [
+    412,
+    617,
+    584,
+    677
+   ],
+   "unidad": "px",
+   "dpi": 90,
+   "ancho_px": 745,
+   "alto_px": 1053
+  },
+  {
+   "tipo": "sello",
+   "pagina": 5,
+   "bbox": [
+    322,
+    630,
+    416,
+    724
+   ],
+   "unidad": "px",
+   "dpi": 90,
+   "ancho_px": 745,
+   "alto_px": 1053
+  }
+ ],
+ "texto_completo": "Cooperativa de Ahorro y Crédito Los Andes del Sur DEMO\nRUC 20991871943\nACTA N.º 06-2026 · SESIÓN EXTRAORDINARIA DE DIRECTORIO\nCooperativa de Ahorro y Crédito Los Andes del Sur DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 1 de 5\nACTA N.º 06-2026\nSESIÓN EXTRAORDINARIA DE DIRECTORIO\nFecha: 15/05/2026\nSiendo las 09:45 horas del día 15/05/2026, se reunió el Directorio de Cooperativa de Ahorro y Crédito Los\nAndes del Sur DEMO en su sede institucional, en sesión extraordinaria, con la asistencia de seis (6) de los\nnueve (9) miembros convocados, bajo la presidencia de Joaquín Gálvez Bermúdez, quien actuó como\nPresidente del Directorio, y de Mónica Ibáñez Sánchez, quien actuó como secretario(a).\nI. VERIFICACIÓN DEL QUÓRUM\nSe dejó constancia de la siguiente asistencia. Existiendo quórum reglamentario, el Presidente declaró instalada\nla sesión.\nN°\nNombre\nCargo\nAsistencia\n1\nJoaquín Gálvez Bermúdez\nPresidente del Directorio\nPresente\n2\nJoaquín Huamán Zúñiga\nVicepresidente\nPresente\n3\nMónica Ibáñez Sánchez\nSecretaria\nPresente\n4\nMaría Martínez Márquez\nDirectora\nPresente\n5\nÓscar Martínez Zúñiga\nDirector\nAusente (con licencia)\n6\nInés Pérez Cáceres\nDirectora\nPresente (virtual)\n7\nJesús Huamán Quiñones\nDirector\nAusente\n8\nLucía Tapia Herrera\nDirectora\nAusente (con licencia)\n9\nJosé Tapia Pérez\nDirector\nPresente (virtual)\nII. AGENDA\nLa agenda de la sesión fue la siguiente: 1) Verificación del quórum; 2) Ratificación del comité de créditos; 3)\nPolítica de gestión del riesgo de liquidez; 4) Capacitación en prevención del lavado de activos; 5) Actualización\ndel reglamento interno de créditos; 6) Informe de auditoría interna; 7) Atención del oficio de la Intendencia\nDEMO; 8) Presupuesto y plan operativo; 9) Revisión de acuerdos adoptados.\nIII. DESARROLLO DE LA SESIÓN\n2. RATIFICACIÓN DEL COMITÉ DE CRÉDITOS\nSe propuso ratificar a los integrantes del comité de créditos por el periodo restante, considerando su\ndesempeño y la rotación del personal.\nEl Presidente recordó los límites de aprobación que corresponden a cada nivel.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Luego de un breve\ndebate, los miembros presentes coincidieron en que la medida resulta razonable y oportuna.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Inés Pérez Cáceres\nobservó que los plazos propuestos deben guardar coherencia con el calendario institucional, y la gerencia tomó\nnota.\nJoaquín Gálvez Bermúdez manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello\nen el acta. Luego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable\ny oportuna.\nMaría Martínez Márquez sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. Joaquín Huamán Zúñiga sugirió que el seguimiento se reporte en la próxima sesión, propuesta que\nfue aceptada.\nCooperativa de Ahorro y Crédito Los Andes del Sur DEMO\nRUC 20991871943\nACTA N.º 06-2026 · SESIÓN EXTRAORDINARIA DE DIRECTORIO\nCooperativa de Ahorro y Crédito Los Andes del Sur DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 2 de 5\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Joaquín Gálvez\nBermúdez consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia precisó que se\nmantendrían dentro de los límites aprobados.\nACUERDO N.º 04-2026: Ratificar la conformación del comité de créditos y sus facultades de\naprobación vigentes.\nResponsable: Secretaría General. Plazo: de cumplimiento inmediato.\nAprobado por mayoría, con 5 votos a favor y 1 en contra.\n3. POLÍTICA DE GESTIÓN DEL RIESGO DE LIQUIDEZ\nLa Gerencia de Riesgos presentó la actualización de la política, con un ratio de liquidez en moneda nacional de\n9,4 % frente a un límite interno de 8,0 %.\nSe explicó la metodología de simulación de escenarios de estrés y el plan de contingencia de fondeo.\nMaría Martínez Márquez consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. Óscar Martínez Zúñiga manifestó su conformidad\ncon lo expuesto y solicitó que se deje constancia de ello en el acta.\nJoaquín Gálvez Bermúdez observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. Joaquín Gálvez Bermúdez manifestó su conformidad con lo expuesto y\nsolicitó que se deje constancia de ello en el acta.\nMaría Martínez Márquez pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. María Martínez Márquez consultó sobre el impacto de la medida en los indicadores de solvencia, y\nla gerencia precisó que se mantendrían dentro de los límites aprobados.\nJoaquín Gálvez Bermúdez sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. La Presidencia agradeció los aportes de los miembros y sometió el asunto a votación.\nJoaquín Huamán Zúñiga sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. Óscar Martínez Zúñiga manifestó su conformidad con lo expuesto y solicitó que se deje constancia\nde ello en el acta.\nACUERDO N.º 05-2026: Aprobar la actualización de la política de gestión del riesgo de liquidez, con\nvigencia desde la fecha de la presente acta.\nResponsable: Gerencia de Riesgos. Plazo: de cumplimiento inmediato.\nAprobado por unanimidad de los miembros presentes.\n4. CAPACITACIÓN EN PREVENCIÓN DEL LAVADO DE ACTIVOS\nEl Oficial de Cumplimiento informó que el 9,4 % del personal completó la capacitación anual obligatoria.\nSe acordó reforzar el programa para el personal de nuevas agencias y para los miembros del órgano de\ngobierno.\nJoaquín Gálvez Bermúdez consultó sobre el impacto de la medida en los indicadores de solvencia, y la\ngerencia precisó que se mantendrían dentro de los límites aprobados. Inés Pérez Cáceres manifestó su\nconformidad con lo expuesto y solicitó que se deje constancia de ello en el acta.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Luego de un breve\ndebate, los miembros presentes coincidieron en que la medida resulta razonable y oportuna.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Inés Pérez Cáceres\nsugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue aceptada.\nInés Pérez Cáceres manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el\nacta. Luego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\nCooperativa de Ahorro y Crédito Los Andes del Sur DEMO\nRUC 20991871943\nACTA N.º 06-2026 · SESIÓN EXTRAORDINARIA DE DIRECTORIO\nCooperativa de Ahorro y Crédito Los Andes del Sur DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 3 de 5\noportuna.\nJoaquín Huamán Zúñiga pidió que los responsables remitan un informe escrito con el detalle de las acciones\nadoptadas. Joaquín Gálvez Bermúdez manifestó su conformidad con lo expuesto y solicitó que se deje\nconstancia de ello en el acta.\nACUERDO N.º 06-2026: Disponer que el 100 % del personal complete la capacitación en prevención\ndel lavado de activos.\nResponsable: Gerencia de Recursos Humanos. Plazo: dentro de un plazo de sesenta (60) días calendario.\nAprobado por unanimidad de los miembros presentes.\n5. ACTUALIZACIÓN DEL REGLAMENTO INTERNO DE CRÉDITOS\nLa asesoría legal presentó las modificaciones al reglamento de créditos para incorporar nuevas garantías\nadmisibles y criterios de evaluación.\nLos miembros pidieron precisar el procedimiento de excepciones y el nivel de aprobación correspondiente.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. Inés Pérez Cáceres pidió que los responsables remitan un informe escrito con el detalle de las\nacciones adoptadas.\nInés Pérez Cáceres consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. Inés Pérez Cáceres consultó sobre el impacto de\nla medida en los indicadores de solvencia, y la gerencia precisó que se mantendrían dentro de los límites\naprobados.\nMónica Ibáñez Sánchez manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en\nel acta. Mónica Ibáñez Sánchez sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada.\nMaría Martínez Márquez sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. Joaquín Gálvez Bermúdez pidió que los responsables remitan un informe escrito con el detalle de las\nacciones adoptadas.\nJoaquín Gálvez Bermúdez observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. La Presidencia agradeció los aportes de los miembros y sometió el\nasunto a votación.\nACUERDO N.º 07-2026: Aprobar las modificaciones del reglamento interno de créditos y encargar\nsu difusión a todas las agencias.\nResponsable: Asesoría Legal. Plazo: dentro de un plazo de noventa (90) días calendario.\nAprobado por unanimidad de los miembros presentes.\n6. INFORME DE AUDITORÍA INTERNA\nLa Jefatura de Auditoría Interna presentó el informe del trimestre, que contiene 6 observaciones, de las cuales\ndos fueron calificadas de riesgo alto.\nLa Gerencia General se comprometió a presentar los planes de acción por cada observación.\nMaría Martínez Márquez consultó sobre el impacto de la medida en los indicadores de solvencia, y la gerencia\nprecisó que se mantendrían dentro de los límites aprobados. Inés Pérez Cáceres pidió que los responsables\nremitan un informe escrito con el detalle de las acciones adoptadas.\nJoaquín Gálvez Bermúdez manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello\nen el acta. La Presidencia agradeció los aportes de los miembros y sometió el asunto a votación.\nJoaquín Huamán Zúñiga observó que los plazos propuestos deben guardar coherencia con el calendario\nCooperativa de Ahorro y Crédito Los Andes del Sur DEMO\nRUC 20991871943\nACTA N.º 06-2026 · SESIÓN EXTRAORDINARIA DE DIRECTORIO\nCooperativa de Ahorro y Crédito Los Andes del Sur DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 4 de 5\ninstitucional, y la gerencia tomó nota. La Presidencia agradeció los aportes de los miembros y sometió el\nasunto a votación.\nJoaquín Huamán Zúñiga observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. Luego de un breve debate, los miembros presentes coincidieron en que\nla medida resulta razonable y oportuna.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Joaquín Huamán Zúñiga\nmanifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello en el acta.\nACUERDO N.º 08-2026: Disponer el levantamiento de las observaciones de riesgo alto del informe\nde auditoría interna y el reporte mensual de avances.\nResponsable: Auditoría Interna. Plazo: dentro de un plazo de diez (10) días calendario.\nAprobado por mayoría, con 5 votos a favor y 1 en contra.\n7. ATENCIÓN DEL OFICIO DE LA INTENDENCIA DEMO\nSe dio lectura al oficio recibido de la Intendencia DEMO de Supervisión Financiera, que requiere información\nsobre la cartera de créditos vigente.\nLa asesoría legal confirmó que el plazo de respuesta vence en los próximos días hábiles.\nJoaquín Gálvez Bermúdez observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. Luego de un breve debate, los miembros presentes coincidieron en que\nla medida resulta razonable y oportuna.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. Inés Pérez Cáceres sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada.\nLuego de un breve debate, los miembros presentes coincidieron en que la medida resulta razonable y\noportuna. Óscar Martínez Zúñiga manifestó su conformidad con lo expuesto y solicitó que se deje constancia\nde ello en el acta.\nJoaquín Huamán Zúñiga sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. Óscar Martínez Zúñiga sugirió que el seguimiento se reporte en la próxima sesión, propuesta que\nfue aceptada.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. Luego de un breve\ndebate, los miembros presentes coincidieron en que la medida resulta razonable y oportuna.\nACUERDO N.º 09-2026: Autorizar a la Gerencia General a remitir la información requerida por la\nIntendencia DEMO dentro del plazo señalado en el oficio.\nResponsable: Gerencia General. Plazo: hasta el 30 de mayo de 2026.\nAprobado por mayoría, con 5 votos a favor y 1 en contra.\n8. PRESUPUESTO Y PLAN OPERATIVO\nSe expuso el proyecto de presupuesto del segundo semestre, con gastos operativos estimados en S/\n34,100,000.00 y una meta de colocaciones de S/ 4,000,000.00.\nLa Gerencia de Planeamiento sustentó los supuestos de crecimiento y los riesgos asociados al cumplimiento\nde metas.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. La Presidencia\nagradeció los aportes de los miembros y sometió el asunto a votación.\nLa Presidencia agradeció los aportes de los miembros y sometió el asunto a votación. María Martínez Márquez\nobservó que los plazos propuestos deben guardar coherencia con el calendario institucional, y la gerencia tomó\nCooperativa de Ahorro y Crédito Los Andes del Sur DEMO\nRUC 20991871943\nACTA N.º 06-2026 · SESIÓN EXTRAORDINARIA DE DIRECTORIO\nCooperativa de Ahorro y Crédito Los Andes del Sur DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)\nPágina 5 de 5\nnota.\nJoaquín Gálvez Bermúdez manifestó su conformidad con lo expuesto y solicitó que se deje constancia de ello\nen el acta. María Martínez Márquez consultó sobre el impacto de la medida en los indicadores de solvencia, y\nla gerencia precisó que se mantendrían dentro de los límites aprobados.\nÓscar Martínez Zúñiga observó que los plazos propuestos deben guardar coherencia con el calendario\ninstitucional, y la gerencia tomó nota. Joaquín Huamán Zúñiga manifestó su conformidad con lo expuesto y\nsolicitó que se deje constancia de ello en el acta.\nJoaquín Huamán Zúñiga sugirió que el seguimiento se reporte en la próxima sesión, propuesta que fue\naceptada. Inés Pérez Cáceres consultó sobre el impacto de la medida en los indicadores de solvencia, y la\ngerencia precisó que se mantendrían dentro de los límites aprobados.\nACUERDO N.º 10-2026: Aprobar el presupuesto y el plan operativo del segundo semestre de 2026.\nResponsable: Gerencia de Planeamiento. Plazo: dentro de un plazo de cuarenta y cinco (45) días\ncalendario.\nAprobado por unanimidad de los miembros presentes.\n9. REVISIÓN DE ACUERDOS ADOPTADOS\nA pedido de Mónica Ibáñez Sánchez se revisó lo resuelto en esta misma sesión. La gerencia informó que el\nasunto del ACUERDO N.º 04-2026 ya fue atendido por otra vía, por lo que no resulta necesario mantenerlo.\nACUERDO N.º 11-2026: Dejar sin efecto el ACUERDO N.º 04-2026, adoptado en esta misma sesión.\nResponsable: Secretaría General. Plazo: de cumplimiento inmediato.\nAprobado por unanimidad de los miembros presentes.\nIV. CIERRE\nNo habiendo otros asuntos que tratar, siendo las 12:15 horas se levantó la sesión, firmando los presentes en\nseñal de conformidad.\nJoaquín Gálvez Bermúdez\nPresidente del Directorio\nMónica Ibáñez Sánchez\nSecretaria",
+ "degradacion": {
+  "rotacion": 3.76,
+  "ruido": "gaussiano",
+  "ruido_sigma": 3.0,
+  "desenfoque_sigma": 1.0,
+  "sombra": "sup",
+  "perspectiva": false,
+  "jpeg_calidad": 45,
+  "dpi": 90,
+  "paginas": 5,
+  "perfil": "baja_resolucion"
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "con_deroga",
+ "origen": "corpus_practica",
+ "trampas": [
+  "tildes_en_nombres",
+  "pie_de_pagina_repetido",
+  "tabla_de_asistencia",
+  "acuerdo_deroga"
+ ],
+ "campos_ausentes": [],
+ "elementos_repetidos": {
+  "encabezado": "ACTA N.º 06-2026 · SESIÓN EXTRAORDINARIA DE DIRECTORIO",
+  "pie": "Cooperativa de Ahorro y Crédito Los Andes del Sur DEMO — Libro de Actas — Documento ficticio de práctica (DEMO)"
+ }
+}

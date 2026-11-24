@@ -1,0 +1,70 @@
+{
+ "doc_id": "REC-0008",
+ "tipo": "reclamo",
+ "formato": "eml",
+ "campos": {
+  "numero_reclamo": "R-2026-041408",
+  "fecha": "2026-04-26",
+  "nombre": "Sofia Huaman Ledesma",
+  "dni": "99580882",
+  "entidad": "Financiera Pampa Azul DEMO S.A.",
+  "producto": "prestamo personal",
+  "motivo": "cuenta cerrada",
+  "monto_reclamado": 2146.0,
+  "telefono": "999 000 025",
+  "correo": "sofia.huaman51@ejemplo.pe",
+  "monto_en_texto": false,
+  "canal": "correo",
+  "adjunto": {
+   "nombre": "adjunto_REC-0008.pdf",
+   "tipo": "pdf"
+  }
+ },
+ "tablas": [
+  {
+   "nombre": "movimientos_adjunto",
+   "encabezados": [
+    "Fecha",
+    "Descripcion",
+    "Importe"
+   ],
+   "filas": [
+    [
+     "25/04/2026",
+     "Retiro cajero",
+     "172.00"
+    ],
+    [
+     "22/04/2026",
+     "Retiro cajero",
+     "152.00"
+    ],
+    [
+     "26/04/2026",
+     "Cargo reclamado (cuenta cerrada)",
+     "2,146.00"
+    ],
+    [
+     "19/04/2026",
+     "Pago servicio",
+     "222.00"
+    ],
+    [
+     "16/04/2026",
+     "Compra comercio DEMO",
+     "161.00"
+    ]
+   ],
+   "celdas_combinadas": []
+  }
+ ],
+ "regiones": [],
+ "texto_completo": "Buenas, soy Sofia Huaman Ledesma, DNI 99580882. En Financiera Pampa Azul DEMO S.A. cerraron mi cuenta sin avisarme y no me devuelven mi saldo. Fueron S/ 2,146.00 en mi prestamo personal. Ya fui a la agencia y nada, xfa ayuda. Mi cel es 999 000 025.\nFinanciera Pampa Azul DEMO S.A.\nEstado de cuenta - prestamo personal\nCliente: Sofia Huaman Ledesma   DNI 99580882\nFecha\nDescripcion\nImporte\n25/04/2026\nRetiro cajero\n172.00\n22/04/2026\nRetiro cajero\n152.00\n26/04/2026\nCargo reclamado (cuenta cerrada)\n2,146.00\n19/04/2026\nPago servicio\n222.00\n16/04/2026\nCompra comercio DEMO\n161.00",
+ "degradacion": {
+  "rotacion": 0,
+  "dpi": null,
+  "ruido": "ninguno"
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

@@ -1,0 +1,40 @@
+{
+ "id": "REC-0053",
+ "modelo": "Davlan/xlm-roberta-base-ner-hrl",
+ "revision": null,
+ "version_transformers": "5.22.1",
+ "version_torch": "2.15.0+cu132",
+ "dispositivo": "cuda (NVIDIA GeForce RTX 5070)",
+ "agregacion": "simple",
+ "texto": "remitente + cuerpo del correo + texto del OCR del adjunto (ocr_s04)",
+ "entidades": [
+  {
+   "texto": "Banco del Sur Austral DEMO S.A.",
+   "etiqueta": "ORG",
+   "score": 0.9986,
+   "inicio": 39,
+   "fin": 70
+  },
+  {
+   "texto": "Rosa Nunez Escobar",
+   "etiqueta": "PER",
+   "score": 0.9997,
+   "inicio": 230,
+   "fin": 248
+  },
+  {
+   "texto": "Banco del Sur Austral DEMO S.A",
+   "etiqueta": "ORG",
+   "score": 0.9988,
+   "inicio": 283,
+   "fin": 313
+  },
+  {
+   "texto": "Rosa Nunez Escobar",
+   "etiqueta": "PER",
+   "score": 0.9997,
+   "inicio": 362,
+   "fin": 380
+  }
+ ]
+}

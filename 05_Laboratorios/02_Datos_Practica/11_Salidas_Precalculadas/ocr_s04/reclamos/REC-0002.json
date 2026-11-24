@@ -1,0 +1,17 @@
+{
+ "id": "REC-0002",
+ "archivo": "adjunto_REC-0002.pdf",
+ "ruta": "06_Reclamos/REC-0002.eml#adjunto_REC-0002.pdf",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "crudo",
+ "psm": 3,
+ "inclinacion": 0.0,
+ "texto": "Banco Cordillera DEMO S.A.\nEstado de cuenta - cuenta de ahorros\nCliente: Pedro Salazar Montoya DNI 99703460\nFecha Descripcion Importe\n15/07/2026 Interes 12.00\n12/07/2026 Retiro cajero 85.00\n09/07/2026 Interes 100.00\n16/07/2026 Cargo reclamado (cobro indebido) 806.00\n06/07/2026 Retiro cajero 86.00",
+ "confianza": 0.9533,
+ "score": 0.977,
+ "invalidos": 0,
+ "decision": "aceptar",
+ "segundos": 0.27,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

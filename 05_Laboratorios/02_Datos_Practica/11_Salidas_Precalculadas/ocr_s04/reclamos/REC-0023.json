@@ -1,0 +1,17 @@
+{
+ "id": "REC-0023",
+ "archivo": "adjunto_REC-0023.pdf",
+ "ruta": "06_Reclamos/REC-0023.eml#adjunto_REC-0023.pdf",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "crudo",
+ "psm": 3,
+ "inclinacion": 0.0,
+ "texto": "Edpyme Sol Naciente DEMO S.A.\nEstado de cuenta - prestamo personal\nCliente: Paola Fuentes Ccori\nDNI 99676904\nFecha Descripcion Importe\n28/06/2026 Interes 80.00\n25/06/2026 Pago servicio 189.00\n22/06/2026 Interes 48.00\n29/06/2026 Cargo reclamado (demora en entrega) 104.00\n19/06/2026 Interes 59.00",
+ "confianza": 0.9547,
+ "score": 0.977,
+ "invalidos": 0,
+ "decision": "aceptar",
+ "segundos": 0.29,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

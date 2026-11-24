@@ -1,0 +1,62 @@
+{
+ "doc_id": "OFI-0032",
+ "tipo": "oficio",
+ "formato": "pdf_escaneado",
+ "campos": {
+  "numero_oficio": "0931-2026-ID/DSF",
+  "fecha": "2026-06-21",
+  "entidad": "Banco Andino DEMO S.A.",
+  "ruc": "20996256821",
+  "asunto": "Requerimiento de informacion sobre polizas colectivas emitidas en el semestre",
+  "referencia": "Carta N° 114-2026 de Banco Andino DEMO S.A.",
+  "plazo_dias": 7,
+  "emisor": "Intendencia DEMO de Supervision Financiera",
+  "firmante": "Gladys Ramos Ledesma",
+  "cargo": "Intendente DEMO"
+ },
+ "tablas": [],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    193,
+    1082,
+    546,
+    1208
+   ],
+   "unidad": "px",
+   "dpi": 200,
+   "ancho_px": 1654,
+   "alto_px": 2339
+  },
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    467,
+    940,
+    738,
+    1211
+   ],
+   "unidad": "px",
+   "dpi": 200,
+   "ancho_px": 1654,
+   "alto_px": 2339
+  }
+ ],
+ "texto_completo": "AUTORIDAD SUPERVISORA DEMO\nIntendencia DEMO de Supervision Financiera\nDocumento ficticio con fines de capacitacion\nOFICIO N° 0931-2026-ID/DSF\nLima, 21 de junio de 2026\nSenores\nBanco Andino DEMO S.A.\nRUC 20996256821\nPresente.-\nAsunto:\nRequerimiento de informacion sobre polizas colectivas emitidas en el semestre\nReferencia:\nCarta N° 114-2026 de Banco Andino DEMO S.A.\nMediante el presente se requiere a su representada remitir la informacion detallada a continuacion, en el\nmarco de las labores de supervision del periodo en curso.\nLa informacion debera ser presentada en un plazo de siete (7) dias habiles contados desde la recepcion\ndel presente oficio, en formato digital y firmada por el responsable. El incumplimiento sera evaluado\nconforme a los procedimientos internos aplicables.\nAtentamente,\nGladys Ramos Ledesma\nIntendente DEMO",
+ "degradacion": {
+  "rotacion": -3.41,
+  "ruido": "sal_pimienta",
+  "ruido_sigma": 13.8,
+  "desenfoque_sigma": 0.6,
+  "sombra": "der",
+  "perspectiva": false,
+  "jpeg_calidad": 80,
+  "dpi": 200,
+  "paginas": 1
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

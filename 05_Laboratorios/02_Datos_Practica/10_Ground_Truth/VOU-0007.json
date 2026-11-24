@@ -1,0 +1,56 @@
+{
+ "doc_id": "VOU-0007",
+ "tipo": "voucher",
+ "formato": "imagen_jpg",
+ "campos": {
+  "entidad": "Banco del Sur Austral DEMO S.A.",
+  "numero_operacion": "21163859",
+  "fecha": "2026-04-26",
+  "hora": "16:01",
+  "monto": 7256,
+  "moneda": "PEN",
+  "cuenta_destino": "999-1744153535",
+  "titular": "Fernando Soto Medina",
+  "depositante": "Elena Ponce Zevallos",
+  "dni_depositante": "99738572"
+ },
+ "tablas": [],
+ "regiones": [
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    89,
+    340,
+    167,
+    420
+   ],
+   "unidad": "px",
+   "ancho_px": 360,
+   "alto_px": 560
+  },
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    172,
+    363,
+    267,
+    401
+   ],
+   "unidad": "px",
+   "ancho_px": 360,
+   "alto_px": 560
+  }
+ ],
+ "texto_completo": "Banco del Sur Austral DEMO S.A.\nCONSTANCIA DE DEPOSITO\nOperacion:\n21163859\nFecha:\n26/04/2026\nHora:\n16:01\nCuenta:\n999-1744153535\nTitular:\nFernando Soto Medina\nDepositante:\nElena Ponce Zevallos\nDNI:\n99738572\nMONTO S/ 7,256.00",
+ "degradacion": {
+  "rotacion": 5.35,
+  "dpi": 75,
+  "ruido": "gaussiano",
+  "perspectiva": true,
+  "sombra": "sup",
+  "escala": 0.5
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)"
+}

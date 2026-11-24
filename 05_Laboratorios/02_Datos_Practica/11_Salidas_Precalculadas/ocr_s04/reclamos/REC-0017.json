@@ -1,0 +1,17 @@
+{
+ "id": "REC-0017",
+ "archivo": "adjunto_REC-0017.pdf",
+ "ruta": "06_Reclamos/REC-0017.eml#adjunto_REC-0017.pdf",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "crudo",
+ "psm": 3,
+ "inclinacion": 0.0,
+ "texto": "Caja Rural Valle Verde DEMO S.A.\nEstado de cuenta - prestamo personal\nCliente: Lucia Salazar Flores DNI 99496703\nFecha Descripcion Importe\n19/05/2026 Cargo reclamado (cargo duplicado) 1,961.00\n18/05/2026 Pago servicio 278.00\n15/05/2026 Pago servicio 234.00\n12/05/2026 Retiro cajero 144.00\n09/05/2026 Retiro cajero 113.00",
+ "confianza": 0.9558,
+ "score": 0.978,
+ "invalidos": 0,
+ "decision": "aceptar",
+ "segundos": 0.29,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

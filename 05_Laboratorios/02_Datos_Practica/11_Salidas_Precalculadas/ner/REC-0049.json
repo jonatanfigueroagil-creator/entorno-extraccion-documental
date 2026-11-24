@@ -1,0 +1,40 @@
+{
+ "id": "REC-0049",
+ "modelo": "Davlan/xlm-roberta-base-ner-hrl",
+ "revision": null,
+ "version_transformers": "5.22.1",
+ "version_torch": "2.15.0+cu132",
+ "dispositivo": "cuda (NVIDIA GeForce RTX 5070)",
+ "agregacion": "simple",
+ "texto": "remitente + cuerpo del correo + texto del OCR del adjunto (ocr_s04)",
+ "entidades": [
+  {
+   "texto": "Pedro Ledesma Sandoval",
+   "etiqueta": "PER",
+   "score": 0.9998,
+   "inicio": 43,
+   "fin": 65
+  },
+  {
+   "texto": "Edpyme Sol Naciente DEMO S.A.",
+   "etiqueta": "ORG",
+   "score": 0.9979,
+   "inicio": 84,
+   "fin": 113
+  },
+  {
+   "texto": "Edpyme Sol Naciente DEMO S.A.",
+   "etiqueta": "ORG",
+   "score": 0.9978,
+   "inicio": 266,
+   "fin": 295
+  },
+  {
+   "texto": "Pedro Ledesma Sandoval",
+   "etiqueta": "PER",
+   "score": 0.9998,
+   "inicio": 338,
+   "fin": 360
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "id": "REC-0035",
+ "archivo": "adjunto_REC-0035.jpg",
+ "ruta": "06_Reclamos/REC-0035.eml#adjunto_REC-0035.jpg",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "crudo",
+ "psm": 3,
+ "inclinacion": 0.0,
+ "texto": "Financiera Pampa Azul DEMO S.A.\nEstado de cuenta - prestamo personal\nCliente: Alvaro Benavides Quispe DNI 99165630\nFecha Descripcion Importe\n02/03/2026 Cargo reclamado (cuenta cerrada) 585.00\n01/03/2026 Retiro cajero 205.00\n26/02/2026 Pago servicio 185.00\n| 23/02/2026 Retiro cajero 191.00\n20/02/2026 Retiro cajero 21 1.00]",
+ "confianza": 0.8977,
+ "score": 0.949,
+ "invalidos": 0,
+ "decision": "aceptar",
+ "segundos": 0.2,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

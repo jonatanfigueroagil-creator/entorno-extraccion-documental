@@ -1,0 +1,219 @@
+{
+ "doc_id": "EFI-0001",
+ "tipo": "estado_financiero",
+ "formato": "pdf_nativo",
+ "campos": {
+  "entidad": "Banco Costa Norte DEMO S.A.",
+  "ruc": "20991892070",
+  "periodo": "2026-12-31",
+  "moneda": "PEN",
+  "unidad": "soles",
+  "total_activo": 39317,
+  "total_pasivo": 32880,
+  "total_patrimonio": 6437,
+  "utilidad_neta": 2597,
+  "cuadra": true
+ },
+ "tablas": [
+  {
+   "nombre": "balance_general",
+   "encabezados": [
+    "Concepto",
+    "2026",
+    "2025"
+   ],
+   "filas": [
+    [
+     "ACTIVO",
+     "",
+     ""
+    ],
+    [
+     "Disponible",
+     "9,042",
+     "4,996"
+    ],
+    [
+     "Inversiones",
+     "5,111",
+     "1,249"
+    ],
+    [
+     "Cartera de creditos neta",
+     "1,965",
+     "2,498"
+    ],
+    [
+     "Cuentas por cobrar",
+     "393",
+     "6,662"
+    ],
+    [
+     "Inmuebles, mobiliario y equipo",
+     "3,145",
+     "3,747"
+    ],
+    [
+     "Otros activos",
+     "19,661",
+     "22,486"
+    ],
+    [
+     "Total activo",
+     "39,317",
+     "41,638"
+    ],
+    [
+     "PASIVO",
+     "",
+     ""
+    ],
+    [
+     "Obligaciones con el publico",
+     "9,720",
+     "8,280"
+    ],
+    [
+     "Adeudos y obligaciones financieras",
+     "10,080",
+     "9,840"
+    ],
+    [
+     "Cuentas por pagar",
+     "6,360",
+     "7,680"
+    ],
+    [
+     "Otros pasivos",
+     "6,720",
+     "10,440"
+    ],
+    [
+     "Total pasivo",
+     "32,880",
+     "36,240"
+    ],
+    [
+     "PATRIMONIO",
+     "",
+     ""
+    ],
+    [
+     "Capital social",
+     "2,400",
+     "1,800"
+    ],
+    [
+     "Reservas",
+     "840",
+     "480"
+    ],
+    [
+     "Resultados acumulados",
+     "600",
+     "240"
+    ],
+    [
+     "Resultado del ejercicio",
+     "2,597",
+     "2,878"
+    ],
+    [
+     "Total patrimonio",
+     "6,437",
+     "5,398"
+    ],
+    [
+     "Total pasivo y patrimonio",
+     "39,317",
+     "41,638"
+    ]
+   ],
+   "celdas_combinadas": [],
+   "estilo": "sin_bordes"
+  },
+  {
+   "nombre": "estado_ganancias_perdidas",
+   "encabezados": [
+    "Concepto",
+    "2026",
+    "2025"
+   ],
+   "filas": [
+    [
+     "Ingresos por intereses",
+     "9,720",
+     "13,800"
+    ],
+    [
+     "Gastos por intereses",
+     "2,846",
+     "4,717"
+    ],
+    [
+     "Margen financiero bruto",
+     "6,874",
+     "9,083"
+    ],
+    [
+     "Provisiones",
+     "920",
+     "1,573"
+    ],
+    [
+     "Margen financiero neto",
+     "5,954",
+     "7,510"
+    ],
+    [
+     "Ingresos por servicios",
+     "1,357",
+     "963"
+    ],
+    [
+     "Gastos de administracion",
+     "3,628",
+     "4,391"
+    ],
+    [
+     "Utilidad operativa",
+     "3,683",
+     "4,082"
+    ],
+    [
+     "Impuesto a la renta",
+     "1,086",
+     "1,204"
+    ],
+    [
+     "Utilidad neta",
+     "2,597",
+     "2,878"
+    ]
+   ],
+   "celdas_combinadas": [],
+   "estilo": "sin_bordes"
+  }
+ ],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 2,
+   "bbox": [
+    43.6,
+    347.1,
+    171.7,
+    386.0
+   ],
+   "unidad": "pt"
+  }
+ ],
+ "texto_completo": "Banco Costa Norte DEMO S.A.\nRUC 20991892070\nESTADO DE SITUACION FINANCIERA (BALANCE GENERAL)\nAl 31 de diciembre de 2026 (en soles)\nConcepto\n2026\n2025\nACTIVO\nDisponible\n9,042\n4,996\nInversiones\n5,111\n1,249\nCartera de creditos neta\n1,965\n2,498\nCuentas por cobrar\n393\n6,662\nInmuebles, mobiliario y equipo\n3,145\n3,747\nOtros activos\n19,661\n22,486\nTotal activo\n39,317\n41,638\nPASIVO\nObligaciones con el publico\n9,720\n8,280\nAdeudos y obligaciones financieras\n10,080\n9,840\nCuentas por pagar\n6,360\n7,680\nOtros pasivos\n6,720\n10,440\nTotal pasivo\n32,880\n36,240\nPATRIMONIO\nCapital social\n2,400\n1,800\nReservas\n840\n480\nResultados acumulados\n600\n240\nResultado del ejercicio\n2,597\n2,878\nTotal patrimonio\n6,437\n5,398\nTotal pasivo y patrimonio\n39,317\n41,638\nBanco Costa Norte DEMO S.A.\nRUC 20991892070\nESTADO DE GANANCIAS Y PERDIDAS\nAl 31 de diciembre de 2026 (en soles)\nConcepto\n2026\n2025\nIngresos por intereses\n9,720\n13,800\nGastos por intereses\n2,846\n4,717\nMargen financiero bruto\n6,874\n9,083\nProvisiones\n920\n1,573\nMargen financiero neto\n5,954\n7,510\nIngresos por servicios\n1,357\n963\nGastos de administracion\n3,628\n4,391\nUtilidad operativa\n3,683\n4,082\nImpuesto a la renta\n1,086\n1,204\nUtilidad neta\n2,597\n2,878\nRepresentante legal: Julia Soto Benavides",
+ "degradacion": {
+  "rotacion": 0,
+  "dpi": null,
+  "ruido": "ninguno"
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

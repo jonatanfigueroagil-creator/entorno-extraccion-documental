@@ -1,0 +1,40 @@
+{
+ "id": "REC-0056",
+ "modelo": "Davlan/xlm-roberta-base-ner-hrl",
+ "revision": null,
+ "version_transformers": "5.22.1",
+ "version_torch": "2.15.0+cu132",
+ "dispositivo": "cuda (NVIDIA GeForce RTX 5070)",
+ "agregacion": "simple",
+ "texto": "remitente + cuerpo del correo + texto del OCR del adjunto (ocr_s04)",
+ "entidades": [
+  {
+   "texto": "Banco Costa Norte DEMO S.A.",
+   "etiqueta": "ORG",
+   "score": 0.9988,
+   "inicio": 44,
+   "fin": 71
+  },
+  {
+   "texto": "Carlos Castillo Ccori",
+   "etiqueta": "PER",
+   "score": 0.9996,
+   "inicio": 231,
+   "fin": 252
+  },
+  {
+   "texto": "Banco Costa Norte DEMO S.A.",
+   "etiqueta": "ORG",
+   "score": 0.9967,
+   "inicio": 287,
+   "fin": 314
+  },
+  {
+   "texto": "Carlos Castillo Ccori",
+   "etiqueta": "PER",
+   "score": 0.9997,
+   "inicio": 361,
+   "fin": 382
+  }
+ ]
+}

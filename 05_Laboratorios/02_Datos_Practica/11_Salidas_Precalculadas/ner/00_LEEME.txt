@@ -1,0 +1,12 @@
+Carpeta ner: salidas calculadas de antemano del reconocimiento de entidades con Transformers (S04), un archivo por reclamo.
+
+Modelo: Davlan/xlm-roberta-base-ner-hrl con aggregation_strategy simple (etiquetas PER, ORG, LOC y DATE).
+Versiones: transformers 5.22.1, torch 2.15.0 (cu132), Python 3.12. Dispositivo: GPU NVIDIA GeForce RTX 5070 de 12 GB (no es la T4 de la VM).
+Texto de entrada: remitente, cuerpo del correo y texto del OCR del adjunto (carpeta ocr_s04/reclamos).
+Cada archivo trae: id, modelo, revisión, versiones, dispositivo, entidades (texto, etiqueta, score, inicio y fin en caracteres).
+
+Uso: ner_transformers(texto, precalculado=<este archivo>) lee estas salidas cuando la máquina no tiene GPU.
+Tiempo de referencia: 60 textos en 1,3 s en GPU y unos 9 s en CPU de 24 hilos (de 8 a 11 s según la corrida), sin contar la carga del modelo (de 1,5 a 6 s; en el cuaderno la primera llamada la incluye).
+Resultado frente a las respuestas correctas: F1 del nombre 1,00 y de la entidad 0,93 tras unir los fragmentos de palabra.
+Los tiempos se remiden en la VM (T4, 4 vCPU).
+Generado con una corrida real en la máquina del docente.

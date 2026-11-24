@@ -1,0 +1,17 @@
+{
+ "id": "REC-0060",
+ "archivo": "adjunto_REC-0060.jpg",
+ "ruta": "06_Reclamos/REC-0060.eml#adjunto_REC-0060.jpg",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "crudo",
+ "psm": 3,
+ "inclinacion": 0.0,
+ "texto": "Financiera Altiplano. DEMO S.A.\nEstado de cuenta - cuenta sueldo\nCliente: Milagros Peralta Peralta DNI 99328736\nFecha Descripcion importe\n31/08/2026 Cargo reclamado (demora en entrega) 1,555.00\n30/08/2026 Retiro cajero y 20.00\n27/08/2026 Compra comercio DEMO] 135.00\n24/08/2026 interes 125,00\n21/08/2026 Interes 288.00",
+ "confianza": 0.8019,
+ "score": 0.851,
+ "invalidos": 1,
+ "decision": "revisar",
+ "segundos": 0.19,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

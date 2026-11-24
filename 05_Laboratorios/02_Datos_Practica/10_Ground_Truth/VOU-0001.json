@@ -1,0 +1,56 @@
+{
+ "doc_id": "VOU-0001",
+ "tipo": "voucher",
+ "formato": "imagen_jpg",
+ "campos": {
+  "entidad": "Banco Costa Norte DEMO S.A.",
+  "numero_operacion": "35830690",
+  "fecha": "2026-06-23",
+  "hora": "13:10",
+  "monto": 16798,
+  "moneda": "PEN",
+  "cuenta_destino": "999-6919903748",
+  "titular": "Paola Benavides Soto",
+  "depositante": "Miguel Fuentes Vargas",
+  "dni_depositante": "99924030"
+ },
+ "tablas": [],
+ "regiones": [
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    74,
+    300,
+    152,
+    379
+   ],
+   "unidad": "px",
+   "ancho_px": 345,
+   "alto_px": 537
+  },
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    157,
+    329,
+    260,
+    374
+   ],
+   "unidad": "px",
+   "ancho_px": 345,
+   "alto_px": 537
+  }
+ ],
+ "texto_completo": "Banco Costa Norte DEMO S.A.\nCONSTANCIA DE DEPOSITO\nOperacion:\n35830690\nFecha:\n23/06/2026\nHora:\n13:10\nCuenta:\n999-6919903748\nTitular:\nPaola Benavides Soto\nDepositante:\nMiguel Fuentes Vargas\nDNI:\n99924030\nMONTO S/ 16,798.00",
+ "degradacion": {
+  "rotacion": -7.62,
+  "dpi": 72,
+  "ruido": "gaussiano",
+  "perspectiva": true,
+  "sombra": "der",
+  "escala": 0.6
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)"
+}

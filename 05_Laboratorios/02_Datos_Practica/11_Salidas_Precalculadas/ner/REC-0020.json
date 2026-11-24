@@ -1,0 +1,33 @@
+{
+ "id": "REC-0020",
+ "modelo": "Davlan/xlm-roberta-base-ner-hrl",
+ "revision": null,
+ "version_transformers": "5.22.1",
+ "version_torch": "2.15.0+cu132",
+ "dispositivo": "cuda (NVIDIA GeForce RTX 5070)",
+ "agregacion": "simple",
+ "texto": "remitente + cuerpo del correo + texto del OCR del adjunto (ocr_s04)",
+ "entidades": [
+  {
+   "texto": "Andres Palacios Lazo",
+   "etiqueta": "PER",
+   "score": 0.9998,
+   "inicio": 44,
+   "fin": 64
+  },
+  {
+   "texto": "Caja Rural Valle Verde DEMO S.A.",
+   "etiqueta": "ORG",
+   "score": 0.9857,
+   "inicio": 235,
+   "fin": 267
+  },
+  {
+   "texto": "Andres Palacios Lazo",
+   "etiqueta": "PER",
+   "score": 0.9997,
+   "inicio": 314,
+   "fin": 334
+  }
+ ]
+}

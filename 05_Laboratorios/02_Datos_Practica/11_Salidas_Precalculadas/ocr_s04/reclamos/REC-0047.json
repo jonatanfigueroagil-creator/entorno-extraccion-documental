@@ -1,0 +1,17 @@
+{
+ "id": "REC-0047",
+ "archivo": "adjunto_REC-0047.jpg",
+ "ruta": "06_Reclamos/REC-0047.eml#adjunto_REC-0047.jpg",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "crudo",
+ "psm": 3,
+ "inclinacion": 0.0,
+ "texto": "Caja Rural Valle Verde DEMO S.A.\nEstado de cuenta - cuenta sueldo\nCliente: Mario Mendoza Quispe DNI 993791 31\nFecha Descripcion Importe\n==]\n26/02/2026 Pago servicio 33.00\n27/02/2026 Cargo reclamado (demora en entrega) 801.00 |\n23/02/2026 Pago servicio 167.00\n20/02/2026 Pago servicio 131.00\n—\n17/02/2026 Retiro cajero 14.00",
+ "confianza": 0.8692,
+ "score": 0.935,
+ "invalidos": 0,
+ "decision": "aceptar",
+ "segundos": 0.2,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

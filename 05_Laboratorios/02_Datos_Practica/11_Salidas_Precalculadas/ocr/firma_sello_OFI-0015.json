@@ -1,0 +1,31 @@
+{
+ "doc_id": "OFI-0015",
+ "motor": "OpenCV (HSV + componentes conectados)",
+ "version_opencv": "4.10.0",
+ "dpi": 300,
+ "ancho_px": 2481,
+ "alto_px": 3508,
+ "segundos": 0.12,
+ "regiones": [
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    688,
+    1748,
+    1080,
+    2141
+   ]
+  },
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    270,
+    2099,
+    768,
+    2108
+   ]
+  }
+ ]
+}

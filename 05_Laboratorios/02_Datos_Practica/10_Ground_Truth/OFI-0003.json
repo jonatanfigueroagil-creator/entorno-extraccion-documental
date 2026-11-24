@@ -1,0 +1,88 @@
+{
+ "doc_id": "OFI-0003",
+ "tipo": "oficio",
+ "formato": "pdf_escaneado",
+ "campos": {
+  "numero_oficio": "0522-2026-ID/DCM",
+  "fecha": "2026-02-03",
+  "entidad": "Banco Cordillera DEMO S.A.",
+  "ruc": "20997531206",
+  "asunto": "Requerimiento de informacion sobre polizas colectivas emitidas en el semestre",
+  "referencia": "Carta N° 215-2026 de Banco Cordillera DEMO S.A.",
+  "plazo_dias": 10,
+  "emisor": "Intendencia DEMO de Riesgos Operacionales",
+  "firmante": "Veronica Chavez Guerra",
+  "cargo": "Intendente DEMO"
+ },
+ "tablas": [
+  {
+   "nombre": "informacion_solicitada",
+   "encabezados": [
+    "N°",
+    "Informacion solicitada"
+   ],
+   "filas": [
+    [
+     "1",
+     "Relacion de operaciones vigentes con saldo y estado"
+    ],
+    [
+     "2",
+     "Estados financieros al cierre del periodo"
+    ],
+    [
+     "3",
+     "Detalle de comisiones cobradas"
+    ],
+    [
+     "4",
+     "Reporte de tasas aplicadas por producto"
+    ]
+   ]
+  }
+ ],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    124,
+    1004,
+    393,
+    1102
+   ],
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  },
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    336,
+    901,
+    541,
+    1106
+   ],
+   "unidad": "px",
+   "dpi": 150,
+   "ancho_px": 1241,
+   "alto_px": 1754
+  }
+ ],
+ "texto_completo": "AUTORIDAD SUPERVISORA DEMO\nIntendencia DEMO de Riesgos Operacionales\nDocumento ficticio con fines de capacitacion\nOFICIO N° 0522-2026-ID/DCM\nLima, 3 de febrero de 2026\nSenores\nBanco Cordillera DEMO S.A.\nRUC 20997531206\nPresente.-\nAsunto:\nRequerimiento de informacion sobre polizas colectivas emitidas en el semestre\nReferencia:\nCarta N° 215-2026 de Banco Cordillera DEMO S.A.\nMediante el presente se requiere a su representada remitir la informacion detallada a continuacion, en el\nmarco de las labores de supervision del periodo en curso.\nN°\nInformacion solicitada\n1\nRelacion de operaciones vigentes con saldo y estado\n2\nEstados financieros al cierre del periodo\n3\nDetalle de comisiones cobradas\n4\nReporte de tasas aplicadas por producto\nLa informacion debera ser presentada en un plazo de diez (10) dias habiles contados desde la recepcion\ndel presente oficio, en formato digital y firmada por el responsable. El incumplimiento sera evaluado\nconforme a los procedimientos internos aplicables.\nAtentamente,\nVeronica Chavez Guerra\nIntendente DEMO",
+ "degradacion": {
+  "rotacion": -4.14,
+  "ruido": "gaussiano",
+  "ruido_sigma": 7.6,
+  "desenfoque_sigma": 0.0,
+  "sombra": "der",
+  "perspectiva": false,
+  "jpeg_calidad": 70,
+  "dpi": 150,
+  "paginas": 1
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

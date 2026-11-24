@@ -1,0 +1,20 @@
+Carpeta ocr_s04: texto que leyó el OCR de S03 sobre los documentos que S04 recibe (ejecuciones reales; nada se inventa).
+
+Cada archivo .json trae: id, archivo, ruta del documento de origen, motor y versión (Tesseract 5.5.3), receta de limpieza,
+segmentación (psm), inclinación, texto, confianza (0 a 1), score (puntaje de S03), decisión (aceptar, revisar o rechazar), segundos y equipo.
+
+1) reclamos/  (60 archivos: REC-0001.json a REC-0060.json)
+   Texto del adjunto de cada correo de reclamo: estado de cuenta con la fila del cargo reclamado (29 imágenes JPG y 31 PDF).
+   Ajustes: receta cruda, sin enderezar, psm 3 (página con varias zonas), 300 dpi para los PDF.
+   Con la receta mediana y psm 6 del archivo de configuración de S03 (pensada para oficios) el texto pequeño del adjunto casi no se lee:
+   el DNI aparece en 31 de 60 adjuntos, frente a 59 de 60 con los ajustes de esta carpeta.
+   Tiempo: 16 segundos los 60 adjuntos (unos 0,25 s por adjunto) en una CPU de 24 hilos, sin GPU.
+   Resultado: 56 aceptar, 4 revisar y ninguno rechazado con el puntaje de S03.
+   Observación: el número de reclamo (R-2026-NNNNNN) no figura en ningún adjunto ni en ningún cuerpo; solo consta en las respuestas correctas.
+
+2) oficios/  (7 archivos: OFI-0001, 0002, 0003, 0005, 0012, 0015 y 0016)
+   Texto de la página 1 de siete oficios escaneados, con los ajustes del archivo de configuración de S03 (receta mediana, psm 6, 300 dpi, enderezado).
+   Tiempo: de 0,9 a 1,2 s por oficio.
+
+Generado con una corrida real en la máquina del docente. El texto se compara con el correcto de 10_Ground_Truth cuando se mide el F1 por campo.
+No hay GPU para el OCR: los tiempos son de CPU y se remiden en la VM (4 vCPU).

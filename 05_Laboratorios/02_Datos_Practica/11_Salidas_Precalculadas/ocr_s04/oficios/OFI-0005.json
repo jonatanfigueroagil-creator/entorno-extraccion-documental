@@ -1,0 +1,17 @@
+{
+ "id": "OFI-0005",
+ "archivo": "OFI-0005.pdf",
+ "ruta": "02_Oficios/OFI-0005.pdf",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "mediana",
+ "psm": 6,
+ "inclinacion": 4.0,
+ "texto": "AUTORIDAD SUPERVISORA DEMO\nIntendencia DEMO de Conducta de Mercado\nDocumento ficticio con fines de capacitacion\nOFICIO N* 0796-2026-1D/DSF\nLima, 20 de setiembre de 2026\nSenores\nBanco Andino DEMO S.A.\nRUC 20996256821\nPresente.-\nAsunto: Solicitud de aclaraciones sobre el estado financiero trimestral\nReferencia: Carta N* 088-2026 de Banco Andino DEMO S.A.\nMediante el presente se requiere a su representada remitir la informacion detallada a continuacion, en el\nmarco de las labores de supervision del periodo en curso.\n[e iormacion sottada\n1 Detalle de comisiones cobradas\n2 | Relacion de operaciones vigentes con saldo y estado\nPolitica interna aprobada y su fecha de vigencia\nLa informacion debera ser presentada en un plazo de siete (7) dias habiles contados desde la recepcion\ndel presente oficio, en formato digital y firmada por el responsable. El incumplimiento sera evaluado\nconforme a los procedimientósTnternos3plicables.\nESA DE PARTE\nAtentamente, D E M O\nRECIBIDO\nPaola Vargas Flores\nIntendente DEMO",
+ "confianza": 0.912,
+ "score": 0.956,
+ "invalidos": 0,
+ "decision": "aceptar",
+ "segundos": 0.88,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

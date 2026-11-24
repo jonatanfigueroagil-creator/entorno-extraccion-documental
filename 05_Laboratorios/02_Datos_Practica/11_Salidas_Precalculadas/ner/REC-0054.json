@@ -1,0 +1,40 @@
+{
+ "id": "REC-0054",
+ "modelo": "Davlan/xlm-roberta-base-ner-hrl",
+ "revision": null,
+ "version_transformers": "5.22.1",
+ "version_torch": "2.15.0+cu132",
+ "dispositivo": "cuda (NVIDIA GeForce RTX 5070)",
+ "agregacion": "simple",
+ "texto": "remitente + cuerpo del correo + texto del OCR del adjunto (ocr_s04)",
+ "entidades": [
+  {
+   "texto": "Financiera Pampa Azul DEMO S.A.",
+   "etiqueta": "ORG",
+   "score": 0.9824,
+   "inicio": 40,
+   "fin": 71
+  },
+  {
+   "texto": "Raul Quispe Ponce",
+   "etiqueta": "PER",
+   "score": 0.9962,
+   "inicio": 233,
+   "fin": 250
+  },
+  {
+   "texto": "Financiera Pampa Azul DEMO S.A.",
+   "etiqueta": "ORG",
+   "score": 0.9754,
+   "inicio": 285,
+   "fin": 316
+  },
+  {
+   "texto": "Raul Quispe Ponce",
+   "etiqueta": "PER",
+   "score": 0.9654,
+   "inicio": 359,
+   "fin": 376
+  }
+ ]
+}

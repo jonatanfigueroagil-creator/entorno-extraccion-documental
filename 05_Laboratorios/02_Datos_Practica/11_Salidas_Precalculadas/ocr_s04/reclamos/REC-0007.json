@@ -1,0 +1,17 @@
+{
+ "id": "REC-0007",
+ "archivo": "adjunto_REC-0007.pdf",
+ "ruta": "06_Reclamos/REC-0007.eml#adjunto_REC-0007.pdf",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "crudo",
+ "psm": 3,
+ "inclinacion": 0.0,
+ "texto": "Banco del Sur Austral DEMO S.A.\nEstado de cuenta - cuenta sueldo\nCliente: Carmen Paredes Ramos DNI 99197515\nFecha Descripcion Importe\n22/03/2026 Compra comercio DEMO 295.00\n19/03/2026 Compra comercio DEMO 70.00\n16/03/2026 Interes 143.00\n23/03/2026 Cargo reclamado (demora en entrega) 1,047.00\n13/03/2026 Compra comercio DEMO 228.00",
+ "confianza": 0.9176,
+ "score": 0.959,
+ "invalidos": 0,
+ "decision": "aceptar",
+ "segundos": 0.3,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

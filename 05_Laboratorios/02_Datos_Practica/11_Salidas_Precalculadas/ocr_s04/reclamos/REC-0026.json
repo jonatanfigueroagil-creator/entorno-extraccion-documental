@@ -1,0 +1,17 @@
+{
+ "id": "REC-0026",
+ "archivo": "adjunto_REC-0026.pdf",
+ "ruta": "06_Reclamos/REC-0026.eml#adjunto_REC-0026.pdf",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "crudo",
+ "psm": 3,
+ "inclinacion": 0.0,
+ "texto": "Caja Rural Valle Verde DEMO S.A.\nEstado de cuenta - cuenta de ahorros\nCliente: Milagros Peralta Huaman DNI 99519192\nFecha Descripcion Importe\n22/09/2026 Cargo reclamado (cuenta cerrada) 138.00\n21/09/2026 Compra comercio DEMO 290.00\n18/09/2026 Compra comercio DEMO 290.00\n15/09/2026 Pago servicio 211.00\n12/09/2026 Retiro cajero 251.00",
+ "confianza": 0.9539,
+ "score": 0.977,
+ "invalidos": 0,
+ "decision": "aceptar",
+ "segundos": 0.31,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

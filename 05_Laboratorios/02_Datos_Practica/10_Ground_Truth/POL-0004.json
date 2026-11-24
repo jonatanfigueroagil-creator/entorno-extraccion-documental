@@ -1,0 +1,53 @@
+{
+ "doc_id": "POL-0004",
+ "tipo": "poliza",
+ "formato": "pdf_nativo",
+ "campos": {
+  "numero_poliza": "PZ-2026-653049",
+  "aseguradora": "Aseguradora Condor DEMO S.A.",
+  "ruc": "20997155832",
+  "asegurado": "Victor Delgado Sandoval",
+  "dni": "99569777",
+  "ramo": "Hogar",
+  "suma_asegurada": 141000.0,
+  "prima_anual": 1456.23,
+  "moneda": "PEN",
+  "vigencia_desde": "2026-07-02",
+  "vigencia_hasta": "2027-07-02",
+  "beneficiario": "Victor Chavez Ledesma",
+  "deducible_pct": 15
+ },
+ "tablas": [],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    68.6,
+    719.2,
+    189.6,
+    756.9
+   ],
+   "unidad": "pt"
+  },
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    360,
+    691.9,
+    440,
+    771.9
+   ],
+   "unidad": "pt"
+  }
+ ],
+ "texto_completo": "POLIZA DE SEGURO - CONDICIONES PARTICULARES\nPoliza: PZ-2026-653049\nAseguradora: Aseguradora Condor DEMO S.A.   RUC 20997155832\nAsegurado\nVictor Delgado Sandoval\nDNI\n99569777\nRamo\nHogar\nSuma asegurada\nS/ 141,000.00\nPrima anual\nS/ 1,456.23\nVigencia desde\n2 de julio de 2026\nVigencia hasta\n2 de julio de 2027\nBeneficiario\nVictor Chavez Ledesma\nDeducible\n15%\nLa presente poliza se rige por las condiciones generales entregadas al asegurado. Documento ficticio con fines de capacitacion.",
+ "degradacion": {
+  "rotacion": 0,
+  "dpi": null,
+  "ruido": "ninguno"
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "layout": "C"
+}

@@ -1,0 +1,56 @@
+{
+ "doc_id": "VOU-0012",
+ "tipo": "voucher",
+ "formato": "imagen_jpg",
+ "campos": {
+  "entidad": "Banco Andino DEMO S.A.",
+  "numero_operacion": "29495194",
+  "fecha": "2026-08-17",
+  "hora": "09:59",
+  "monto": 425.5,
+  "moneda": "PEN",
+  "cuenta_destino": "999-2224805648",
+  "titular": "Julia Lazo Ibarra",
+  "depositante": "Lucia Ortega Herrera",
+  "dni_depositante": "99072896"
+ },
+ "tablas": [],
+ "regiones": [
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    82,
+    256,
+    149,
+    330
+   ],
+   "unidad": "px",
+   "ancho_px": 288,
+   "alto_px": 448
+  },
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    155,
+    255,
+    221,
+    295
+   ],
+   "unidad": "px",
+   "ancho_px": 288,
+   "alto_px": 448
+  }
+ ],
+ "texto_completo": "Banco Andino DEMO S.A.\nCONSTANCIA DE DEPOSITO\nOperacion:\n29495194\nFecha:\n17/08/2026\nHora:\n09:59\nCuenta:\n999-2224805648\nTitular:\nJulia Lazo Ibarra\nDepositante:\nLucia Ortega Herrera\nDNI:\n99072896\nMONTO S/ 425.50",
+ "degradacion": {
+  "rotacion": 7.82,
+  "dpi": 60,
+  "ruido": "gaussiano",
+  "perspectiva": true,
+  "sombra": "inf",
+  "escala": 0.5
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)"
+}

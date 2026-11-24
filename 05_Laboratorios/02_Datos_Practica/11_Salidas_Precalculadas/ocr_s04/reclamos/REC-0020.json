@@ -1,0 +1,17 @@
+{
+ "id": "REC-0020",
+ "archivo": "adjunto_REC-0020.pdf",
+ "ruta": "06_Reclamos/REC-0020.eml#adjunto_REC-0020.pdf",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "crudo",
+ "psm": 3,
+ "inclinacion": 0.0,
+ "texto": "Caja Rural Valle Verde DEMO S.A.\nEstado de cuenta - tarjeta de debito\nCliente: Andres Palacios Lazo DNI 99366662\nFecha Descripcion Importe\n06/09/2026 Retiro cajero 190.00\n03/09/2026 Interes 41.00\n07/09/2026 Cargo reclamado (cuenta cerrada) 1,027.00\n31/08/2026 Pago servicio 219.00\n28/08/2026 Interes 166.00",
+ "confianza": 0.956,
+ "score": 0.978,
+ "invalidos": 0,
+ "decision": "aceptar",
+ "segundos": 0.3,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

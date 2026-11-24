@@ -1,0 +1,207 @@
+{
+ "doc_id": "CON-0026",
+ "tipo": "contrato",
+ "formato": "pdf_nativo",
+ "campos": {
+  "numero_contrato": "CR-2026-054933",
+  "fecha_contrato": "2026-03-20",
+  "entidad": "Caja Rural Valle Verde DEMO S.A.",
+  "ruc": "20996964281",
+  "cliente": "Paola Cornejo Ccori",
+  "dni_cliente": "99327029",
+  "monto": 50000.0,
+  "moneda": "PEN",
+  "plazo_meses": 18,
+  "tea": 36.3,
+  "tcea": 41.09,
+  "penalidad_mora_diaria_pct": 0.54,
+  "cuota_mensual": 3517.93,
+  "cuenta_cargo": "999-8376016779",
+  "cci": "99948217792293438777",
+  "ambiguedad": true,
+  "paginas": 14
+ },
+ "tablas": [
+  {
+   "nombre": "cronograma_pagos",
+   "encabezados": [
+    "Cuota",
+    "Fecha",
+    "Capital",
+    "Interes",
+    "Cuota total"
+   ],
+   "filas": [
+    [
+     "1",
+     "2026-04-20",
+     "2,210.77",
+     "1,307.16",
+     "3,517.93"
+    ],
+    [
+     "2",
+     "2026-05-20",
+     "2,268.56",
+     "1,249.37",
+     "3,517.93"
+    ],
+    [
+     "3",
+     "2026-06-20",
+     "2,327.87",
+     "1,190.06",
+     "3,517.93"
+    ],
+    [
+     "4",
+     "2026-07-20",
+     "2,388.73",
+     "1,129.20",
+     "3,517.93"
+    ],
+    [
+     "5",
+     "2026-08-20",
+     "2,451.18",
+     "1,066.75",
+     "3,517.93"
+    ],
+    [
+     "6",
+     "2026-09-20",
+     "2,515.26",
+     "1,002.67",
+     "3,517.93"
+    ],
+    [
+     "7",
+     "2026-10-20",
+     "2,581.02",
+     "936.91",
+     "3,517.93"
+    ],
+    [
+     "8",
+     "2026-11-20",
+     "2,648.49",
+     "869.44",
+     "3,517.93"
+    ],
+    [
+     "9",
+     "2026-12-20",
+     "2,717.73",
+     "800.20",
+     "3,517.93"
+    ],
+    [
+     "10",
+     "2027-01-20",
+     "2,788.78",
+     "729.15",
+     "3,517.93"
+    ],
+    [
+     "11",
+     "2027-02-20",
+     "2,861.69",
+     "656.24",
+     "3,517.93"
+    ],
+    [
+     "12",
+     "2027-03-20",
+     "2,936.51",
+     "581.42",
+     "3,517.93"
+    ],
+    [
+     "13",
+     "2027-04-20",
+     "3,013.28",
+     "504.65",
+     "3,517.93"
+    ],
+    [
+     "14",
+     "2027-05-20",
+     "3,092.05",
+     "425.88",
+     "3,517.93"
+    ],
+    [
+     "15",
+     "2027-06-20",
+     "3,172.89",
+     "345.04",
+     "3,517.93"
+    ],
+    [
+     "16",
+     "2027-07-20",
+     "3,255.84",
+     "262.09",
+     "3,517.93"
+    ],
+    [
+     "17",
+     "2027-08-20",
+     "3,340.96",
+     "176.97",
+     "3,517.93"
+    ],
+    [
+     "18",
+     "2027-09-20",
+     "3,428.30",
+     "89.63",
+     "3,517.93"
+    ]
+   ],
+   "celdas_combinadas": []
+  }
+ ],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 14,
+   "bbox": [
+    85.3,
+    193.5,
+    209.0,
+    225.0
+   ],
+   "unidad": "pt"
+  },
+  {
+   "tipo": "firma",
+   "pagina": 14,
+   "bbox": [
+    338.9,
+    186.6,
+    464.4,
+    225.0
+   ],
+   "unidad": "pt"
+  },
+  {
+   "tipo": "sello",
+   "pagina": 14,
+   "bbox": [
+    398,
+    148.0,
+    482,
+    232.0
+   ],
+   "unidad": "pt"
+  }
+ ],
+ "texto_completo": "CONTRATO DE CREDITO DE CONSUMO\nN° CR-2026-054933\nConste por el presente documento el contrato que celebran, de una parte, Caja Rural Valle\nVerde DEMO S.A., con RUC 20996964281, en adelante la Entidad; y de la otra, Paola\nCornejo Ccori, con DNI 99327029, domiciliado en Psje. Las Gaviotas 35, Lince, en adelante\nel Cliente, en los terminos siguientes.\nCLAUSULA 01.- OBJETO DEL CONTRATO\nCaja Rural Valle Verde DEMO S.A. otorga a Paola Cornejo Ccori (DNI 99327029) un credito\nde consumo, en adelante el Credito, bajo las condiciones de este contrato.\nNinguna omision en el ejercicio de un derecho implicara renuncia al mismo.\nLa entidad conservara el expediente del cliente por el plazo que disponga la normativa.\nEl cliente podra solicitar copia del contrato y de su cronograma en cualquier momento.\nLos plazos se computaran en dias calendario, salvo que se indique expresamente lo\ncontrario.\nLas comunicaciones se entenderan validas cuando se realicen al domicilio o correo\nelectronico indicado.\nCualquier modificacion sera comunicada con la anticipacion que establezca la normativa\naplicable.\nEn caso de discrepancia entre el cuerpo del contrato y sus anexos, prevalecera lo dispuesto\nen la hoja resumen, salvo mejor derecho del cliente.\nLas partes acuerdan resolver de buena fe cualquier discrepancia derivada de la\ninterpretacion.\nCLAUSULA 02.- MONTO DEL CREDITO Y DESEMBOLSO\nEl monto del Credito es de S/ 50,000.00 (cincuenta mil soles), que se desembolsara en la\ncuenta 999-8376016779.\nNinguna omision en el ejercicio de un derecho implicara renuncia al mismo.\nEl cliente autoriza el tratamiento de sus datos para la ejecucion del presente contrato.\nLa entidad conservara el expediente del cliente por el plazo que disponga la normativa.\nEl cliente declara que los fondos provienen de actividades licitas y verificables.\nLos plazos se computaran en dias calendario, salvo que se indique expresamente lo\ncontrario.\nCLAUSULA 03.- PLAZO Y CRONOGRAMA DE PAGOS\nEl Credito se pagara en 18 cuotas mensuales de S/ 3,517.93 cada una, segun el cronograma\ndel Anexo 1.\nLos pagos realizados se aplicaran primero a gastos, luego a intereses y por ultimo al capital.\nLas partes declaran que han leido el presente documento y que comprenden sus alcances.\nLos plazos se computaran en dias calendario, salvo que se indique expresamente lo\ncontrario.\nEl cliente podra solicitar copia del contrato y de su cronograma en cualquier momento.\nLa entidad conservara el expediente del cliente por el plazo que disponga la normativa.\nCualquier modificacion sera comunicada con la anticipacion que establezca la normativa\naplicable.\nLas condiciones aqui pactadas se mantendran vigentes hasta la cancelacion total de la\nobligacion.\nCLAUSULA 04.- TASA DE INTERES COMPENSATORIO\nLa tasa de interes compensatorio es de 36.30% efectiva anual (TEA), sujeta a la tasa vigente\nal momento del desembolso, que podra variar entre 34.80% y 37.80% segun evaluacion\ncrediticia.\nEl incumplimiento de cualquiera de las obligaciones facultara a la entidad a ejercer los\nderechos que le corresponden.\nEn caso de discrepancia entre el cuerpo del contrato y sus anexos, prevalecera lo dispuesto\nen la hoja resumen, salvo mejor derecho del cliente.\nLos pagos realizados se aplicaran primero a gastos, luego a intereses y por ultimo al capital.\nLas comunicaciones se entenderan validas cuando se realicen al domicilio o correo\nelectronico indicado.\nCualquier modificacion sera comunicada con la anticipacion que establezca la normativa\naplicable.\nLas partes acuerdan resolver de buena fe cualquier discrepancia derivada de la\ninterpretacion.\nEl cliente se obliga a mantener actualizados sus datos de contacto durante la vigencia del\ncontrato.\nLas condiciones aqui pactadas se mantendran vigentes hasta la cancelacion total de la\nobligacion.\nCLAUSULA 05.- INTERESES MORATORIOS Y PENALIDADES\nEn caso de atraso se aplicara una penalidad de 0.54% diario sobre la cuota vencida o, de\nresultar menor, la tasa maxima permitida por la normativa vigente, a criterio de la entidad.\nLas comunicaciones se entenderan validas cuando se realicen al domicilio o correo\nelectronico indicado.\nEl cliente se obliga a mantener actualizados sus datos de contacto durante la vigencia del\ncontrato.\nEn caso de discrepancia entre el cuerpo del contrato y sus anexos, prevalecera lo dispuesto\nen la hoja resumen, salvo mejor derecho del cliente.\nNinguna omision en el ejercicio de un derecho implicara renuncia al mismo.\nLas partes acuerdan resolver de buena fe cualquier discrepancia derivada de la\ninterpretacion.\nCLAUSULA 06.- FORMA DE PAGO\nEl incumplimiento de cualquiera de las obligaciones facultara a la entidad a ejercer los\nderechos que le corresponden.\nLas condiciones aqui pactadas se mantendran vigentes hasta la cancelacion total de la\nobligacion.\nEn caso de discrepancia entre el cuerpo del contrato y sus anexos, prevalecera lo dispuesto\nen la hoja resumen, salvo mejor derecho del cliente.\nLa entidad pondra a disposicion del cliente la informacion pertinente en sus oficinas y\ncanales digitales.\nEl cliente podra solicitar copia del contrato y de su cronograma en cualquier momento.\nEl cliente autoriza el tratamiento de sus datos para la ejecucion del presente contrato.\nLas comunicaciones se entenderan validas cuando se realicen al domicilio o correo\nelectronico indicado.\nCLAUSULA 07.- CUENTA DE CARGO\nEl cliente autoriza el cargo de las cuotas en la cuenta 999-8376016779 (CCI\n99948217792293438777).\nEl cliente declara que los fondos provienen de actividades licitas y verificables.\nEl cliente autoriza el tratamiento de sus datos para la ejecucion del presente contrato.\nLas condiciones aqui pactadas se mantendran vigentes hasta la cancelacion total de la\nobligacion.\nEl cliente se obliga a mantener actualizados sus datos de contacto durante la vigencia del\ncontrato.\nEl cliente podra solicitar copia del contrato y de su cronograma en cualquier momento.\nCLAUSULA 08.- COMISIONES Y GASTOS\nLas comunicaciones se entenderan validas cuando se realicen al domicilio o correo\nelectronico indicado.\nEl cliente declara que los fondos provienen de actividades licitas y verificables.\nEl cliente podra solicitar copia del contrato y de su cronograma en cualquier momento.\nLas partes acuerdan resolver de buena fe cualquier discrepancia derivada de la\ninterpretacion.\nNinguna omision en el ejercicio de un derecho implicara renuncia al mismo.\nCLAUSULA 09.- SEGURO DE DESGRAVAMEN\nEn caso de discrepancia entre el cuerpo del contrato y sus anexos, prevalecera lo dispuesto\nen la hoja resumen, salvo mejor derecho del cliente.\nLos plazos se computaran en dias calendario, salvo que se indique expresamente lo\ncontrario.\nEl cliente autoriza el tratamiento de sus datos para la ejecucion del presente contrato.\nEl cliente se obliga a mantener actualizados sus datos de contacto durante la vigencia del\ncontrato.\nLas partes declaran que han leido el presente documento y que comprenden sus alcances.\nEl incumplimiento de cualquiera de las obligaciones facultara a la entidad a ejercer los\nderechos que le corresponden.\nLa entidad conservara el expediente del cliente por el plazo que disponga la normativa.\nLas condiciones aqui pactadas se mantendran vigentes hasta la cancelacion total de la\nobligacion.\nCLAUSULA 10.- PREPAGO Y PAGOS ADELANTADOS\nEl cliente se obliga a mantener actualizados sus datos de contacto durante la vigencia del\ncontrato.\nLos pagos realizados se aplicaran primero a gastos, luego a intereses y por ultimo al capital.\nNinguna omision en el ejercicio de un derecho implicara renuncia al mismo.\nEn caso de discrepancia entre el cuerpo del contrato y sus anexos, prevalecera lo dispuesto\nen la hoja resumen, salvo mejor derecho del cliente.\nLos plazos se computaran en dias calendario, salvo que se indique expresamente lo\ncontrario.\nLas comunicaciones se entenderan validas cuando se realicen al domicilio o correo\nelectronico indicado.\nCLAUSULA 11.- DECLARACIONES DEL CLIENTE\nLa entidad pondra a disposicion del cliente la informacion pertinente en sus oficinas y\ncanales digitales.\nEl cliente podra solicitar copia del contrato y de su cronograma en cualquier momento.\nLos pagos realizados se aplicaran primero a gastos, luego a intereses y por ultimo al capital.\nEl incumplimiento de cualquiera de las obligaciones facultara a la entidad a ejercer los\nderechos que le corresponden.\nNinguna omision en el ejercicio de un derecho implicara renuncia al mismo.\nCualquier modificacion sera comunicada con la anticipacion que establezca la normativa\naplicable.\nCLAUSULA 12.- OBLIGACIONES DEL CLIENTE\nEl cliente autoriza el tratamiento de sus datos para la ejecucion del presente contrato.\nLas comunicaciones se entenderan validas cuando se realicen al domicilio o correo\nelectronico indicado.\nLos plazos se computaran en dias calendario, salvo que se indique expresamente lo\ncontrario.\nLa entidad conservara el expediente del cliente por el plazo que disponga la normativa.\nEl cliente podra solicitar copia del contrato y de su cronograma en cualquier momento.\nCLAUSULA 13.- INFORMACION AL CLIENTE\nEl incumplimiento de cualquiera de las obligaciones facultara a la entidad a ejercer los\nderechos que le corresponden.\nEl cliente se obliga a mantener actualizados sus datos de contacto durante la vigencia del\ncontrato.\nEl cliente declara que los fondos provienen de actividades licitas y verificables.\nEl cliente autoriza el tratamiento de sus datos para la ejecucion del presente contrato.\nLos plazos se computaran en dias calendario, salvo que se indique expresamente lo\ncontrario.\nLos pagos realizados se aplicaran primero a gastos, luego a intereses y por ultimo al capital.\nCLAUSULA 14.- MODIFICACIONES CONTRACTUALES\nNinguna omision en el ejercicio de un derecho implicara renuncia al mismo.\nEn caso de discrepancia entre el cuerpo del contrato y sus anexos, prevalecera lo dispuesto\nen la hoja resumen, salvo mejor derecho del cliente.\nLas partes acuerdan resolver de buena fe cualquier discrepancia derivada de la\ninterpretacion.\nLas condiciones aqui pactadas se mantendran vigentes hasta la cancelacion total de la\nobligacion.\nCualquier modificacion sera comunicada con la anticipacion que establezca la normativa\naplicable.\nCLAUSULA 15.- DISPOSICIONES FINALES\nLa entidad pondra a disposicion del cliente la informacion pertinente en sus oficinas y\ncanales digitales.\nLos plazos se computaran en dias calendario, salvo que se indique expresamente lo\ncontrario.\nEn caso de discrepancia entre el cuerpo del contrato y sus anexos, prevalecera lo dispuesto\nen la hoja resumen, salvo mejor derecho del cliente.\nLas condiciones aqui pactadas se mantendran vigentes hasta la cancelacion total de la\nobligacion.\nLas comunicaciones se entenderan validas cuando se realicen al domicilio o correo\nelectronico indicado.\nNinguna omision en el ejercicio de un derecho implicara renuncia al mismo.\nLa entidad conservara el expediente del cliente por el plazo que disponga la normativa.\nLos pagos realizados se aplicaran primero a gastos, luego a intereses y por ultimo al capital.\nCLAUSULA 16.- VERACIDAD DE LA INFORMACION\nLas comunicaciones se entenderan validas cuando se realicen al domicilio o correo\nelectronico indicado.\nLa entidad pondra a disposicion del cliente la informacion pertinente en sus oficinas y\ncanales digitales.\nLas partes acuerdan resolver de buena fe cualquier discrepancia derivada de la\ninterpretacion.\nLos pagos realizados se aplicaran primero a gastos, luego a intereses y por ultimo al capital.\nEl cliente podra solicitar copia del contrato y de su cronograma en cualquier momento.\nCLAUSULA 17.- PROTECCION DE DATOS PERSONALES\nLos plazos se computaran en dias calendario, salvo que se indique expresamente lo\ncontrario.\nCualquier modificacion sera comunicada con la anticipacion que establezca la normativa\naplicable.\nLa entidad conservara el expediente del cliente por el plazo que disponga la normativa.\nLa entidad pondra a disposicion del cliente la informacion pertinente en sus oficinas y\ncanales digitales.\nLos pagos realizados se aplicaran primero a gastos, luego a intereses y por ultimo al capital.\nCLAUSULA 18.- OBLIGACIONES DE LA ENTIDAD\nNinguna omision en el ejercicio de un derecho implicara renuncia al mismo.\nEl cliente declara que los fondos provienen de actividades licitas y verificables.\nLos plazos se computaran en dias calendario, salvo que se indique expresamente lo\ncontrario.\nLas condiciones aqui pactadas se mantendran vigentes hasta la cancelacion total de la\nobligacion.\nEl cliente podra solicitar copia del contrato y de su cronograma en cualquier momento.\nCLAUSULA 19.- ATENCION DE RECLAMOS\nEn caso de discrepancia entre el cuerpo del contrato y sus anexos, prevalecera lo dispuesto\nen la hoja resumen, salvo mejor derecho del cliente.\nLas partes declaran que han leido el presente documento y que comprenden sus alcances.\nLa entidad conservara el expediente del cliente por el plazo que disponga la normativa.\nEl incumplimiento de cualquiera de las obligaciones facultara a la entidad a ejercer los\nderechos que le corresponden.\nEl cliente se obliga a mantener actualizados sus datos de contacto durante la vigencia del\ncontrato.\nLos pagos realizados se aplicaran primero a gastos, luego a intereses y por ultimo al capital.\nCLAUSULA 20.- GARANTIAS\nEl incumplimiento de cualquiera de las obligaciones facultara a la entidad a ejercer los\nderechos que le corresponden.\nEn caso de discrepancia entre el cuerpo del contrato y sus anexos, prevalecera lo dispuesto\nen la hoja resumen, salvo mejor derecho del cliente.\nCualquier modificacion sera comunicada con la anticipacion que establezca la normativa\naplicable.\nEl cliente autoriza el tratamiento de sus datos para la ejecucion del presente contrato.\nEl cliente se obliga a mantener actualizados sus datos de contacto durante la vigencia del\ncontrato.\nNinguna omision en el ejercicio de un derecho implicara renuncia al mismo.\nLos pagos realizados se aplicaran primero a gastos, luego a intereses y por ultimo al capital.\nCLAUSULA 21.- CANALES DE ATENCION\nLos plazos se computaran en dias calendario, salvo que se indique expresamente lo\ncontrario.\nLa entidad pondra a disposicion del cliente la informacion pertinente en sus oficinas y\ncanales digitales.\nEl cliente se obliga a mantener actualizados sus datos de contacto durante la vigencia del\ncontrato.\nLas partes declaran que han leido el presente documento y que comprenden sus alcances.\nLa entidad conservara el expediente del cliente por el plazo que disponga la normativa.\nEl incumplimiento de cualquiera de las obligaciones facultara a la entidad a ejercer los\nderechos que le corresponden.\nEn caso de discrepancia entre el cuerpo del contrato y sus anexos, prevalecera lo dispuesto\nen la hoja resumen, salvo mejor derecho del cliente.\nCLAUSULA 22.- REPORTE A CENTRALES DE RIESGO\nLos pagos realizados se aplicaran primero a gastos, luego a intereses y por ultimo al capital.\nEl cliente declara que los fondos provienen de actividades licitas y verificables.\nLos plazos se computaran en dias calendario, salvo que se indique expresamente lo\ncontrario.\nLa entidad pondra a disposicion del cliente la informacion pertinente en sus oficinas y\ncanales digitales.\nCualquier modificacion sera comunicada con la anticipacion que establezca la normativa\naplicable.\nEl cliente autoriza el tratamiento de sus datos para la ejecucion del presente contrato.\nEl cliente podra solicitar copia del contrato y de su cronograma en cualquier momento.\nCLAUSULA 23.- VIGENCIA\nEl contrato rige desde el 20 de marzo de 2026 hasta la cancelacion total de las obligaciones.\nLa entidad conservara el expediente del cliente por el plazo que disponga la normativa.\nLos pagos realizados se aplicaran primero a gastos, luego a intereses y por ultimo al capital.\nLos plazos se computaran en dias calendario, salvo que se indique expresamente lo\ncontrario.\nEl incumplimiento de cualquiera de las obligaciones facultara a la entidad a ejercer los\nderechos que le corresponden.\nNinguna omision en el ejercicio de un derecho implicara renuncia al mismo.\nCualquier modificacion sera comunicada con la anticipacion que establezca la normativa\naplicable.\nLas partes acuerdan resolver de buena fe cualquier discrepancia derivada de la\ninterpretacion.\nEl cliente podra solicitar copia del contrato y de su cronograma en cualquier momento.\nCLAUSULA 24.- CONFIDENCIALIDAD\nEl cliente declara que los fondos provienen de actividades licitas y verificables.\nEl cliente autoriza el tratamiento de sus datos para la ejecucion del presente contrato.\nNinguna omision en el ejercicio de un derecho implicara renuncia al mismo.\nEn caso de discrepancia entre el cuerpo del contrato y sus anexos, prevalecera lo dispuesto\nen la hoja resumen, salvo mejor derecho del cliente.\nLos plazos se computaran en dias calendario, salvo que se indique expresamente lo\ncontrario.\nLas condiciones aqui pactadas se mantendran vigentes hasta la cancelacion total de la\nobligacion.\nCLAUSULA 25.- AUTORIZACION DE CARGO\nEl cliente autoriza el tratamiento de sus datos para la ejecucion del presente contrato.\nLos pagos realizados se aplicaran primero a gastos, luego a intereses y por ultimo al capital.\nEl incumplimiento de cualquiera de las obligaciones facultara a la entidad a ejercer los\nderechos que le corresponden.\nEl cliente podra solicitar copia del contrato y de su cronograma en cualquier momento.\nLas partes declaran que han leido el presente documento y que comprenden sus alcances.\nLa entidad pondra a disposicion del cliente la informacion pertinente en sus oficinas y\ncanales digitales.\nLas comunicaciones se entenderan validas cuando se realicen al domicilio o correo\nelectronico indicado.\nLas partes acuerdan resolver de buena fe cualquier discrepancia derivada de la\ninterpretacion.\nCLAUSULA 26.- GASTOS NOTARIALES\nLas comunicaciones se entenderan validas cuando se realicen al domicilio o correo\nelectronico indicado.\nLas condiciones aqui pactadas se mantendran vigentes hasta la cancelacion total de la\nobligacion.\nLas partes acuerdan resolver de buena fe cualquier discrepancia derivada de la\ninterpretacion.\nEl cliente se obliga a mantener actualizados sus datos de contacto durante la vigencia del\ncontrato.\nLos pagos realizados se aplicaran primero a gastos, luego a intereses y por ultimo al capital.\nCLAUSULA 27.- IDIOMA\nEn caso de discrepancia entre el cuerpo del contrato y sus anexos, prevalecera lo dispuesto\nen la hoja resumen, salvo mejor derecho del cliente.\nLa entidad pondra a disposicion del cliente la informacion pertinente en sus oficinas y\ncanales digitales.\nEl cliente se obliga a mantener actualizados sus datos de contacto durante la vigencia del\ncontrato.\nLa entidad conservara el expediente del cliente por el plazo que disponga la normativa.\nLas partes declaran que han leido el presente documento y que comprenden sus alcances.\nLos pagos realizados se aplicaran primero a gastos, luego a intereses y por ultimo al capital.\nCLAUSULA 28.- LEY APLICABLE Y JURISDICCION\nEn caso de discrepancia entre el cuerpo del contrato y sus anexos, prevalecera lo dispuesto\nen la hoja resumen, salvo mejor derecho del cliente.\nEl incumplimiento de cualquiera de las obligaciones facultara a la entidad a ejercer los\nderechos que le corresponden.\nLas partes declaran que han leido el presente documento y que comprenden sus alcances.\nEl cliente declara que los fondos provienen de actividades licitas y verificables.\nLa entidad conservara el expediente del cliente por el plazo que disponga la normativa.\nLas condiciones aqui pactadas se mantendran vigentes hasta la cancelacion total de la\nobligacion.\nLa entidad pondra a disposicion del cliente la informacion pertinente en sus oficinas y\ncanales digitales.\nCLAUSULA 29.- PREVENCION DEL LAVADO DE ACTIVOS\nLas comunicaciones se entenderan validas cuando se realicen al domicilio o correo\nelectronico indicado.\nEn caso de discrepancia entre el cuerpo del contrato y sus anexos, prevalecera lo dispuesto\nen la hoja resumen, salvo mejor derecho del cliente.\nEl cliente podra solicitar copia del contrato y de su cronograma en cualquier momento.\nLa entidad conservara el expediente del cliente por el plazo que disponga la normativa.\nCualquier modificacion sera comunicada con la anticipacion que establezca la normativa\naplicable.\nCLAUSULA 30.- ORDEN DE IMPUTACION DE PAGOS\nLa entidad conservara el expediente del cliente por el plazo que disponga la normativa.\nLos plazos se computaran en dias calendario, salvo que se indique expresamente lo\ncontrario.\nLos pagos realizados se aplicaran primero a gastos, luego a intereses y por ultimo al capital.\nLas partes declaran que han leido el presente documento y que comprenden sus alcances.\nLas condiciones aqui pactadas se mantendran vigentes hasta la cancelacion total de la\nobligacion.\nLas partes acuerdan resolver de buena fe cualquier discrepancia derivada de la\ninterpretacion.\nEl cliente se obliga a mantener actualizados sus datos de contacto durante la vigencia del\ncontrato.\nCualquier modificacion sera comunicada con la anticipacion que establezca la normativa\naplicable.\nCLAUSULA 31.- CONSTANCIA DE ENTREGA\nEl incumplimiento de cualquiera de las obligaciones facultara a la entidad a ejercer los\nderechos que le corresponden.\nLas condiciones aqui pactadas se mantendran vigentes hasta la cancelacion total de la\nobligacion.\nEl cliente se obliga a mantener actualizados sus datos de contacto durante la vigencia del\ncontrato.\nLos plazos se computaran en dias calendario, salvo que se indique expresamente lo\ncontrario.\nLa entidad pondra a disposicion del cliente la informacion pertinente en sus oficinas y\ncanales digitales.\nEl cliente autoriza el tratamiento de sus datos para la ejecucion del presente contrato.\nCLAUSULA 32.- INTERPRETACION\nEl cliente se obliga a mantener actualizados sus datos de contacto durante la vigencia del\ncontrato.\nLas condiciones aqui pactadas se mantendran vigentes hasta la cancelacion total de la\nobligacion.\nEl cliente podra solicitar copia del contrato y de su cronograma en cualquier momento.\nLas comunicaciones se entenderan validas cuando se realicen al domicilio o correo\nelectronico indicado.\nLas partes acuerdan resolver de buena fe cualquier discrepancia derivada de la\ninterpretacion.\nEl cliente declara que los fondos provienen de actividades licitas y verificables.\nCLAUSULA 33.- DIVISIBILIDAD\nLas partes declaran que han leido el presente documento y que comprenden sus alcances.\nEl cliente podra solicitar copia del contrato y de su cronograma en cualquier momento.\nLos pagos realizados se aplicaran primero a gastos, luego a intereses y por ultimo al capital.\nEl cliente autoriza el tratamiento de sus datos para la ejecucion del presente contrato.\nLa entidad conservara el expediente del cliente por el plazo que disponga la normativa.\nCLAUSULA 34.- ANEXOS\nEl cliente declara que los fondos provienen de actividades licitas y verificables.\nLas comunicaciones se entenderan validas cuando se realicen al domicilio o correo\nelectronico indicado.\nEn caso de discrepancia entre el cuerpo del contrato y sus anexos, prevalecera lo dispuesto\nen la hoja resumen, salvo mejor derecho del cliente.\nLos plazos se computaran en dias calendario, salvo que se indique expresamente lo\ncontrario.\nEl cliente podra solicitar copia del contrato y de su cronograma en cualquier momento.\nLas partes acuerdan resolver de buena fe cualquier discrepancia derivada de la\ninterpretacion.\nLa entidad pondra a disposicion del cliente la informacion pertinente en sus oficinas y\ncanales digitales.\nEl incumplimiento de cualquiera de las obligaciones facultara a la entidad a ejercer los\nderechos que le corresponden.\nCLAUSULA 35.- VENCIMIENTO ANTICIPADO\nLos pagos realizados se aplicaran primero a gastos, luego a intereses y por ultimo al capital.\nLos plazos se computaran en dias calendario, salvo que se indique expresamente lo\ncontrario.\nEl cliente se obliga a mantener actualizados sus datos de contacto durante la vigencia del\ncontrato.\nLa entidad conservara el expediente del cliente por el plazo que disponga la normativa.\nEl cliente autoriza el tratamiento de sus datos para la ejecucion del presente contrato.\nCLAUSULA 36.- FUERZA MAYOR\nLas partes declaran que han leido el presente documento y que comprenden sus alcances.\nLos plazos se computaran en dias calendario, salvo que se indique expresamente lo\ncontrario.\nLas condiciones aqui pactadas se mantendran vigentes hasta la cancelacion total de la\nobligacion.\nEl incumplimiento de cualquiera de las obligaciones facultara a la entidad a ejercer los\nderechos que le corresponden.\nEl cliente podra solicitar copia del contrato y de su cronograma en cualquier momento.\nLas comunicaciones se entenderan validas cuando se realicen al domicilio o correo\nelectronico indicado.\nCLAUSULA 37.- COBRANZA\nLas comunicaciones se entenderan validas cuando se realicen al domicilio o correo\nelectronico indicado.\nLas partes declaran que han leido el presente documento y que comprenden sus alcances.\nCualquier modificacion sera comunicada con la anticipacion que establezca la normativa\naplicable.\nLa entidad conservara el expediente del cliente por el plazo que disponga la normativa.\nNinguna omision en el ejercicio de un derecho implicara renuncia al mismo.\nEl cliente declara que los fondos provienen de actividades licitas y verificables.\nCLAUSULA 38.- RESOLUCION DEL CONTRATO\nCualquier modificacion sera comunicada con la anticipacion que establezca la normativa\naplicable.\nLas partes declaran que han leido el presente documento y que comprenden sus alcances.\nLos plazos se computaran en dias calendario, salvo que se indique expresamente lo\ncontrario.\nLa entidad conservara el expediente del cliente por el plazo que disponga la normativa.\nLas comunicaciones se entenderan validas cuando se realicen al domicilio o correo\nelectronico indicado.\nANEXO 1 - CRONOGRAMA DE PAGOS\nCuota\nFecha\nCapital\nInteres\nCuota total\n1\n2026-04-20\n2,210.77\n1,307.16\n3,517.93\n2\n2026-05-20\n2,268.56\n1,249.37\n3,517.93\n3\n2026-06-20\n2,327.87\n1,190.06\n3,517.93\n4\n2026-07-20\n2,388.73\n1,129.20\n3,517.93\n5\n2026-08-20\n2,451.18\n1,066.75\n3,517.93\n6\n2026-09-20\n2,515.26\n1,002.67\n3,517.93\n7\n2026-10-20\n2,581.02\n936.91\n3,517.93\n8\n2026-11-20\n2,648.49\n869.44\n3,517.93\n9\n2026-12-20\n2,717.73\n800.20\n3,517.93\n10\n2027-01-20\n2,788.78\n729.15\n3,517.93\n11\n2027-02-20\n2,861.69\n656.24\n3,517.93\n12\n2027-03-20\n2,936.51\n581.42\n3,517.93\n13\n2027-04-20\n3,013.28\n504.65\n3,517.93\n14\n2027-05-20\n3,092.05\n425.88\n3,517.93\n15\n2027-06-20\n3,172.89\n345.04\n3,517.93\n16\n2027-07-20\n3,255.84\n262.09\n3,517.93\n17\n2027-08-20\n3,340.96\n176.97\n3,517.93\n18\n2027-09-20\n3,428.30\n89.63\n3,517.93\nHoja resumen: TCEA 41.09% (incluye comisiones y seguros). Cuota referencial S/ 3,517.93.\nFirmado en Lima, el 20 de marzo de 2026\nEL CLIENTE: Paola Cornejo Ccori\nLA ENTIDAD: Caja Rural Valle Verde DEMO S.A.",
+ "degradacion": {
+  "rotacion": 0,
+  "dpi": null,
+  "ruido": "ninguno"
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)"
+}

@@ -1,0 +1,40 @@
+{
+ "id": "REC-0025",
+ "modelo": "Davlan/xlm-roberta-base-ner-hrl",
+ "revision": null,
+ "version_transformers": "5.22.1",
+ "version_torch": "2.15.0+cu132",
+ "dispositivo": "cuda (NVIDIA GeForce RTX 5070)",
+ "agregacion": "simple",
+ "texto": "remitente + cuerpo del correo + texto del OCR del adjunto (ocr_s04)",
+ "entidades": [
+  {
+   "texto": "Andres Torres Quispe",
+   "etiqueta": "PER",
+   "score": 0.9995,
+   "inicio": 43,
+   "fin": 63
+  },
+  {
+   "texto": "Banco Costa Norte DEMO S.A.",
+   "etiqueta": "ORG",
+   "score": 0.9991,
+   "inicio": 82,
+   "fin": 109
+  },
+  {
+   "texto": "Banco Costa Norte DEMO S.A.",
+   "etiqueta": "ORG",
+   "score": 0.9831,
+   "inicio": 251,
+   "fin": 278
+  },
+  {
+   "texto": "Andres Torres Quispe",
+   "etiqueta": "PER",
+   "score": 0.9994,
+   "inicio": 321,
+   "fin": 341
+  }
+ ]
+}

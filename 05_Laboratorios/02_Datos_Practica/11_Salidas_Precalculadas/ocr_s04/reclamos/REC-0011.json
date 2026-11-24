@@ -1,0 +1,17 @@
+{
+ "id": "REC-0011",
+ "archivo": "adjunto_REC-0011.pdf",
+ "ruta": "06_Reclamos/REC-0011.eml#adjunto_REC-0011.pdf",
+ "motor": "tesseract",
+ "version_motor": "5.5.3",
+ "receta": "crudo",
+ "psm": 3,
+ "inclinacion": 0.0,
+ "texto": "Caja Rural Valle Verde DEMO S.A.\nEstado de cuenta - tarjeta de debito\nCliente: Diego Valdivia Mendoza DNI 99501880\nFecha Descripcion Importe\n31/05/2026 Cargo reclamado (demora en entrega) 2,168.00\n30/05/2026 Interes 247.00\n27/05/2026 Retiro cajero 261.00\n24/05/2026 Retiro cajero 181.00\n21/05/2026 Interes 84.00",
+ "confianza": 0.9547,
+ "score": 0.977,
+ "invalidos": 0,
+ "decision": "aceptar",
+ "segundos": 0.29,
+ "equipo": "Windows 11, CPU de 24 hilos, sin GPU para el OCR"
+}

@@ -1,0 +1,70 @@
+{
+ "doc_id": "REC-0019",
+ "tipo": "reclamo",
+ "formato": "eml",
+ "campos": {
+  "numero_reclamo": "R-2026-801928",
+  "fecha": "2026-04-19",
+  "nombre": "Julia Salazar Soto",
+  "dni": "99466216",
+  "entidad": "Banco del Sur Austral DEMO S.A.",
+  "producto": "tarjeta de credito",
+  "motivo": "cargo duplicado",
+  "monto_reclamado": 503.0,
+  "telefono": "999 000 877",
+  "correo": "julia.salazar74@ejemplo.pe",
+  "monto_en_texto": true,
+  "canal": "correo",
+  "adjunto": {
+   "nombre": "adjunto_REC-0019.jpg",
+   "tipo": "imagen"
+  }
+ },
+ "tablas": [
+  {
+   "nombre": "movimientos_adjunto",
+   "encabezados": [
+    "Fecha",
+    "Descripcion",
+    "Importe"
+   ],
+   "filas": [
+    [
+     "19/04/2026",
+     "Cargo reclamado (cargo duplicado)",
+     "503.00"
+    ],
+    [
+     "18/04/2026",
+     "Retiro cajero",
+     "296.00"
+    ],
+    [
+     "15/04/2026",
+     "Pago servicio",
+     "88.00"
+    ],
+    [
+     "12/04/2026",
+     "Retiro cajero",
+     "16.00"
+    ],
+    [
+     "09/04/2026",
+     "Compra comercio DEMO",
+     "24.00"
+    ]
+   ],
+   "celdas_combinadas": []
+  }
+ ],
+ "regiones": [],
+ "texto_completo": "Hola, escribo xq me descontaron dos veces la misma cuota (mi tarjeta de credito). El monto es quinientos tres soles, el dia 19/04. Me atendieron mal y no me dan solucion. Julia Salazar Soto, DNI 99466216, correo julia.salazar74@ejemplo.pe.\nBanco del Sur Austral DEMO S.A.\nEstado de cuenta - tarjeta de credito\nCliente: Julia Salazar Soto   DNI 99466216\nFecha\nDescripcion\nImporte\n19/04/2026\nCargo reclamado (cargo duplicado)\n503.00\n18/04/2026\nRetiro cajero\n296.00\n15/04/2026\nPago servicio\n88.00\n12/04/2026\nRetiro cajero\n16.00\n09/04/2026\nCompra comercio DEMO\n24.00",
+ "degradacion": {
+  "rotacion": 0,
+  "dpi": null,
+  "ruido": "gaussiano"
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

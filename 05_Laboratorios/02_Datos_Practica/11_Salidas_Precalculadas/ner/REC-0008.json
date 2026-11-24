@@ -1,0 +1,40 @@
+{
+ "id": "REC-0008",
+ "modelo": "Davlan/xlm-roberta-base-ner-hrl",
+ "revision": null,
+ "version_transformers": "5.22.1",
+ "version_torch": "2.15.0+cu132",
+ "dispositivo": "cuda (NVIDIA GeForce RTX 5070)",
+ "agregacion": "simple",
+ "texto": "remitente + cuerpo del correo + texto del OCR del adjunto (ocr_s04)",
+ "entidades": [
+  {
+   "texto": "Sofia Huaman Ledesma",
+   "etiqueta": "PER",
+   "score": 0.9998,
+   "inicio": 42,
+   "fin": 62
+  },
+  {
+   "texto": "Financiera Pampa Azul DEMO S.A.",
+   "etiqueta": "ORG",
+   "score": 0.9796,
+   "inicio": 81,
+   "fin": 112
+  },
+  {
+   "texto": "Financiera Pampa Azul DEMO S.A.",
+   "etiqueta": "ORG",
+   "score": 0.9836,
+   "inicio": 279,
+   "fin": 310
+  },
+  {
+   "texto": "Sofia Huaman Ledesma",
+   "etiqueta": "PER",
+   "score": 0.9997,
+   "inicio": 357,
+   "fin": 377
+  }
+ ]
+}

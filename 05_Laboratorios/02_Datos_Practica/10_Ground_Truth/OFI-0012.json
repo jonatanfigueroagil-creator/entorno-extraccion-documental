@@ -1,0 +1,76 @@
+{
+ "doc_id": "OFI-0012",
+ "tipo": "oficio",
+ "formato": "pdf_escaneado",
+ "campos": {
+  "numero_oficio": "0373-2026-ID/DCM",
+  "fecha": "2026-06-05",
+  "entidad": "Banco del Sur Austral DEMO S.A.",
+  "ruc": "20993132544",
+  "asunto": "Requerimiento de informacion sobre la cartera de creditos al 30 de junio de 2026",
+  "referencia": "Carta N° 144-2026 de Banco del Sur Austral DEMO S.A.",
+  "plazo_dias": 15,
+  "emisor": "Intendencia DEMO de Supervision Financiera",
+  "firmante": "Carlos Condori Montoya",
+  "cargo": "Intendente DEMO Adjunto"
+ },
+ "tablas": [
+  {
+   "nombre": "informacion_solicitada",
+   "encabezados": [
+    "N°",
+    "Informacion solicitada"
+   ],
+   "filas": [
+    [
+     "1",
+     "Reporte de tasas aplicadas por producto"
+    ]
+   ]
+  }
+ ],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 1,
+   "bbox": [
+    183,
+    1264,
+    539,
+    1402
+   ],
+   "unidad": "px",
+   "dpi": 200,
+   "ancho_px": 1654,
+   "alto_px": 2339
+  },
+  {
+   "tipo": "sello",
+   "pagina": 1,
+   "bbox": [
+    465,
+    1102,
+    738,
+    1374
+   ],
+   "unidad": "px",
+   "dpi": 200,
+   "ancho_px": 1654,
+   "alto_px": 2339
+  }
+ ],
+ "texto_completo": "AUTORIDAD SUPERVISORA DEMO\nIntendencia DEMO de Supervision Financiera\nDocumento ficticio con fines de capacitacion\nOFICIO N° 0373-2026-ID/DCM\nLima, 5 de junio de 2026\nSenores\nBanco del Sur Austral DEMO S.A.\nRUC 20993132544\nPresente.-\nAsunto:\nRequerimiento de informacion sobre la cartera de creditos al 30 de junio de 2026\nReferencia:\nCarta N° 144-2026 de Banco del Sur Austral DEMO S.A.\nMediante el presente se requiere a su representada remitir la informacion detallada a continuacion, en el\nmarco de las labores de supervision del periodo en curso.\nN°\nInformacion solicitada\n1\nReporte de tasas aplicadas por producto\nLa informacion debera ser presentada en un plazo de quince (15) dias habiles contados desde la\nrecepcion del presente oficio, en formato digital y firmada por el responsable. El incumplimiento sera\nevaluado conforme a los procedimientos internos aplicables.\nAtentamente,\nCarlos Condori Montoya\nIntendente DEMO Adjunto",
+ "degradacion": {
+  "rotacion": 3.93,
+  "ruido": "sal_pimienta",
+  "ruido_sigma": 8.9,
+  "desenfoque_sigma": 0.6,
+  "sombra": "der",
+  "perspectiva": false,
+  "jpeg_calidad": 60,
+  "dpi": 200,
+  "paginas": 1
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

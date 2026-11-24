@@ -1,0 +1,306 @@
+{
+ "doc_id": "OFI-0001",
+ "motor": "PaddleOCR texto (PP-OCRv5 mobile)",
+ "paddleocr": "3.7.0",
+ "paddlepaddle": "3.3.1",
+ "dispositivo": "cpu",
+ "python": "3.13.14",
+ "procesador": "Intel64 Family 6 Model 151 Stepping 2, GenuineIntel",
+ "hilos": 24,
+ "segundos_carga_modelo": 8.2,
+ "segundos_prediccion": 21.6,
+ "entrada": "página 1, 300 dpi, enderezada, sin binarizar",
+ "texto": "AUTORIDAD SUPERVISORA DEMO\nIntendencia DEMO de Riesgos Operacionales\nDocumento ficticio con fines de capacitacion\nOFICIO N° 0230-2026-ID/DSF\nLima, 24 de junio de 2026\nSenores\nAseguradora Nueva Aurora DEMO S.A.\nRUC 20992371634\nPresente.-\nAsunto:\nSolicitud de plan de accion para el cierre de observaciones de la visita de inspeccion\nReferencia:Carta N° 012-2026 de Aseguradora Nueva Aurora DEMO S.A.\nMediante el presente se requiere a su representada remitir la informacion detallada a continuacion, en el\nmarco de las labores de supervision del periodo en curso.\nN°\nInformacion solicitada\n1\nPolitica interna aprobada y su fecha de vigencia\n2\nCronograma de implementacion de las medidas correctivas\nLa informacion debera ser presentada en un plazo de quince (15) dias habiles contados desde la\nrecepcion del presente oficio, en formato digital y firmada por el responsable. El incumplimiento sera\nevaluado conforme a los procedimientos internos aplicables.\nMESA DE PARTES\nAtentamente,\nDEMO\nRECIBIDO\nRaul Sandoval Mendoza\nJefe de Equipo DEMO",
+ "lineas": [
+  {
+   "texto": "AUTORIDAD SUPERVISORA DEMO",
+   "confianza": 0.9895,
+   "caja": [
+    751,
+    225,
+    1732,
+    284
+   ]
+  },
+  {
+   "texto": "Intendencia DEMO de Riesgos Operacionales",
+   "confianza": 0.9758,
+   "caja": [
+    739,
+    306,
+    1734,
+    370
+   ]
+  },
+  {
+   "texto": "Documento ficticio con fines de capacitacion",
+   "confianza": 0.9799,
+   "caja": [
+    911,
+    383,
+    1570,
+    431
+   ]
+  },
+  {
+   "texto": "OFICIO N° 0230-2026-ID/DSF",
+   "confianza": 0.9919,
+   "caja": [
+    249,
+    551,
+    869,
+    601
+   ]
+  },
+  {
+   "texto": "Lima, 24 de junio de 2026",
+   "confianza": 0.9808,
+   "caja": [
+    248,
+    630,
+    730,
+    685
+   ]
+  },
+  {
+   "texto": "Senores",
+   "confianza": 0.9999,
+   "caja": [
+    249,
+    747,
+    406,
+    795
+   ]
+  },
+  {
+   "texto": "Aseguradora Nueva Aurora DEMO S.A.",
+   "confianza": 0.9786,
+   "caja": [
+    246,
+    803,
+    1022,
+    857
+   ]
+  },
+  {
+   "texto": "RUC 20992371634",
+   "confianza": 0.9994,
+   "caja": [
+    247,
+    864,
+    608,
+    908
+   ]
+  },
+  {
+   "texto": "Presente.-",
+   "confianza": 0.9999,
+   "caja": [
+    246,
+    920,
+    447,
+    975
+   ]
+  },
+  {
+   "texto": "Asunto:",
+   "confianza": 0.9998,
+   "caja": [
+    247,
+    1029,
+    414,
+    1079
+   ]
+  },
+  {
+   "texto": "Solicitud de plan de accion para el cierre de observaciones de la visita de inspeccion",
+   "confianza": 0.9814,
+   "caja": [
+    496,
+    1028,
+    2065,
+    1083
+   ]
+  },
+  {
+   "texto": "Referencia:Carta N° 012-2026 de Aseguradora Nueva Aurora DEMO S.A.",
+   "confianza": 0.9869,
+   "caja": [
+    248,
+    1103,
+    1653,
+    1157
+   ]
+  },
+  {
+   "texto": "Mediante el presente se requiere a su representada remitir la informacion detallada a continuacion, en el",
+   "confianza": 0.9856,
+   "caja": [
+    248,
+    1202,
+    2183,
+    1259
+   ]
+  },
+  {
+   "texto": "marco de las labores de supervision del periodo en curso.",
+   "confianza": 0.9964,
+   "caja": [
+    247,
+    1263,
+    1318,
+    1319
+   ]
+  },
+  {
+   "texto": "N°",
+   "confianza": 0.7929,
+   "caja": [
+    299,
+    1392,
+    358,
+    1449
+   ]
+  },
+  {
+   "texto": "Informacion solicitada",
+   "confianza": 0.9998,
+   "caja": [
+    433,
+    1394,
+    794,
+    1440
+   ]
+  },
+  {
+   "texto": "1",
+   "confianza": 0.9994,
+   "caja": [
+    301,
+    1463,
+    333,
+    1512
+   ]
+  },
+  {
+   "texto": "Politica interna aprobada y su fecha de vigencia",
+   "confianza": 0.9889,
+   "caja": [
+    431,
+    1461,
+    1231,
+    1515
+   ]
+  },
+  {
+   "texto": "2",
+   "confianza": 0.9998,
+   "caja": [
+    297,
+    1530,
+    335,
+    1581
+   ]
+  },
+  {
+   "texto": "Cronograma de implementacion de las medidas correctivas",
+   "confianza": 0.9948,
+   "caja": [
+    433,
+    1530,
+    1423,
+    1580
+   ]
+  },
+  {
+   "texto": "La informacion debera ser presentada en un plazo de quince (15) dias habiles contados desde la",
+   "confianza": 0.9858,
+   "caja": [
+    243,
+    1611,
+    2044,
+    1671
+   ]
+  },
+  {
+   "texto": "recepcion del presente oficio, en formato digital y firmada por el responsable. El incumplimiento sera",
+   "confianza": 0.9901,
+   "caja": [
+    245,
+    1669,
+    2103,
+    1729
+   ]
+  },
+  {
+   "texto": "evaluado conforme a los procedimientos internos aplicables.",
+   "confianza": 0.9943,
+   "caja": [
+    248,
+    1733,
+    1368,
+    1783
+   ]
+  },
+  {
+   "texto": "MESA DE PARTES",
+   "confianza": 0.999,
+   "caja": [
+    754,
+    1779,
+    1050,
+    1842
+   ]
+  },
+  {
+   "texto": "Atentamente,",
+   "confianza": 0.9999,
+   "caja": [
+    249,
+    1829,
+    499,
+    1881
+   ]
+  },
+  {
+   "texto": "DEMO",
+   "confianza": 0.9998,
+   "caja": [
+    769,
+    1850,
+    1022,
+    1944
+   ]
+  },
+  {
+   "texto": "RECIBIDO",
+   "confianza": 0.9998,
+   "caja": [
+    801,
+    1971,
+    968,
+    2025
+   ]
+  },
+  {
+   "texto": "Raul Sandoval Mendoza",
+   "confianza": 0.9993,
+   "caja": [
+    288,
+    2104,
+    718,
+    2158
+   ]
+  },
+  {
+   "texto": "Jefe de Equipo DEMO",
+   "confianza": 0.9926,
+   "caja": [
+    287,
+    2159,
+    664,
+    2209
+   ]
+  }
+ ]
+}

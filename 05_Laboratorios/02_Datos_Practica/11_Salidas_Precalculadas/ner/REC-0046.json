@@ -1,0 +1,40 @@
+{
+ "id": "REC-0046",
+ "modelo": "Davlan/xlm-roberta-base-ner-hrl",
+ "revision": null,
+ "version_transformers": "5.22.1",
+ "version_torch": "2.15.0+cu132",
+ "dispositivo": "cuda (NVIDIA GeForce RTX 5070)",
+ "agregacion": "simple",
+ "texto": "remitente + cuerpo del correo + texto del OCR del adjunto (ocr_s04)",
+ "entidades": [
+  {
+   "texto": "Banco Costa Norte DEMO S.A.",
+   "etiqueta": "ORG",
+   "score": 0.9989,
+   "inicio": 42,
+   "fin": 69
+  },
+  {
+   "texto": "Pedro Escobar Mendoza",
+   "etiqueta": "PER",
+   "score": 0.9995,
+   "inicio": 225,
+   "fin": 246
+  },
+  {
+   "texto": "Banco Costa Norte DEMO S.A.",
+   "etiqueta": "ORG",
+   "score": 0.9973,
+   "inicio": 281,
+   "fin": 308
+  },
+  {
+   "texto": "Pedro Escobar Mendoza",
+   "etiqueta": "PER",
+   "score": 0.9998,
+   "inicio": 356,
+   "fin": 377
+  }
+ ]
+}

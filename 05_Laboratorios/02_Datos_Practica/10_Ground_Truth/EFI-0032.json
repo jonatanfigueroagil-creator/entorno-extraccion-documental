@@ -1,0 +1,228 @@
+{
+ "doc_id": "EFI-0032",
+ "tipo": "estado_financiero",
+ "formato": "pdf_escaneado",
+ "campos": {
+  "entidad": "Seguros Tierra Firme DEMO S.A.",
+  "ruc": "20998253889",
+  "periodo": "2026-12-31",
+  "moneda": "PEN",
+  "unidad": "soles",
+  "total_activo": 25073,
+  "total_pasivo": 21200,
+  "total_patrimonio": 3873,
+  "utilidad_neta": 1713,
+  "cuadra": true
+ },
+ "tablas": [
+  {
+   "nombre": "balance_general",
+   "encabezados": [
+    "Concepto",
+    "2026",
+    "2025"
+   ],
+   "filas": [
+    [
+     "ACTIVO",
+     "",
+     ""
+    ],
+    [
+     "Disponible",
+     "4,763",
+     "7,263"
+    ],
+    [
+     "Inversiones",
+     "3,760",
+     "1,815"
+    ],
+    [
+     "Cartera de creditos neta",
+     "2,005",
+     "778"
+    ],
+    [
+     "Cuentas por cobrar",
+     "1,002",
+     "518"
+    ],
+    [
+     "Inmuebles, mobiliario y equipo",
+     "1,002",
+     "1,815"
+    ],
+    [
+     "Otros activos",
+     "12,541",
+     "13,752"
+    ],
+    [
+     "Total activo",
+     "25,073",
+     "25,941"
+    ],
+    [
+     "PASIVO",
+     "",
+     ""
+    ],
+    [
+     "Obligaciones con el publico",
+     "4,160",
+     "4,960"
+    ],
+    [
+     "Adeudos y obligaciones financieras",
+     "6,240",
+     "6,640"
+    ],
+    [
+     "Cuentas por pagar",
+     "4,080",
+     "4,480"
+    ],
+    [
+     "Otros pasivos",
+     "6,720",
+     "6,640"
+    ],
+    [
+     "Total pasivo",
+     "21,200",
+     "22,720"
+    ],
+    [
+     "PATRIMONIO",
+     "",
+     ""
+    ],
+    [
+     "Capital social",
+     "1,440",
+     "880"
+    ],
+    [
+     "Reservas",
+     "320",
+     "400"
+    ],
+    [
+     "Resultados acumulados",
+     "400",
+     "480"
+    ],
+    [
+     "Resultado del ejercicio",
+     "1,713",
+     "1,461"
+    ],
+    [
+     "Total patrimonio",
+     "3,873",
+     "3,221"
+    ],
+    [
+     "Total pasivo y patrimonio",
+     "25,073",
+     "25,941"
+    ]
+   ],
+   "celdas_combinadas": [],
+   "estilo": "sin_bordes"
+  },
+  {
+   "nombre": "estado_ganancias_perdidas",
+   "encabezados": [
+    "Concepto",
+    "2026",
+    "2025"
+   ],
+   "filas": [
+    [
+     "Ingresos por intereses",
+     "8,560",
+     "6,560"
+    ],
+    [
+     "Gastos por intereses",
+     "3,282",
+     "2,305"
+    ],
+    [
+     "Margen financiero bruto",
+     "5,278",
+     "4,255"
+    ],
+    [
+     "Provisiones",
+     "990",
+     "594"
+    ],
+    [
+     "Margen financiero neto",
+     "4,288",
+     "3,661"
+    ],
+    [
+     "Ingresos por servicios",
+     "550",
+     "401"
+    ],
+    [
+     "Gastos de administracion",
+     "2,409",
+     "1,990"
+    ],
+    [
+     "Utilidad operativa",
+     "2,429",
+     "2,072"
+    ],
+    [
+     "Impuesto a la renta",
+     "716",
+     "611"
+    ],
+    [
+     "Utilidad neta",
+     "1,713",
+     "1,461"
+    ]
+   ],
+   "celdas_combinadas": [],
+   "estilo": "sin_bordes"
+  }
+ ],
+ "regiones": [
+  {
+   "tipo": "firma",
+   "pagina": 2,
+   "bbox": [
+    113,
+    979,
+    483,
+    1093
+   ],
+   "unidad": "px",
+   "dpi": 200,
+   "ancho_px": 1654,
+   "alto_px": 2339
+  }
+ ],
+ "texto_completo": "Seguros Tierra Firme DEMO S.A.\nRUC 20998253889\nESTADO DE SITUACION FINANCIERA (BALANCE GENERAL)\nAl 31 de diciembre de 2026 (en soles)\nConcepto\n2026\n2025\nACTIVO\nDisponible\n4,763\n7,263\nInversiones\n3,760\n1,815\nCartera de creditos neta\n2,005\n778\nCuentas por cobrar\n1,002\n518\nInmuebles, mobiliario y equipo\n1,002\n1,815\nOtros activos\n12,541\n13,752\nTotal activo\n25,073\n25,941\nPASIVO\nObligaciones con el publico\n4,160\n4,960\nAdeudos y obligaciones financieras\n6,240\n6,640\nCuentas por pagar\n4,080\n4,480\nOtros pasivos\n6,720\n6,640\nTotal pasivo\n21,200\n22,720\nPATRIMONIO\nCapital social\n1,440\n880\nReservas\n320\n400\nResultados acumulados\n400\n480\nResultado del ejercicio\n1,713\n1,461\nTotal patrimonio\n3,873\n3,221\nTotal pasivo y patrimonio\n25,073\n25,941\nSeguros Tierra Firme DEMO S.A.\nRUC 20998253889\nESTADO DE GANANCIAS Y PERDIDAS\nAl 31 de diciembre de 2026 (en soles)\nConcepto\n2026\n2025\nIngresos por intereses\n8,560\n6,560\nGastos por intereses\n3,282\n2,305\nMargen financiero bruto\n5,278\n4,255\nProvisiones\n990\n594\nMargen financiero neto\n4,288\n3,661\nIngresos por servicios\n550\n401\nGastos de administracion\n2,409\n1,990\nUtilidad operativa\n2,429\n2,072\nImpuesto a la renta\n716\n611\nUtilidad neta\n1,713\n1,461\nRepresentante legal: Victor Montoya Torres",
+ "degradacion": {
+  "rotacion": 3.75,
+  "ruido": "sal_pimienta",
+  "ruido_sigma": 9.6,
+  "desenfoque_sigma": 1.0,
+  "sombra": "der",
+  "perspectiva": false,
+  "jpeg_calidad": 80,
+  "dpi": 200,
+  "paginas": 2
+ },
+ "sistema_coordenadas": "origen arriba-izquierda; unidad por region (pt en nativos, px en escaneados)",
+ "variante": "estandar"
+}

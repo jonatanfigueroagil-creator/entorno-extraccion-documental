@@ -1,0 +1,40 @@
+{
+ "id": "REC-0031",
+ "modelo": "Davlan/xlm-roberta-base-ner-hrl",
+ "revision": null,
+ "version_transformers": "5.22.1",
+ "version_torch": "2.15.0+cu132",
+ "dispositivo": "cuda (NVIDIA GeForce RTX 5070)",
+ "agregacion": "simple",
+ "texto": "remitente + cuerpo del correo + texto del OCR del adjunto (ocr_s04)",
+ "entidades": [
+  {
+   "texto": "Oscar Zevallos Mamani",
+   "etiqueta": "PER",
+   "score": 0.9998,
+   "inicio": 44,
+   "fin": 65
+  },
+  {
+   "texto": "Caja Rural Valle Verde DEMO S.A.",
+   "etiqueta": "ORG",
+   "score": 0.9926,
+   "inicio": 84,
+   "fin": 116
+  },
+  {
+   "texto": "Caja Rural Valle Verde DEMO S.A.",
+   "etiqueta": "ORG",
+   "score": 0.9701,
+   "inicio": 295,
+   "fin": 327
+  },
+  {
+   "texto": "Oscar Zevallos Mamani",
+   "etiqueta": "PER",
+   "score": 0.9997,
+   "inicio": 374,
+   "fin": 395
+  }
+ ]
+}
