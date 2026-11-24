@@ -4,11 +4,16 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pipeline_sbs"
-version = "0.1.0"
+version = "0.2.0"
 description = "Pipeline de extracción documental del curso (proyecto integrador incremental)."
 requires-python = ">=3.11"
 dependencies = [
     "pypdf>=6.0",
+    "pdfplumber>=0.11",
+    "pymupdf>=1.28,<2",          # fijada por debajo de 2.0 (dependencias nuevas sin verificar)
+    "python-docx>=1.1",
+    "beautifulsoup4>=4.12",
+    "pandas>=2.2",
     "pytesseract>=0.3.13",
     "Pillow>=10.1",
     "PyYAML>=6.0",
@@ -25,3 +30,6 @@ pipeline_sbs = ["config/*.yaml"]
 
 [tool.pytest.ini_options]
 testpaths = ["pipeline_sbs/tests"]
+
+# Las pruebas que usan los documentos de práctica leen la carpeta indicada en la variable de entorno SBS_DATOS_PRACTICA
+# (o la carpeta 02_Datos_Practica más cercana). Sin ella esas pruebas se omiten: 99 passed, 4 skipped.
