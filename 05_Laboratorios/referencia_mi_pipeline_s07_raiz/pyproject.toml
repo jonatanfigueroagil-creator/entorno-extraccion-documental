@@ -1,0 +1,40 @@
+# Paquete instalable de mi_pipeline (S07): con este archivo, «pip wheel» arma una rueda que se instala en otra máquina.
+[build-system]
+requires = ["setuptools>=70.1"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mi_pipeline"
+version = "0.7.0"
+description = "Pipeline de extracción documental del participante (curso de extracción documental)."
+requires-python = ">=3.11"
+dependencies = [                        # las mismas versiones de 02_requirements.txt, probadas en la VM del curso
+    "pipeline_sbs>=0.6",                # control de ingesta de la sesión 2 (carpeta 04_pipeline_sbs)
+    "pypdf==6.19.0",                    # y las del paquete del curso, fijadas también: así pip no trae otra versión
+    "pdfplumber==0.11.10",
+    "beautifulsoup4==4.15.0",
+    "lxml==6.1.3",
+    "PyYAML==6.0.2",
+    "pydantic==2.14.1",
+    "duckdb==1.5.6",
+    "pandas==3.0.6",
+    "numpy==2.3.5",
+    "pymupdf==1.28.2",
+    "python-docx==1.2.0",
+    "opencv-python-headless==4.10.0.84",
+    "pytesseract==0.3.13",
+    "pillow==12.3.0",
+    "rapidfuzz==3.14.6",
+    "spacy==3.8.18",
+    "scikit-learn==1.9.1",
+]
+
+[tool.setuptools.packages.find]
+include = ["mi_pipeline*"]
+exclude = ["mi_pipeline.tests*", "mi_pipeline._respaldo*"]   # las pruebas y los respaldos no viajan en la rueda
+
+[tool.setuptools.package-data]
+mi_pipeline = ["config/*.yaml", "config/*.json"]
+
+[tool.pytest.ini_options]
+markers = ["regresion: compara la salida de hoy con la salida aprobada del golden set"]
