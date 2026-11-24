@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pipeline_sbs"
-version = "0.5.0"
+version = "0.7.0"
 description = "Pipeline de extracción documental del curso (proyecto integrador incremental)."
 requires-python = ">=3.11"
 dependencies = [
@@ -23,6 +23,7 @@ dependencies = [
     "spacy>=3.8",                          # S04: texto, EntityRuler y NER (modelo es_core_news_md aparte)
     "scikit-learn>=1.5",                   # S04: TF-IDF y regresión logística
     "pydantic>=2.9",                       # S05: esquemas de salida del LLM
+    "duckdb>=1.5",                         # S06 y S07: registro de procesados, almacenamiento y tablero (faltaba declararla)
 ]
 
 [project.optional-dependencies]
@@ -32,13 +33,20 @@ llm = ["ollama>=0.6.3"]                                    # S05: cliente de Oll
 
 [tool.setuptools.packages.find]
 include = ["pipeline_sbs*"]
+exclude = ["pipeline_sbs.tests*"]   # S07: las pruebas no viajan en la rueda
 
 [tool.setuptools.package-data]
-pipeline_sbs = ["config/*.yaml", "config/*.json"]   # S05: config/ejemplos_prompt.json (ejemplos resueltos del prompt)
+pipeline_sbs = ["config/*.yaml", "config/*.json", "pf/integracion/*.yaml"]   # S05: config/ejemplos_prompt.json (ejemplos resueltos del prompt)
 
 [tool.pytest.ini_options]
 testpaths = ["pipeline_sbs/tests"]
+markers = ["regresion: compara la salida de hoy con la salida aprobada del golden set (S07)"]
 
 # Las pruebas que usan los documentos de práctica leen la carpeta indicada en la variable de entorno SBS_DATOS_PRACTICA
 # (o la carpeta 02_Datos_Practica más cercana). Sin ella esas pruebas se omiten. Medido el 08/11/2026 (S05): 283 passed con los datos
 # de práctica, Tesseract y Ollama (qwen3.5:4b); 274 passed y 9 skipped sin los datos. Sin Ollama se omiten además las 2 que llaman al modelo.
+# Medido el 13/11/2026 (S06, sin Ollama ni modelos de lenguaje): las 28 pruebas de S06 (config, etapas, registro del lote, trabajo, lote,
+# almacenamiento, reporte y línea de comandos) usan documentos digitales creados al vuelo: no necesitan Tesseract, datos de práctica ni Ollama.
+# Medido el 19/11/2026 (S07, sin Ollama ni Docker): las pruebas de S07 (registro enmascarado, tablero, regresión con golden set,
+# secretos, arranque, rueda y fallos silenciosos) no necesitan Ollama ni Docker; la regresión necesita los datos de práctica
+# (SBS_DATOS_PRACTICA) y se omite sin ellos; la de la rueda necesita setuptools en el entorno.

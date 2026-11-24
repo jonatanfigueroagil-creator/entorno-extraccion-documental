@@ -1,0 +1,19 @@
+{
+ "archivo": "POL-0005.pdf",
+ "tipo": "poliza",
+ "campos": {
+  "numero_poliza": null,
+  "aseguradora": "Aseguradora Seguros Tierra Firme DEMO S.A.",
+  "ruc": "20998253889",
+  "asegurado": "Mario Lazo Nunez",
+  "dni": "99921449",
+  "ramo": "Vida",
+  "suma_asegurada": 71000.0,
+  "prima_anual": 466.56,
+  "moneda": "PEN",
+  "vigencia_desde": "2026-03-03",
+  "vigencia_hasta": "2027-03-03",
+  "beneficiario": "Miguel Caceres Fuentes",
+  "deducible_pct": 10.0
+ }
+}

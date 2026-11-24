@@ -1,0 +1,19 @@
+{
+ "archivo": "POL-0008.pdf",
+ "tipo": "poliza",
+ "campos": {
+  "numero_poliza": "PZ-2026-425729",
+  "aseguradora": "Seguros Vicuna DEMO S.A.",
+  "ruc": "20995524318",
+  "asegurado": "Hugo Zevallos Nunez",
+  "dni": "99728661",
+  "ramo": "Vehicular",
+  "suma_asegurada": 199000.0,
+  "prima_anual": 1275.64,
+  "moneda": "PEN",
+  "vigencia_desde": "2026-02-23",
+  "vigencia_hasta": "2027-02-23",
+  "beneficiario": "Oscar Rios Ponce",
+  "deducible_pct": 5.0
+ }
+}

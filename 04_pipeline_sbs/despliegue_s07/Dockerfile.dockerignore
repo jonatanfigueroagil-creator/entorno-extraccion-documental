@@ -1,0 +1,18 @@
+# Contexto de la imagen: solo lo que el Dockerfile copia. Todo lo demás (Git, datos, salidas, secretos, cuadernos) no entra.
+# Con BuildKit, la copia Dockerfile.dockerignore junto al Dockerfile tiene prioridad; esta se usa si se copia a la raíz del contexto.
+*
+!mi_pipeline/
+!04_pipeline_sbs/
+!05_Laboratorios/s07_contenedor/requirements-contenedor.txt
+**/__pycache__
+**/*.pyc
+**/.pytest_cache
+**/*.egg-info
+**/build
+mi_pipeline/tests/
+mi_pipeline/_respaldo_*/
+04_pipeline_sbs/pipeline_sbs/tests/
+**/.env
+**/*.env
+**/*.log
+**/*.ipynb

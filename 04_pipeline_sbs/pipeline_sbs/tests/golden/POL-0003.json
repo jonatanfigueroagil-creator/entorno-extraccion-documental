@@ -1,0 +1,19 @@
+{
+ "archivo": "POL-0003.pdf",
+ "tipo": "poliza",
+ "campos": {
+  "numero_poliza": null,
+  "aseguradora": "Aseguradora Nueva Aurora DEMO S.A.",
+  "ruc": "20992371634",
+  "asegurado": "Silvia Mamani Vargas",
+  "dni": "99838098",
+  "ramo": "Incendio",
+  "suma_asegurada": 314000.0,
+  "prima_anual": 3054.87,
+  "moneda": "PEN",
+  "vigencia_desde": "2026-01-25",
+  "vigencia_hasta": "2027-01-25",
+  "beneficiario": "Andres Salazar Ibarra",
+  "deducible_pct": 10.0
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "archivo": "POL-0002.pdf",
+ "tipo": "poliza",
+ "campos": {
+  "numero_poliza": null,
+  "aseguradora": "Aseguradora Nueva Aurora DEMO S.A.",
+  "ruc": "20992371634",
+  "asegurado": "Marta Ledesma Ibarra",
+  "dni": "99347663",
+  "ramo": "Vehicular",
+  "suma_asegurada": 236000.0,
+  "prima_anual": 2405.33,
+  "moneda": "PEN",
+  "vigencia_desde": "2026-06-22",
+  "vigencia_hasta": "2027-06-22",
+  "beneficiario": "Ana Vargas Chavez",
+  "deducible_pct": 10.0
+ }
+}

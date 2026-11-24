@@ -1,0 +1,19 @@
+{
+ "archivo": "POL-0007.pdf",
+ "tipo": "poliza",
+ "campos": {
+  "numero_poliza": "PZ-2026-357210",
+  "aseguradora": "Aseguradora Nueva Aurora DEMO S.A.",
+  "ruc": "20992371634",
+  "asegurado": "Ana Rios Ibarra",
+  "dni": "99376142",
+  "ramo": "Salud",
+  "suma_asegurada": 500000.0,
+  "prima_anual": 8208.62,
+  "moneda": "PEN",
+  "vigencia_desde": "2026-06-22",
+  "vigencia_hasta": "2027-06-22",
+  "beneficiario": "Elena Castillo Rios",
+  "deducible_pct": 5.0
+ }
+}

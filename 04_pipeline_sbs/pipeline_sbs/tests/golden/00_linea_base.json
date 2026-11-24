@@ -1,0 +1,18 @@
+{
+ "documentos": [
+  "POL-0001",
+  "POL-0002",
+  "POL-0003",
+  "POL-0004",
+  "POL-0005",
+  "POL-0006",
+  "POL-0007",
+  "POL-0008",
+  "POL-0009",
+  "POL-0010"
+ ],
+ "tipo": "poliza",
+ "exactitud": 0.9385,
+ "version": "s05-3-gaafa92a-dirty",
+ "fecha": "2026-11-19T12:29:52"
+}

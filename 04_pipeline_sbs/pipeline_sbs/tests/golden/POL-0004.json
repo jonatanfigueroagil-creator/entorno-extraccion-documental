@@ -1,0 +1,19 @@
+{
+ "archivo": "POL-0004.pdf",
+ "tipo": "poliza",
+ "campos": {
+  "numero_poliza": "PZ-2026-653049",
+  "aseguradora": "Aseguradora Condor DEMO S.A.",
+  "ruc": "20997155832",
+  "asegurado": "Victor Delgado Sandoval",
+  "dni": "99569777",
+  "ramo": "Hogar",
+  "suma_asegurada": 141000.0,
+  "prima_anual": 1456.23,
+  "moneda": "PEN",
+  "vigencia_desde": "2026-07-02",
+  "vigencia_hasta": "2027-07-02",
+  "beneficiario": "Victor Chavez Ledesma",
+  "deducible_pct": 15.0
+ }
+}

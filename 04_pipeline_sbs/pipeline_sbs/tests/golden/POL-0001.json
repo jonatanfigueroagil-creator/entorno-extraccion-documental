@@ -1,0 +1,19 @@
+{
+ "archivo": "POL-0001.pdf",
+ "tipo": "poliza",
+ "campos": {
+  "numero_poliza": "PZ-2026-189027",
+  "aseguradora": "Seguros Tierra Firme DEMO S.A.",
+  "ruc": "20998253889",
+  "asegurado": "Mario Lazo Zevallos",
+  "dni": "99093523",
+  "ramo": "Incendio",
+  "suma_asegurada": 174000.0,
+  "prima_anual": 3939.18,
+  "moneda": "PEN",
+  "vigencia_desde": "2026-07-06",
+  "vigencia_hasta": "2027-07-06",
+  "beneficiario": "Pedro Ortega Nunez",
+  "deducible_pct": 10.0
+ }
+}

@@ -72,6 +72,55 @@ llm:                     # S05: modelos de lenguaje locales con Ollama
   prompt_nivel: 5        # partes del prompt: 1 Tarea, 2 + Rol, 3 + Contexto, 4 + Formato, 5 + un ejemplo resuelto
   ejemplos: config/ejemplos_prompt.json   # un ejemplo resuelto por tipo (se trae del repositorio; ruta dentro del paquete)
 
+orquestacion:            # S06: cómo se ejecuta un lote
+  modo: procesos         # secuencial (un archivo tras otro) | procesos (varios a la vez)
+  trabajadores: 4        # procesos a la vez; como máximo, los procesadores lógicos de la VM
+  etapas: [control, ingesta, ocr, pln]   # se recorren en este orden; quitar una la salta
+  motor_ocr: tesseract   # motor de la etapa ocr
+  tipo_por_prefijo:      # tipo de documento según el prefijo del nombre del archivo
+    POL: poliza
+    CON: contrato
+    OFI: oficio
+    EFI: estado_financiero
+    REC: reclamo
+    VOU: voucher
+    TAR: tarifario
+    LOT: estado_financiero
+
+reintentos:              # S06: solo ante errores transitorios (archivo bloqueado)
+  intentos: 3            # repeticiones después de la primera llamada
+  espera_s: [1, 2, 4]    # segundos antes de cada repetición
+
+cuarentena:              # S06: lo que no se pudo procesar se aparta con su motivo
+  carpeta: cuarentena
+
+almacenamiento:          # S06: dónde quedan los resultados (rutas relativas a la carpeta de trabajo)
+  duckdb: salidas/resultados.duckdb
+  parquet: salidas/parquet
+  reporte: salidas/reporte.html
+
+monitoreo:               # S07: el libro de actas (registro) y el tablero de alertas
+  registro: registro.jsonl       # un evento JSON por línea, en la carpeta de salida de la corrida
+  umbral_errores: 0.05           # alerta si falla más del 5 % de los documentos
+  revision_linea_base: 0.27      # % de documentos que van a revisión en una corrida normal (15 pólizas: 26,7 %)
+  factor_revision: 2             # alerta si la revisión pasa del doble de la línea base
+  minimo_caracteres_pagina: 200  # un PDF digital con menos caracteres por página va a revisión (puede estar truncado)
+
+sinonimos_rotulos:       # S07 (caso): rótulo de un formato nuevo -> rótulo de siempre; solo llena campos vacíos
+  poliza:
+    "Nro. de poliza -": "Poliza:"
+    "Compania de seguros -": "Aseguradora:"
+    "RUC de la compania -": "RUC"
+    "Titular del seguro -": "Asegurado"
+    "Documento de identidad -": "DNI"
+    "Linea de seguro -": "Ramo"
+    "Capital asegurado -": "Suma asegurada"
+    "Prima total -": "Prima anual"
+    "Inicio de cobertura -": "Vigencia desde"
+    "Fin de cobertura -": "Vigencia hasta"
+    "Beneficiario designado -": "Beneficiario"
+    "Franquicia -": "Deducible"
+
 logging:
   nivel: INFO            # DEBUG | INFO | WARNING | ERROR
   formato: json          # S02: una línea JSON por evento (simple | json)

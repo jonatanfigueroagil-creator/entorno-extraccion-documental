@@ -1,0 +1,19 @@
+{
+ "archivo": "POL-0009.pdf",
+ "tipo": "poliza",
+ "campos": {
+  "numero_poliza": null,
+  "aseguradora": "Aseguradora Aseguradora Condor DEMO S.A.",
+  "ruc": "20997155832",
+  "asegurado": "Miguel Salazar Zevallos",
+  "dni": "99347506",
+  "ramo": "Accidentes personales",
+  "suma_asegurada": 275000.0,
+  "prima_anual": 1668.06,
+  "moneda": "PEN",
+  "vigencia_desde": "2026-06-27",
+  "vigencia_hasta": "2027-06-27",
+  "beneficiario": "Gladys Montoya Ccori",
+  "deducible_pct": 0.0
+ }
+}

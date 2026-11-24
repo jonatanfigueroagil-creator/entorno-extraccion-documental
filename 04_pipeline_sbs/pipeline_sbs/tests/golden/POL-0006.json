@@ -1,0 +1,19 @@
+{
+ "archivo": "POL-0006.pdf",
+ "tipo": "poliza",
+ "campos": {
+  "numero_poliza": null,
+  "aseguradora": "Aseguradora Nueva Aurora DEMO S.A.",
+  "ruc": "20992371634",
+  "asegurado": "Jorge Vargas Cornejo",
+  "dni": "99860664",
+  "ramo": "Incendio",
+  "suma_asegurada": 60000.0,
+  "prima_anual": 1235.38,
+  "moneda": "PEN",
+  "vigencia_desde": "2026-01-15",
+  "vigencia_hasta": "2027-01-15",
+  "beneficiario": "Mario Huaman Medina",
+  "deducible_pct": 10.0
+ }
+}

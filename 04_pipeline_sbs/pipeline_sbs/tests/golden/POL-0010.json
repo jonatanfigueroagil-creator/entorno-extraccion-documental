@@ -1,0 +1,19 @@
+{
+ "archivo": "POL-0010.pdf",
+ "tipo": "poliza",
+ "campos": {
+  "numero_poliza": null,
+  "aseguradora": "Aseguradora Condor DEMO S.A.",
+  "ruc": "20997155832",
+  "asegurado": "Luis Paredes Soto",
+  "dni": "99682148",
+  "ramo": "Incendio",
+  "suma_asegurada": 86000.0,
+  "prima_anual": 796.51,
+  "moneda": "PEN",
+  "vigencia_desde": "2026-04-10",
+  "vigencia_hasta": "2027-04-10",
+  "beneficiario": "Paola Mamani Soto",
+  "deducible_pct": 10.0
+ }
+}
