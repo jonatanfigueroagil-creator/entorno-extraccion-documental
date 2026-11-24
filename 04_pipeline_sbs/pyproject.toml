@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pipeline_sbs"
-version = "0.3.0"
+version = "0.4.0"
 description = "Pipeline de extracción documental del curso (proyecto integrador incremental)."
 requires-python = ">=3.11"
 dependencies = [
@@ -20,10 +20,13 @@ dependencies = [
     "numpy>=2.3",
     "opencv-python-headless==4.10.0.84",   # fijada: minAreaRect cambia de convención en 5.x
     "rapidfuzz>=3.14",
+    "spacy>=3.8",                          # S04: texto, EntityRuler y NER (modelo es_core_news_md aparte)
+    "scikit-learn>=1.5",                   # S04: TF-IDF y regresión logística
 ]
 
 [project.optional-dependencies]
 pruebas = ["pytest>=8.0"]
+transformers = ["transformers>=5.0", "torch>=2.5", "sentencepiece>=0.2", "protobuf>=5"]   # S04: NER y zero-shot
 
 [tool.setuptools.packages.find]
 include = ["pipeline_sbs*"]

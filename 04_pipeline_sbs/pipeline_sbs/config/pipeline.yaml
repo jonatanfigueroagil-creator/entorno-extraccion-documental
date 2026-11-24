@@ -32,6 +32,31 @@ ingesta:
 
 calidad:
   umbral_score: 0.85     # S03: puntaje mínimo para aceptar una lectura sin revisión humana
+  umbral_f1: 0.80        # S04: F1 mínimo por campo (provisional; se fija con las mediciones de la VM)
+
+extraccion:              # S04: texto, reglas, NER y adjuntos de los correos
+  modelo_spacy: es_core_news_md        # modelo de spaCy (respaldo: es_core_news_sm)
+  modelo_spacy_respaldo: es_core_news_sm
+  modelo_ner: Davlan/xlm-roberta-base-ner-hrl   # NER de Transformers (etiquetas PER, ORG, LOC y DATE)
+  dispositivo: auto      # auto | cpu | cuda (auto usa la GPU si existe)
+  receta_adjunto: crudo  # limpieza de la imagen del adjunto (la receta mediana borra el texto pequeño)
+  enderezar_adjunto: false
+  psm_adjunto: 3         # segmentación del OCR del adjunto: 3 = página con varias zonas (psm_pagina de S03)
+  carpeta_lote_real: curso/datos/14_Publico_Real   # lote público real (solo lectura), relativo a la unidad del sistema
+
+clasificacion:           # S04: motivo del reclamo
+  modelo_zero_shot: MoritzLaurer/mDeBERTa-v3-base-mnli-xnli
+  plantilla_hipotesis: "Este reclamo trata de {}."
+  etiquetas_motivo:
+    - cobro indebido
+    - consumo no reconocido
+    - demora en entrega
+    - cargo duplicado
+    - cuenta cerrada
+    - tasa distinta
+  semilla: 2026
+  pliegues: 5
+  umbral_confianza: 0.30 # probabilidad mínima del motivo para no pasar a revisión (validación cruzada: con 0,30 pasan 45 de 60 y los 45 aciertan)
 
 llm:
   backend: ollama_local  # reservado: se usa desde S05 (ollama_local | servidor_compartido | api_nube)
