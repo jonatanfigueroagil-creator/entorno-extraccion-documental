@@ -1,0 +1,77 @@
+# Configuración de mi_pipeline (sin rutas absolutas ni claves secretas)
+ocr:
+  tesseract_cmd: ""      # ruta de tesseract.exe; vacío = variable TESSERACT_CMD, PATH o carpeta estándar
+  lang: spa              # idioma de Tesseract: español
+  oem: 1                 # motor: 1 = red neuronal LSTM
+  psm: 6                 # segmentación: 6 = un bloque uniforme de texto
+  psm_pagina: 3          # segmentación para páginas con varias zonas
+  dpi: 300               # resolución al pasar el PDF a imagen (Tesseract)
+  receta: mediana        # limpieza de la imagen: crudo, gris, otsu, adaptativa o mediana
+  dpi_llm: 200           # S05: resolución de la página que se envía a glm-ocr (a 200 dpi ocupa unos 4.000 tokens)
+calidad:
+  umbral_score: 0.85     # puntaje mínimo para aceptar una lectura sin revisión
+  umbral_f1: 0.80        # F1 mínimo por campo (provisional)
+
+extraccion:              # S04: texto, reglas, NER y adjuntos de los correos
+  modelo_spacy: es_core_news_md        # modelo de spaCy (respaldo: es_core_news_sm)
+  modelo_spacy_respaldo: es_core_news_sm
+  modelo_ner: Davlan/xlm-roberta-base-ner-hrl   # NER de Transformers (etiquetas PER, ORG, LOC y DATE)
+  dispositivo: auto      # auto | cpu | cuda (auto usa la GPU si existe)
+  receta_adjunto: crudo  # limpieza de la imagen del adjunto (la receta mediana borra el texto pequeño)
+  enderezar_adjunto: false
+  psm_adjunto: 3         # segmentación del OCR del adjunto: 3 = página con varias zonas
+  carpeta_lote_real: curso/datos/14_Publico_Real   # lote público real (solo lectura), relativo a la unidad del sistema
+
+clasificacion:           # S04: motivo del reclamo
+  modelo_zero_shot: MoritzLaurer/mDeBERTa-v3-base-mnli-xnli
+  plantilla_hipotesis: "Este reclamo trata de {}."
+  etiquetas_motivo:
+    - cobro indebido
+    - consumo no reconocido
+    - demora en entrega
+    - cargo duplicado
+    - cuenta cerrada
+    - tasa distinta
+  semilla: 2026
+  pliegues: 5
+  umbral_confianza: 0.30 # probabilidad mínima del motivo para no pasar a revisión
+
+llm:                     # S05: modelos de lenguaje locales con Ollama
+  backend: ollama_local  # ollama_local (esta VM) | servidor_compartido (el de OLLAMA_HOST)
+  modelo: qwen3.5:4b     # modelo principal de extracción
+  modelo_grande: qwen3.5:9b   # modelo para comparar
+  modelo_ocr: glm-ocr    # OCR local con un modelo de visión
+  num_ctx: 12288         # contexto de cada llamada: el contrato más largo cabe entero (con 4096, el de serie, se corta sin aviso)
+  num_ctx_ocr: 8192      # contexto del OCR: la imagen de una página a 200 dpi ocupa unos 4.000 tokens
+  num_predict: 1000      # tope de tokens de salida (sin tope, una llamada generó 63.000)
+  temperatura: 0         # reduce la variación entre corridas; no garantiza la misma salida
+  semilla: 2026
+  prompt_nivel: 5        # partes del prompt: 1 Tarea, 2 + Rol, 3 + Contexto, 4 + Formato, 5 + un ejemplo resuelto
+  ejemplos: config/ejemplos_prompt.json   # un ejemplo resuelto por tipo (se trae del repositorio en el paso 8 de la guía)
+
+orquestacion:            # S06: cómo se ejecuta un lote
+  modo: procesos         # secuencial (un archivo tras otro) | procesos (varios a la vez)
+  trabajadores: 4        # procesos a la vez; como máximo, los procesadores lógicos de la VM
+  etapas: [control, ingesta, ocr, pln]   # se recorren en este orden; quitar una la salta
+  motor_ocr: tesseract   # motor de la etapa ocr
+  tipo_por_prefijo:      # tipo de documento según el prefijo del nombre del archivo
+    POL: poliza
+    CON: contrato
+    OFI: oficio
+    EFI: estado_financiero
+    REC: reclamo
+    VOU: voucher
+    TAR: tarifario
+    LOT: estado_financiero
+
+reintentos:              # S06: solo ante errores transitorios (archivo bloqueado)
+  intentos: 3            # repeticiones después de la primera llamada
+  espera_s: [1, 2, 4]    # segundos antes de cada repetición
+
+cuarentena:              # S06: lo que no se pudo procesar se aparta con su motivo
+  carpeta: cuarentena
+
+almacenamiento:          # S06: dónde quedan los resultados (rutas relativas a la carpeta de trabajo)
+  duckdb: salidas/resultados.duckdb
+  parquet: salidas/parquet
+  reporte: salidas/reporte.html

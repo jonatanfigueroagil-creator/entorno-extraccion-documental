@@ -1,4 +1,4 @@
-"""Ingesta: inventario (S01) y carga de lotes con errores tipificados, cuarentena y estadísticas (S02)."""
+"""Ingesta: inventario (S01), carga de lotes con errores tipificados, cuarentena y estadísticas (S02) y un lector por formato con OCR local (S05)."""
 from pipeline_sbs.ingesta.cargador import (
     CargadorDocumentos,
     ResultadoCarga,

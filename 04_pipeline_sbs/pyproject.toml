@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pipeline_sbs"
-version = "0.4.0"
+version = "0.5.0"
 description = "Pipeline de extracción documental del curso (proyecto integrador incremental)."
 requires-python = ">=3.11"
 dependencies = [
@@ -22,20 +22,23 @@ dependencies = [
     "rapidfuzz>=3.14",
     "spacy>=3.8",                          # S04: texto, EntityRuler y NER (modelo es_core_news_md aparte)
     "scikit-learn>=1.5",                   # S04: TF-IDF y regresión logística
+    "pydantic>=2.9",                       # S05: esquemas de salida del LLM
 ]
 
 [project.optional-dependencies]
 pruebas = ["pytest>=8.0"]
 transformers = ["transformers>=5.0", "torch>=2.5", "sentencepiece>=0.2", "protobuf>=5"]   # S04: NER y zero-shot
+llm = ["ollama>=0.6.3"]                                    # S05: cliente de Ollama (sin él, las pruebas que llaman al modelo se omiten)
 
 [tool.setuptools.packages.find]
 include = ["pipeline_sbs*"]
 
 [tool.setuptools.package-data]
-pipeline_sbs = ["config/*.yaml"]
+pipeline_sbs = ["config/*.yaml", "config/*.json"]   # S05: config/ejemplos_prompt.json (ejemplos resueltos del prompt)
 
 [tool.pytest.ini_options]
 testpaths = ["pipeline_sbs/tests"]
 
 # Las pruebas que usan los documentos de práctica leen la carpeta indicada en la variable de entorno SBS_DATOS_PRACTICA
-# (o la carpeta 02_Datos_Practica más cercana). Sin ella esas pruebas se omiten: 164 passed, 4 skipped con Tesseract (variable TESSERACT_CMD si no está en el PATH); 162 passed, 6 skipped sin él.
+# (o la carpeta 02_Datos_Practica más cercana). Sin ella esas pruebas se omiten. Medido el 08/11/2026 (S05): 283 passed con los datos
+# de práctica, Tesseract y Ollama (qwen3.5:4b); 274 passed y 9 skipped sin los datos. Sin Ollama se omiten además las 2 que llaman al modelo.

@@ -10,6 +10,7 @@ ocr:
   psm_pagina: 3          # S03: modo para páginas con varias columnas o zonas (se compara con psm en el LAB)
   dpi: 300               # S03: resolución al pasar el PDF a imagen
   receta: mediana         # S03: receta de limpieza de la imagen (crudo | gris | otsu | adaptativa | mediana)
+  dpi_llm: 200           # S05: resolución de la página que se envía a glm-ocr (a 200 dpi ocupa unos 4.000 tokens)
   paddle:                # PaddleOCR 3.x en CPU (S02 lo prueba con una imagen; S03 lo amplía)
     idioma: es
     modelo_deteccion: PP-OCRv5_mobile_det          # modelos ligeros: ~1 s por imagen frente a ~14 s con los de serie
@@ -58,8 +59,18 @@ clasificacion:           # S04: motivo del reclamo
   pliegues: 5
   umbral_confianza: 0.30 # probabilidad mínima del motivo para no pasar a revisión (validación cruzada: con 0,30 pasan 45 de 60 y los 45 aciertan)
 
-llm:
-  backend: ollama_local  # reservado: se usa desde S05 (ollama_local | servidor_compartido | api_nube)
+llm:                     # S05: modelos de lenguaje locales con Ollama
+  backend: ollama_local  # ollama_local (la VM) | servidor_compartido (OLLAMA_HOST) | api_nube (no se usa: ningún documento sale)
+  modelo: qwen3.5:4b     # modelo principal de extracción
+  modelo_grande: qwen3.5:9b   # modelo para comparar
+  modelo_ocr: glm-ocr    # OCR local con un modelo de visión
+  num_ctx: 12288         # contexto de cada llamada: el contrato más largo cabe entero (con 4096, el de serie, se corta sin aviso)
+  num_ctx_ocr: 8192      # contexto del OCR: la imagen de una página a 200 dpi ocupa unos 4.000 tokens
+  num_predict: 1000      # tope de tokens de salida (sin tope, una llamada generó 63.000)
+  temperatura: 0         # reduce la variación entre corridas; no garantiza la misma salida
+  semilla: 2026
+  prompt_nivel: 5        # partes del prompt: 1 Tarea, 2 + Rol, 3 + Contexto, 4 + Formato, 5 + un ejemplo resuelto
+  ejemplos: config/ejemplos_prompt.json   # un ejemplo resuelto por tipo (se trae del repositorio; ruta dentro del paquete)
 
 logging:
   nivel: INFO            # DEBUG | INFO | WARNING | ERROR
